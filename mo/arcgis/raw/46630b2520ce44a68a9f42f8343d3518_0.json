@@ -18483,36 +18483,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "53fee1f9-1bbe-46d1-897d-82b97a8f6ad4",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA La Porte Rural King VAX",
-                "OBJECTID": 779,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1340 W State Road 2, La Porte , IN 46350",
-                "Site_County": "LaPorte",
-                "Site_Location_Info": "04/13-04/17; 9 am - 6 pm",
-                "Site_Name": "FEMA La Porte Rural King VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.73872331200124,
-                "y": 41.59945763665576
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "46402a7f-04b1-46af-970e-a49f94baa283",
                 "ID": null,
                 "IsView": 1,
@@ -18748,36 +18718,6 @@
                 },
                 "x": -86.37879875884227,
                 "y": 39.61873562890398
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "a69883f6-e5b1-417d-8a4a-69e2920b809c",
-                "ID": null,
-                "IsView": 1,
-                "Name": "ELKHART CO MEMORIAL HS MASS VAX",
-                "OBJECTID": 788,
-                "Promote_Name": "ELKHART CO MEMORIAL HS MASS VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46514</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "2608 California Rd, Elkhart, IN 46514",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": "This is a one-day site being held on April 17.",
-                "Site_Name": "ELKHART CO MEMORIAL HS MASS VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.01419348869086,
-                "y": 41.69650104814343
             }
         },
         {
