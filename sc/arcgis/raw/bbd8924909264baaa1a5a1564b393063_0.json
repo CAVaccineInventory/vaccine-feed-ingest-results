@@ -696,8 +696,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "pcem@co.pickens.sc.us",
                 "GlobalID": "45ba6bf1-1617-4616-ba04-8e781db5b5fe",
                 "Loc_ID": 1018,
                 "OBJECTID": 22,
@@ -706,10 +706,10 @@
                 "SiteAddress": "216 C David Stone Road",
                 "SiteAddressDetail": null,
                 "SiteCity": "Pickens",
-                "SitePhone": "",
+                "SitePhone": "(864) 898-5339",
                 "SiteState": "SC",
                 "SiteZip": "29671",
-                "URL": null,
+                "URL": "https://protect2.fireeye.com/v1/url?k=d1be0206-8e253b31-d1bed7f7-86ab8bdaf1e2-6d0abb8f76fde718&q=1&e=06d421b2-16c4-47e2-895f-cbc20e159c3a&u=https%3A%2F%2Fcms5.revize.com%2Frevize%2Fpickenscountysc%2Fdepartments%2Femergency_services%2Fcovid-19_vaccination_clinic.php",
                 "V_Manufacturer": null,
                 "loc_name": "Pickens County Emergency Services",
                 "loc_type1": "Public Safety - EMS / Fire / Law Enforcement",
@@ -8022,7 +8022,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "feb20467-aa5f-4375-9440-0bc4d55bfa92",
                 "Loc_ID": 903,
@@ -8035,8 +8035,8 @@
                 "SitePhone": "",
                 "SiteState": "SC",
                 "SiteZip": "29302",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "http://www.slfmc.org/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "St. Luke's Free Medical Clinic",
                 "loc_type1": "Health center – community (non-Federally Qualified Health Center/non-Rural Health Clinic)",
                 "ref_ID": 1197,
@@ -12378,7 +12378,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6179d104-4563-4dad-b6ed-801dc27d414d",
                 "Loc_ID": 666,
@@ -12388,11 +12388,11 @@
                 "SiteAddress": "379 Old Greenville Hwy",
                 "SiteAddressDetail": "Ste 105",
                 "SiteCity": "Clemson",
-                "SitePhone": "",
+                "SitePhone": "(864) 900-0673",
                 "SiteState": "SC",
                 "SiteZip": "29631",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "http://www.clemsoncommunityvaccination.as.me/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Swann Medicine",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 1330,
@@ -26667,7 +26667,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "00ba139b-b86d-44d8-ac4b-2d4ab08ab113",
                 "Loc_ID": 748,
@@ -26677,11 +26677,11 @@
                 "SiteAddress": "379 Old Greenville Highway",
                 "SiteAddressDetail": "Suite 103",
                 "SiteCity": "Clemson",
-                "SitePhone": "",
+                "SitePhone": "864-900-0673",
                 "SiteState": "SC",
                 "SiteZip": "29631",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "clemsoncommunityvaccination.as.me",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Tolbert Medicine",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 1767,
@@ -31782,7 +31782,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d5c1d02f-9013-4742-a018-c46c31b46039",
                 "Loc_ID": null,
@@ -35841,7 +35841,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3a6388fb-d5de-40a8-bcf9-818e9a6805c9",
                 "Loc_ID": 1313,
@@ -35851,11 +35851,11 @@
                 "SiteAddress": "11382N. Jacob Smart Blvd.",
                 "SiteAddressDetail": "",
                 "SiteCity": "Ridgeland",
-                "SitePhone": null,
+                "SitePhone": "843-645-9797 Ext 3",
                 "SiteState": "SC",
                 "SiteZip": "29936",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "http://www.jamisonconsultants.com/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Jamison Consultants & Pediatric Express Care",
                 "loc_type1": "Medical practice – pediatrics",
                 "ref_ID": 2061,
@@ -40923,8 +40923,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "gmafrontdesk@gmail.com",
                 "GlobalID": "4cec1a00-f30b-446e-a918-cbaba7a1e0c1",
                 "Loc_ID": 1389,
                 "OBJECTID": 1259,
@@ -40933,11 +40933,11 @@
                 "SiteAddress": "545 W BUTLER ROAD",
                 "SiteAddressDetail": "",
                 "SiteCity": "GREENVILLE",
-                "SitePhone": null,
+                "SitePhone": "(864) 299-1990",
                 "SiteState": "SC",
                 "SiteZip": "29607",
                 "URL": "https://protect2.fireeye.com/v1/url?k=3610337d-698b0a75-3610e68c-86e696e30194-3db032565919ac3e&q=1&e=b9764b5b-a00f-4a7d-9040-db6e43eb5b38&u=http%3A%2F%2Fgreenvillemedicalsc.com%2F",
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "loc_name": "GREENVILLE MEDICAL ASSOCIATES, PA",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 2215,
@@ -59964,7 +59964,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6f6b60b1-6471-42da-9dbe-410b2f2e695b",
                 "Loc_ID": null,
@@ -61251,7 +61251,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "99618b45-760f-4d86-9a23-05c160c946fb",
                 "Loc_ID": 1565,
@@ -61261,11 +61261,11 @@
                 "SiteAddress": "4100 N MAIN ST",
                 "SiteAddressDetail": "STE 102",
                 "SiteCity": "COLUMBIA",
-                "SitePhone": null,
+                "SitePhone": "803-223-9895",
                 "SiteState": "SC",
                 "SiteZip": "29203",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "loc_name": "AIDS HEALTHCARE FOUNDATION COLUMBIA HCC",
                 "loc_type1": "Health center – STD/HIV clinic",
                 "ref_ID": null,
@@ -61362,7 +61362,7 @@
                 "SiteCity": "Georgetown",
                 "SitePhone": null,
                 "SiteState": "SC",
-                "SiteZip": "39440",
+                "SiteZip": "29440",
                 "URL": "https://www.tidelandshealth.org/vaccine/",
                 "V_Manufacturer": "PFR",
                 "loc_name": "Tidelands Health @ Georgetown County Regional Vaccination Site",
@@ -65145,7 +65145,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "51a2c3cf-f9bb-4bbc-9250-0c71d461d41e",
                 "Loc_ID": 1594,
@@ -65155,11 +65155,11 @@
                 "SiteAddress": "3405 white horse rd suite f",
                 "SiteAddressDetail": " ",
                 "SiteCity": "greenville",
-                "SitePhone": null,
+                "SitePhone": "864-670-0300 ",
                 "SiteState": "SC",
                 "SiteZip": "29611",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "loc_name": "welcome pharmacy",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": null,
@@ -67417,6 +67417,105 @@
                 },
                 "x": -81.68648726075241,
                 "y": 34.72843342020093
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "b131e972-6ab8-4bbf-8b5f-595852471be1",
+                "Loc_ID": null,
+                "OBJECTID": 22645,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "5794 Casper Padgett Way",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "Fetter Health Care Network @ North Charleston Athletic Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.02082468906201,
+                "y": 32.897134004553095
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0a7b31a2-4b10-4f21-9187-b5c959c70d93",
+                "Loc_ID": null,
+                "OBJECTID": 22646,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "265 Fishburne Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29403",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "Fetter Health Care Network @ Arthur Christopher Community Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.95426298496625,
+                "y": 32.79209806792261
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "93126acf-cac4-4bc6-8edd-c20f7710453a",
+                "Loc_ID": null,
+                "OBJECTID": 22647,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2801 Ashley Phosphate Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29418",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "Fetter Health Care Network @ New Covenant Church of God",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.05456382306676,
+                "y": 32.9324855249493
             }
         }
     ],

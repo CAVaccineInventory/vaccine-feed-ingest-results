@@ -18426,14 +18426,14 @@
                 "GlobalID": "a401a587-57f3-4364-b667-34905daacb18",
                 "ID": null,
                 "IsView": 1,
-                "Name": "Clark Co HD Mass VAX",
+                "Name": "Clark Co St. Stephen VAX",
                 "OBJECTID": 777,
                 "Promote_Name": null,
                 "Promote_Site": null,
                 "Site_Address": "2701 Veterans Pkwy, Jeffersonville, IN 47130",
                 "Site_County": "Clark",
-                "Site_Location_Info": null,
-                "Site_Name": "Clark Co HD Mass VAX",
+                "Site_Location_Info": "St. Stephen Baptist Church",
+                "Site_Name": "Clark Co St. Stephen VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Mass",
@@ -18448,36 +18448,6 @@
                 },
                 "x": -85.7298066498529,
                 "y": 38.33393663963358
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "2238817c-e668-470a-b8c2-24d54f4bf73f",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA- Civil Rights Heritage Center",
-                "OBJECTID": 778,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1040 W Washington St, South Bend, IN 46601",
-                "Site_County": "St. Joseph",
-                "Site_Location_Info": null,
-                "Site_Name": "FEMA- Civil Rights Heritage Center VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.26579826206006,
-                "y": 41.67597393535236
             }
         },
         {
@@ -20973,6 +20943,36 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "c589b5b3-e1fb-4133-954e-e19decd59959",
+                "ID": null,
+                "IsView": 1,
+                "Name": "FEMA Second Missionary Baptist VAX",
+                "OBJECTID": 866,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "819 N Apperson Way, Kokomo, IN 46901",
+                "Site_County": "Howard",
+                "Site_Location_Info": "Mobile site 5/20 – 5/22; 9 am – 6 pm",
+                "Site_Name": "FEMA Second Missionary Baptist VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "FEMA",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12708041690428,
+                "y": 40.49338255105552
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "2f4bb8fe-32d0-40bc-b52d-a3df8efa46f0",
                 "ID": null,
                 "IsView": 1,
@@ -20998,6 +20998,126 @@
                 },
                 "x": -85.79340765561825,
                 "y": 39.51114308112057
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "f6b29ff4-7790-4ab2-b02f-61ef681b8a75",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Reid Health UC Connersville VAX",
+                "OBJECTID": 868,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1475 E State Road 44, Connersville, IN 47331",
+                "Site_County": "Fayette",
+                "Site_Location_Info": null,
+                "Site_Name": "Reid Health UC Connersville VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.11098704312444,
+                "y": 39.63843260179912
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a0d49309-d826-4900-a850-550050667a73",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Reid Health UC Richmond VAX",
+                "OBJECTID": 869,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1501 Chester Blvd, Richmond, IN 47374",
+                "Site_County": "Wayne",
+                "Site_Location_Info": null,
+                "Site_Name": "Reid Health UC Richmond VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.8884250283326,
+                "y": 39.848574351836746
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8510581a-34a2-4572-a099-7a8d1bf520fe",
+                "ID": null,
+                "IsView": 1,
+                "Name": "White Horse Christian Ctr VAX",
+                "OBJECTID": 870,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1780 Cumberland Ave, West Lafayette, IN 47906",
+                "Site_County": "Tippecanoe",
+                "Site_Location_Info": null,
+                "Site_Name": "White Horse Christian Ctr VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.93836902144429,
+                "y": 40.46007759527537
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d4ada1a4-2a92-411d-9cb6-0985b3e3acd9",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Henry Co Knightstown HS Mass VAX",
+                "OBJECTID": 871,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "8139 US-40 Scenic, Knightstown, IN 46168",
+                "Site_County": "Henry",
+                "Site_Location_Info": "CA Beard HS Gym. Enter through door number 14.",
+                "Site_Name": "Henry Co Knightstown HS Mass VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.54217453885533,
+                "y": 39.79261111853211
             }
         }
     ],
