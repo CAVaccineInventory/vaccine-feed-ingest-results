@@ -2808,7 +2808,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "60e809ac-40bf-4949-9ff3-86a7bc4c1104",
                 "Loc_ID": 1156,
@@ -2821,8 +2821,8 @@
                 "SitePhone": "",
                 "SiteState": "SC",
                 "SiteZip": "29464",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://www.signupgenius.com/go/60B0D45ABA72BA7FA7-sign",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Shifa Free Clinic",
                 "loc_type1": "Health center – community (non-Federally Qualified Health Center/non-Rural Health Clinic)",
                 "ref_ID": 1039,
@@ -4255,39 +4255,6 @@
                 },
                 "x": -78.89266695002397,
                 "y": 34.057083212111536
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "37451720-580d-415f-b38c-5b1f4a469243",
-                "Loc_ID": 696,
-                "OBJECTID": 130,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "171 Ashley Ave",
-                "SiteAddressDetail": null,
-                "SiteCity": "Charleston",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29425",
-                "URL": "muschealth.org/vaccine",
-                "V_Manufacturer": null,
-                "loc_name": "MUSC Health",
-                "loc_type1": "Hospital",
-                "ref_ID": 1083,
-                "vfc_text": "SCA910040",
-                "vtrcks_ID": 40220095
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.94642105421622,
-                "y": 32.78437018903861
             }
         },
         {
@@ -21948,39 +21915,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "ba5b0cf2-cc08-4c58-81f4-5d340ba069e4",
-                "Loc_ID": 90,
-                "OBJECTID": 667,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "171 Ashley Avenue",
-                "SiteAddressDetail": "Main Hospital Room 161",
-                "SiteCity": "Charleston",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29425",
-                "URL": "https://muschealth.org/vaccine-1a",
-                "V_Manufacturer": "PFR",
-                "loc_name": "Medical University of South Carolina",
-                "loc_type1": "Hospital",
-                "ref_ID": 1621,
-                "vfc_text": "SCA910001",
-                "vtrcks_ID": 40175221
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.9465888909524,
-                "y": 32.78536013071107
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "fa1a7fe8-c9e8-4005-9743-88fa0a61b3db",
@@ -22448,16 +22382,16 @@
                 "GlobalID": "3ba486d9-9c1d-424a-a47b-3c3672a67c17",
                 "Loc_ID": 691,
                 "OBJECTID": 682,
-                "Phone_Sec": null,
+                "Phone_Sec": "9am – 2pm Thurs",
                 "Region": "Pee Dee",
                 "SiteAddress": "2829 E. Highway 76",
                 "SiteAddressDetail": null,
                 "SiteCity": "Mullins",
-                "SitePhone": "",
+                "SitePhone": "843-876-7227",
                 "SiteState": "SC",
                 "SiteZip": "29574",
-                "URL": "muschealth.org/vaccine",
-                "V_Manufacturer": "MOD",
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
                 "loc_name": "MUSC Health Marion Medical Center",
                 "loc_type1": "Hospital",
                 "ref_ID": 1636,
@@ -22481,15 +22415,15 @@
                 "GlobalID": "edc59b7d-76e5-4d13-bd09-5278f82b7b55",
                 "Loc_ID": 675,
                 "OBJECTID": 683,
-                "Phone_Sec": null,
+                "Phone_Sec": "9am – 2pm Mon-Fri",
                 "Region": "Midlands",
                 "SiteAddress": "800 West Meeting St",
                 "SiteAddressDetail": null,
                 "SiteCity": "Lancaster",
-                "SitePhone": "",
+                "SitePhone": "843-876-7227",
                 "SiteState": "SC",
                 "SiteZip": "29720",
-                "URL": "muschealth.org/vaccine",
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
                 "V_Manufacturer": "PFR",
                 "loc_name": "MUSC Health- Lancaster Hospital",
                 "loc_type1": "Hospital",
@@ -22514,16 +22448,16 @@
                 "GlobalID": "f6601620-96ea-439c-af00-dd3862266cff",
                 "Loc_ID": 676,
                 "OBJECTID": 684,
-                "Phone_Sec": null,
+                "Phone_Sec": "9am – 2pm Mon-Tues",
                 "Region": "Midlands",
                 "SiteAddress": "1 Medical Park Drive",
                 "SiteAddressDetail": null,
                 "SiteCity": "Chester",
-                "SitePhone": "",
+                "SitePhone": "843-876-7227",
                 "SiteState": "SC",
                 "SiteZip": "29706",
-                "URL": "muschealth.org/vaccine",
-                "V_Manufacturer": null,
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
                 "loc_name": "MUSC Health- Chester Hospital",
                 "loc_type1": "Hospital",
                 "ref_ID": 1638,
@@ -25314,7 +25248,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "59425547-bdec-48bc-abcb-e2172303e7a5",
                 "Loc_ID": 566,
@@ -25324,11 +25258,11 @@
                 "SiteAddress": "1341 College Park Rd",
                 "SiteAddressDetail": "STE A",
                 "SiteCity": "Summerville",
-                "SitePhone": "",
+                "SitePhone": "843-400-0028",
                 "SiteState": "SC",
                 "SiteZip": "29486",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "http://www.seasidefamilymedicine.com/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "SEASIDE FAMILY MEDICINE",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 1726,
@@ -32442,21 +32376,21 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "760e8682-4760-48c1-85f0-d2227937359d",
                 "Loc_ID": 702,
                 "OBJECTID": 1002,
-                "Phone_Sec": null,
+                "Phone_Sec": "9am – 2pm Tues-Wed",
                 "Region": "Pee Dee",
                 "SiteAddress": "1594 Freedom Boulevard Medical Pavillion C",
                 "SiteAddressDetail": "Suite 102",
                 "SiteCity": "Florence",
-                "SitePhone": null,
+                "SitePhone": "843-876-7227",
                 "SiteState": "SC",
                 "SiteZip": "29505",
-                "URL": "muschealth.org/vaccine",
-                "V_Manufacturer": null,
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
                 "loc_name": "MUSC Health - Primary Care - Florence Medical Pavillion",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 1958,
@@ -45642,7 +45576,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "500898c9-5be8-47c5-a379-1dc8a66f64d3",
                 "Loc_ID": 1472,
@@ -45652,11 +45586,11 @@
                 "SiteAddress": "10 Memorial Medical Drive",
                 "SiteAddressDetail": null,
                 "SiteCity": "Greenville",
-                "SitePhone": null,
+                "SitePhone": "(864) 220-1200",
                 "SiteState": "SC",
                 "SiteZip": "29605",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "loc_name": "Greenville Kidney Care",
                 "loc_type1": "Medical practice – other specialty",
                 "ref_ID": null,
@@ -46269,8 +46203,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "phenomenalhealthcaresolutions@yahoo.com",
                 "GlobalID": "0bf50aff-a74a-41cf-8aff-98022fc54e99",
                 "Loc_ID": 1457,
                 "OBJECTID": 3379,
@@ -46279,11 +46213,11 @@
                 "SiteAddress": "150 Outlet Rd",
                 "SiteAddressDetail": null,
                 "SiteCity": "Spartanburg",
-                "SitePhone": null,
+                "SitePhone": "864-541-3616",
                 "SiteState": "SC",
                 "SiteZip": "29303",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "http://practice.kareo.com/phenomenalhealthcaresolutionsllc",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Phenomenal Healthcare Solutions",
                 "loc_type1": "Commercial vaccination service provider",
                 "ref_ID": null,
@@ -54585,21 +54519,21 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b2576025-c1f5-4680-bf3c-d3122392ab25",
                 "Loc_ID": 1520,
                 "OBJECTID": 5621,
-                "Phone_Sec": null,
+                "Phone_Sec": "8am- 5pm Tues-Thurs",
                 "Region": "Midlands",
                 "SiteAddress": "1730 Henderson St ",
                 "SiteAddressDetail": "Suite C",
                 "SiteCity": "Columbia",
-                "SitePhone": null,
+                "SitePhone": "843-876-7227",
                 "SiteState": "SC",
                 "SiteZip": "29201",
-                "URL": "muschealth.org/vaccine",
-                "V_Manufacturer": null,
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
                 "loc_name": "MUSC Health Columbia (Henderson)",
                 "loc_type1": "Vaccine Site",
                 "ref_ID": null,
@@ -62406,39 +62340,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "f9a4fb33-aaa1-4e98-954a-ec43ad2bc0ad",
-                "Loc_ID": null,
-                "OBJECTID": 16153,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "3300 West Radio Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "Florence",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29501",
-                "URL": "https://muschealth.org/vaccine-florence",
-                "V_Manufacturer": "PFR",
-                "loc_name": "MUSC Health Florence Civic Center Mass Vaccination Event",
-                "loc_type1": null,
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.83954521106267,
-                "y": 34.18519461743364
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3e094d81-aebc-4c4b-a57d-eec463132131",
@@ -67516,6 +67417,138 @@
                 },
                 "x": -80.05456382306676,
                 "y": 32.9324855249493
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "ada8ca05-a9d2-49e2-9f01-3220bb89c6dc",
+                "Loc_ID": null,
+                "OBJECTID": 22648,
+                "Phone_Sec": "8am- 5pm Mon-Sat",
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "180 Lockwood Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-876-7227",
+                "SiteState": "SC",
+                "SiteZip": "29425",
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
+                "loc_name": "MUSC Health COVID-19 Vaccination Clinic @ Lockwood",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.96004394069473,
+                "y": 32.788889189006966
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "6fb0c942-64db-4e47-a5c8-fd54bcd3d44a",
+                "Loc_ID": null,
+                "OBJECTID": 22649,
+                "Phone_Sec": "8am- 5pm Mon-Sat",
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2401 Mall Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "843-876-7227",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
+                "loc_name": "MUSC Health COVID-19 Vaccination Clinic @ North Charleston",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.01206148770649,
+                "y": 32.87858822422942
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0892418b-e8cf-489c-9d43-907e8c103ff2",
+                "Loc_ID": null,
+                "OBJECTID": 22650,
+                "Phone_Sec": "9am- 4pm Mon-Fri",
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "25 Courtenay Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-876-7227,",
+                "SiteState": "SC",
+                "SiteZip": "29425",
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
+                "loc_name": "MUSC Health @ Ashley River Tower Pharmacy",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.95152146553227,
+                "y": 32.78422630974774
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "7:30am-7:30pm  Wed, Sat-Sun",
+                "GlobalID": "d611977c-0257-4d4e-bcf2-c5bc911331fb",
+                "Loc_ID": null,
+                "OBJECTID": 22651,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "135 Rutledge Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-876-7227",
+                "SiteState": "SC",
+                "SiteZip": "29425",
+                "URL": "http://www.muschealth.org/vaccine-scheduling",
+                "V_Manufacturer": "PFR",
+                "loc_name": "MUSC Health @ Rutledge Tower Pharmacy",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.94447823611301,
+                "y": 32.78388205835006
             }
         }
     ],

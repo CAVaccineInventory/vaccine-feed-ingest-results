@@ -6936,14 +6936,14 @@
                 "GlobalID": "1979caaa-3797-41a2-93b8-74310983c956",
                 "ID": "ISDH1222",
                 "IsView": 1,
-                "Name": "IU Health - Blackford",
+                "Name": "IU HEALTH BLACKFORD CO HS VAX",
                 "OBJECTID": 329,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "410 Pilgrim Blvd, Hartford City, IN 47348",
+                "Site_Address": "2392 IN-3 Hartford City, IN 47348",
                 "Site_County": "Blackford",
                 "Site_Location_Info": null,
-                "Site_Name": "IU HEALTH BLACKFORD HOSPITAL VAX",
+                "Site_Name": "IU HEALTH BLACKFORD CO HS VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Hospital",
@@ -6956,8 +6956,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.37276619866245,
-                "y": 40.46795581109002
+                "x": -85.3718006034172,
+                "y": 40.485151294177314
             }
         },
         {
@@ -21118,6 +21118,36 @@
                 },
                 "x": -85.54217453885533,
                 "y": 39.79261111853211
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0fa5ea4a-78b1-42a7-a140-04312c8a4ad8",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Wolf Lake Pavilion VAX",
+                "OBJECTID": 872,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2324 Calumet Ave, Hammond, IN 46320",
+                "Site_County": "Lake",
+                "Site_Location_Info": "This is a one-day mobile clinic on May 8,  9am – 9pm.",
+                "Site_Name": "Wolf Lake Pavilion VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.509916359508,
+                "y": 41.67084385139826
             }
         }
     ],
