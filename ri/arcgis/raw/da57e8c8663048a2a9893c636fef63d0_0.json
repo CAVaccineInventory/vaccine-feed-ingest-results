@@ -2,7 +2,6 @@
     "features": [
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 1,
                 "USER_Active": "Active",
                 "USER_Address": "1 Cowesett Ave",
@@ -27,7 +26,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 2,
                 "USER_Active": "Active",
                 "USER_Address": "1 Pocasset Ave",
@@ -52,7 +50,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 3,
                 "USER_Active": "Not Active",
                 "USER_Address": "10 Newport Ave",
@@ -77,7 +74,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 4,
                 "USER_Active": "Active",
                 "USER_Address": "100 Broad St",
@@ -102,7 +98,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 5,
                 "USER_Active": "Not Active",
                 "USER_Address": "10 Turnpike Ave.",
@@ -127,7 +122,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": "https://docs.google.com/spreadsheets/d/1W_9z0DRb_dJTMSYihad4OnmiTez1w6aCWI_mLRIsWw8/edit#gid=0",
                 "OBJECTID": 6,
                 "USER_Active": "Active",
                 "USER_Address": "1 La Salle Square",
@@ -152,7 +146,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": "https://docs.google.com/spreadsheets/d/1W_9z0DRb_dJTMSYihad4OnmiTez1w6aCWI_mLRIsWw8/edit#gid=0",
                 "OBJECTID": 7,
                 "USER_Active": "Active",
                 "USER_Address": "100 Sockanosset Cross Rd",
@@ -177,7 +170,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 8,
                 "USER_Active": "Not Active",
                 "USER_Address": "1000 Broad St.",
@@ -202,7 +194,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 9,
                 "USER_Active": "Active",
                 "USER_Address": "1010 Park Ave",
@@ -227,7 +218,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 10,
                 "USER_Active": "Active",
                 "USER_Address": "101 Dudley Street",
@@ -252,7 +242,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 11,
                 "USER_Active": "Active",
                 "USER_Address": "1031 Ten Rod Rd",
@@ -277,7 +266,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 12,
                 "USER_Active": "Active",
                 "USER_Address": "1054 Cass Avenue",
@@ -302,7 +290,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 13,
                 "USER_Active": "Not Active",
                 "USER_Address": "1068 Putnam Pike, Po Box H",
@@ -327,7 +314,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 14,
                 "USER_Active": "Not Active",
                 "USER_Address": "1057 Mineral Spring Avenue",
@@ -352,7 +338,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 15,
                 "USER_Active": "Not Active",
                 "USER_Address": "1057 Mineral Spring Ave",
@@ -377,7 +362,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 16,
                 "USER_Active": "Not Active",
                 "USER_Address": "1080 Bald Hill Road",
@@ -402,7 +386,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 17,
                 "USER_Active": "Active",
                 "USER_Address": "1074 Mineral Spring Ave",
@@ -427,7 +410,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 18,
                 "USER_Active": "Active",
                 "USER_Address": "111 Brewster Street",
@@ -452,7 +434,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 19,
                 "USER_Active": "Not Active",
                 "USER_Address": "1086 Willett Avenue",
@@ -477,7 +458,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 20,
                 "USER_Active": "Not Active",
                 "USER_Address": "1123 Boston Neck Rd.",
@@ -502,7 +482,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 21,
                 "USER_Active": "Not Active",
                 "USER_Address": "11 Main St.",
@@ -527,7 +506,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 22,
                 "USER_Active": "Active",
                 "USER_Address": "1140 N Main St",
@@ -552,7 +530,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 23,
                 "USER_Active": "Active",
                 "USER_Address": "1128 Mineral Spring Avenue",
@@ -577,7 +554,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 24,
                 "USER_Active": "Not Active",
                 "USER_Address": "1193 Boston Neck Road",
@@ -602,7 +578,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 25,
                 "USER_Active": "Not Active",
                 "USER_Address": "1188 Pontiac Avenue",
@@ -627,7 +602,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 26,
                 "USER_Active": "Not Active",
                 "USER_Address": "1187 Main St., Po Box 58",
@@ -652,7 +626,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 27,
                 "USER_Active": "Not Active",
                 "USER_Address": "1195 Oaklawn Avenue",
@@ -677,7 +650,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 28,
                 "USER_Active": "Not Active",
                 "USER_Address": "1270 Main St.",
@@ -702,7 +674,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 29,
                 "USER_Active": "Not Active",
                 "USER_Address": "120 Eddie Dowling Hwy.",
@@ -727,7 +698,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 30,
                 "USER_Active": "Not Active",
                 "USER_Address": "12 E Main Rd",
@@ -752,7 +722,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 31,
                 "USER_Active": "Not Active",
                 "USER_Address": "1245 Bald Hill Rd",
@@ -777,7 +746,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 32,
                 "USER_Active": "Not Active",
                 "USER_Address": "131 Webster Avenue",
@@ -802,7 +770,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": "https://docs.google.com/spreadsheets/d/1W_9z0DRb_dJTMSYihad4OnmiTez1w6aCWI_mLRIsWw8/edit#gid=0",
                 "OBJECTID": 33,
                 "USER_Active": "Active",
                 "USER_Address": "132 Fairground Road",
@@ -827,7 +794,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 34,
                 "USER_Active": "Active",
                 "USER_Address": "135 Pitman Street",
@@ -852,7 +818,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 35,
                 "USER_Active": "Active",
                 "USER_Address": "1387 Plainfield St",
@@ -877,7 +842,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 36,
                 "USER_Active": "Not Active",
                 "USER_Address": "1400 Hartford Avenue",
@@ -902,7 +866,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 37,
                 "USER_Active": "Active",
                 "USER_Address": "1285 S. County Trail",
@@ -927,7 +890,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 38,
                 "USER_Active": "Active",
                 "USER_Address": "1360 West Main Road",
@@ -952,7 +914,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": "https://docs.google.com/spreadsheets/d/1W_9z0DRb_dJTMSYihad4OnmiTez1w6aCWI_mLRIsWw8/edit#gid=0",
                 "OBJECTID": 39,
                 "USER_Active": "Active",
                 "USER_Address": "1400 West Main Road",
@@ -977,7 +938,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 40,
                 "USER_Active": "Active",
                 "USER_Address": "150 Granite Street",
@@ -1002,7 +962,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 41,
                 "USER_Active": "Not Active",
                 "USER_Address": "15 Smithfield Road",
@@ -1027,7 +986,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": "https://docs.google.com/spreadsheets/d/1W_9z0DRb_dJTMSYihad4OnmiTez1w6aCWI_mLRIsWw8/edit#gid=0",
                 "OBJECTID": 42,
                 "USER_Active": "Active",
                 "USER_Address": "1500 Diamond Hill Road",
@@ -1052,7 +1010,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 43,
                 "USER_Active": "Active",
                 "USER_Address": "151 Franklin St.",
@@ -1077,7 +1034,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 44,
                 "USER_Active": "Not Active",
                 "USER_Address": "1560 Warwick Ave",
@@ -1102,7 +1058,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 45,
                 "USER_Active": "Active",
                 "USER_Address": "1510 Smith Street",
@@ -1127,7 +1082,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 46,
                 "USER_Active": "Not Active",
                 "USER_Address": "1583 Atwood Ave",
@@ -1152,7 +1106,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 47,
                 "USER_Active": "Active",
                 "USER_Address": "164 Summit Avenue",
@@ -1177,7 +1130,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 48,
                 "USER_Active": "Active",
                 "USER_Address": "170 Granite St",
@@ -1202,7 +1154,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 49,
                 "USER_Active": "Active",
                 "USER_Address": "17 Virginia Avenue",
@@ -1227,7 +1178,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 50,
                 "USER_Active": "Active",
                 "USER_Address": "1665 Mineral Spring Avenue",
@@ -1252,7 +1202,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 51,
                 "USER_Active": "Not Active",
                 "USER_Address": "173 State Street",
@@ -1277,7 +1226,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 52,
                 "USER_Active": "Not Active",
                 "USER_Address": "1734 Main Street",
@@ -1302,7 +1250,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 53,
                 "USER_Active": "Active",
                 "USER_Address": "1763 Broad St",
@@ -1327,7 +1274,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 54,
                 "USER_Active": "Active",
                 "USER_Address": "1776 Broad St.",
@@ -1352,7 +1298,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 55,
                 "USER_Active": "Active",
                 "USER_Address": "1776 Plainfield Pike",
@@ -1377,7 +1322,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 56,
                 "USER_Active": "Not Active",
                 "USER_Address": "180 County Road",
@@ -1402,7 +1346,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 57,
                 "USER_Active": "Active",
                 "USER_Address": "181 Bellevue Avenue",
@@ -1427,7 +1370,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 58,
                 "USER_Active": "Active",
                 "USER_Address": "19 Friendship Street",
@@ -1452,7 +1394,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 59,
                 "USER_Active": "Active",
                 "USER_Address": "180 Corliss Street",
@@ -1477,7 +1418,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 60,
                 "USER_Active": "Active",
                 "USER_Address": "1925 Pawtucket Avenue",
@@ -1502,7 +1442,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 61,
                 "USER_Active": "Active",
                 "USER_Address": "1919 Mineral Spring Avenue",
@@ -1527,7 +1466,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 62,
                 "USER_Active": "Not Active",
                 "USER_Address": "198 Buttonwoods Ave,",
@@ -1552,7 +1490,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 63,
                 "USER_Active": "Active",
                 "USER_Address": "1993 Plainfield Pike",
@@ -1577,7 +1514,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 64,
                 "USER_Active": "Active",
                 "USER_Address": "199 Connell Hwy",
@@ -1602,7 +1538,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 65,
                 "USER_Active": "Not Active",
                 "USER_Address": "1998 Mendon Road",
@@ -1627,7 +1562,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 66,
                 "USER_Active": "Active",
                 "USER_Address": "20 Woodruff Ave",
@@ -1652,7 +1586,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 67,
                 "USER_Active": "Active",
                 "USER_Address": "204 Garfield Avenue",
@@ -1677,7 +1610,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 68,
                 "USER_Active": "Active",
                 "USER_Address": "200 Atwood Avenue",
@@ -1702,7 +1634,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 69,
                 "USER_Active": "Not Active",
                 "USER_Address": "20 High Street",
@@ -1727,7 +1658,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 70,
                 "USER_Active": "Not Active",
                 "USER_Address": "205 Atwood Avenue",
@@ -1752,7 +1682,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 71,
                 "USER_Active": "Not Active",
                 "USER_Address": "2125 Diamond Hill Road",
@@ -1777,7 +1706,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 72,
                 "USER_Active": "Active",
                 "USER_Address": "2136 Mendon Rd",
@@ -1802,7 +1730,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 73,
                 "USER_Active": "Active",
                 "USER_Address": "21 Kingstown Rd",
@@ -1827,7 +1754,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 74,
                 "USER_Active": "Not Active",
                 "USER_Address": "219 Manton Ave",
@@ -1852,7 +1778,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 75,
                 "USER_Active": "Active",
                 "USER_Address": "224 Post Road",
@@ -1877,7 +1802,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 76,
                 "USER_Active": "Active",
                 "USER_Address": "220 Newport Ave",
@@ -1902,7 +1826,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 77,
                 "USER_Active": "Not Active",
                 "USER_Address": "2399 Warwick Ave",
@@ -1927,7 +1850,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 78,
                 "USER_Active": "Not Active",
                 "USER_Address": "2400 Warwick Ave, Meadowbrook Plaza",
@@ -1952,7 +1874,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 79,
                 "USER_Active": "Active",
                 "USER_Address": "2470 Warwick Ave",
@@ -1977,7 +1898,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 80,
                 "USER_Active": "Active",
                 "USER_Address": "242 Pawtuxet Avenue",
@@ -2002,7 +1922,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 81,
                 "USER_Active": "Not Active",
                 "USER_Address": "2456 East Main Road",
@@ -2027,7 +1946,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 82,
                 "USER_Active": "Active",
                 "USER_Address": "258 Post Rd",
@@ -2052,7 +1970,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 83,
                 "USER_Active": "Active",
                 "USER_Address": "25 Putnam Pike",
@@ -2077,7 +1994,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 84,
                 "USER_Active": "Not Active",
                 "USER_Address": "2250 New London Turnpike",
@@ -2102,7 +2018,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 85,
                 "USER_Active": "Not Active",
                 "USER_Address": "2595 West Shore Road",
@@ -2127,7 +2042,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 86,
                 "USER_Active": "Not Active",
                 "USER_Address": "2790 Post Road",
@@ -2152,7 +2066,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 87,
                 "USER_Active": "Active",
                 "USER_Address": "26 Putnam Pike",
@@ -2177,7 +2090,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 88,
                 "USER_Active": "Active",
                 "USER_Address": "295 Academy Ave",
@@ -2202,7 +2114,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 89,
                 "USER_Active": "Not Active",
                 "USER_Address": "309 Broad St.",
@@ -2227,7 +2138,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 90,
                 "USER_Active": "Not Active",
                 "USER_Address": "315 Broad St,",
@@ -2252,7 +2162,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 91,
                 "USER_Active": "Not Active",
                 "USER_Address": "3336 Post Rd",
@@ -2277,7 +2186,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 92,
                 "USER_Active": "Active",
                 "USER_Address": "333 Atwells Ave",
@@ -2302,7 +2210,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 93,
                 "USER_Active": "Active",
                 "USER_Address": "368-398 Cottage Street",
@@ -2327,7 +2234,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 94,
                 "USER_Active": "Active",
                 "USER_Address": "354 Admiral St",
@@ -2352,7 +2258,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 95,
                 "USER_Active": "Active",
                 "USER_Address": "385 Cottage St",
@@ -2377,7 +2282,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 96,
                 "USER_Active": "Active",
                 "USER_Address": "300 Quaker Lane",
@@ -2402,7 +2306,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 97,
                 "USER_Active": "Not Active",
                 "USER_Address": "3986 Old Post Rd.",
@@ -2427,7 +2330,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 98,
                 "USER_Active": "Not Active",
                 "USER_Address": "400 Admiral Street",
@@ -2452,7 +2354,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 99,
                 "USER_Active": "Not Active",
                 "USER_Address": "371 Putnam Pike Ste A-250",
@@ -2477,7 +2378,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 100,
                 "USER_Active": "Not Active",
                 "USER_Address": "400 Bald Hill Rd",
@@ -2502,7 +2402,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 101,
                 "USER_Active": "Not Active",
                 "USER_Address": "425 East Avenue",
@@ -2527,7 +2426,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 102,
                 "USER_Active": "Not Active",
                 "USER_Address": "400 Metacom Avenue",
@@ -2552,7 +2450,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 103,
                 "USER_Active": "Not Active",
                 "USER_Address": "445 Putnam Pike, Apple Valley Mall",
@@ -2577,7 +2474,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 104,
                 "USER_Active": "Not Active",
                 "USER_Address": "444 Willett Avenue",
@@ -2602,7 +2498,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 105,
                 "USER_Active": "Active",
                 "USER_Address": "45 Cumberland St",
@@ -2627,7 +2522,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 106,
                 "USER_Active": "Active",
                 "USER_Address": "446 Putnam Pike",
@@ -2652,7 +2546,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 107,
                 "USER_Active": "Active",
                 "USER_Address": "452 Putnam Pike",
@@ -2677,7 +2570,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 108,
                 "USER_Active": "Active",
                 "USER_Address": "455 Tollgate Road",
@@ -2702,7 +2594,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 109,
                 "USER_Active": "Not Active",
                 "USER_Address": "47 Village Plaza Way",
@@ -2727,7 +2618,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 110,
                 "USER_Active": "Active",
                 "USER_Address": "456 Branch Avenue",
@@ -2752,7 +2642,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 111,
                 "USER_Active": "Not Active",
                 "USER_Address": "481 Angell Street",
@@ -2777,7 +2666,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 112,
                 "USER_Active": "Not Active",
                 "USER_Address": "500 Broad Street",
@@ -2802,7 +2690,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 113,
                 "USER_Active": "Not Active",
                 "USER_Address": "500 Main Road",
@@ -2827,7 +2714,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 114,
                 "USER_Active": "Not Active",
                 "USER_Address": "507 Main Street",
@@ -2852,7 +2738,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 115,
                 "USER_Active": "Active",
                 "USER_Address": "51 Silver Spring St",
@@ -2877,7 +2762,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 116,
                 "USER_Active": "Not Active",
                 "USER_Address": "533 Elmwood Ave",
@@ -2902,7 +2786,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 117,
                 "USER_Active": "Not Active",
                 "USER_Address": "5945 Post Rd",
@@ -2927,7 +2810,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 118,
                 "USER_Active": "Not Active",
                 "USER_Address": "591 Metacom Ave",
@@ -2952,7 +2834,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 119,
                 "USER_Active": "Not Active",
                 "USER_Address": "583 Taunton Avenue",
@@ -2977,7 +2858,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 120,
                 "USER_Active": "Active",
                 "USER_Address": "615 Metacom Avenue",
@@ -3002,7 +2882,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 121,
                 "USER_Active": "Active",
                 "USER_Address": "595 Smithfield Road",
@@ -3027,7 +2906,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 122,
                 "USER_Active": "Not Active",
                 "USER_Address": "620 George Washington Hwy",
@@ -3052,7 +2930,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 123,
                 "USER_Active": "Active",
                 "USER_Address": "601 Smithfield Avenue",
@@ -3077,7 +2954,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 124,
                 "USER_Active": "Active",
                 "USER_Address": "622 George Washington Hwy",
@@ -3102,7 +2978,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 125,
                 "USER_Active": "Active",
                 "USER_Address": "640 Warren Avenue",
@@ -3127,7 +3002,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 126,
                 "USER_Active": "Not Active",
                 "USER_Address": "63 Newport Ave",
@@ -3152,7 +3026,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 127,
                 "USER_Active": "Not Active",
                 "USER_Address": "63 Brown St",
@@ -3177,7 +3050,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 128,
                 "USER_Active": "Active",
                 "USER_Address": "6495 Post Road",
@@ -3202,7 +3074,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 129,
                 "USER_Active": "Active",
                 "USER_Address": "655 Warren Ave",
@@ -3227,7 +3098,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 130,
                 "USER_Active": "Active",
                 "USER_Address": "650 Bald Hill Rd",
@@ -3252,7 +3122,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 131,
                 "USER_Active": "Active",
                 "USER_Address": "650 Centre Of New England Blvd",
@@ -3277,7 +3146,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 132,
                 "USER_Active": "Not Active",
                 "USER_Address": "677 Main Road",
@@ -3302,7 +3170,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 133,
                 "USER_Active": "Not Active",
                 "USER_Address": "681 Reservoir Avenue",
@@ -3327,7 +3194,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 134,
                 "USER_Active": "Active",
                 "USER_Address": "70 Mendon Road",
@@ -3352,7 +3218,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 135,
                 "USER_Active": "Not Active",
                 "USER_Address": "763 Tiogue Avenue",
@@ -3377,7 +3242,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 136,
                 "USER_Active": "Active",
                 "USER_Address": "7 Dowling Village Blvd",
@@ -3402,7 +3266,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 137,
                 "USER_Active": "Not Active",
                 "USER_Address": "767 Warwick Avenue",
@@ -3427,7 +3290,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 138,
                 "USER_Active": "Active",
                 "USER_Address": "7691 Post Road",
@@ -3452,7 +3314,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 139,
                 "USER_Active": "Active",
                 "USER_Address": "799 Hope Street",
@@ -3477,7 +3338,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 140,
                 "USER_Active": "Not Active",
                 "USER_Address": "834 Providence Street",
@@ -3502,7 +3362,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 141,
                 "USER_Active": "Not Active",
                 "USER_Address": "835 Newport Ave.",
@@ -3527,7 +3386,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 142,
                 "USER_Active": "Active",
                 "USER_Address": "840 Post Rd",
@@ -3552,7 +3410,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 143,
                 "USER_Active": "Not Active",
                 "USER_Address": "875 Tiogue Ave",
@@ -3577,7 +3434,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 144,
                 "USER_Active": "Active",
                 "USER_Address": "850 Manton Avenue",
@@ -3602,7 +3458,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 145,
                 "USER_Active": "Active",
                 "USER_Address": "900 Victory Highway",
@@ -3627,15 +3482,14 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 146,
                 "USER_Active": "Active",
                 "USER_Address": "88 East Main Road",
                 "USER_City_Town": "Middletown",
                 "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
-                "USER_Link_to_Sign_Up": "vaccinateri.org",
+                "USER_Link_to_Sign_Up": "https://www.vaccinateri.org/",
                 "USER_Name": "Matt's Local Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "844-930-1779",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
@@ -3652,7 +3506,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 147,
                 "USER_Active": "Not Active",
                 "USER_Address": "905 N Main Street",
@@ -3677,7 +3530,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 148,
                 "USER_Active": "Active",
                 "USER_Address": "935 Manton Avenue",
@@ -3702,7 +3554,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 149,
                 "USER_Active": "Active",
                 "USER_Address": "960 Broad Street",
@@ -3727,7 +3578,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 150,
                 "USER_Active": "Active",
                 "USER_Address": "Prov. Place Mall #1010, 39 Providence Pl",
@@ -3752,7 +3602,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 151,
                 "USER_Active": "Active",
                 "USER_Address": "91 Point Judith Road",
@@ -3777,7 +3626,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 152,
                 "USER_Active": "Not Active",
                 "USER_Address": "99 East Main Road",
@@ -3802,7 +3650,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 153,
                 "USER_Active": "Active",
                 "USER_Address": "1741 Atwood Avenue",
@@ -3827,7 +3674,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 154,
                 "USER_Active": "Active",
                 "USER_Address": "39 State Street",
@@ -3852,7 +3698,6 @@
         },
         {
             "attributes": {
-                "ADAINFO": null,
                 "OBJECTID": 155,
                 "USER_Active": "Active",
                 "USER_Address": "610 Waterman Ave",
@@ -3873,6 +3718,30 @@
                 },
                 "x": -71.35646506288447,
                 "y": 41.817474446675874
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 156,
+                "USER_Active": "Active",
+                "USER_Address": "585 Taunton Ave",
+                "USER_City_Town": "East Providence",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.vaccinateri.org/",
+                "USER_Name": "East Providence Shaw's POD",
+                "USER_Scheduling_by_Phone": "844-930-1779",
+                "USER_State": "RI",
+                "USER_Type": "State-run Vaccination Center",
+                "USER_VaxType": "Varies",
+                "ZIPCODE": "02914"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.35747781705068,
+                "y": 41.820308085188394
             }
         }
     ],
@@ -3931,7 +3800,7 @@
             "type": "esriFieldTypeString"
         },
         {
-            "alias": "Status",
+            "alias": "Active",
             "defaultValue": null,
             "domain": null,
             "length": 255,
@@ -3940,7 +3809,7 @@
             "type": "esriFieldTypeString"
         },
         {
-            "alias": "Vaccination Type",
+            "alias": "VaxType",
             "defaultValue": null,
             "domain": null,
             "length": 255,
@@ -3976,20 +3845,11 @@
             "type": "esriFieldTypeString"
         },
         {
-            "alias": "Zip Code",
+            "alias": "ZIPCODE",
             "defaultValue": null,
             "domain": null,
             "length": 255,
             "name": "ZIPCODE",
-            "sqlType": "sqlTypeOther",
-            "type": "esriFieldTypeString"
-        },
-        {
-            "alias": "Transportation and Accessibility Information",
-            "defaultValue": null,
-            "domain": null,
-            "length": 255,
-            "name": "ADAINFO",
             "sqlType": "sqlTypeOther",
             "type": "esriFieldTypeString"
         }

@@ -9408,7 +9408,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "63e65f8f-166d-4ddc-9b37-0a3e1ff7d1b8",
                 "Loc_ID": 853,
@@ -9421,8 +9421,8 @@
                 "SitePhone": "803-773-8432",
                 "SiteState": "SC",
                 "SiteZip": "29150",
-                "URL": null,
-                "V_Manufacturer": "JJ",
+                "URL": "https://register.vams.cdc.gov/?jurisdiction=SC",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Sumter Cut Rate Drug Store Inc",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1240,
@@ -9936,8 +9936,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "info@midlandsneurologyandpain.com",
                 "GlobalID": "89b3b7b4-e9ce-4dda-9044-db1e5ab4b4fd",
                 "Loc_ID": 924,
                 "OBJECTID": 303,
@@ -9946,11 +9946,11 @@
                 "SiteAddress": "2601 Millwood Avenue",
                 "SiteAddressDetail": null,
                 "SiteCity": "Columbia",
-                "SitePhone": "",
+                "SitePhone": "803-788-0038",
                 "SiteState": "SC",
                 "SiteZip": "29205",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://midlandsneurologyandpain.com/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Midlands Neurology & Pain Associates",
                 "loc_type1": "Medical practice – other specialty",
                 "ref_ID": 1256,
@@ -16800,7 +16800,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c711f5b2-cec5-46ad-9dcc-f94005fe146e",
                 "Loc_ID": 313,
@@ -16813,7 +16813,7 @@
                 "SitePhone": "",
                 "SiteState": "SC",
                 "SiteZip": "296344054",
-                "URL": null,
+                "URL": "mailto:redferncovidvaccine@clemson.edu",
                 "V_Manufacturer": null,
                 "loc_name": "Clemson University Redfern Health Center",
                 "loc_type1": "Health center – student",
@@ -22853,7 +22853,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29621",
                 "URL": null,
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Oaks Pharmacy, LLC",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1650,
@@ -35841,7 +35841,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c1bfa59d-f894-4bb8-adf6-d105436de535",
                 "Loc_ID": 1295,
@@ -35854,8 +35854,8 @@
                 "SitePhone": null,
                 "SiteState": "SC",
                 "SiteZip": "29607",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://allergicdisease.com/vaccine",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Allergic Disease and Asthma Center",
                 "loc_type1": "Medical practice – other specialty",
                 "ref_ID": 2063,
@@ -40758,7 +40758,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6bc7fa20-bbd2-4be2-8b10-c7201dfbcf38",
                 "Loc_ID": 1352,
@@ -40768,11 +40768,11 @@
                 "SiteAddress": "1068 North Church Street",
                 "SiteAddressDetail": "",
                 "SiteCity": "Greenville",
-                "SitePhone": null,
+                "SitePhone": "864-702-2365",
                 "SiteState": "SC",
                 "SiteZip": "29601",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "http://www.embermodernmedicine.com/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Ember Modern Medicine",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 2212,
@@ -61020,8 +61020,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "buylowrx@gmail.com",
                 "GlobalID": "068532af-c237-4854-a844-0d0380d596cf",
                 "Loc_ID": 208,
                 "OBJECTID": 12946,
@@ -61030,10 +61030,10 @@
                 "SiteAddress": "8007 Warren H Abernathy Hwy",
                 "SiteAddressDetail": null,
                 "SiteCity": "Spartanburg ",
-                "SitePhone": null,
+                "SitePhone": "864-572-5727",
                 "SiteState": "SC",
                 "SiteZip": "29301",
-                "URL": null,
+                "URL": "https://hipaa.jotform.com/210806856988169",
                 "V_Manufacturer": null,
                 "loc_name": "Buy Low Pharmacy ",
                 "loc_type1": "Pharmacy – independent",
@@ -63754,72 +63754,6 @@
                 },
                 "x": -82.78157618957641,
                 "y": 34.374446379507845
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "f5cff3d6-89bc-4f7b-bf30-3a377640e178",
-                "Loc_ID": null,
-                "OBJECTID": 18176,
-                "Phone_Sec": null,
-                "Region": "LOWCOUNTRY",
-                "SiteAddress": "5001 Coliseum Dr",
-                "SiteAddressDetail": null,
-                "SiteCity": "North Charleston",
-                "SitePhone": "833-625-4584",
-                "SiteState": "SC",
-                "SiteZip": "29418",
-                "URL": null,
-                "V_Manufacturer": "MOD",
-                "loc_name": "Palmetto Palace Mobile @ Drive-Thru Vaccination Clinic for SCISA School Teachers & Staff and Community",
-                "loc_type1": null,
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.02443021658132,
-                "y": 32.86521244374762
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "84341924-1c68-4022-a710-311839848b10",
-                "Loc_ID": null,
-                "OBJECTID": 18177,
-                "Phone_Sec": null,
-                "Region": "LOWCOUNTRY",
-                "SiteAddress": "5305 Maybank Hwy",
-                "SiteAddressDetail": null,
-                "SiteCity": "Wadmalaw Island",
-                "SitePhone": "833-625-4584",
-                "SiteState": "SC",
-                "SiteZip": "29487",
-                "URL": null,
-                "V_Manufacturer": "MOD",
-                "loc_name": "Palmetto Palace @ New St. James Bethel African Methodist Episcopal Church",
-                "loc_type1": null,
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.16268951825924,
-                "y": 32.6799736867502
             }
         },
         {
@@ -67549,6 +67483,204 @@
                 },
                 "x": -79.94447823611301,
                 "y": 32.78388205835006
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "f9523f7c-7ae0-4079-ad4d-94e97b60df72",
+                "Loc_ID": null,
+                "OBJECTID": 23045,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "207 N. College St.",
+                "SiteAddressDetail": null,
+                "SiteCity": "Walhalla",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29691",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ Walhalla Rec Dept. Gym",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -83.06532173700634,
+                "y": 34.767645146837594
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "66025e21-4a05-4a5a-8aab-245376ab3a45",
+                "Loc_ID": null,
+                "OBJECTID": 23046,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2957 Savannah Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29414",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC @ Charleston First Assembly",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.07662154165882,
+                "y": 32.79549789703793
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5efb7397-801a-47b6-b6cc-2aef6342085a",
+                "Loc_ID": null,
+                "OBJECTID": 23047,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "217 Flat Street E",
+                "SiteAddressDetail": null,
+                "SiteCity": "Allendal",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29810",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "loc_name": "Palmetto Palace @ Allendale Community Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.30805381269198,
+                "y": 33.00743014941935
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "e1636413-6e21-4712-9d16-1a330d395a23",
+                "Loc_ID": null,
+                "OBJECTID": 23048,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "633 Thomas-Kate Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Dorchester",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29437",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "loc_name": "Palmetto Palace @ Greater St. Paul's AME Church",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.48528607262625,
+                "y": 33.20266295669563
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "47c74345-0735-497c-b700-f6d6d2e287b5",
+                "Loc_ID": null,
+                "OBJECTID": 23049,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "10 Mixon Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Yemassee",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29945",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "loc_name": "Palmetto Palace @ Yemassee Community Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.85099022432706,
+                "y": 32.69552355203734
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "91844db6-1d85-4be7-bd5f-e18bf3ff73fc",
+                "Loc_ID": null,
+                "OBJECTID": 23050,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "445 Featherbed Road",
+                "SiteAddressDetail": "Round O",
+                "SiteCity": "Walterboro",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29474",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "loc_name": "Palmetto Palace @ Neyles Community Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.55897920367329,
+                "y": 32.82994394844667
             }
         }
     ],

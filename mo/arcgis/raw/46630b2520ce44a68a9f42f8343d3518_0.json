@@ -13039,7 +13039,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -13056,20 +13056,20 @@
                 "GlobalID": "c0ab4d20-6539-4cac-a538-dced7ac5090b",
                 "ID": null,
                 "IsView": 1,
-                "Name": "Williams Brothers Pharmacy",
+                "Name": "WILLIAMS BROS PHARM AUSTIN VAX",
                 "OBJECTID": 585,
                 "Promote_Name": null,
                 "Promote_Site": null,
                 "Site_Address": "10 W. Main St, Austin, IN 47012",
                 "Site_County": "Scott",
                 "Site_Location_Info": null,
-                "Site_Name": "Williams Brothers Pharmacy VAX",
+                "Site_Name": "WILLIAMS BROS PHARM AUSTIN VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -13099,7 +13099,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -13129,7 +13129,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -13159,7 +13159,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -13189,7 +13189,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -13219,7 +13219,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -14719,7 +14719,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -16969,7 +16969,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -21148,6 +21148,96 @@
                 },
                 "x": -87.509916359508,
                 "y": 41.67084385139826
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "26243640-dd91-4d28-8408-98500415923f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "FEMA Allen Temple AME Church VAX",
+                "OBJECTID": 873,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3440 S. Washington St, Marion IN, 46953",
+                "Site_County": "Grant",
+                "Site_Location_Info": "Mobile site 5/18 – 5/19; 9am – 6pm",
+                "Site_Name": "FEMA Allen Temple AME Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "FEMA",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.66297024492842,
+                "y": 40.52823677996857
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8b125993-474c-41be-bda3-c63f860fed69",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Nations Medicines VAX",
+                "OBJECTID": 874,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "4849 Pollack Ave, Evansville, IN 47715",
+                "Site_County": "Vanderburgh",
+                "Site_Location_Info": null,
+                "Site_Name": "Nations Medicines VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.4923022924164,
+                "y": 37.94770894517291
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "ef6cb138-2e45-427f-b0df-5d17c89d6e3b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Lake Co HD Wicker Park VAX",
+                "OBJECTID": 875,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "8554 Indianapolis Blvd, Highland, IN 46322",
+                "Site_County": "Lake",
+                "Site_Location_Info": null,
+                "Site_Name": "Lake Co HD Wicker Park VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.47258214040974,
+                "y": 41.55848278763107
             }
         }
     ],
