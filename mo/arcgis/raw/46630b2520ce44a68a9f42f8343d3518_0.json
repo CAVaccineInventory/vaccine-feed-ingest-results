@@ -11703,36 +11703,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "d02b12c2-dffa-4ff8-acca-fa80aef477ed",
-                "ID": "ISDH1404",
-                "IsView": 1,
-                "Name": "WALMART STORE #5452",
-                "OBJECTID": 518,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2500 N First Avenue, Evansville, IN 47710",
-                "Site_County": "Vanderburgh",
-                "Site_Location_Info": null,
-                "Site_Name": "Walmart (#5452)- N First Avenue VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "FRPP"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.57565995664541,
-                "y": 38.002568658678655
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "34b195fe-62d1-4686-911e-0d0460906d38",
                 "ID": "ISDH1406",
                 "IsView": 1,
@@ -12829,7 +12799,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Moderna"
             },
             "geometry": {
                 "spatialReference": {
@@ -16842,7 +16812,7 @@
                 "Promote_Site": null,
                 "Site_Address": "3423 S Michigan St, South Bend, IN 46614",
                 "Site_County": "St. Joseph",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "Mobile site 5/25 – 5/26; 9 am – 6 pm",
                 "Site_Name": "FEMA La Casa De Amistad VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -21238,6 +21208,126 @@
                 },
                 "x": -87.47258214040974,
                 "y": 41.55848278763107
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e0131d9c-79c9-4031-b176-2340e54442cd",
+                "ID": null,
+                "IsView": 1,
+                "Name": "JEWEL-OSCO #3096",
+                "OBJECTID": 876,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "716 Ridge Rd, Munster, IN 46321",
+                "Site_County": "Lake",
+                "Site_Location_Info": null,
+                "Site_Name": "JEWEL-OSCO (#3096) - Ridge Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.jewelosco.com/pharmacy/covid-19.html",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.50960974585804,
+                "y": 41.55970058930028
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "4cdbe505-f582-4533-851d-2c8c576186ec",
+                "ID": null,
+                "IsView": 1,
+                "Name": "JEWEL-OSCO #76",
+                "OBJECTID": 877,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1276 N Main St, Crown Point, IN 46307",
+                "Site_County": "Lake",
+                "Site_Location_Info": null,
+                "Site_Name": "JEWEL-OSCO (#76) - N Main St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.jewelosco.com/pharmacy/covid-19.html",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.36273803027142,
+                "y": 41.43199382417343
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2de155a5-e90a-464b-988d-2febd920b27e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "JEWEL-OSCO #127",
+                "OBJECTID": 878,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "805 Joliet St, Dyer, IN 46311",
+                "Site_County": "Lake",
+                "Site_Location_Info": null,
+                "Site_Name": "JEWEL-OSCO (#127) - Joliet St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.jewelosco.com/pharmacy/covid-19.html",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.50784688138717,
+                "y": 41.494754894789224
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "10b52676-a2fd-4a4c-8608-f6eaa337fc40",
+                "ID": null,
+                "IsView": 1,
+                "Name": "JEWEL-OSCO #1189",
+                "OBJECTID": 879,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "747 Indian Boundary Rd, Chesterton, IN 46304",
+                "Site_County": "Porter",
+                "Site_Location_Info": null,
+                "Site_Name": "JEWEL-OSCO (#1189) - Indian Boundary Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.jewelosco.com/pharmacy/covid-19.html",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.04046269205159,
+                "y": 41.61799481109755
             }
         }
     ],
