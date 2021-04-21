@@ -161,7 +161,7 @@
                 "phone": null,
                 "publicEmail": null,
                 "publicNotes": "Clinics will be reserved for COVID vaccination only",
-                "publicWebsite": "https://book-costcopharmacy.appointment-plus.com/cvezlt8x/?&e_id=5243",
+                "publicWebsite": "https://www.costco.com/covid-vaccine.html",
                 "vaccinationSite": "Costco NE Anchorage",
                 "zipcode": "99508"
             },
@@ -190,7 +190,7 @@
                 "phone": null,
                 "publicEmail": null,
                 "publicNotes": "We reserve the appointments specifically for COVID vaccination",
-                "publicWebsite": "https://book-costcopharmacy.appointment-plus.com/ct6ces6y/?&e_id=5229",
+                "publicWebsite": "https://www.costco.com/covid-vaccine.html",
                 "vaccinationSite": "Costco- Dimond",
                 "zipcode": "99515"
             },
@@ -219,7 +219,7 @@
                 "phone": null,
                 "publicEmail": null,
                 "publicNotes": "Times will be reserved specifically for COVID vaccination",
-                "publicWebsite": "https://book-costcopharmacy.appointment-plus.com/ct6d4ymx/?&e_id=4815",
+                "publicWebsite": "https://www.costco.com/covid-vaccine.html",
                 "vaccinationSite": "Costco- Fairbanks",
                 "zipcode": "99701"
             },
@@ -248,7 +248,7 @@
                 "phone": null,
                 "publicEmail": null,
                 "publicNotes": "Clinic times are specifically reserved for COVID vaccination",
-                "publicWebsite": "https://book-costcopharmacy.appointment-plus.com/ct6d96bk/?&e_id=4819",
+                "publicWebsite": "https://www.costco.com/covid-vaccine.html",
                 "vaccinationSite": "Costco- Juneau",
                 "zipcode": "99801"
             },
@@ -2307,7 +2307,7 @@
                 "phone": "907-290-8111",
                 "publicEmail": "info@arcticmedicalcenter.com",
                 "publicNotes": "please call for appointment",
-                "publicWebsite": "arcticmedicalcenter.com",
+                "publicWebsite": "https://www.arcticmedicalcenter.com",
                 "vaccinationSite": "Arctic Medical Center",
                 "zipcode": "99503"
             },
