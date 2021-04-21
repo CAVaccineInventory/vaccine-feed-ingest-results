@@ -3190,7 +3190,7 @@
                 "OBJECTID": 186,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "999 Water St, Charlestown, IN 47111",
+                "Site_Address": "748 Lewis and Clark Pkwy, Clarksville, IN 47129",
                 "Site_County": "Clark",
                 "Site_Location_Info": null,
                 "Site_Name": "CLARK CO HD COVID VAX",
@@ -3206,8 +3206,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.66149289763446,
-                "y": 38.44527915659285
+                "x": -85.7624941602994,
+                "y": 38.311701760302235
             }
         },
         {
@@ -15272,7 +15272,7 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": null,
+                "FQHC_Registry_Stat": "State",
                 "GlobalID": "6897b414-bf9b-464a-90b2-9144d06d52ad",
                 "ID": null,
                 "IsView": 1,
@@ -21328,6 +21328,66 @@
                 },
                 "x": -87.04046269205159,
                 "y": 41.61799481109755
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "439903ac-ae49-40c6-948d-c3755fabeb2b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "FEMA WestSide Leadershp Acdmy VAX",
+                "OBJECTID": 880,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "900 Gerry St, Gary, IN 46406",
+                "Site_County": "Lake",
+                "Site_Location_Info": "Mobile site 4/22 – 4/24; 9 am – 4 pm",
+                "Site_Name": "FEMA WestSide Leadershp Acdmy VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "FEMA",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.4071654866868,
+                "y": 41.59329972840025
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "f8d8be6c-a16a-410c-b7d2-ddd187e84ef4",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Trinity Free Clinic VAX",
+                "OBJECTID": 881,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1045 W. 146th St, Carmel, IN 46032",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Trinity Free Clinic VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.1487058839351,
+                "y": 39.99918711780954
             }
         }
     ],

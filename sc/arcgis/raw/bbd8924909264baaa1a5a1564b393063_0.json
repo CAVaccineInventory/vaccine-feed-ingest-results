@@ -14174,7 +14174,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29072",
                 "URL": "https://www.mypharmacyandoptical.com/covid19-vaccination/",
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "PFR",
                 "loc_name": "My Pharmacy",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1385,
@@ -38580,7 +38580,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "885cf8c1-05a0-41a6-80d5-e47098156d6c",
                 "Loc_ID": 1275,
@@ -42705,7 +42705,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "bf7e6e02-8313-4470-8a24-2ed1ca839e37",
                 "Loc_ID": null,
@@ -55179,7 +55179,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "76839654-cd18-4634-8f61-9f1c0a8fe1da",
                 "Loc_ID": null,
@@ -55773,7 +55773,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "71c4bfb3-86fe-4b6a-bcac-1c753bc7ef71",
                 "Loc_ID": null,
@@ -55787,7 +55787,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29680",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #205",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -55806,7 +55806,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "edff40fe-86f6-40e6-9e9e-2c42ecb5fcaa",
                 "Loc_ID": null,
@@ -55820,7 +55820,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29455",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #528",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -55839,7 +55839,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "332a4d3f-b16f-48e8-b090-d0558cc13f72",
                 "Loc_ID": null,
@@ -55853,7 +55853,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29455",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #529",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -55872,7 +55872,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "14163303-8445-4db2-bd71-2fd49a5255c9",
                 "Loc_ID": null,
@@ -55886,7 +55886,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29588",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #1140",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -55938,7 +55938,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "af9ab79e-22e6-4163-826b-d76cacc56dcf",
                 "Loc_ID": null,
@@ -55952,7 +55952,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29708",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #1571",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -55971,7 +55971,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5493e425-f785-41d7-8d46-b9c5cbbe999a",
                 "Loc_ID": null,
@@ -55985,7 +55985,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29229",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #1200",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56004,7 +56004,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "38f0e228-1529-489d-9fc7-d48382a44066",
                 "Loc_ID": null,
@@ -56018,7 +56018,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29169",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #2248",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56037,7 +56037,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0edebdca-7046-49ce-a450-abe16c5e2cbd",
                 "Loc_ID": null,
@@ -56051,7 +56051,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29229",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #2269",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56070,7 +56070,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "11e05c22-73c4-49a7-9c67-7f3eaf452bf1",
                 "Loc_ID": null,
@@ -56084,7 +56084,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29072",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #2497",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56103,7 +56103,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c8481670-2e97-4978-9de8-e57da0111b9e",
                 "Loc_ID": null,
@@ -56117,7 +56117,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29483",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3113",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56136,7 +56136,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c835adf5-764d-4c01-8713-bc8b27d7f0ae",
                 "Loc_ID": null,
@@ -56150,7 +56150,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29601",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3203",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56169,7 +56169,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9c756e58-6ef1-4adb-b0d7-6d7873549e9b",
                 "Loc_ID": null,
@@ -56183,7 +56183,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29642",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3533",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56202,7 +56202,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7b460b96-a0ac-4aa8-bb4b-83366cc66d10",
                 "Loc_ID": null,
@@ -56216,7 +56216,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29620",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3543",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56235,7 +56235,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "cd0802d1-41f2-4bf6-9ef0-7adf7719eaa7",
                 "Loc_ID": null,
@@ -56249,7 +56249,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29403",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3564",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56268,7 +56268,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9b0a8e33-b72f-4be3-92b5-bae7e45f2b9a",
                 "Loc_ID": null,
@@ -56282,7 +56282,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29572",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3567",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56301,7 +56301,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "4ae26c44-2e41-4992-add5-32a098259c32",
                 "Loc_ID": null,
@@ -56315,7 +56315,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29669",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3571",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56334,7 +56334,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9dd8e70a-0527-4dbb-8197-e6c3e2fbe644",
                 "Loc_ID": null,
@@ -56348,7 +56348,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29006",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3578",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56367,7 +56367,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7ced9c46-3137-45bd-8349-41b733beccf7",
                 "Loc_ID": null,
@@ -56381,7 +56381,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29209",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3850",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56400,7 +56400,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5aeeef9a-209a-4732-a818-9d26040d33e4",
                 "Loc_ID": null,
@@ -56414,7 +56414,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29526",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3851",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56433,7 +56433,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9c88b9a3-f062-45c9-a26f-cdc395d9649c",
                 "Loc_ID": null,
@@ -56447,7 +56447,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29574",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3855",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56466,7 +56466,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e3e8b03d-fe35-457a-aade-73b793448657",
                 "Loc_ID": null,
@@ -56480,7 +56480,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29560",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3863",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56499,7 +56499,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6c76a4f0-6c94-4302-b734-9ebeaff7b784",
                 "Loc_ID": null,
@@ -56513,7 +56513,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29405",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3870",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56532,7 +56532,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "22491d5a-c074-4172-b142-0cccbd7289d8",
                 "Loc_ID": null,
@@ -56546,7 +56546,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29611",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #3886",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56565,7 +56565,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ca602b4f-e618-4820-b206-f0ccf8ba7ae7",
                 "Loc_ID": null,
@@ -56579,7 +56579,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29204",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #4114",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56598,7 +56598,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7d3700e0-227c-4652-bf3f-e65747f0e896",
                 "Loc_ID": null,
@@ -56612,7 +56612,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29687",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #4122",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56631,7 +56631,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9edd3444-3acb-4878-823b-dd836d7ace3b",
                 "Loc_ID": null,
@@ -56645,7 +56645,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29650",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #4153",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56664,7 +56664,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d249727a-f72a-4987-996e-e36481e73c8f",
                 "Loc_ID": null,
@@ -56678,7 +56678,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29715",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #4287",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56697,7 +56697,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "eefa7810-b6d8-4e31-af38-ac9a347b2baf",
                 "Loc_ID": null,
@@ -56711,7 +56711,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29732",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #4288",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56730,7 +56730,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1cec4a72-26c4-4e4e-9ef3-a2d5769fa44c",
                 "Loc_ID": null,
@@ -56744,7 +56744,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29572",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5044",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56763,7 +56763,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9ebad371-38a0-46df-9e70-b17ecf9ef83f",
                 "Loc_ID": null,
@@ -56777,7 +56777,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29707",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5479",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56796,7 +56796,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "837037e1-0879-4095-b9ef-335d140ebc3f",
                 "Loc_ID": null,
@@ -56810,7 +56810,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29210",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #4156",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56829,7 +56829,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "30d11c0f-0ce0-4f9f-9f33-cdd4fc0a2e91",
                 "Loc_ID": null,
@@ -56843,7 +56843,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29720",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5476",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56862,7 +56862,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "63917fb0-7f56-4dfe-a029-8b79727b7fae",
                 "Loc_ID": null,
@@ -56876,7 +56876,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29728",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5541",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56895,7 +56895,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3daf98ff-7cf7-4af3-9e43-99d371366be5",
                 "Loc_ID": null,
@@ -56909,7 +56909,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29059",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5386",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56928,7 +56928,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8177730c-6e43-48fd-afc5-03e367c70d7e",
                 "Loc_ID": null,
@@ -56942,7 +56942,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29644",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5542",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56961,7 +56961,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5ae51fc9-97bc-4c49-812f-6dc6f216f625",
                 "Loc_ID": null,
@@ -56975,7 +56975,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29477",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5548",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -56994,7 +56994,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9e640f66-b2c6-4fe8-9fec-855b53fab33a",
                 "Loc_ID": null,
@@ -57008,7 +57008,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29928",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5566",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57027,7 +57027,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "abbb255e-52a4-4560-99e2-3770211e0264",
                 "Loc_ID": null,
@@ -57041,7 +57041,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29841",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5575",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57060,7 +57060,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "201b8c27-749f-465a-9d63-938e21dccfc6",
                 "Loc_ID": null,
@@ -57074,7 +57074,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29483",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5580",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57093,7 +57093,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6c5c8b9c-c09b-4763-9250-0f4b85d404c2",
                 "Loc_ID": null,
@@ -57107,7 +57107,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29464",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #5845",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57126,7 +57126,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "af116e70-7d32-4cd8-8e1d-7300c2fe38ab",
                 "Loc_ID": null,
@@ -57140,7 +57140,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29445",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #6410",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57159,7 +57159,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a3dbe818-a8f0-4056-9c54-19c8a79761d1",
                 "Loc_ID": null,
@@ -57173,7 +57173,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29710",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7036",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57192,7 +57192,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "db1efeca-3648-425e-906c-7b28fa55358a",
                 "Loc_ID": null,
@@ -57206,7 +57206,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29566",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7040",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57225,7 +57225,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "32b05c6a-fff2-4653-ba82-c74354458e5a",
                 "Loc_ID": null,
@@ -57239,7 +57239,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29466",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7159",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57258,7 +57258,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "01b133ee-dd7e-4b94-8878-9429ff1993de",
                 "Loc_ID": null,
@@ -57272,7 +57272,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29407",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7305",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57291,7 +57291,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "416f0fa1-7b2f-42de-be09-71f2ee2812c3",
                 "Loc_ID": null,
@@ -57305,7 +57305,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29605",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7348",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57324,7 +57324,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9504b616-6245-47bf-8b4f-885c1514e04b",
                 "Loc_ID": null,
@@ -57338,7 +57338,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29673",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7351",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57357,7 +57357,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a6f05dec-8b84-4019-9ba5-cdb25cf39c4e",
                 "Loc_ID": null,
@@ -57371,7 +57371,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29440",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7359",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57390,7 +57390,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "352d1ee8-74dd-40d6-85d1-32eb680ecb2c",
                 "Loc_ID": null,
@@ -57404,7 +57404,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29582",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7366",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57423,7 +57423,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "fccd19a2-fca3-40de-bfce-eccabae0c2d4",
                 "Loc_ID": null,
@@ -57437,7 +57437,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29203",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7516",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57456,7 +57456,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "bb55f1fc-ee90-4c5e-90d6-c71fdc30ab09",
                 "Loc_ID": null,
@@ -57470,7 +57470,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29445",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7568",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57489,7 +57489,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1267b32a-cf81-4c2c-bf0d-e6bbc0fa38bd",
                 "Loc_ID": null,
@@ -57503,7 +57503,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29510",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7697",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57522,7 +57522,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "92ec6630-7ccf-4143-960a-26ac2ddb7e4f",
                 "Loc_ID": null,
@@ -57536,7 +57536,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29464",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #7795",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57555,7 +57555,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b46dc46d-c60d-4af5-bf81-7ae0c86f53bb",
                 "Loc_ID": null,
@@ -57569,7 +57569,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29572",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #8492",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57588,7 +57588,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6de8e69d-03d5-4d38-a8db-e58c236e2ff3",
                 "Loc_ID": null,
@@ -57602,7 +57602,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29577",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16372",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57621,7 +57621,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5748a832-bb27-4e20-a04b-438557ef8e29",
                 "Loc_ID": null,
@@ -57635,7 +57635,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29607",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16540",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57654,7 +57654,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "94aa2c52-29d0-40e1-bb79-5cd1ec5a438b",
                 "Loc_ID": null,
@@ -57668,7 +57668,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29621",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16555",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57687,7 +57687,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d2f69a95-c24a-44ff-8613-2af825105334",
                 "Loc_ID": null,
@@ -57701,7 +57701,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29212",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16556",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57720,7 +57720,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "449869f6-0bc9-4241-a029-67e34d3ad168",
                 "Loc_ID": null,
@@ -57734,7 +57734,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29803",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16653",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57753,7 +57753,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7d5465f2-99b2-4852-915b-862d7e8a7138",
                 "Loc_ID": null,
@@ -57767,7 +57767,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29910",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16641",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57786,7 +57786,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "083e97b3-9fc9-46ca-a978-0f73a1f07b4e",
                 "Loc_ID": null,
@@ -57800,7 +57800,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29229",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16662",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57819,7 +57819,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7ca5721e-9e27-4327-ba7f-7ee97993d0ed",
                 "Loc_ID": null,
@@ -57833,7 +57833,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29730",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16710",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57852,7 +57852,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d5d3fc56-2640-4212-b58a-7a27124df1b6",
                 "Loc_ID": null,
@@ -57866,7 +57866,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29407",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16730",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57885,7 +57885,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "30827b30-d579-4709-ac1a-a58453d53637",
                 "Loc_ID": null,
@@ -57899,7 +57899,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29501",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16784",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57918,7 +57918,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "adadf87c-fbf8-4e19-a890-493a4889e1df",
                 "Loc_ID": null,
@@ -57932,7 +57932,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29483",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16825",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57951,7 +57951,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "42c494a0-7d81-4eb6-8f74-dc57cd660bd9",
                 "Loc_ID": null,
@@ -57965,7 +57965,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29464",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16859",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -57984,7 +57984,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "bde87a3c-49f9-435a-992a-cc2861052a05",
                 "Loc_ID": null,
@@ -57998,7 +57998,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29406",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16950",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -58017,7 +58017,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3257dcf7-7b24-42a4-acea-51e71cc286e8",
                 "Loc_ID": null,
@@ -58031,7 +58031,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29680",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #16990",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -58050,7 +58050,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8dedd9fd-a6b7-442d-a9c3-63619550c737",
                 "Loc_ID": null,
@@ -58064,7 +58064,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29687",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #17054",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -58083,7 +58083,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "182741ec-f765-48d2-b3ac-f0c8064a2819",
                 "Loc_ID": null,
@@ -58097,7 +58097,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29072",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #17351",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -58116,7 +58116,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5e15c333-9c8d-438d-a283-aa7f70da3fc5",
                 "Loc_ID": null,
@@ -58130,7 +58130,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29588",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #17613",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -59040,7 +59040,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a7668104-b03e-4598-9ce2-cd9c0e1ee18e",
                 "Loc_ID": null,
@@ -59054,7 +59054,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29842",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "PFR",
                 "loc_name": "CVS #4388",
                 "loc_type1": "Pharmacy - chain",
                 "ref_ID": null,
@@ -59318,7 +59318,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29588",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Pfizer",
+                "V_Manufacturer": "PFR",
                 "loc_name": "CVS #1540",
                 "loc_type1": "Pharmacy - chain",
                 "ref_ID": null,
@@ -59898,7 +59898,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6f6b60b1-6471-42da-9dbe-410b2f2e695b",
                 "Loc_ID": null,
@@ -61416,7 +61416,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d484523c-04f4-4b63-b8a8-b7a90fddf4ce",
                 "Loc_ID": null,
@@ -61713,7 +61713,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5e862306-10b2-4da0-b0cd-615f29fc7777",
                 "Loc_ID": null,
@@ -65970,8 +65970,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "vaccines@nursecm.com",
                 "GlobalID": "c88d2fae-36a2-42cf-b57e-a9b9a0ff16dc",
                 "Loc_ID": 1646,
                 "OBJECTID": 19422,
@@ -65980,10 +65980,10 @@
                 "SiteAddress": "606 W Main St,",
                 "SiteAddressDetail": " ",
                 "SiteCity": "Lexington",
-                "SitePhone": null,
+                "SitePhone": "1-855-222-0083 ext 513",
                 "SiteState": "SC",
                 "SiteZip": "29072",
-                "URL": null,
+                "URL": "http://www.nursecm.com/",
                 "V_Manufacturer": null,
                 "loc_name": "Nurse Care Management Solutions, LLC",
                 "loc_type1": "Chronic Care Management Provider",
@@ -67681,6 +67681,864 @@
                 },
                 "x": -80.55897920367329,
                 "y": 32.82994394844667
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "c3ffacd8-215b-40fa-b884-a41ac622f6f0",
+                "Loc_ID": 1626,
+                "OBJECTID": 23445,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "200 University Ridge",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29601",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "Union County Health Department",
+                "loc_type1": "Public health provider - public health clinic",
+                "ref_ID": null,
+                "vfc_text": "SCA144000",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.40356662399955,
+                "y": 34.83971474300051
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "a66b8378-620d-4e28-b939-586a07617c6a",
+                "Loc_ID": 1606,
+                "OBJECTID": 23446,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "4421 Highway 81 North",
+                "SiteAddressDetail": null,
+                "SiteCity": "Anderson",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29621",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "Robert Bosch, LLC",
+                "loc_type1": "Health center - occupational",
+                "ref_ID": null,
+                "vfc_text": "SCA904032",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.60724258399966,
+                "y": 34.62572549600054
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "12f28330-41de-457f-993b-84bc80607c4d",
+                "Loc_ID": 1598,
+                "OBJECTID": 23447,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "2347 Hwy 17 Business South",
+                "SiteAddressDetail": null,
+                "SiteCity": "Garden City",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29576",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "Tidelands Health Family Medicine Garden City",
+                "loc_type1": "Medical practice - family medicine",
+                "ref_ID": null,
+                "vfc_text": "SCA926063",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.0015778549996,
+                "y": 33.593906858000594
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "e22b54ae-f90f-4f29-a2f7-28e25a32b6ae",
+                "Loc_ID": 1545,
+                "OBJECTID": 23448,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "261 S Herlong Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Rock Hill",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29732",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "PruittHealth - Rock Hill",
+                "loc_type1": "Long-term care - nursing home, skilled nursing facility, federally certified",
+                "ref_ID": null,
+                "vfc_text": "SCA946037",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.05450400399968,
+                "y": 34.955435009000496
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "cadc33a1-9617-4694-aa51-7459a9433ec6",
+                "Loc_ID": 689,
+                "OBJECTID": 23449,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "1088 Johnnie Dodds Blvd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Mt. Pleasant",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29464",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "East Cooper Dialysis Center",
+                "loc_type1": "Outpatient Chronic Dialysis Clinic",
+                "ref_ID": null,
+                "vfc_text": "SCA910094",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.86026873899965,
+                "y": 32.813739655000575
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "a00fc526-d336-4422-9805-73ddad96b4c5",
+                "Loc_ID": 1652,
+                "OBJECTID": 23450,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "2724 Palmetto St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29501",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "REVIVED MEDICAL TRAINING CENTER",
+                "loc_type1": "Urgent care",
+                "ref_ID": null,
+                "vfc_text": "SCA921032",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.82944635499962,
+                "y": 34.17673701800055
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "a2c1f92a-2218-4428-9bf1-cb2e4e5649d7",
+                "Loc_ID": 694,
+                "OBJECTID": 23451,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "959 Folly Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29412",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "James Island Dialysis Center",
+                "loc_type1": "Outpatient Chronic Clinic",
+                "ref_ID": null,
+                "vfc_text": "SCA910095",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.96953505499965,
+                "y": 32.73109432600046
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "5ce0b5de-0918-43a1-a705-b87a82739587",
+                "Loc_ID": 1667,
+                "OBJECTID": 23452,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "169 Medical Circle",
+                "SiteAddressDetail": "Suite C",
+                "SiteCity": "West Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29169",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "Plante Internal Medicine",
+                "loc_type1": "Medical practice - internal medicine",
+                "ref_ID": null,
+                "vfc_text": "SCA932056",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.11220904099963,
+                "y": 34.00202518600048
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "177b3046-9475-4a81-b623-29d61c9dcb9f",
+                "Loc_ID": 1621,
+                "OBJECTID": 23453,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "795 Old Clemson Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29229",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "FN Health & Wellness Center",
+                "loc_type1": "Medical practice - family medicine",
+                "ref_ID": null,
+                "vfc_text": "SCA940077",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.86901303599967,
+                "y": 34.12536970000053
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "225d4beb-e777-42bb-a0db-4e0d469e3fd6",
+                "Loc_ID": 1680,
+                "OBJECTID": 23454,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "8301 Farrow Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29203",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "SCDDSN - Midlands Center",
+                "loc_type1": "Long-term care - intellectual or developmental disability",
+                "ref_ID": null,
+                "vfc_text": "SCA940078",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.97378226199959,
+                "y": 34.09105717200043
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "49c3df04-7f99-4a6f-8dbb-7606a9a4d7a7",
+                "Loc_ID": null,
+                "OBJECTID": 23455,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "9650 Redstone Dr.",
+                "SiteAddressDetail": null,
+                "SiteCity": "Indian Land",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29707",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39867",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Indian Land",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.85264191499965,
+                "y": 34.99881633000052
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "036b89e6-2ffb-4859-bfab-b6069c56f91c",
+                "Loc_ID": null,
+                "OBJECTID": 23456,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "101 Masters Blvd",
+                "SiteAddressDetail": "Electrolux Home Products",
+                "SiteCity": "Anderson",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29626",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39985",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Electrolux",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.6779180139996,
+                "y": 34.44692490900047
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5e86a6a0-6519-4160-a050-87cd9dc669e2",
+                "Loc_ID": null,
+                "OBJECTID": 23457,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "4761 Luella Ave",
+                "SiteAddressDetail": "Royal Baptist Church",
+                "SiteCity": "North Charleston",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29405",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39851",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - North Charleston",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.99911211899968,
+                "y": 32.87903808300041
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "ae7bd166-20cc-4ccd-920a-af271e6f725d",
+                "Loc_ID": null,
+                "OBJECTID": 23458,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "150 Abel Rd",
+                "SiteAddressDetail": "Abel Baptist Church",
+                "SiteCity": "Clemson",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29631",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39945",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Clemson",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.80365534899965,
+                "y": 34.693738958000495
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "612deb43-5053-435b-b407-e7c73c3552c7",
+                "Loc_ID": null,
+                "OBJECTID": 23459,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": " 5400 Cane Savannah Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Wedgefield",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29168",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=40004",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Wedgefield",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.47951799699962,
+                "y": 33.932080916000416
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "31ab2dd2-d654-4bda-8a1b-3bcb7427c5e9",
+                "Loc_ID": null,
+                "OBJECTID": 23460,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "351 Greyback Rd.",
+                "SiteAddressDetail": "New Bethel Sounds of Praise",
+                "SiteCity": "Summerville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29483",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39922",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Summerville",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.25523171199967,
+                "y": 33.05451637400046
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "2cd86e1c-4303-498e-abed-f319c938c975",
+                "Loc_ID": null,
+                "OBJECTID": 23461,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "1320 Clemson Rd",
+                "SiteAddressDetail": "North Springs Park",
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29229",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39983",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - North Springs Park",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.88994031999965,
+                "y": 34.140844330000505
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "e9536eb9-d9f3-4a8c-9698-a99be07bdb9a",
+                "Loc_ID": null,
+                "OBJECTID": 23462,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "600 Beckman Rd",
+                "SiteAddressDetail": "Meadowlake Park",
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29203",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39984",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Meadowlake Park",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.99449366299967,
+                "y": 34.08030770400046
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "21e6f1c5-062a-4cf0-9041-8874ff340df1",
+                "Loc_ID": null,
+                "OBJECTID": 23463,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "2508 Atlas Road",
+                "SiteAddressDetail": "Bible Way Church",
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29209",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39946",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Bible Way Church",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.97542777099966,
+                "y": 33.94066037400046
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "3f4d0691-122d-4772-96fc-751c5f0c1d7d",
+                "Loc_ID": null,
+                "OBJECTID": 23464,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "15 University Street",
+                "SiteAddressDetail": "South Carolina Governor's School for the Arts and Humanities",
+                "SiteCity": "Greenville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29601",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39995",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Greenville",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.40190404399965,
+                "y": 34.84310688000045
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "93acb47b-dd9b-4f65-8b0b-1ac6b5f8188b",
+                "Loc_ID": null,
+                "OBJECTID": 23465,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "1424 Marthan Rd.",
+                "SiteAddressDetail": "Killian Park",
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29223",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39981",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Columbia",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.95704197999959,
+                "y": 34.154784737000455
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "3c5c0536-6e70-4703-ab4f-a31d1ab17aa7",
+                "Loc_ID": null,
+                "OBJECTID": 23466,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "468 Howe Hall Rd.",
+                "SiteAddressDetail": "Mt. Zion AME Church",
+                "SiteCity": "Goose Creek",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29455",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39852",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Goose Creek",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.01243724199958,
+                "y": 32.98100464000049
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5974b1cc-1b8a-431e-b812-d08ebf8b9312",
+                "Loc_ID": null,
+                "OBJECTID": 23467,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "105 School St, Ridgeville, SC 29472",
+                "SiteAddressDetail": null,
+                "SiteCity": "Ridgeville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29472",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39629",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - Ridgeville",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.31089655299968,
+                "y": 33.09893954500046
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "76e17f3e-00bd-40e8-8ee2-19ce438a0adc",
+                "Loc_ID": null,
+                "OBJECTID": 23468,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "225 Carolina Dr.",
+                "SiteAddressDetail": "St. Stephens Middle School",
+                "SiteCity": "St. Stephens",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29479",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39796",
+                "V_Manufacturer": "Pfizer",
+                "loc_name": "MUSC Health Community Vaccination Event - St. Stephen",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.93320732499956,
+                "y": 33.40535446500047
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "ef2a5ae2-0a5e-4f5a-8a1a-8a789bc5c7db",
+                "Loc_ID": null,
+                "OBJECTID": 23845,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "100 W. College St.",
+                "SiteAddressDetail": null,
+                "SiteCity": "Sumter",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29150",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ Morris College",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.34691182684378,
+                "y": 33.93815318454551
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "8007bfb4-bb0c-4be6-8250-56310846ffca",
+                "Loc_ID": null,
+                "OBJECTID": 23846,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "451 E Carolina Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Hartsville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29550",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ Coker University Deloach Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.06616601546494,
+                "y": 34.37528879520488
             }
         }
     ],
