@@ -21189,7 +21189,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f53a9e25-8790-4867-a950-e59b1cd2642b",
                 "Loc_ID": 323,
@@ -33663,7 +33663,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "63cc3c46-7f8d-4c39-937a-d0b486382278",
                 "Loc_ID": 802,
@@ -33673,7 +33673,7 @@
                 "SiteAddress": "102 Morgan place",
                 "SiteAddressDetail": "",
                 "SiteCity": "Summerville",
-                "SitePhone": null,
+                "SitePhone": "843-832-9588",
                 "SiteState": "SC",
                 "SiteZip": "29485",
                 "URL": null,
@@ -53694,7 +53694,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5e6b0472-5651-49ed-8d95-d1848a6e15ac",
                 "Loc_ID": null,
@@ -66993,7 +66993,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d40c11f0-919c-404a-b6c0-b388465e94a8",
                 "Loc_ID": null,
@@ -67257,7 +67257,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b131e972-6ab8-4bbf-8b5f-595852471be1",
                 "Loc_ID": null,
@@ -67290,7 +67290,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0a7b31a2-4b10-4f21-9187-b5c959c70d93",
                 "Loc_ID": null,
@@ -67323,7 +67323,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "93126acf-cac4-4bc6-8edd-c20f7710453a",
                 "Loc_ID": null,
@@ -68018,72 +68018,6 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
-                "GlobalID": "49c3df04-7f99-4a6f-8dbb-7606a9a4d7a7",
-                "Loc_ID": null,
-                "OBJECTID": 23455,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "9650 Redstone Dr.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Indian Land",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29707",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39867",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - Indian Land",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.85264191499965,
-                "y": 34.99881633000052
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "036b89e6-2ffb-4859-bfab-b6069c56f91c",
-                "Loc_ID": null,
-                "OBJECTID": 23456,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "101 Masters Blvd",
-                "SiteAddressDetail": "Electrolux Home Products",
-                "SiteCity": "Anderson",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29626",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39985",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - Electrolux",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.6779180139996,
-                "y": 34.44692490900047
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
                 "GlobalID": "5e86a6a0-6519-4160-a050-87cd9dc669e2",
                 "Loc_ID": null,
                 "OBJECTID": 23457,
@@ -68473,6 +68407,138 @@
                 },
                 "x": -79.93320732499956,
                 "y": 33.40535446500047
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "00dc25eb-5ca1-4e00-9fc3-b3553a912af0",
+                "Loc_ID": null,
+                "OBJECTID": 23469,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "5822 Columbia Hwy N",
+                "SiteAddressDetail": null,
+                "SiteCity": "Monetta",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29105",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": null,
+                "loc_name": "DHEC @ Big Mo Drive-In Theatre",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.59823644354708,
+                "y": 33.85237307162123
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "50bf4f5c-5ee7-452f-a338-bc5f615826a8",
+                "Loc_ID": null,
+                "OBJECTID": 23470,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "1066 Sunset Blvd",
+                "SiteAddressDetail": null,
+                "SiteCity": "West Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29169",
+                "URL": "https://www.lexmed.com/coronavirus/covid19-vaccine",
+                "V_Manufacturer": "PZR, MOD",
+                "loc_name": "Lexington Medical Center @ Brookland Baptist Church",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.07354548809747,
+                "y": 33.99824570709109
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "vaccines@nursecm.com",
+                "GlobalID": "f798894a-e5f8-44f7-8d1d-425ee110e641",
+                "Loc_ID": null,
+                "OBJECTID": 23471,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "10809 Broadway River Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Irmo",
+                "SitePhone": "1-855-222-0083 ext 513",
+                "SiteState": "SC",
+                "SiteZip": "29063",
+                "URL": "http://www.nursecm.com/",
+                "V_Manufacturer": null,
+                "loc_name": "Nurse Care Management Solutions @ New Life Community Church Irmo",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.21873495018997,
+                "y": 34.12811115902173
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "06bdb7ce-6980-4d28-a165-063c31a96b11",
+                "Loc_ID": null,
+                "OBJECTID": 23472,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "321 N. Fairview Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29302",
+                "URL": null,
+                "V_Manufacturer": null,
+                "loc_name": "DHEC Mobile Clinic @ Converse College",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.9187188934668,
+                "y": 34.96023604258136
             }
         },
         {

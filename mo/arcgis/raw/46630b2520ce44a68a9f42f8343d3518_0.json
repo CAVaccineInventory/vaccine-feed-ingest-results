@@ -21359,6 +21359,36 @@
                 "x": -86.1487058839351,
                 "y": 39.99918711780954
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a4910a10-dc25-4a27-a20f-d6cbf4859650",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Gil Drugs",
+                "OBJECTID": 882,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "52 Lincolnway, Valparaiso, IN 46383",
+                "Site_County": "Porter",
+                "Site_Location_Info": null,
+                "Site_Name": "Gil Drugs",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://healthmartcovidvaccine.com",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.06119705933084,
+                "y": 41.468097856030894
+            }
         }
     ],
     "fields": [
