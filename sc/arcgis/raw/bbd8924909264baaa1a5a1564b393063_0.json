@@ -23697,8 +23697,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "scook@plexushealth.com",
                 "GlobalID": "9221f204-ab01-4e08-94d3-340334d9ba1d",
                 "Loc_ID": 733,
                 "OBJECTID": 722,
@@ -36863,8 +36863,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "52cb3aeb-a13d-4d34-a411-e23a22a41ba9",
                 "Loc_ID": 1397,
@@ -36874,11 +36874,11 @@
                 "SiteAddress": "1483 Old Cherokee Rd.",
                 "SiteAddressDetail": "",
                 "SiteCity": "Lexington",
-                "SitePhone": null,
+                "SitePhone": "803-766-7686",
                 "SiteState": "SC",
                 "SiteZip": "29072",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://protect2.fireeye.com/v1/url?k=adc5af63-f25e9651-adc57a92-8697e44c76c2-b50ee7b5b556a278&q=1&e=82842dd0-a0e5-44ac-9390-808eaccc74ba&u=https%3A%2F%2Fwww.gracegps.com%2F",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Grace Physicians Services, LLC",
                 "loc_type1": "Home health care provider",
                 "ref_ID": 2094,
@@ -43596,7 +43596,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "fc0136db-3e3c-4358-ad05-55019b85d646",
                 "Loc_ID": null,
@@ -55905,7 +55905,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "03ad2464-c73f-4d0b-9cb2-0a4fe4043a8d",
                 "Loc_ID": null,
@@ -55919,7 +55919,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29412",
                 "URL": "http://www.cvs.com/",
-                "V_Manufacturer": "Johnson & Johnson",
+                "V_Manufacturer": "MOD",
                 "loc_name": "CVS #483",
                 "loc_type1": "pharmacy - chain",
                 "ref_ID": null,
@@ -68539,6 +68539,72 @@
                 },
                 "x": -80.06616601546494,
                 "y": 34.37528879520488
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5dc06397-3d92-44ad-a669-84bac55dd4eb",
+                "Loc_ID": null,
+                "OBJECTID": 23847,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "601 Cummings St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29303",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=40082",
+                "V_Manufacturer": "PFR",
+                "loc_name": "MUSC Health Community @ Jerry Richardson Indoor Stadium",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.93350525516922,
+                "y": 34.96348866629626
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "1c753faf-d840-4c6f-9789-f75ef528476a",
+                "Loc_ID": null,
+                "OBJECTID": 23848,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "601 Cummings St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29303",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=40091",
+                "V_Manufacturer": "PFR",
+                "loc_name": "MUSC Health Community @ Jerry Richardson Indoor Stadium #2",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.93206759113701,
+                "y": 34.96316334434641
             }
         }
     ],

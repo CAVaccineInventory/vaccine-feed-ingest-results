@@ -6813,36 +6813,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "7951b34e-1980-4e55-a21b-3073acf9c4e1",
-                "ID": "ISDH1263",
-                "IsView": 1,
-                "Name": "ISDH1263 WALMART PHARMACY 3747 VAX",
-                "OBJECTID": 325,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1501 E 29th St, Muncie, IN 47302",
-                "Site_County": "Delaware",
-                "Site_Location_Info": null,
-                "Site_Name": "Walmart (#3747)- E 29th St VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Pharmacy",
-                "Vaccine_Type": "FRPP"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.36950599999996,
-                "y": 40.15901800000006
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "45dd61dd-cf75-40d4-a8a5-97119f813857",
                 "ID": "ISDH1267",
                 "IsView": 1,
@@ -16519,7 +16489,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://book-ch.appointment-plus.com/ctt9cb4y#/",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Multi"
             },
             "geometry": {
                 "spatialReference": {
@@ -16722,7 +16692,7 @@
                 "Promote_Site": null,
                 "Site_Address": "600 St. Mary's Ave, Frankfort, IN 46041",
                 "Site_County": "Clinton",
-                "Site_Location_Info": "This is a mobile site 4/18 – 4/19;  9am – 6pm.",
+                "Site_Location_Info": "This is a mobile site 5/18 – 5/19;  9am – 6pm.",
                 "Site_Name": "FEMA – St. Mary’s Church",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -17740,9 +17710,9 @@
                 "OBJECTID": 755,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1613 E. 10th St.  Jeffersonville, IN  47130",
+                "Site_Address": "8204 CR 311, Sellersburg, IN 47172",
                 "Site_County": "Clark",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "Mobile site, one day only: 4/22, 12:30pm – 3:30pm. Located in Ivy Tech, Ogle Hall",
                 "Site_Name": "Clark Memorial Mobile VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -17756,8 +17726,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.72746747117198,
-                "y": 38.296826892524315
+                "x": -85.76253467183268,
+                "y": 38.38933425794566
             }
         },
         {
@@ -18017,7 +17987,7 @@
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://www.carmelprescriptionshop.com/bookings-checkout/covid-19-vaccine-ja",
+                "Site_Zotec_Link": "https://book-ch.appointment-plus.com/d1x68hdk/#/",
                 "Symbology": "Regular",
                 "Vaccine_Type": "Johnson & Johnson"
             },
