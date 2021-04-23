@@ -14763,36 +14763,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "c754bed9-5a2a-41b8-96c9-c3fcee58b6c7",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Bedford First Assembly of God VAX",
-                "OBJECTID": 648,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2601 27th St, Bedford, IN 47421",
-                "Site_County": "Lawrence",
-                "Site_Location_Info": "This is a mobile site 4/20-4/22; 9am – 6 pm.",
-                "Site_Name": "Bedford First Assembly of God VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.5054565291863,
-                "y": 38.85012532914102
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "084c73ad-ae2b-438b-9813-3f0dc42b5fe3",
                 "ID": null,
                 "IsView": 1,
@@ -15208,36 +15178,6 @@
                 },
                 "x": -85.10598255898957,
                 "y": 41.05164130258714
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "d6dbee51-1219-48ae-96fe-74de07a6f862",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Logansport Welcome Ctr VAX",
-                "OBJECTID": 666,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "418 4th St, Logansport, IN 46947",
-                "Site_County": "Cass",
-                "Site_Location_Info": "This is a mobile site on 4/20-4/22. Hours: 9am – 5:50pm",
-                "Site_Name": "Logansport Welcome Ctr VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.36515398951914,
-                "y": 40.75222787852182
             }
         },
         {
@@ -17673,36 +17613,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "0810fa78-f7ec-4d1c-b7d6-a6818c3de498",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Clark Memorial Mobile VAX",
-                "OBJECTID": 755,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "8204 CR 311, Sellersburg, IN 47172",
-                "Site_County": "Clark",
-                "Site_Location_Info": "Mobile site, one day only: 4/22, 12:30pm – 3:30pm. Located in Ivy Tech, Ogle Hall",
-                "Site_Name": "Clark Memorial Mobile VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.76253467183268,
-                "y": 38.38933425794566
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "7edd972c-9589-4ed6-b49d-f9c6fe0e2e56",
                 "ID": null,
                 "IsView": 1,
@@ -18718,36 +18628,6 @@
                 },
                 "x": -86.81580670962893,
                 "y": 39.58301893938282
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "971fad85-3662-4284-94c0-366a4ffda6b0",
-                "ID": null,
-                "IsView": 1,
-                "Name": "First Church of God VAX",
-                "OBJECTID": 794,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1200 Depoy Drive, Columbia City, IN 46725",
-                "Site_County": "Whitley",
-                "Site_Location_Info": "This is a mobile site 4/20 – 4/22; 9am – 6pm",
-                "Site_Name": "First Church of God VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.51437338308662,
-                "y": 41.168161881590905
             }
         },
         {
