@@ -4854,7 +4854,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "422c27ee-3646-49f9-a070-cdda091f9de0",
                 "Loc_ID": 1195,
@@ -5448,7 +5448,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5050c698-5b0a-43b0-b2dd-e2a750c341d0",
                 "Loc_ID": 1068,
@@ -5514,7 +5514,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d9ce2e5e-2511-4fed-b667-7646cace05bb",
                 "Loc_ID": 1185,
@@ -35610,7 +35610,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "gracemedcoles@hotmail.com",
                 "GlobalID": "d27b0849-1f88-492e-a20c-4eba0b5af396",
                 "Loc_ID": 1247,
@@ -59931,7 +59931,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a842545c-0af8-4bbb-b940-661499efdfdf",
                 "Loc_ID": null,
@@ -63924,7 +63924,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bd066418-f980-4499-ae11-91e9e73787aa",
                 "Loc_ID": null,
@@ -63957,7 +63957,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "377f5b7e-ccf0-4764-a0e3-cfb976be1317",
                 "Loc_ID": null,
@@ -67092,7 +67092,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5f84d6c8-58df-4c07-91c9-bd51b1a0580e",
                 "Loc_ID": null,
@@ -67521,7 +67521,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "66025e21-4a05-4a5a-8aab-245376ab3a45",
                 "Loc_ID": null,
@@ -68517,15 +68517,15 @@
                 "Loc_ID": null,
                 "OBJECTID": 23472,
                 "Phone_Sec": null,
-                "Region": null,
+                "Region": "UPSTATE",
                 "SiteAddress": "321 N. Fairview Ave",
                 "SiteAddressDetail": null,
                 "SiteCity": "Spartanburg",
                 "SitePhone": "(866) 365-8110",
                 "SiteState": "SC",
                 "SiteZip": "29302",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "DHEC Mobile Clinic @ Converse College",
                 "loc_type1": "State Agency",
                 "ref_ID": null,
@@ -68539,6 +68539,72 @@
                 },
                 "x": -81.9187188934668,
                 "y": 34.96023604258136
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "2abfd1bf-e07e-4e4c-8792-676e0352315c",
+                "Loc_ID": null,
+                "OBJECTID": 23473,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "2940 Concord Rd.",
+                "SiteAddressDetail": null,
+                "SiteCity": "Anderson",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29621",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC @ New Spring Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.6221879560594,
+                "y": 34.595065772979694
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "b5d80da6-6cf3-4441-a09e-5e9101f63699",
+                "Loc_ID": null,
+                "OBJECTID": 23474,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2 Jonesville Avenue",
+                "SiteAddressDetail": null,
+                "SiteCity": "Yemassee",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29945",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": null,
+                "loc_name": "DHEC @ Mt. Nebo Baptist Church",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.7943373622764,
+                "y": 32.725699366519166
             }
         },
         {

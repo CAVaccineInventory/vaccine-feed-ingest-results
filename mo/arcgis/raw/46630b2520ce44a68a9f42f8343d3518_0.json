@@ -15963,36 +15963,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "6d3894cb-0019-48d2-ba93-bec4310ccbed",
-                "ID": null,
-                "IsView": 1,
-                "Name": "MEIJER PHARMACY 127",
-                "OBJECTID": 695,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "4522 Elkhart Rd, Goshen, IN 46526",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": null,
-                "Site_Name": "Meijer Pharmacy - Elkhart Rd",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://clinic.meijer.com",
-                "Symbology": "Regular",
-                "Vaccine_Type": "FRPP"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.9011103525836,
-                "y": 41.62277394173111
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "7c25094c-1bb7-453a-a7e0-2db46464c922",
                 "ID": null,
                 "IsView": 1,
@@ -18252,7 +18222,7 @@
                 "Promote_Site": null,
                 "Site_Address": "401 Lincolnway East, Goshen, IN 46526",
                 "Site_County": "Elkhart",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "Mobile site 5/20 – 5/22, 9 a.m. – 6 p.m. ",
                 "Site_Name": "FEMA Goshen Highschool VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -21388,6 +21358,36 @@
                 },
                 "x": -87.06119705933084,
                 "y": 41.468097856030894
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "53c5e632-2a6e-48f7-872a-61b4878d41fd",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Phil’s Discount Drugs",
+                "OBJECTID": 883,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "702 E. Lincolnway, LaPorte, IN 46350",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": null,
+                "Site_Name": "Phil’s Discount Drugs",
+                "Site_Phone": null,
+                "Site_Special_Inst": "No online scheduling available. Call: 1-219-362-7133",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.70550959247679,
+                "y": 41.6179671366911
             }
         }
     ],
