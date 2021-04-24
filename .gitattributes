@@ -1,2 +1,0 @@
-us/vaccinespotter_org/* filter=lfs diff=lfs merge=lfs -text
-us/vaccinespotter_org/**/* filter=lfs diff=lfs merge=lfs -text
