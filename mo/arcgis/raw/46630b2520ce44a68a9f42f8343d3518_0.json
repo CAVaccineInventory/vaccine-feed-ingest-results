@@ -1092,7 +1092,7 @@
                 "Promote_Site": "Y",
                 "Site_Address": "1900 East Main St,  Danville, IN 46122",
                 "Site_County": "Hendricks",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "Hendricks County Fairgrounds",
                 "Site_Name": "HENDRICKS REG HTH FAIRGROUNDS VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -1798,36 +1798,6 @@
                 },
                 "x": -86.49162036215297,
                 "y": 38.85249498558986
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "7aaf1aed-e87c-4705-b376-2ca967121160",
-                "ID": "ISDH1069",
-                "IsView": 1,
-                "Name": "Monroe County Local Health Department",
-                "OBJECTID": 135,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "302 S College Ave.  Bloomington, IN 47401",
-                "Site_County": "Monroe",
-                "Site_Location_Info": null,
-                "Site_Name": "MONROE CO CONVENTION CENTER VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.53554906830453,
-                "y": 39.16439926998599
             }
         },
         {
@@ -9643,7 +9613,7 @@
                 "Site_Address": "785 East Main Street, Danville , IN 46122-1941",
                 "Site_County": "Hendricks",
                 "Site_Location_Info": null,
-                "Site_Name": "Kroger Pharmacy - E Main St",
+                "Site_Name": "Kroger Pharmacy - 785 E Main St",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Call 866-211-5320 to schedule Kroger appts. ONLY. (Do not call 211.)",
                 "Site_Type": "Pharmacy",
@@ -9673,7 +9643,7 @@
                 "Site_Address": "1930 East Main Street, Plainfield , IN 46168-1859",
                 "Site_County": "Hendricks",
                 "Site_Location_Info": null,
-                "Site_Name": "Kroger Pharmacy - E Main St",
+                "Site_Name": "Kroger Pharmacy - 1930 E Main St",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Call 866-211-5320 to schedule Kroger appts. ONLY. (Do not call 211.)",
                 "Site_Type": "Pharmacy",
@@ -11188,36 +11158,6 @@
                 },
                 "x": -85.90998104576845,
                 "y": 41.62476742264878
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "d18e4552-585d-4493-9e87-947e1659ae3c",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Meijer Pharmacy",
-                "OBJECTID": 496,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "400 N Dan Jones Rd, Plainfield, IN 46168",
-                "Site_County": "Hendricks",
-                "Site_Location_Info": null,
-                "Site_Name": "Meijer Pharmacy - N Dan Jones Rd",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://clinic.meijer.com/",
-                "Symbology": "Pharmacy",
-                "Vaccine_Type": "FRPP"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.38313424697371,
-                "y": 39.712994160647725
             }
         },
         {
@@ -17869,7 +17809,7 @@
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://book-ch.appointment-plus.com/d1x68hdk/#/",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Multi"
             },
             "geometry": {
                 "spatialReference": {
@@ -21268,6 +21208,96 @@
                 },
                 "x": -86.70550959247679,
                 "y": 41.6179671366911
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "cf610088-3bd2-473a-9934-c38313775041",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Odon Pharmacy",
+                "OBJECTID": 884,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "200 W. Main St, Odon, IN 47562",
+                "Site_County": "Daviess",
+                "Site_Location_Info": null,
+                "Site_Name": "Odon Pharmacy",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.healthmartcovidvaccine.com",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.99218524568046,
+                "y": 38.84295504257866
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "3f910f1b-19cf-49c2-a3e1-455e374af77f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Reid Health Ready Care Rchmnd VAX",
+                "OBJECTID": 885,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2507 Chester Blvd, Richmond, IN 47374",
+                "Site_County": "Wayne",
+                "Site_Location_Info": null,
+                "Site_Name": "Reid Health Ready Care Rchmnd VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.88555891625008,
+                "y": 39.86804540416528
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "24b42c14-293a-4197-ac12-b64d84d3ae27",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Reid Hlth Brkville WhitesFarm VAX",
+                "OBJECTID": 886,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "6028 Holland Rd, Brookville, IN 47012",
+                "Site_County": "Franklin",
+                "Site_Location_Info": null,
+                "Site_Name": "Reid Hlth Brkville WhitesFarm VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.97908712103356,
+                "y": 39.38733162273607
             }
         }
     ],
