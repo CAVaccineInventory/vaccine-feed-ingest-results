@@ -11202,14 +11202,14 @@
                 "Promote_Site": "Y",
                 "Site_Address": "4790 W 16th St, Indianapolis, IN  46222",
                 "Site_County": "Marion",
-                "Site_Location_Info": "Gate 2 is off of 16th St.",
+                "Site_Location_Info": "Gate 2 is off of 16th St. This site has J&J but will have Pfizer on 4/30",
                 "Site_Name": "Indy Motor Speedway Gate2 VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Mass Vaccination",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov/",
                 "Symbology": "Mass",
-                "Vaccine_Type": "Moderna"
+                "Vaccine_Type": "Johnson & Johnson"
             },
             "geometry": {
                 "spatialReference": {
@@ -16563,36 +16563,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "ad9f8df4-6300-4dfe-85f3-8af411bb9388",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Center Lake Pavilion VAX",
-                "OBJECTID": 720,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "119 E Canal St, Warsaw, IN 46580",
-                "Site_County": "Kosciusko",
-                "Site_Location_Info": "4/20 – 4/24; 9am to 6pm",
-                "Site_Name": "FEMA Center Lake Pavilion VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.8545385535015,
-                "y": 41.24291291852978
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "6b7f734d-1e11-4621-85e2-6795cddbb966",
                 "ID": null,
                 "IsView": 1,
@@ -16648,36 +16618,6 @@
                 },
                 "x": -86.25047464518074,
                 "y": 41.639083813386435
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "24b3ed9e-5356-47b8-88c2-14d3d9c605e8",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Tolson Center VAX",
-                "OBJECTID": 723,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1320 Benham Ave, Elkhart, IN 46516",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": "4/20 – 4/24; 9am to 6pm",
-                "Site_Name": "FEMA Tolson Center VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.96956727610069,
-                "y": 41.67544903014793
             }
         },
         {
@@ -21088,36 +21028,6 @@
                 },
                 "x": -87.04046269205159,
                 "y": 41.61799481109755
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "439903ac-ae49-40c6-948d-c3755fabeb2b",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA WestSide Leadershp Acdmy VAX",
-                "OBJECTID": 880,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "900 Gerry St, Gary, IN 46406",
-                "Site_County": "Lake",
-                "Site_Location_Info": "Mobile site 4/22 – 4/24; 9 am – 4 pm",
-                "Site_Name": "FEMA WestSide Leadershp Acdmy VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.4071654866868,
-                "y": 41.59329972840025
             }
         },
         {
