@@ -9243,7 +9243,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "02bc344f-fce6-49a7-ac56-b95129b39c05",
                 "Loc_ID": 788,
@@ -26535,7 +26535,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "angela@tidewaterhealth.org",
                 "GlobalID": "1a96399d-d9b3-429c-96c8-413a8bd645fc",
                 "Loc_ID": 31,
@@ -31683,7 +31683,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ddb0fe43-2439-4f4e-b82e-60c1918820dd",
                 "Loc_ID": null,
@@ -53595,7 +53595,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "45edfd1f-80bb-42ad-bd0f-8d70021a7102",
                 "Loc_ID": null,
@@ -53628,7 +53628,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ac5d6f61-da52-43d0-816a-e600c0ce43ce",
                 "Loc_ID": null,
@@ -65409,7 +65409,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "cc66e82d-3dad-4a96-93e3-92b2a28b6144",
                 "Loc_ID": 1610,
