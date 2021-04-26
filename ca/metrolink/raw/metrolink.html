@@ -1,0 +1,341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Vax Locations</title>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-US" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+<script src="assets/jquery-3.3.1.js" type="text/javascript"></script>
+<script src="assets/jquery.dataTables.min.js" type="text/javascript"></script>   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js" type="text/javascript"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/searchpanes/1.2.1/css/searchPanes.dataTables.min.css"/> 
+<link rel="stylesheet" type="text/css" href="assets/responsive-grid.css"/>
+<script src="https://cdn.datatables.net/searchpanes/1.2.1/js/dataTables.searchPanes.min.js" type="text/javascript"></script>
+<script src="https://cdn.datatables.net/select/1.3.3/js/dataTables.select.min.js" type="text/javascript"></script>
+<link href="https://metrolinktrains.com/bundles/css?v=PUPB5uoQRoQvIkB8YK0VIyX7RBEEyoDSJnx4BvbSi001" rel="stylesheet"/>
+
+    <script type="text/javascript">
+   
+        
+        
+        $(document).ready( function () {
+          var table = $('#vaxLocationsTable').DataTable({
+                searchPanes: {
+                    layout: 'columns-1',
+                    controls: false,
+                    show: false
+                },
+              language: {
+                    searchPanes: {
+                        clearMessage: 'Show All',
+                        collapse: {0: 'Search Options', _: 'Search Options (%d)'}
+                    }
+                },
+                dom: 'Bfrtip',
+                pageLength: 7,
+                buttons: [
+                     'csv', 'print'
+                ]
+            });
+           table.searchPanes()
+              $("div.dtsp-verticalPanes").append(table.searchPanes.container());
+            } );
+        
+
+        
+        </script>
+    <style>    
+         /* Odd paragraphs */
+        .dtsp-columns-1:nth-of-type(2n+1) {
+          display: none;
+        } 
+        .dtsp-title{
+          display: none;
+        } 
+
+        body {
+            font-family: nimbus-sans,sans-serif;
+            font-size: 15px;
+        }
+        .DataTables_Table_0{
+            height: 800px;
+            overflow: hidden;
+        }
+        .vaxSiteData{font-size: 1.0em;}
+        
+        .vaxBody{
+            width:90%; 
+            margin-left:auto; 
+            margin-right:auto; 
+            border:none;
+          }
+       @media screen and (max-width: 600px) {
+          .vaxBody{
+            width:100%; 
+          }
+        }
+        
+        #vaxLocationsTable_filter{float: left; margin-left: 18px;}
+         .dtsp-searchCont{display: none !important;}
+    </style>
+
+</head>
+
+
+<body>
+    <div class="vaxBody">
+        <div class="dtsp-verticalContainer" >
+            <div class="w3-row">
+                <div class="w3-third w3-container">
+                    <label>Select a Line</label>
+                    <div class="dtsp-verticalPanes" style="width:100%;"></div>
+                </div>
+                <div class="w3-twothird w3-container" >
+                    <table class="table table-striped" id="vaxLocationsTable">
+                    <thead>
+                        <tr>
+                            <th>Site Name</th>
+                            <th>Metrolink Line</th>
+                            <th>Metrolink Station</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vaxSiteData">
+                        
+                        <tr>
+                            <td>Pomona Fairplex (Gate 15) <br> 2352 Arrow Hwy., Pomona</td>
+                            <td>San Bernardino</td>
+                            <td>Pomona - North</td>
+                        </tr>
+                                                <tr>
+                            <td>Cal State Northridge <br> 18343 Plummer Street, Northridge</td>
+                            <td>Ventura County</td>
+                            <td>Northridge</td>
+                        </tr>
+                                                <tr>
+                            <td>El Sereno Recreation Center <br> 4721 Klamath St., Los Angeles</td>
+                            <td>San Bernardino</td>
+                            <td>Cal State L.A.</td>
+                        </tr>
+                                                <tr>
+                            <td>St. John's Well Child and Family-Lincoln <br> 2515 Alta St., Los Angeles</td>
+                            <td>Union Station</td>
+                            <td>Union Station</td>
+                        </tr>
+                                                <tr>
+                            <td>Henry Mayo Newhall Hospital <br> 23845 McBean Parkway, Valencia</td>
+                            <td>Antelope Valley</td>
+                            <td>Newhall</td>
+                        </tr>
+                                                <tr>
+                            <td>East Valley Community Health Center-Pomona <br> 1555 S. Garey Ave., Pomona</td>
+                            <td>Riverside</td>
+                            <td>Pomona - Downtown</td>
+                        </tr>
+                                                <tr>
+                            <td>East Valley Community Health Center-West Covina <br> 420 S. Glendora, West Covina</td>
+                            <td>San Bernardino</td>
+                            <td>Covina</td>
+                        </tr>
+                                                <tr>
+                            <td>East Valley Community Health Center- Covina <br> 276 W. College St., Covina</td>
+                            <td>San Bernardino</td>
+                            <td>Covina</td>
+                        </tr>
+                                                <tr>
+                            <td>CHA Hollywood Presbyterian Medical Center <br> 1300 N Vermont Ave., Los Angeles</td>
+                            <td>Union Station</td>
+                            <td>Union Station</td>
+                        </tr>
+                                                <tr>
+                            <td>JWCH Wesley Health Center-Lancaster <br> 45104 W 10th St., Lancaster</td>
+                            <td>Antelope Valley</td>
+                            <td>Lancaster</td>
+                        </tr>
+                                                <tr>
+                            <td>Dodger Stadium (Gate C) <br> Academy Road, Los Angeles</td>
+                            <td>Union Station</td>
+                            <td>Union Station</td>
+                        </tr>
+                                                <tr>
+                            <td>San Fernando Clinic <br> 208 Park Ave., San Fernando</td>
+                            <td>Antelope Valley</td>
+                            <td>Sylmar/San Fernando</td>
+                        </tr>
+                                                <tr>
+                            <td>Lincoln Park Clinic <br> 3501 Valley Blvd., Los Angeles</td>
+                            <td>San Bernardino</td>
+                            <td>Cal State L.A.</td>
+                        </tr>
+                                                <tr>
+                            <td>Albertsons <br> 220 E Bonita Ave., San Dimas</td>
+                            <td>San Bernardino</td>
+                            <td>Pomona - North</td>
+                        </tr>
+                                                <tr>
+                            <td>Albertsons <br> 2400 W Commonwealth Ave., Alhambra</td>
+                            <td>San Bernardino</td>
+                            <td>Cal State L.A.</td>
+                        </tr>
+                                                <tr>
+                            <td>Albertsons <br> 133 W Rte 66, Glendora</td>
+                            <td>San Bernardino</td>
+                            <td>Covina</td>
+                        </tr>
+                                                <tr>
+                            <td>Albertsons <br> 43543 20th St W., Lancaster</td>
+                            <td>Antelope Valley</td>
+                            <td>Lancaster</td>
+                        </tr>
+                                                <tr>
+                            <td>Pavilions <br> 1110 W Alameda Ave., Burbank</td>
+                            <td>Ventura County - Antelope Valley</td>
+                            <td>Burbank - Downtown</td>
+                        </tr>
+                                                <tr>
+                            <td>Ralphs <br> 19781 Rinaldi St., Porter Ranch</td>
+                            <td>Ventura County</td>
+                            <td>Chatsworth</td>
+                        </tr>
+                                                <tr>
+                            <td>Ralphs <br> 27760 McBean Pkwy., Valencia</td>
+                            <td>Antelope Valley</td>
+                            <td>Santa Clarita</td>
+                        </tr>
+                                                <tr>
+                            <td>Ralphs <br> 645 W 9th St., Los Angeles</td>
+                            <td>Union Station</td>
+                            <td>Union Station</td>
+                        </tr>
+                                                <tr>
+                            <td>Ralphs <br> 14440 Burbank Blvd., Sherman Oaks</td>
+                            <td>Ventura County</td>
+                            <td>Van Nuys</td>
+                        </tr>
+                                                <tr>
+                            <td>Ralphs <br> 1100 N San Fernando Blvd., Burbank</td>
+                            <td>Ventura County - Antelope Valley</td>
+                            <td>Burbank - Downtown</td>
+                        </tr>
+                                                <tr>
+                            <td>Ralphs <br> 24975 Pico Canyon Rd., Stevenson Ranch</td>
+                            <td>Antelope Valley</td>
+                            <td>Newhall</td>
+                        </tr>
+                                                <tr>
+                            <td>Rite Aid <br> 802 Beverly Blvd., Montebello</td>
+                            <td>Riverside</td>
+                            <td>Montebello/ Commerce</td>
+                        </tr>
+                                                <tr>
+                            <td>Rite Aid <br> 8914 Valley Blvd., Rosemead</td>
+                            <td>San Bernardino</td>
+                            <td>El Monte</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons <br> 4520 Sunset Blvd., Los Angeles</td>
+                            <td>Ventura County - Antelope Valley</td>
+                            <td>Glendale</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons <br> 550 E Baseline Rd., Claremont</td>
+                            <td>San Bernardino</td>
+                            <td>Claremont</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons <br> 1600 Foothill Blvd., La Verne</td>
+                            <td>San Bernardino</td>
+                            <td>Pomona - North</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons <br> 311 W Los Feliz Rd., Glendale</td>
+                            <td>Ventura County - Antelope Valley</td>
+                            <td>Glendale</td>
+                        </tr>
+                                                <tr>
+                            <td>Disneyland Resort (Toy Story Parking Lot) <br> 300 W. Katella Ave., Anaheim</td>
+                            <td>Orange County</td>
+                            <td>Anaheim (Artic)</td>
+                        </tr>
+                                                <tr>
+                            <td>Ontario Health Center <br> 150 E. Holt Blvd., Ontario</td>
+                            <td>San Bernardino</td>
+                            <td>Upland</td>
+                        </tr>
+                                                <tr>
+                            <td>San Bernardino Health Center <br> 606 E. Mill St., San Bernardino</td>
+                            <td>San Bernardino</td>
+                            <td>San Bernardino - Downtown</td>
+                        </tr>
+                                                <tr>
+                            <td>ARMC Family Health Center-Westside Clinic <br> 850 E Foothill Blvd., Rialto</td>
+                            <td>San Bernardino</td>
+                            <td>Rialto</td>
+                        </tr>
+                                                <tr>
+                            <td>San Antonio Regional Hospital <br> 999 San Bernardino Road, Upland</td>
+                            <td>San Bernardino</td>
+                            <td>Upland</td>
+                        </tr>
+                                                <tr>
+                            <td>Sav-On Pharmacy #3177 <br> 8850 Foothill Blvd., Rancho Cucamonga</td>
+                            <td>San Bernardino</td>
+                            <td>Upland</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons Pharmacy #2681 <br> 81 West Foothill Blvd., Upland</td>
+                            <td>San Bernardino</td>
+                            <td>Upland</td>
+                        </tr>
+                                                <tr>
+                            <td>Corona High School <br> 1150 W. 10 Street, Corona</td>
+                            <td>91-PV / IE-OC</td>
+                            <td>Corona - North Main</td>
+                        </tr>
+                                                <tr>
+                            <td>South Oxnard Public Health (Outside Tent) <br> 2500 S. C Street, Oxnard</td>
+                            <td>Ventura County</td>
+                            <td>Oxnard</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons #5688 <br> 5688 Telephone Rd., Ventura</td>
+                            <td>Ventura County</td>
+                            <td>Ventura-East</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons #2436 <br> 2101 North Rose Ave., Oxnard</td>
+                            <td>Ventura County</td>
+                            <td>Oxnard</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons #2678 <br> 6040 Telegraph Rd., Ventura</td>
+                            <td>Ventura County</td>
+                            <td>Ventura-East</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons #1913 <br> 450 S Ventura Rd., Oxnard</td>
+                            <td>Ventura County</td>
+                            <td>Oxnard</td>
+                        </tr>
+                                                <tr>
+                            <td>Vons #2825 <br> 1291 S Victoria Ave., Oxnard</td>
+                            <td>Ventura County</td>
+                            <td>Oxnard</td>
+                        </tr>
+                                            </tbody>
+                </table>
+                </div>
+            </div>
+
+
+            
+       </div>
+    </div>
+</body>
+</html>
+

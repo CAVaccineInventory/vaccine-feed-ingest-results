@@ -34,7 +34,7 @@
 {"title": "Carson Tahoe Regional Medical Group Carson Street COVID", "url": "/", "address": "2874 N. Carson St., Carson City, NV, 89706", "lat": "36.1576758", "lng": "-115.1525204"}
 {"title": "Community Health Alliance", "url": "https://www.chanevada.org/services/medical/covid-19-vaccine/", "address": "1055 S Wells Ave, Reno, NV, 89502", "lat": "36.16039765", "lng": "-115.2318131"}
 {"title": "Community Health Alliance Sparks", "url": "/", "address": "2244 Oddie Blvd, Sparks, NV, 89431", "lat": "36.1656696", "lng": "-115.0822648"}
-{"title": "Economy Drug", "url": "https://www.economydrugely.com/", "address": "696 Aultman St., Ely, NV, 89301", "contact-phone": "775-289-4929", "lat": "39.4301982", "lng": "-119.7572737"}
+{"title": "Economy Drug", "url": "https://www.economydrugely.com/", "address": "696 Aultman St., Ely, NV, 89301", "contact-phone": "775-289-4929", "lat": "39.1602274", "lng": "-119.7661692"}
 {"title": "FRESENIUS KC-CENTENNIAL", "url": "/", "address": "7465 w. azure dr , las vegas , NV, 89130", "lat": "36.1837076", "lng": "-115.18229"}
 {"title": "First Person Care Clinic", "url": "/", "address": "1200 South 4th Street, Las Vegas, NV, 89104", "lat": "36.0128735", "lng": "-114.9875012"}
 {"title": "First Person Care Clinic Henderson", "url": "/", "address": "200 East Horizon Drive, Henderson, NV, 89015", "lat": "39.42765", "lng": "-119.7561707"}
@@ -46,6 +46,7 @@
 {"title": "Mental Health Counseling and Wellness Center", "url": "/", "address": "320 E Warm Springs RD, Las Vegas, NV, 89119", "lat": "39.2481834", "lng": "-119.9506186"}
 {"title": "NORTHERN NV MEDICAL GROUP-VISTA", "url": "/", "address": "5265 Vista Boulevard, Sparks, NV, 89436", "lat": "39.526126", "lng": "-119.8148561"}
 {"title": "Narag Fallon Family Clinic,PC", "url": "/", "address": "1077 New River Parkway, Fallon, NV, 89406", "lat": "36.2735569", "lng": "-115.2604796"}
+{"title": "Nevada State Legislature", "url": "https://telegov.egov.com/nvleg-vaccine", "address": "Corner of Plaza st. and E 7th st., Carson City, NV, 89701", "lat": "39.4301982", "lng": "-119.7572737"}
 {"title": "Nevada Urban Indians, Inc.", "url": "/", "address": "6512 S. McCarran Blvd, Reno, NV, 89512", "lat": "39.5872898", "lng": "-119.7181892"}
 {"title": "Partida Corona Medical Center", "url": "/", "address": "2950 E Flamingo Rd, Las Vegas, NV, 89121", "lat": "39.5156996", "lng": "-119.805857"}
 {"title": "RIDLEY'S PHARMACY #1135", "url": "/", "address": "1125 W WINNEMUCCA BLVD, WINNEMUCCA, NV, 89445", "lat": "39.1786059", "lng": "-119.769674"}
