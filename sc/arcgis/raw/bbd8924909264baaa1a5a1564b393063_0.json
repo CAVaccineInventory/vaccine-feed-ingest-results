@@ -795,7 +795,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0eda9a9c-75df-4573-90cd-12e4a6080aef",
                 "Loc_ID": 1044,
@@ -1290,7 +1290,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d292d671-2c2f-443d-8c6f-bd3c6a54952c",
                 "Loc_ID": 1266,
@@ -1300,11 +1300,11 @@
                 "SiteAddress": "307 N. Broad Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Clinton",
-                "SitePhone": "",
+                "SitePhone": "864-938-3930",
                 "SiteState": "SC",
                 "SiteZip": "29325",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://www.presby.edu/campus-life/protect-pc/covid-19-vaccine/",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Presbyterian College",
                 "loc_type1": "Health center – occupational",
                 "ref_ID": 993,
@@ -1323,7 +1323,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a1985f43-b08d-4f4b-8861-6df158ccbfb1",
                 "Loc_ID": 1273,
@@ -3996,8 +3996,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "RIMGLLCCOVIDVAXAPPT@GMAIL.COM",
                 "GlobalID": "51aaf8eb-2734-4af8-8a9b-af13d3936924",
                 "Loc_ID": 1017,
                 "OBJECTID": 122,
@@ -4009,8 +4009,8 @@
                 "SitePhone": "843-209-0055",
                 "SiteState": "SC",
                 "SiteZip": "29407",
-                "URL": null,
-                "V_Manufacturer": "JJ",
+                "URL": "http://www.vams.cdc.gov/",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "REARDEN INTERNAL MEDICINE & GERIATRICS, LLC",
                 "loc_type1": "Medical practice – internal medicine",
                 "ref_ID": 1075,
@@ -4161,7 +4161,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "mauldinpharmacy@gmail.com",
                 "GlobalID": "99fea3e9-338c-4494-bdfb-55f02781c631",
                 "Loc_ID": 576,
@@ -4175,7 +4175,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29662",
                 "URL": "https://protect2.fireeye.com/v1/url?k=6902a2df-36999bf1-6902772e-86c89b3c9da5-03528db3c04993a9&q=1&e=5fc54726-31d4-419f-bd0c-702faa29a889&u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSca9p47PJFynlhV-FFbP5Vi_DCdOFineD7vJJa1wGYFmqqnzA%2Fviewform%3Fusp%3Dsf_link",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Mauldin Discount Pharmacy",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1080,
@@ -17790,7 +17790,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3de3e1fd-4a02-451b-9edf-f9feb9c0c0b8",
                 "Loc_ID": 336,
@@ -17800,10 +17800,10 @@
                 "SiteAddress": "200 W Harrison St",
                 "SiteAddressDetail": "Ste A",
                 "SiteCity": "Dillon",
-                "SitePhone": "",
+                "SitePhone": "843-774-4749",
                 "SiteState": "SC",
                 "SiteZip": "29536",
-                "URL": null,
+                "URL": "http://www.dilloncommunitypharmacy.com/",
                 "V_Manufacturer": "JJ",
                 "loc_name": "Dillon Community Pharmacy",
                 "loc_type1": "Pharmacy – independent",
@@ -21255,7 +21255,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f515fbd3-4ea8-4b96-a1e7-45fe087dbdc6",
                 "Loc_ID": 599,
@@ -23894,7 +23894,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7155ba15-d57b-4a86-8fa7-46ae6f4b5d31",
@@ -24026,8 +24026,8 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Activated1": "No",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "17409cc5-5c65-4fbf-8a5d-15609c7121da",
                 "Loc_ID": 270,
@@ -32607,7 +32607,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f0537033-a652-4241-8485-4ded5c3a3e0a",
                 "Loc_ID": 1315,
@@ -32673,7 +32673,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f37ef8d0-f912-44f2-b13b-05c8442cd4ef",
                 "Loc_ID": 1297,
@@ -35115,7 +35115,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "parksphar437@gmail.com",
                 "GlobalID": "fe3b888a-8edf-460d-952a-faede7a419af",
                 "Loc_ID": 1092,
@@ -35148,8 +35148,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "RIMGLLCCOVIDVAXAPPT@GMAIL.COM",
                 "GlobalID": "e63e511c-fcbd-4b82-8501-80b24fb3ee6a",
                 "Loc_ID": 1074,
                 "OBJECTID": 1086,
@@ -35161,8 +35161,8 @@
                 "SitePhone": "843-209-0055",
                 "SiteState": "SC",
                 "SiteZip": "29488",
-                "URL": null,
-                "V_Manufacturer": "JJ",
+                "URL": "http://www.vams.cdc.gov/",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "REARDEN INTERNAL MEDICINE & GERIATRICS, LLC",
                 "loc_type1": "Medical practice – internal medicine",
                 "ref_ID": 2042,
@@ -63594,7 +63594,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "de464f33-433e-48eb-bfc5-306a267125dc",
                 "Loc_ID": null,
@@ -68018,72 +68018,6 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
-                "GlobalID": "5e86a6a0-6519-4160-a050-87cd9dc669e2",
-                "Loc_ID": null,
-                "OBJECTID": 23457,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "4761 Luella Ave",
-                "SiteAddressDetail": "Royal Baptist Church",
-                "SiteCity": "North Charleston",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29405",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39851",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - North Charleston",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.99911211899968,
-                "y": 32.87903808300041
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "ae7bd166-20cc-4ccd-920a-af271e6f725d",
-                "Loc_ID": null,
-                "OBJECTID": 23458,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "150 Abel Rd",
-                "SiteAddressDetail": "Abel Baptist Church",
-                "SiteCity": "Clemson",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29631",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39945",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - Clemson",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.80365534899965,
-                "y": 34.693738958000495
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
                 "GlobalID": "612deb43-5053-435b-b407-e7c73c3552c7",
                 "Loc_ID": null,
                 "OBJECTID": 23459,
@@ -68412,7 +68346,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "00dc25eb-5ca1-4e00-9fc3-b3553a912af0",
                 "Loc_ID": null,
@@ -70288,6 +70222,39 @@
                 },
                 "x": -81.71138007999963,
                 "y": 33.5038012330005
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "1c92a109-d9c8-4f24-aca8-5733b4dba744",
+                "Loc_ID": null,
+                "OBJECTID": 25090,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "121 Brewer Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Summerville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29483",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": null,
+                "loc_name": "DHEC @ First Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.24274247709786,
+                "y": 33.05970653324982
             }
         }
     ],

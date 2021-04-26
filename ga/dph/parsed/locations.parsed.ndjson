@@ -27,7 +27,7 @@
 {"Location Name": "Bethelview Pharmacy", "County": "Forsyth", "Address": "5610 Bethelview Road\nCumming, GA 30040", "Services Offered": ""}
 {"Location Name": "Betty Dupree Healthcare Center", "County": "Berrien", "Address": "201 N. Bartow St\nNashville, GA 31639", "Services Offered": ""}
 {"Location Name": "Bibb County Health Department (COVID Vaccine)", "County": "Bibb", "Address": "171 Emery Highway\nMacon, GA 31217", "Services Offered": ""}
-{"Location Name": "Bleckley County Heartland EMS (COVID Vaccine)", "County": "Bleckley", "Address": "226 Lucas Road\nCochran, GA 31014", "Services Offered": ""}
+{"Location Name": "Bleckley County Heartland EMS (COVID Vaccine)", "County": "Bleckley", "Address": "152 North Eighth Street\nCochran, GA 31014", "Services Offered": ""}
 {"Location Name": "Brantley Co. Health Dept. (COVID Site)", "County": "Brantley", "Address": "173 Florida Ave.\nNahunta, GA 31553", "Services Offered": ""}
 {"Location Name": "Briarcliff Pharmacy", "County": "DeKalb", "Address": "2724 Clairmont Road\nAtlanta, GA 30329", "Services Offered": ""}
 {"Location Name": "Brooks County Health Department (COVID Vaccine)", "County": "Brooks", "Address": "500 East Courtland\nQuitman, GA 31643", "Services Offered": ""}
@@ -94,7 +94,7 @@
 {"Location Name": "Diversity Health Center - Liberty", "County": "Liberty", "Address": "502 General Stewart Way\nHinesville, GA 31313", "Services Offered": ""}
 {"Location Name": "Diversity Health Center - Long", "County": "Long", "Address": "213 N. McDonald Street\nLudowici, GA 31316", "Services Offered": ""}
 {"Location Name": "Diversity Health Center - Wayne", "County": "Wayne", "Address": "244 Peachtree Street\nJesup, GA 31545", "Services Offered": ""}
-{"Location Name": "Dodge County Health Department (COVID Vaccine)", "County": "Dodge", "Address": "Dodge County Middle School\n5911 Oak Street\nEastman, GA 31023", "Services Offered": ""}
+{"Location Name": "Dodge County Health Department (COVID Vaccine)", "County": "Dodge", "Address": "1121 Plaza Avenue\nEastman, GA 31023", "Services Offered": ""}
 {"Location Name": "Dooly County Health Dept (COVID Vaccine)", "County": "Dooly", "Address": "204 West Union Street\nVienna, GA 31092", "Services Offered": ""}
 {"Location Name": "Dougherty County Health Department (COVID Vaccine)", "County": "Dougherty", "Address": "1710 South Slappey Boulevard\nAlbany, GA 31701-2634", "Services Offered": ""}
 {"Location Name": "Douglas Family Health", "County": "Coffee", "Address": "1309 Ocilla Rd\nDouglas, GA 30533", "Services Offered": ""}
@@ -141,6 +141,7 @@
 {"Location Name": "Georgia Mountains Health Ellijay", "County": "Gilmer", "Address": "772 Maddox Drive\nSuite 122\nEllijay, GA 30540", "Services Offered": ""}
 {"Location Name": "Georgia Mountains Health Services - Blue", "County": "Fannin", "Address": "165 Blue Ridge Overlook\nBlue Ridge, GA 30513-4575", "Services Offered": ""}
 {"Location Name": "Glenvue Nursing Home", "County": "Tattnall", "Address": "721 N. Veterans Boulevard\nGlennville, GA 30427", "Services Offered": ""}
+{"Location Name": "Glofusion Clinic (COVID Vaccine)", "County": "Spalding", "Address": "1705 Williamson Rd\nSuite 101\nGriffin, GA 30224", "Services Offered": ""}
 {"Location Name": "Glynn County Health Department (COVID Vaccine)", "County": "Glynn", "Address": "2747 Fourth Street\nBrunswick, GA 31520-3714", "Services Offered": ""}
 {"Location Name": "Good Samaritan Health And Wellness Center", "County": "Pickens", "Address": "175 Samaritan Drive\nJasper, GA 30143", "Services Offered": ""}
 {"Location Name": "Good Samaritan Health Center", "County": "Fulton", "Address": "1015 Donald Lee Hollowell Parkway\nAtlanta, GA 30318", "Services Offered": ""}
@@ -191,7 +192,7 @@
 {"Location Name": "Lacey's Marietta Pharmacy (COVID Vaccine)", "County": "Cobb", "Address": "790 Church Street \nMarietta, GA 30060", "Services Offered": ""}
 {"Location Name": "Lane Drug Co.", "County": "Calhoun", "Address": "19427 Hartford St E\nEdison, GA 39846", "Services Offered": ""}
 {"Location Name": "Lanier County Health Department (COVID Vaccine)", "County": "Lanier", "Address": "53 West Murrell St\nLakeland, GA 31635", "Services Offered": ""}
-{"Location Name": "Laurens County Health Department (COVID Vaccine)", "County": "Laurens", "Address": "Southern Pines Rec Park\n575 Southern Pines Road\nDublin, GA 31021", "Services Offered": ""}
+{"Location Name": "Laurens County Health Department (COVID Vaccine)", "County": "Laurens", "Address": "Dublin Mall\n2005 Veterans Blvd.\nDublin, GA 31021", "Services Offered": ""}
 {"Location Name": "Lee County Health Department (COVID Vaccine)", "County": "Lee", "Address": "112 Park Street\nLeesburg, GA 31763", "Services Offered": ""}
 {"Location Name": "Lee King Pharmacy (COVID Vaccination)", "County": "Coweta", "Address": "18 Cavender Street\nNewnan, GA 30263", "Services Offered": ""}
 {"Location Name": "Lee-Goodrum Pharmacy", "County": "Coweta", "Address": "40 Hospital Road\nNewnan, GA 30263", "Services Offered": ""}
@@ -278,6 +279,7 @@
 {"Location Name": "Primary Healthcare Center of Dade", "County": "Dade", "Address": "13570 N. Main Street\nTrenton, GA 30752", "Services Offered": ""}
 {"Location Name": "Primary Healthcare Center of Polk", "County": "Polk", "Address": "118 E. Girard Avenue\nCedartown, GA 30125", "Services Offered": ""}
 {"Location Name": "Primary Healthcare Center of Rossville", "County": "Walker", "Address": "205 Jenkins Road\nRossville, GA 30741", "Services Offered": ""}
+{"Location Name": "Prime Health Medical Center (COVID Vaccine)", "County": "Gwinnett", "Address": "3616 South Bogan Road\nSuite 202\nBuford, GA 30519", "Services Offered": ""}
 {"Location Name": "Pulaski County Health Department (COVID Vaccine)", "County": "Pulaski", "Address": "81 North Lumpkin Street\nHawkinsville, GA 31036-4721", "Services Offered": ""}
 {"Location Name": "Putnam County Health Department (COVID Vaccine)", "County": "Putnam", "Address": "117 Putnam Drive\nEatonton, GA 31024-1142", "Services Offered": ""}
 {"Location Name": "Quitman County Health Department (COVID Vaccine)", "County": "Quitman", "Address": "105 Main Street\nGeorgetown, GA 39854", "Services Offered": ""}
@@ -348,6 +350,7 @@
 {"Location Name": "Upson Regional Medical Center", "County": "Upson", "Address": "801 W. Gordon St.\nThomaston, GA 30286", "Services Offered": ""}
 {"Location Name": "UrgenCare Clinic (COVID Vaccine)", "County": "Troup", "Address": "2169 W Point Rd\nLaGrange, GA 30240", "Services Offered": ""}
 {"Location Name": "Urgent Care of Oconee", "County": "Oconee", "Address": "2061 Experiment Station Rd\nSuite 505\nWatkinsville, GA 30677", "Services Offered": ""}
+{"Location Name": "Viral Solutions (COVID Vaccine)", "County": "DeKalb", "Address": "1995 Clairmont Rd\nDecatur , GA 30033", "Services Offered": ""}
 {"Location Name": "Walker County Health Department (COVID Vaccine)", "County": "Walker", "Address": "603 East Villanow Street\nLa Fayette, GA 30728-2618", "Services Offered": ""}
 {"Location Name": "Ware County Health Department (COVID Vaccine)", "County": "Ware", "Address": "604 Riverside Avenue\nWaycross, GA 31501-5323", "Services Offered": ""}
 {"Location Name": "Washington County Health Department (COVID Vaccine)", "County": "Washington", "Address": "201 Morningside Drive\nSandersville, GA 31082-2426", "Services Offered": ""}
@@ -361,7 +364,7 @@
 {"Location Name": "White County Health Department (COVID Vaccine)", "County": "White", "Address": "1331 Helen Highway\nCleveland, GA 30528-2834", "Services Offered": ""}
 {"Location Name": "Whitefoord Family Medical Center", "County": "DeKalb", "Address": "1401 Hosea Williams Dr NE\nAtlanta, GA 30317", "Services Offered": ""}
 {"Location Name": "Whitfield County Health Department (COVID Vaccine)", "County": "Whitfield", "Address": "800 Professional Blvd.\nDalton, GA 30720", "Services Offered": ""}
-{"Location Name": "Wilcox County Health Department (COVID Vaccine)", "County": "Wilcox", "Address": "Old Elementary School\n104 Gordon Street\nRochelle, GA 31079", "Services Offered": ""}
+{"Location Name": "Wilcox County Health Department (COVID Vaccine)", "County": "Wilcox", "Address": "1001 Second Avenue\nRochelle, GA 31079", "Services Offered": ""}
 {"Location Name": "Wilkinson County Health Department - Irwinton (COVID Vaccine)", "County": "Wilkinson", "Address": "123 High Hill St\nIrwinton, GA 31042", "Services Offered": ""}
 {"Location Name": "Willard A. Snyder, Jr., MD", "County": "Glynn", "Address": "2314 Starling Street\nBrunswick, GA 31520", "Services Offered": ""}
 {"Location Name": "Winslette Pharmacy", "County": "Floyd", "Address": "2444 SHORTER AVE NW\nROME, GA 30165", "Services Offered": ""}
