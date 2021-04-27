@@ -11209,7 +11209,7 @@
                 "Site_Type": "Mass Vaccination",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov/",
                 "Symbology": "Mass",
-                "Vaccine_Type": "Johnson & Johnson"
+                "Vaccine_Type": "Multi"
             },
             "geometry": {
                 "spatialReference": {
