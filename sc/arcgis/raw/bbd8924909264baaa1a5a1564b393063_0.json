@@ -809,7 +809,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29055",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Great Falls Pharmacy",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 978,
@@ -9045,7 +9045,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "78856bae-f41e-46e3-81c2-d204116d2854",
                 "Loc_ID": 227,
@@ -9059,7 +9059,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29720",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Mobley Drugs, Inc.",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1229,
@@ -22872,8 +22872,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "natashia@oakviewmedicalassociates.com",
                 "GlobalID": "572601b3-ad12-4eee-a960-bd666f2bfe0e",
                 "Loc_ID": 746,
                 "OBJECTID": 697,
@@ -22882,10 +22882,10 @@
                 "SiteAddress": "11 FIVE FORKS PLAZA CT",
                 "SiteAddressDetail": "STE A",
                 "SiteCity": "SIMPSONVILLE",
-                "SitePhone": "",
+                "SitePhone": "864-627-0444",
                 "SiteState": "SC",
                 "SiteZip": "29681",
-                "URL": null,
+                "URL": "https://oakviewmedicalassociates.com/",
                 "V_Manufacturer": null,
                 "loc_name": "OAKVIEW MEDICAL ASSOCIATES",
                 "loc_type1": "Medical practice – family medicine",
@@ -26549,7 +26549,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29464",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Tidewater Health",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 1765,
@@ -45477,7 +45477,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "43162498-303d-4782-af00-6e8a9c36db47",
                 "Loc_ID": 1460,
@@ -45491,7 +45491,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29615",
                 "URL": "https://www.arcpointlabs.com/greenville-covid-testing/covid-19-vaccine/",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "ARCpoint Corporate Labs",
                 "loc_type1": "Commercial vaccination service provider",
                 "ref_ID": null,
@@ -70255,6 +70255,39 @@
                 },
                 "x": -80.24274247709786,
                 "y": 33.05970653324982
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0291bb06-3e9c-4b67-b269-6ac81c0e70b6",
+                "Loc_ID": null,
+                "OBJECTID": 25490,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "121 Brewer Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Summerville",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29483",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "Fetter Health Care Network@ First Baptist Church",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.24239378992593,
+                "y": 33.06006620711264
             }
         }
     ],

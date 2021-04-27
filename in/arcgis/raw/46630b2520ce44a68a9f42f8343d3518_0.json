@@ -12963,36 +12963,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "c8c7c222-6f58-4b28-b729-ee1f11d765da",
-                "ID": "ISDH1299",
-                "IsView": 1,
-                "Name": "Williams Brothers Pharmacy",
-                "OBJECTID": 586,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "574 S Landmark Ave, Bloomington, IN 47403",
-                "Site_County": "Monroe",
-                "Site_Location_Info": null,
-                "Site_Name": "WILLIAMS BROS PHARM BLMNGTN VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.55665882546698,
-                "y": 39.16341339740964
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "8b86424e-77f9-4706-ac51-0112203a970b",
                 "ID": "ISDH1300",
                 "IsView": 1,
@@ -15478,6 +15448,36 @@
                 },
                 "x": -87.34503003045803,
                 "y": 41.57446771814934
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "eb7c2898-664e-45b9-b8b3-a4c3c8cfea9f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "FEMA- Pentecostal Temple Church of God and Christ",
+                "OBJECTID": 681,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2722 Wabash St, Michigan City, IN 46360",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": null,
+                "Site_Name": "FEMA Pentecostal Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "FEMA",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.89522602861216,
+                "y": 41.69726573403683
             }
         },
         {
@@ -21208,6 +21208,156 @@
                 },
                 "x": -84.97908712103356,
                 "y": 39.38733162273607
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a789fc04-680e-418b-ba32-488732e47cf2",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Madison Co HD Ivy Tech Mass VAX",
+                "OBJECTID": 887,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "815 E 60th St, Anderson, IN 46013",
+                "Site_County": "Madison",
+                "Site_Location_Info": null,
+                "Site_Name": "Madison Co HD Ivy Tech Mass VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.66940845582022,
+                "y": 40.05282582181788
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "ebfafdcd-0177-46c2-8c35-463a6d1cb676",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Madison Co Celebration Church VAX",
+                "OBJECTID": 888,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1120 Arrow Ave, Anderson, IN 46016",
+                "Site_County": "Madison",
+                "Site_Location_Info": "This is a one-day clinic on May 3, 9 a.m. – 11:30 a.m.",
+                "Site_Name": "Madison Co Celebration Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.70100966216769,
+                "y": 40.10420421971139
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e1da7ad5-2d62-4349-95ab-fa7df3ee1f5d",
+                "ID": null,
+                "IsView": 1,
+                "Name": "MILLERSBURG ELEMENTARY SCHOOL VAX",
+                "OBJECTID": 889,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "203 E. Main St, Millersburg, IN 46543",
+                "Site_County": "Elkhart",
+                "Site_Location_Info": null,
+                "Site_Name": "MILLERSBURG ELEMENTARY SCHOOL VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.69718610192827,
+                "y": 41.525791763694905
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e3f678d4-f992-4378-b7bc-a099e25d6bd9",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Family Pharmacy – W. 11th St.",
+                "OBJECTID": 890,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "508 W. 11th St, Bicknell, IN 47512",
+                "Site_County": "Knox",
+                "Site_Location_Info": null,
+                "Site_Name": "Family Pharmacy – W. 11th St.",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.healthmartcovidvaccine.com",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.31596311551934,
+                "y": 38.78073866169893
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "253b03ac-fd6f-41b3-8dea-1c637211d64e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Glotzbach Pharmacy – S. Grant Ave.",
+                "OBJECTID": 891,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "500 S. Grant Ave, Fowler, IN 46794",
+                "Site_County": "Benton",
+                "Site_Location_Info": null,
+                "Site_Name": "Glotzbach Pharmacy – S. Grant Ave.",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.glotzbachpharmacy.com/",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.31515524283512,
+                "y": 40.613697679704075
             }
         }
     ],
