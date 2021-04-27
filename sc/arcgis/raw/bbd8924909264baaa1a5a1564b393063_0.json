@@ -3204,7 +3204,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ed2ce3a6-731e-4bc0-a576-7fc7f2d886fa",
                 "Loc_ID": 862,
@@ -43860,7 +43860,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "69ee5713-359e-4d7e-b9b8-7c517cce25ad",
                 "Loc_ID": 1421,
@@ -43873,8 +43873,8 @@
                 "SitePhone": "803-685-5326",
                 "SiteState": "SC",
                 "SiteZip": "29129",
-                "URL": "WWW.BANKSDRUG.COM",
-                "V_Manufacturer": "MOD, JJ",
+                "URL": "http://www.banksdrug.com/",
+                "V_Manufacturer": "JJ",
                 "loc_name": "BANKS DRUG LTC",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": null,
@@ -59898,7 +59898,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6f6b60b1-6471-42da-9dbe-410b2f2e695b",
                 "Loc_ID": null,
@@ -61416,7 +61416,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d484523c-04f4-4b63-b8a8-b7a90fddf4ce",
                 "Loc_ID": null,

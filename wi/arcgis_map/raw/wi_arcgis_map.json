@@ -331,7 +331,7 @@
                 "COUNTY": "Barron",
                 "LAT": 45.4833,
                 "LON": -91.74754,
-                "NAME": "DHS Coimmunity-Based Vaccination Clinic at Barron County",
+                "NAME": "DHS Community-Based Vaccination Clinic at Barron County",
                 "OBJECTID": 20,
                 "STATE": "WI",
                 "WEBSITE_URL": "https://vaccinate.wi.gov/en-US/",
@@ -349,12 +349,12 @@
         {
             "attributes": {
                 "ACCESSIBILITY": "Open to eligible groups",
-                "ADDRESS": "2702 Catlin Ave",
+                "ADDRESS": "2701 Catlin Ave",
                 "CITY": "Superior",
                 "COUNTY": "Douglas",
-                "LAT": 46.70691,
-                "LON": -92.08763,
-                "NAME": "DHS Community-Based Vaccination Clinic at Douglas County",
+                "LAT": 46.70812,
+                "LON": -92.08845,
+                "NAME": "DHS Community-Based Vaccination Clinic at Douglas County | UW - Superior Wessman Arena",
                 "OBJECTID": 21,
                 "STATE": "WI",
                 "WEBSITE_URL": "https://vaccinate.wi.gov/en-US/",
@@ -365,8 +365,8 @@
                     "latestWkid": 3857,
                     "wkid": 102100
                 },
-                "x": -10251148.08,
-                "y": 5894364.8539
+                "x": -10251239.3619,
+                "y": 5894561.2839
             }
         },
         {
