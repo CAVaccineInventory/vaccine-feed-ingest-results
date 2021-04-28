@@ -15432,14 +15432,14 @@
                 "Promote_Site": "Y",
                 "Site_Address": "2401 Harrison St., Gary, IN 46407",
                 "Site_County": "Lake",
-                "Site_Location_Info": "9 a.m. to 7 p.m. Walk-in entrance at 730 W 25th Ave. GARY , IN 46407",
+                "Site_Location_Info": "9 a.m. to 7 p.m. Walk-in entrance at 730 W 25th Ave. GARY , IN 46407. This site has J & J and Pfizer.",
                 "Site_Name": "FEMA Gary Roosevelt Park VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "FEMA",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer"
+                "Vaccine_Type": "Multi"
             },
             "geometry": {
                 "spatialReference": {
@@ -16558,36 +16558,6 @@
                 },
                 "x": -86.49176455496084,
                 "y": 40.27726261925288
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "6b7f734d-1e11-4621-85e2-6795cddbb966",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Fort Wayne Urban League VAX",
-                "OBJECTID": 721,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2135 S Hanna St, Fort Wayne, IN 46803",
-                "Site_County": "Allen",
-                "Site_Location_Info": "This is a mobile site 5/25 – 5/29, 9 am – 6 pm",
-                "Site_Name": "FEMA Fort Wayne Urban League VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.1278708734259,
-                "y": 41.0655713013406
             }
         },
         {

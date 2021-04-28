@@ -234,7 +234,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "67c43f93-01fc-4197-b163-677258ae7106",
                 "Loc_ID": 1214,
@@ -4010,7 +4010,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29407",
                 "URL": "http://www.vams.cdc.gov/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "loc_name": "REARDEN INTERNAL MEDICINE & GERIATRICS, LLC",
                 "loc_type1": "Medical practice – internal medicine",
                 "ref_ID": 1075,
@@ -4821,7 +4821,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "93937ef6-b5d1-422b-9dca-c1c6375b10d9",
                 "Loc_ID": 1194,
@@ -4854,7 +4854,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "422c27ee-3646-49f9-a070-cdda091f9de0",
                 "Loc_ID": 1195,
@@ -4887,7 +4887,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "02beb181-ed3d-4f27-be69-094dd4d6e0eb",
                 "Loc_ID": 1202,
@@ -4920,7 +4920,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d1e156e4-686c-415d-b449-e664c139d825",
                 "Loc_ID": 1203,
@@ -5184,7 +5184,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "91930cf1-ee57-42e4-bce9-11b9427d1094",
                 "Loc_ID": 949,
@@ -5316,7 +5316,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9ca9a8a1-1e72-440d-bcad-6f92076cdad6",
                 "Loc_ID": 1072,
@@ -5349,7 +5349,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "39d5b43f-7ec8-48e3-874a-334aedf09262",
                 "Loc_ID": 1078,
@@ -5382,7 +5382,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7e8b9873-8cf6-408a-abdb-b3bff568eff3",
                 "Loc_ID": 1007,
@@ -5448,7 +5448,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5050c698-5b0a-43b0-b2dd-e2a750c341d0",
                 "Loc_ID": 1068,
@@ -5481,7 +5481,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "dbdf9e9d-5f37-4c21-bd10-a7981e83d38f",
                 "Loc_ID": 999,
@@ -5514,7 +5514,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d9ce2e5e-2511-4fed-b667-7646cace05bb",
                 "Loc_ID": 1185,
@@ -5547,7 +5547,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6d8c3f22-2375-4bbb-a494-b357dcfe9ee1",
                 "Loc_ID": 1182,
@@ -5557,10 +5557,10 @@
                 "SiteAddress": "4819 Bluffton Pwky. Ste. 141",
                 "SiteAddressDetail": null,
                 "SiteCity": "Bluffton",
-                "SitePhone": "",
+                "SitePhone": "(866) 365-8110",
                 "SiteState": "SC",
                 "SiteZip": "29910",
-                "URL": null,
+                "URL": "https://cvas.dhec.sc.gov/",
                 "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Bluffton Health Center",
                 "loc_type1": "Public health provider – public health clinic",
@@ -7131,7 +7131,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "aa622743-7368-4ca1-b473-0644029bfa20",
                 "Loc_ID": 1127,
@@ -35162,7 +35162,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29488",
                 "URL": "http://www.vams.cdc.gov/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "loc_name": "REARDEN INTERNAL MEDICINE & GERIATRICS, LLC",
                 "loc_type1": "Medical practice – internal medicine",
                 "ref_ID": 2042,
@@ -42672,7 +42672,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "48d64e17-823e-4cf7-920a-4ece7d1a1b01",
                 "Loc_ID": null,
@@ -42705,7 +42705,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bf7e6e02-8313-4470-8a24-2ed1ca839e37",
                 "Loc_ID": null,
@@ -43596,7 +43596,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "fc0136db-3e3c-4358-ad05-55019b85d646",
                 "Loc_ID": null,
@@ -55674,7 +55674,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7b0c4780-0c2a-4bf9-8792-efdca65e3d40",
                 "Loc_ID": null,
@@ -58182,7 +58182,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2f4ba36e-a280-4408-9608-4b5eea7010b7",
                 "Loc_ID": null,
@@ -59832,7 +59832,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f67065c4-abe6-4c85-a6fd-fe11a8ae5674",
                 "Loc_ID": null,
@@ -61944,7 +61944,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "cde87789-a74e-4b46-b04a-05581b0eed8c",
                 "Loc_ID": null,
