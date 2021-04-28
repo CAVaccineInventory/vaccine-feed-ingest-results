@@ -809,7 +809,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29055",
                 "URL": null,
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Great Falls Pharmacy",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 978,
@@ -12312,7 +12312,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ae825e18-1036-4382-bf08-b44c818e84a4",
                 "Loc_ID": 340,
@@ -12322,11 +12322,11 @@
                 "SiteAddress": "1011 Broad St",
                 "SiteAddressDetail": null,
                 "SiteCity": "Sumter",
-                "SitePhone": "",
+                "SitePhone": "(803) 773-6378",
                 "SiteState": "SC",
                 "SiteZip": "29150",
-                "URL": null,
-                "V_Manufacturer": "JJ",
+                "URL": "http://www.suprx90@ftc-i.net",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Sup-Rx Pharmacy #90",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1329,
@@ -16385,7 +16385,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29440",
                 "URL": "http://www.carescrx.com/",
-                "V_Manufacturer": "PFR",
+                "V_Manufacturer": "PFR, JJ",
                 "loc_name": "CareSC Pharmacy LLC",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1452,
@@ -21265,7 +21265,7 @@
                 "SiteAddress": "418 Folly Road ",
                 "SiteAddressDetail": "Suite A",
                 "SiteCity": "Charleston",
-                "SitePhone": "",
+                "SitePhone": "843-795-1921",
                 "SiteState": "SC",
                 "SiteZip": "29412",
                 "URL": "https://libertydoctors.com/vaccine/",
@@ -31683,7 +31683,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ddb0fe43-2439-4f4e-b82e-60c1918820dd",
                 "Loc_ID": null,
@@ -32640,7 +32640,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7254bd15-a68a-41b0-b79c-9351deee0249",
                 "Loc_ID": 1288,
@@ -32650,11 +32650,11 @@
                 "SiteAddress": "110A Springhall Drive ",
                 "SiteAddressDetail": "",
                 "SiteCity": "Goose Creek",
-                "SitePhone": null,
+                "SitePhone": "843-973-8503",
                 "SiteState": "SC",
                 "SiteZip": "29445",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "PFR",
                 "loc_name": "Liberty Doctors, LLC dba Springhall Family Practice (Loc 15)",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 1966,
@@ -32683,7 +32683,7 @@
                 "SiteAddress": "110 Executive Parkway",
                 "SiteAddressDetail": "",
                 "SiteCity": "Moncks Corner",
-                "SitePhone": null,
+                "SitePhone": "843-899-9099",
                 "SiteState": "SC",
                 "SiteZip": "29461",
                 "URL": "https://libertydoctors.com/vaccine/",
@@ -32706,7 +32706,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d830faa7-52f9-4739-b56e-b9bd337c1fd2",
                 "Loc_ID": 1296,
@@ -32716,11 +32716,11 @@
                 "SiteAddress": "2270 Ashley Crossing Drive Suite 155",
                 "SiteAddressDetail": "",
                 "SiteCity": "Charleston",
-                "SitePhone": null,
+                "SitePhone": "843-936-4455",
                 "SiteState": "SC",
                 "SiteZip": "29414",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "PFR",
                 "loc_name": "Liberty Doctors, LLC dba Jeffrey Akhtar, DO (Loc 15)",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 1968,
@@ -40560,7 +40560,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "19ea6501-02dc-4187-abe5-b4a9fb484659",
                 "Loc_ID": 1369,
@@ -40570,11 +40570,11 @@
                 "SiteAddress": "169 hall street",
                 "SiteAddressDetail": "",
                 "SiteCity": "Spartanburg ",
-                "SitePhone": null,
+                "SitePhone": "864-358-9278",
                 "SiteState": "SC",
                 "SiteZip": "29302",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "http://www.vmhmed.com/",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Visions medical healthcare",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 2206,
@@ -42243,7 +42243,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a0ee0cc6-c757-4465-b04e-20a15f360a86",
                 "Loc_ID": null,
@@ -42309,7 +42309,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b3af079a-36bd-425b-91f9-841b2e6119b2",
                 "Loc_ID": null,
@@ -43695,8 +43695,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "don@barnwellsc.com",
                 "GlobalID": "e6de8b5b-3352-4c93-a06d-1e1e47999381",
                 "Loc_ID": 1463,
                 "OBJECTID": 3303,
@@ -43709,7 +43709,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29812",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "loc_name": "Allendale and Barnwell Counties Disabilities and Special Needs Board",
                 "loc_type1": "Long-term Care",
                 "ref_ID": null,
@@ -55542,7 +55542,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b44f9f44-5123-40c7-80e7-72f8692b45e6",
                 "Loc_ID": null,
@@ -55575,7 +55575,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5809871b-c8cf-4faa-a2b3-e05bd5665d84",
                 "Loc_ID": null,
@@ -55740,7 +55740,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "941b41cc-cecb-43fd-9741-3b96afa2a026",
                 "Loc_ID": null,
@@ -58428,7 +58428,7 @@
                 "SiteZip": "29689",
                 "URL": "https://cvas.dhec.sc.gov/",
                 "V_Manufacturer": null,
-                "loc_name": "DHEC Mobile Clinic @ Anderson #2",
+                "loc_name": "DHEC Mobile Clinic @ Oakdale Baptist",
                 "loc_type1": "State Agency",
                 "ref_ID": null,
                 "vfc_text": null,
@@ -58527,7 +58527,7 @@
                 "SiteZip": "29692",
                 "URL": "https://cvas.dhec.sc.gov/",
                 "V_Manufacturer": null,
-                "loc_name": "DHEC Mobile Clinic @ Greenwood",
+                "loc_name": "DHEC Mobile Clinic @ Larry Traynham Center",
                 "loc_type1": "State Agency",
                 "ref_ID": null,
                 "vfc_text": null,
@@ -62670,7 +62670,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a42418ab-0670-4458-9ea3-2377dedfbfda",
                 "Loc_ID": null,
@@ -68018,39 +68018,6 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
-                "GlobalID": "612deb43-5053-435b-b407-e7c73c3552c7",
-                "Loc_ID": null,
-                "OBJECTID": 23459,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": " 5400 Cane Savannah Rd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Wedgefield",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29168",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=40004",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - Wedgefield",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.47951799699962,
-                "y": 33.932080916000416
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
                 "GlobalID": "31ab2dd2-d654-4bda-8a1b-3bcb7427c5e9",
                 "Loc_ID": null,
                 "OBJECTID": 23460,
@@ -68209,39 +68176,6 @@
                 },
                 "x": -82.40190404399965,
                 "y": 34.84310688000045
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "93acb47b-dd9b-4f65-8b0b-1ac6b5f8188b",
-                "Loc_ID": null,
-                "OBJECTID": 23465,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "1424 Marthan Rd.",
-                "SiteAddressDetail": "Killian Park",
-                "SiteCity": "Columbia",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29223",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39981",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - Columbia",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.95704197999959,
-                "y": 34.154784737000455
             }
         },
         {
@@ -70288,6 +70222,171 @@
                 },
                 "x": -80.24239378992593,
                 "y": 33.06006620711264
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "a320f7d4-c5f6-4c4d-8777-d9e6dff507bb",
+                "Loc_ID": null,
+                "OBJECTID": 25890,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1117 June Lane",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29506",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": null,
+                "loc_name": "DHEC Mobile Clinic @ Church Hill Apts",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.76023285638541,
+                "y": 34.1752169431756
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "103a68b1-e0e4-4e80-996d-6fa7b40e3ced",
+                "Loc_ID": null,
+                "OBJECTID": 25891,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "100 S Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Honea Path",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29654",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ First Baptist Honea Path",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.39319793991433,
+                "y": 34.44515099080854
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "f4b5d82d-93c0-44ed-a2b7-bcfe3118634d",
+                "Loc_ID": null,
+                "OBJECTID": 25892,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "416 Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Lowndesville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29655",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ Lowndesville Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.64820957037455,
+                "y": 34.21256431589251
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "c3cc474a-7452-4b4c-84f6-75abc5283a37",
+                "Loc_ID": null,
+                "OBJECTID": 25893,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "401 N Washington St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Calhoun Falls",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29628",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ Calhoun Falls Civic Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.58647272483739,
+                "y": 34.09313590124964
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "07643db0-c736-4830-aa57-7d02a68835a5",
+                "Loc_ID": null,
+                "OBJECTID": 25894,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "1618 West Market St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Anderson",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29624",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ New Manna (Nuevo Mana)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.67693257083971,
+                "y": 34.501131357008035
             }
         }
     ],

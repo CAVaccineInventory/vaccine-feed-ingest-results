@@ -945,7 +945,7 @@
                 "Site_Location_Info": "Landsbaum Center for Health Education.",
                 "Site_Name": "UNION HOSP LANDSBAUM CLINIC VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": null,
                 "Site_Type": "Hospital",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
@@ -3898,6 +3898,36 @@
                 },
                 "x": -86.22725847826104,
                 "y": 39.82137518155908
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "ab38efbb-6f53-4813-8729-41c8e0221f36",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Vigo Co 696 South 1st Street VAX",
+                "OBJECTID": 219,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "696 S. 1st St.  Terre Haute, IN 47807",
+                "Site_County": "Vigo",
+                "Site_Location_Info": null,
+                "Site_Name": "Vigo Co 696 South 1st Street VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.41635268141201,
+                "y": 39.460193347789165
             }
         },
         {
@@ -8715,7 +8745,7 @@
                 "Site_Location_Info": null,
                 "Site_Name": "Northwest Health Porter VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": null,
                 "Site_Type": "Hospital",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
@@ -21328,6 +21358,96 @@
                 },
                 "x": -87.31515524283512,
                 "y": 40.613697679704075
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "548d50ee-3a64-4491-ada8-4b7f93b417ef",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Lifespring Com Med Jasper VAX",
+                "OBJECTID": 892,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "480 Eversman Dr, Jasper, IN 47546",
+                "Site_County": "Dubois",
+                "Site_Location_Info": "Dates & Times: 4/29 8am-3pm; 4/30 8am-2pm; 5/4 1pm-5pm; 5/5 8am-2pm; 5/7 8am-2pm",
+                "Site_Name": "Lifespring Com Med Jasper VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.91662563955488,
+                "y": 38.382387758431314
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c0157e0b-0524-4c83-840e-58559070812e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Midtown Medicenter Pharmacy – S. 9th St.",
+                "OBJECTID": 893,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "11 S. 9th St, Richmond, IN 47374",
+                "Site_County": "Wayne",
+                "Site_Location_Info": null,
+                "Site_Name": "Midtown Medicenter Pharmacy – S. 9th St.",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Or call:  1-765-962-0025",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.healthmartcovidvaccine.com",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.89017890433828,
+                "y": 39.82851270147357
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8b915df6-88f7-40d2-9bb4-052a5c538f8a",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Optimum Wellness Pharmacy – Ruffian Lane",
+                "OBJECTID": 894,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "8900 Ruffian Ln, Newburgh, IN 47630",
+                "Site_County": "Warrick",
+                "Site_Location_Info": null,
+                "Site_Name": "Optimum Wellness Pharmacy – Ruffian Lane",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Appointments by phone only. Call: 1-812-518-3428",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.41229856962472,
+                "y": 37.976005197925645
             }
         }
     ],

@@ -99,16 +99,16 @@
         {
             "attributes": {
                 "OBJECTID": 5,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "10 Turnpike Ave.",
                 "USER_City_Town": "Portsmouth",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
                 "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02871"
             },
             "geometry": {
@@ -171,16 +171,16 @@
         {
             "attributes": {
                 "OBJECTID": 8,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1000 Broad St.",
                 "USER_City_Town": "Central Falls",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02863"
             },
             "geometry": {
@@ -291,16 +291,16 @@
         {
             "attributes": {
                 "OBJECTID": 13,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1068 Putnam Pike, Po Box H",
                 "USER_City_Town": "Glocester",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02814"
             },
             "geometry": {
@@ -363,16 +363,16 @@
         {
             "attributes": {
                 "OBJECTID": 16,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1080 Bald Hill Road",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02886"
             },
             "geometry": {
@@ -435,16 +435,16 @@
         {
             "attributes": {
                 "OBJECTID": 19,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1086 Willett Avenue",
                 "USER_City_Town": "Riverside",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02915"
             },
             "geometry": {
@@ -459,16 +459,16 @@
         {
             "attributes": {
                 "OBJECTID": 20,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1123 Boston Neck Rd.",
                 "USER_City_Town": "Narragansett",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02882"
             },
             "geometry": {
@@ -483,16 +483,16 @@
         {
             "attributes": {
                 "OBJECTID": 21,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "11 Main St.",
                 "USER_City_Town": "Wakefield",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02879"
             },
             "geometry": {
@@ -555,16 +555,16 @@
         {
             "attributes": {
                 "OBJECTID": 24,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1193 Boston Neck Road",
                 "USER_City_Town": "Narragansett",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02882"
             },
             "geometry": {
@@ -579,16 +579,16 @@
         {
             "attributes": {
                 "OBJECTID": 25,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1188 Pontiac Avenue",
                 "USER_City_Town": "Cranston",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02920"
             },
             "geometry": {
@@ -603,16 +603,16 @@
         {
             "attributes": {
                 "OBJECTID": 26,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1187 Main St., Po Box 58",
                 "USER_City_Town": "Wyoming",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02898"
             },
             "geometry": {
@@ -627,16 +627,16 @@
         {
             "attributes": {
                 "OBJECTID": 27,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1195 Oaklawn Avenue",
                 "USER_City_Town": "Cranston",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02920"
             },
             "geometry": {
@@ -651,16 +651,16 @@
         {
             "attributes": {
                 "OBJECTID": 28,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1270 Main St.",
                 "USER_City_Town": "West Warwick",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02893"
             },
             "geometry": {
@@ -675,16 +675,16 @@
         {
             "attributes": {
                 "OBJECTID": 29,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "120 Eddie Dowling Hwy.",
                 "USER_City_Town": "North Smithfield",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02896"
             },
             "geometry": {
@@ -699,16 +699,16 @@
         {
             "attributes": {
                 "OBJECTID": 30,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "12 E Main Rd",
                 "USER_City_Town": "Middletown",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02842"
             },
             "geometry": {
@@ -723,16 +723,16 @@
         {
             "attributes": {
                 "OBJECTID": 31,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1245 Bald Hill Rd",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02886"
             },
             "geometry": {
@@ -747,16 +747,16 @@
         {
             "attributes": {
                 "OBJECTID": 32,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "131 Webster Avenue",
                 "USER_City_Town": "Providence",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02909"
             },
             "geometry": {
@@ -843,16 +843,16 @@
         {
             "attributes": {
                 "OBJECTID": 36,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1400 Hartford Avenue",
                 "USER_City_Town": "Johnston",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02919"
             },
             "geometry": {
@@ -1035,16 +1035,16 @@
         {
             "attributes": {
                 "OBJECTID": 44,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1560 Warwick Ave",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02889"
             },
             "geometry": {
@@ -1083,16 +1083,16 @@
         {
             "attributes": {
                 "OBJECTID": 46,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1583 Atwood Ave",
                 "USER_City_Town": "Johnston",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02919"
             },
             "geometry": {
@@ -1203,16 +1203,16 @@
         {
             "attributes": {
                 "OBJECTID": 51,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "173 State Street",
                 "USER_City_Town": "Bristol",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02809"
             },
             "geometry": {
@@ -1227,16 +1227,16 @@
         {
             "attributes": {
                 "OBJECTID": 52,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1734 Main Street",
                 "USER_City_Town": "West Warwick",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02893"
             },
             "geometry": {
@@ -1323,16 +1323,16 @@
         {
             "attributes": {
                 "OBJECTID": 56,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "180 County Road",
                 "USER_City_Town": "Barrington",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02806"
             },
             "geometry": {
@@ -1467,16 +1467,16 @@
         {
             "attributes": {
                 "OBJECTID": 62,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "198 Buttonwoods Ave,",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02886"
             },
             "geometry": {
@@ -1539,16 +1539,16 @@
         {
             "attributes": {
                 "OBJECTID": 65,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1998 Mendon Road",
                 "USER_City_Town": "Cumberland",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02864"
             },
             "geometry": {
@@ -1572,7 +1572,7 @@
                 "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "Active",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02882"
             },
             "geometry": {
@@ -1635,16 +1635,16 @@
         {
             "attributes": {
                 "OBJECTID": 69,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "20 High Street",
                 "USER_City_Town": "Pascoag",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02859"
             },
             "geometry": {
@@ -1659,16 +1659,16 @@
         {
             "attributes": {
                 "OBJECTID": 70,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "205 Atwood Avenue",
                 "USER_City_Town": "Cranston",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02920"
             },
             "geometry": {
@@ -1683,16 +1683,16 @@
         {
             "attributes": {
                 "OBJECTID": 71,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "2125 Diamond Hill Road",
                 "USER_City_Town": "Cumberland",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02864"
             },
             "geometry": {
@@ -1827,16 +1827,16 @@
         {
             "attributes": {
                 "OBJECTID": 77,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "2399 Warwick Ave",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02889"
             },
             "geometry": {
@@ -1851,16 +1851,16 @@
         {
             "attributes": {
                 "OBJECTID": 78,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "2400 Warwick Ave, Meadowbrook Plaza",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02889"
             },
             "geometry": {
@@ -1923,16 +1923,16 @@
         {
             "attributes": {
                 "OBJECTID": 81,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "2456 East Main Road",
                 "USER_City_Town": "Portsmouth",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02871"
             },
             "geometry": {
@@ -1995,16 +1995,16 @@
         {
             "attributes": {
                 "OBJECTID": 84,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "2250 New London Turnpike",
                 "USER_City_Town": "East Greenwich",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02818"
             },
             "geometry": {
@@ -2019,16 +2019,16 @@
         {
             "attributes": {
                 "OBJECTID": 85,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "2595 West Shore Road",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02889"
             },
             "geometry": {
@@ -2043,16 +2043,16 @@
         {
             "attributes": {
                 "OBJECTID": 86,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "2790 Post Road",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02886"
             },
             "geometry": {
@@ -2115,16 +2115,16 @@
         {
             "attributes": {
                 "OBJECTID": 89,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "309 Broad St.",
                 "USER_City_Town": "Central Falls",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02863"
             },
             "geometry": {
@@ -2139,16 +2139,16 @@
         {
             "attributes": {
                 "OBJECTID": 90,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "315 Broad St,",
                 "USER_City_Town": "Cumberland",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02864"
             },
             "geometry": {
@@ -2163,16 +2163,16 @@
         {
             "attributes": {
                 "OBJECTID": 91,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "3336 Post Rd",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02886"
             },
             "geometry": {
@@ -2307,16 +2307,16 @@
         {
             "attributes": {
                 "OBJECTID": 97,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "3986 Old Post Rd.",
                 "USER_City_Town": "Charlestown",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02813"
             },
             "geometry": {
@@ -2331,16 +2331,16 @@
         {
             "attributes": {
                 "OBJECTID": 98,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "400 Admiral Street",
                 "USER_City_Town": "Providence",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02908"
             },
             "geometry": {
@@ -2355,16 +2355,16 @@
         {
             "attributes": {
                 "OBJECTID": 99,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "371 Putnam Pike Ste A-250",
                 "USER_City_Town": "Smithfield",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02917"
             },
             "geometry": {
@@ -2379,16 +2379,16 @@
         {
             "attributes": {
                 "OBJECTID": 100,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "400 Bald Hill Rd",
                 "USER_City_Town": "Warwick",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02886"
             },
             "geometry": {
@@ -2403,16 +2403,16 @@
         {
             "attributes": {
                 "OBJECTID": 101,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "425 East Avenue",
                 "USER_City_Town": "Pawtucket",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02860"
             },
             "geometry": {
@@ -2427,16 +2427,16 @@
         {
             "attributes": {
                 "OBJECTID": 102,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "400 Metacom Avenue",
                 "USER_City_Town": "Bristol",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02809"
             },
             "geometry": {
@@ -2451,16 +2451,16 @@
         {
             "attributes": {
                 "OBJECTID": 103,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "445 Putnam Pike, Apple Valley Mall",
                 "USER_City_Town": "Greenville",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02828"
             },
             "geometry": {
@@ -2475,16 +2475,16 @@
         {
             "attributes": {
                 "OBJECTID": 104,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "444 Willett Avenue",
                 "USER_City_Town": "Riverside",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02915"
             },
             "geometry": {
@@ -2595,16 +2595,16 @@
         {
             "attributes": {
                 "OBJECTID": 109,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "47 Village Plaza Way",
                 "USER_City_Town": "North Scituate",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02857"
             },
             "geometry": {
@@ -2643,16 +2643,16 @@
         {
             "attributes": {
                 "OBJECTID": 111,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "481 Angell Street",
                 "USER_City_Town": "Providence",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "\b",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02906"
             },
             "geometry": {
@@ -2667,16 +2667,16 @@
         {
             "attributes": {
                 "OBJECTID": 112,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "500 Broad Street",
                 "USER_City_Town": "Providence",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02907"
             },
             "geometry": {
@@ -2691,16 +2691,16 @@
         {
             "attributes": {
                 "OBJECTID": 113,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "500 Main Road",
                 "USER_City_Town": "Tiverton",
-                "USER_Eligibility": "\b",
-                "USER_Link_to_Sign_Up": "\b",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "\b",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02878"
             },
             "geometry": {
@@ -2715,16 +2715,16 @@
         {
             "attributes": {
                 "OBJECTID": 114,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "507 Main Street",
                 "USER_City_Town": "East Greenwich",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02818"
             },
             "geometry": {
@@ -2763,16 +2763,16 @@
         {
             "attributes": {
                 "OBJECTID": 116,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "533 Elmwood Ave",
                 "USER_City_Town": "Providence",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.walgreens.com/",
                 "USER_Name": "Walgreens",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-925-4733",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02907"
             },
             "geometry": {
@@ -2835,16 +2835,16 @@
         {
             "attributes": {
                 "OBJECTID": 119,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "583 Taunton Avenue",
                 "USER_City_Town": "East Providence",
-                "USER_Eligibility": "",
-                "USER_Link_to_Sign_Up": "",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.cvs.com/",
                 "USER_Name": "CVS Pharmacy",
-                "USER_Scheduling_by_Phone": "",
+                "USER_Scheduling_by_Phone": "800-746-7287",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02914"
             },
             "geometry": {
@@ -3800,7 +3800,7 @@
             "type": "esriFieldTypeString"
         },
         {
-            "alias": "Active",
+            "alias": "Status",
             "defaultValue": null,
             "domain": null,
             "length": 255,
@@ -3809,7 +3809,7 @@
             "type": "esriFieldTypeString"
         },
         {
-            "alias": "VaxType",
+            "alias": "Vaccination Type",
             "defaultValue": null,
             "domain": null,
             "length": 255,
@@ -3845,7 +3845,7 @@
             "type": "esriFieldTypeString"
         },
         {
-            "alias": "ZIPCODE",
+            "alias": "Zip Code",
             "defaultValue": null,
             "domain": null,
             "length": 255,
