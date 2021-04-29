@@ -4473,36 +4473,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": "State",
-                "GlobalID": "09ec8ee3-d7bc-43dc-951a-def6324d7f21",
-                "ID": "ISDH1248",
-                "IsView": 1,
-                "Name": "Neighborhood Health Clinics, Inc.",
-                "OBJECTID": 244,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "3350 E Paulding Rd, Fort Wayne 46816",
-                "Site_County": "Allen",
-                "Site_Location_Info": "Last day of operation: 4/28.",
-                "Site_Name": "NEIGHBORHOOD HC PAULDINGRD VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.09249869946606,
-                "y": 41.03240124448515
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": "State",
                 "GlobalID": "76768656-81ac-40e4-b4d9-e0ef47581e10",
                 "ID": "ISDH1170",
                 "IsView": 1,
