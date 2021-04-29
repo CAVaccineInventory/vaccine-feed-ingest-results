@@ -35412,7 +35412,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3528b5d0-813a-45f2-a301-1e42c806c033",
                 "Loc_ID": 1281,
@@ -35422,7 +35422,7 @@
                 "SiteAddress": "723 Bethel St.",
                 "SiteAddressDetail": "",
                 "SiteCity": "Clover",
-                "SitePhone": null,
+                "SitePhone": "803-222-6060",
                 "SiteState": "SC",
                 "SiteZip": "29710",
                 "URL": null,
@@ -61944,7 +61944,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cde87789-a74e-4b46-b04a-05581b0eed8c",
                 "Loc_ID": null,
@@ -67358,39 +67358,6 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
-                "GlobalID": "ada8ca05-a9d2-49e2-9f01-3220bb89c6dc",
-                "Loc_ID": null,
-                "OBJECTID": 22648,
-                "Phone_Sec": "8am- 5pm Mon-Sat",
-                "Region": "LOWCOUNTRY",
-                "SiteAddress": "180 Lockwood Dr",
-                "SiteAddressDetail": null,
-                "SiteCity": "Charleston",
-                "SitePhone": "843-876-7227",
-                "SiteState": "SC",
-                "SiteZip": "29425",
-                "URL": "http://www.muschealth.org/vaccine-scheduling",
-                "V_Manufacturer": "PFR",
-                "loc_name": "MUSC Health COVID-19 Vaccination Clinic @ Lockwood",
-                "loc_type1": null,
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.96004394069473,
-                "y": 32.788889189006966
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
                 "GlobalID": "6fb0c942-64db-4e47-a5c8-fd54bcd3d44a",
                 "Loc_ID": null,
                 "OBJECTID": 22649,
@@ -68048,8 +68015,8 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Activated1": "No",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2cd86e1c-4303-498e-abed-f319c938c975",
                 "Loc_ID": null,
@@ -70387,6 +70354,39 @@
                 },
                 "x": -82.67693257083971,
                 "y": 34.501131357008035
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "865fefa5-d5e0-44eb-9e9a-f89e7d510c05",
+                "Loc_ID": null,
+                "OBJECTID": 26290,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "3733 Thurgood Marshall Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Kingstree",
+                "SitePhone": "843-876-7227",
+                "SiteState": "SC",
+                "SiteZip": "29556",
+                "URL": "http://www.musc.co/community",
+                "V_Manufacturer": "PFR",
+                "loc_name": "MUSC Health Community Vaccination Event – Kingstree",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.74842783999645,
+                "y": 33.626391930326236
             }
         }
     ],
