@@ -4174,7 +4174,7 @@
                 "SitePhone": "864-412-7775",
                 "SiteState": "SC",
                 "SiteZip": "29662",
-                "URL": "https://protect2.fireeye.com/v1/url?k=6902a2df-36999bf1-6902772e-86c89b3c9da5-03528db3c04993a9&q=1&e=5fc54726-31d4-419f-bd0c-702faa29a889&u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSca9p47PJFynlhV-FFbP5Vi_DCdOFineD7vJJa1wGYFmqqnzA%2Fviewform%3Fusp%3Dsf_link",
+                "URL": "https://docs.google.com/forms/d/e/1FAIpQLScYFxfqDVk3JIdlfqMDAM-8uM5OS6KBDncWuo_9Hmj2p8EYoA/viewform?usp=sf_link",
                 "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Mauldin Discount Pharmacy",
                 "loc_type1": "Pharmacy – independent",
@@ -4868,7 +4868,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29902",
                 "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Beaufort Health Department",
                 "loc_type1": "Public health provider – public health clinic",
                 "ref_ID": 1102,
@@ -6702,7 +6702,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e04c1386-7133-40f9-a312-905b999cf654",
                 "Loc_ID": 1033,
@@ -13005,7 +13005,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "48d405d9-e697-4cbd-b903-32525d0879ce",
                 "Loc_ID": 834,
@@ -13015,11 +13015,11 @@
                 "SiteAddress": "401 Guess Street",
                 "SiteAddressDetail": "Suite #100",
                 "SiteCity": "Greenville",
-                "SitePhone": "",
+                "SitePhone": "864-233-2744",
                 "SiteState": "SC",
                 "SiteZip": "29605",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "loc_name": "INTERNAL MEDICINE AND CARDIOLOGY CENTER",
                 "loc_type1": "Medical practice – internal medicine",
                 "ref_ID": 1350,
@@ -18978,7 +18978,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5ebf84e1-4948-446c-bea4-50c570642b9d",
                 "Loc_ID": 48,
@@ -22014,7 +22014,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6cd16b96-9bf3-452c-b67b-ed6f71fc5157",
                 "Loc_ID": 175,
@@ -22027,8 +22027,8 @@
                 "SitePhone": "864 210 1811",
                 "SiteState": "SC",
                 "SiteZip": "29644",
-                "URL": null,
-                "V_Manufacturer": "JJ",
+                "URL": "http://www.bestrxpharmacy.org/",
+                "V_Manufacturer": "MOD, JJ",
                 "loc_name": "BESTRX Pharmacy",
                 "loc_type1": "Pharmacy – independent",
                 "ref_ID": 1625,
@@ -24852,8 +24852,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "sadlers@sadlerhughes.com",
                 "GlobalID": "d256dc65-6b60-4481-b117-d926f0748efd",
                 "Loc_ID": 42,
                 "OBJECTID": 760,
@@ -24862,10 +24862,10 @@
                 "SiteAddress": "102 Jacobs Highway",
                 "SiteAddressDetail": null,
                 "SiteCity": "Clinton",
-                "SitePhone": "",
+                "SitePhone": "864-833-4000",
                 "SiteState": "SC",
                 "SiteZip": "29325",
-                "URL": null,
+                "URL": "http://www.sadlerhughes.com/",
                 "V_Manufacturer": "JJ",
                 "loc_name": "Sadler Hughes Apothecary",
                 "loc_type1": "Pharmacy – independent",
@@ -38745,7 +38745,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "cb80ef97-7cf3-4124-baa6-8030ccc9cb15",
                 "Loc_ID": 1364,
@@ -42012,7 +42012,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "60ad3421-9757-4825-922a-6678d5e2f1da",
                 "Loc_ID": null,
@@ -42389,7 +42389,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29577",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "JJ",
                 "loc_name": "Costco #338",
                 "loc_type1": "Pharmacy - chain",
                 "ref_ID": null,
@@ -42422,7 +42422,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29414",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "JJ",
                 "loc_name": "Costco #360",
                 "loc_type1": "Pharmacy - chain",
                 "ref_ID": null,
@@ -42455,7 +42455,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29607",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "JJ",
                 "loc_name": "Costco #1005",
                 "loc_type1": "Pharmacy - chain",
                 "ref_ID": null,
@@ -42488,7 +42488,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29210",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "JJ",
                 "loc_name": "Costco #1232",
                 "loc_type1": "Pharmacy - chain",
                 "ref_ID": null,
@@ -42521,7 +42521,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29466",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "JJ",
                 "loc_name": "Costco #1319",
                 "loc_type1": "Pharmacy - chain",
                 "ref_ID": null,
@@ -42573,7 +42573,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": "Monday-Wednesday",
                 "GlobalID": "805509a8-e4f7-4c76-a014-6f97cd2f970f",
                 "Loc_ID": null,
@@ -44487,7 +44487,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "4051aed0-5cf1-402c-b9e1-d048054b4313",
                 "Loc_ID": 839,
@@ -44497,11 +44497,11 @@
                 "SiteAddress": "220 Scuffletown Road",
                 "SiteAddressDetail": null,
                 "SiteCity": "Simpsonville",
-                "SitePhone": null,
+                "SitePhone": "864-233-2744",
                 "SiteState": "SC",
                 "SiteZip": "29681",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "loc_name": "Peace Medical Center",
                 "loc_type1": "Medical practice – internal medicine",
                 "ref_ID": null,
@@ -44982,7 +44982,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6ac31605-641d-4188-b084-8ba4a8bb2922",
                 "Loc_ID": 1486,
@@ -44992,7 +44992,7 @@
                 "SiteAddress": "2517 High Hill Road",
                 "SiteAddressDetail": null,
                 "SiteCity": "Darlington",
-                "SitePhone": "843-307-2360",
+                "SitePhone": "803-563-7204",
                 "SiteState": "SC",
                 "SiteZip": "29532",
                 "URL": null,
@@ -53694,7 +53694,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5e6b0472-5651-49ed-8d95-d1848a6e15ac",
                 "Loc_ID": null,
@@ -55179,7 +55179,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "76839654-cd18-4634-8f61-9f1c0a8fe1da",
                 "Loc_ID": null,
@@ -58413,7 +58413,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "31cae090-e3e8-40b5-b350-dfab57c1b45f",
                 "Loc_ID": null,
@@ -60304,10 +60304,10 @@
                 "SiteAddress": "100 D Fleming Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Laurens",
-                "SitePhone": "864.442.5192",
+                "SitePhone": "864-416-4927",
                 "SiteState": "SC",
                 "SiteZip": "29360",
-                "URL": null,
+                "URL": "https://register.vams.cdc.gov/?jurisdiction=SC",
                 "V_Manufacturer": "MOD, JJ",
                 "loc_name": "Fleetwood Pharmacy Of Laurens",
                 "loc_type1": "Pharmacy – independent",
@@ -61713,7 +61713,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5e862306-10b2-4da0-b0cd-615f29fc7777",
                 "Loc_ID": null,
@@ -63839,7 +63839,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29405",
                 "URL": null,
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "MOD",
                 "loc_name": "Palmetto Palace @ Tri-county Family Ministries",
                 "loc_type1": null,
                 "ref_ID": null,
@@ -66993,7 +66993,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d40c11f0-919c-404a-b6c0-b388465e94a8",
                 "Loc_ID": null,
@@ -68051,72 +68051,6 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
-                "GlobalID": "e9536eb9-d9f3-4a8c-9698-a99be07bdb9a",
-                "Loc_ID": null,
-                "OBJECTID": 23462,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "600 Beckman Rd",
-                "SiteAddressDetail": "Meadowlake Park",
-                "SiteCity": "Columbia",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29203",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39984",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - Meadowlake Park",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.99449366299967,
-                "y": 34.08030770400046
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "21e6f1c5-062a-4cf0-9041-8874ff340df1",
-                "Loc_ID": null,
-                "OBJECTID": 23463,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "2508 Atlas Road",
-                "SiteAddressDetail": "Bible Way Church",
-                "SiteCity": "Columbia",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29209",
-                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39946",
-                "V_Manufacturer": "Pfizer",
-                "loc_name": "MUSC Health Community Vaccination Event - Bible Way Church",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.97542777099966,
-                "y": 33.94066037400046
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
                 "GlobalID": "3f4d0691-122d-4772-96fc-751c5f0c1d7d",
                 "Loc_ID": null,
                 "OBJECTID": 23464,
@@ -68379,7 +68313,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2abfd1bf-e07e-4e4c-8792-676e0352315c",
                 "Loc_ID": null,
@@ -68445,7 +68379,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ef2a5ae2-0a5e-4f5a-8a1a-8a789bc5c7db",
                 "Loc_ID": null,
@@ -68478,7 +68412,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8007bfb4-bb0c-4be6-8250-56310846ffca",
                 "Loc_ID": null,
@@ -68678,39 +68612,6 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
-                "GlobalID": "8291a38d-9f74-453a-aa1b-c97742480685",
-                "Loc_ID": null,
-                "OBJECTID": 25046,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "914 W. GEORGIA RD.",
-                "SiteAddressDetail": null,
-                "SiteCity": "SIMPSONVILLE",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29680",
-                "URL": "https://www.cvs.com/",
-                "V_Manufacturer": "Moderna",
-                "loc_name": "CVS #205",
-                "loc_type1": "pharmacy - chain",
-                "ref_ID": null,
-                "vfc_text": "CV1000205",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.28163127999966,
-                "y": 34.73527374300045
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
                 "GlobalID": "f4bf9a39-c2eb-4c3b-ac2d-7cd01e4627dd",
                 "Loc_ID": null,
                 "OBJECTID": 25047,
@@ -68869,39 +68770,6 @@
                 },
                 "x": -82.38765818199965,
                 "y": 34.90477878800044
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "22f99759-05f3-45b9-b0c6-faf192604054",
-                "Loc_ID": null,
-                "OBJECTID": 25052,
-                "Phone_Sec": null,
-                "Region": "Low Country",
-                "SiteAddress": "1602 CENTRAL AVE.",
-                "SiteAddressDetail": null,
-                "SiteCity": "SUMMERVILLE",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29483",
-                "URL": "https://www.cvs.com/",
-                "V_Manufacturer": "Moderna",
-                "loc_name": "CVS #3113",
-                "loc_type1": "pharmacy - chain",
-                "ref_ID": null,
-                "vfc_text": "CV1003113",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.23860626499959,
-                "y": 33.012066907000474
             }
         },
         {
@@ -70095,39 +69963,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "da2eccfc-8d0e-4d06-973d-7d677026e300",
-                "Loc_ID": null,
-                "OBJECTID": 25089,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2545 WHISKEY RD",
-                "SiteAddressDetail": null,
-                "SiteCity": "AIKEN",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29803",
-                "URL": "https://www.cvs.com/",
-                "V_Manufacturer": "Moderna",
-                "loc_name": "CVS #16653",
-                "loc_type1": "pharmacy - chain",
-                "ref_ID": null,
-                "vfc_text": "CV1016653",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.71138007999963,
-                "y": 33.5038012330005
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1c92a109-d9c8-4f24-aca8-5733b4dba744",
@@ -70227,7 +70062,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "103a68b1-e0e4-4e80-996d-6fa7b40e3ced",
                 "Loc_ID": null,
@@ -70260,7 +70095,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f4b5d82d-93c0-44ed-a2b7-bcfe3118634d",
                 "Loc_ID": null,
@@ -70293,7 +70128,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c3cc474a-7452-4b4c-84f6-75abc5283a37",
                 "Loc_ID": null,
@@ -70326,7 +70161,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "07643db0-c736-4830-aa57-7d02a68835a5",
                 "Loc_ID": null,
@@ -70387,6 +70222,270 @@
                 },
                 "x": -79.74842783999645,
                 "y": 33.626391930326236
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "96332e24-e3cb-4bac-8d7f-e40c5dedb2e0",
+                "Loc_ID": null,
+                "OBJECTID": 26291,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "109 S Limestone St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Gaffney",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29340",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ Limestone Presbyterian Church",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.64995991701721,
+                "y": 35.07148804705946
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "8929f602-0d76-453d-949a-4a3c50f082a3",
+                "Loc_ID": null,
+                "OBJECTID": 26292,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "505 N Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29601",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "DHEC Mobile Clinic @ Unity Health",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.39683993979816,
+                "y": 34.857777697300094
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "d2a85366-2094-45e4-a5a0-d85e912ee92a",
+                "Loc_ID": null,
+                "OBJECTID": 26293,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "829 William Hilton Parkway",
+                "SiteAddressDetail": null,
+                "SiteCity": "Hilton Head Island",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29928",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": null,
+                "loc_name": "DHEC @ Christ Lutheran Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.73071803991598,
+                "y": 32.17452686047642
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "6ed73659-4e3a-48d1-b776-44d3bef7172b",
+                "Loc_ID": null,
+                "OBJECTID": 26690,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "4870 Piedmont Avenue",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "JJ",
+                "loc_name": "Fetter Health Care Network @ Multicultural Resource Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.00388571740291,
+                "y": 32.881275444595474
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "20a84af6-f5e8-460e-985f-6c5f05e71af9",
+                "Loc_ID": null,
+                "OBJECTID": 26691,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2057 Hwy 45",
+                "SiteAddressDetail": null,
+                "SiteCity": "Pineville",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29468",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "PFR",
+                "loc_name": "Fetter Health Care Network @ Day Dawn Baptist",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.02270058806931,
+                "y": 33.43099227909033
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "90349d23-be31-46f1-9267-e70cf7f39499",
+                "Loc_ID": null,
+                "OBJECTID": 26692,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "7396 Rivers Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "PFR",
+                "loc_name": "Fetter Health Care Network @ Mt. Moriah Missionary Baptist",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.0381316627305,
+                "y": 32.93565713203043
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5adcba0e-b848-45dd-9fd2-db415a8ad14a",
+                "Loc_ID": null,
+                "OBJECTID": 26693,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2662 Mullet Hall Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Johns Island",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29455",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "Fetter Health Care Network @ Johns Island County Park",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.12052794722212,
+                "y": 32.640969225371975
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "4002274c-13b6-4eaa-99ac-7c83e8e08761",
+                "Loc_ID": null,
+                "OBJECTID": 26694,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2800 Carner Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "843-722-4112",
+                "SiteState": "SC",
+                "SiteZip": "29405",
+                "URL": "http://www.fetterhealthcare.org/",
+                "V_Manufacturer": "MOD",
+                "loc_name": "Fetter Health Care Network @ North Charleston Fire Department, Station #2",
+                "loc_type1": null,
+                "ref_ID": null,
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.96583525358238,
+                "y": 32.84721769208693
             }
         }
     ],

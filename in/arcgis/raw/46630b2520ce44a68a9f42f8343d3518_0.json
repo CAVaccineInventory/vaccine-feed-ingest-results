@@ -12405,7 +12405,7 @@
                 "Site_Location_Info": null,
                 "Site_Name": "Healthnet Barrington Health Ctr VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": "Now open for walk-ins, or appointments made in advance, every Wednesday and Friday from 9am – 1pm",
                 "Site_Type": "FQHC",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
@@ -12435,7 +12435,7 @@
                 "Site_Location_Info": null,
                 "Site_Name": "Healthnet Martindale-Brightwood VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": "Now open for walk-ins, or appointments made in advance, every Tuesday and Thursday from 9am – 1pm",
                 "Site_Type": "FQHC",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
@@ -21418,6 +21418,2196 @@
                 },
                 "x": -87.41229856962472,
                 "y": 37.976005197925645
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "7dd09995-6f92-4fe2-a265-3c13b9d5c14d",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Union Hospital Prof OfficeBld VAX",
+                "OBJECTID": 895,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1530 N. 7th St, Terre Haute, IN 47807",
+                "Site_County": "Vigo",
+                "Site_Location_Info": null,
+                "Site_Name": "Union Hospital Prof OfficeBld VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.40777335830339,
+                "y": 39.48441832425354
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "23b7e702-ca29-40ad-8fe7-414aa10a4055",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 6761",
+                "OBJECTID": 896,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3736 S Scatterfield Rd, Anderson, IN 46013",
+                "Site_County": "Madison",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 3736 S Scatterfield Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.65263624203315,
+                "y": 40.07736687756883
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e093eef2-6abb-4591-b68d-4ef1ffe6f5c8",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 7788",
+                "OBJECTID": 897,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "320 S Scatterfield Rd, Anderson, IN 46012",
+                "Site_County": "Madison",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 320 S Scatterfield Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.65277832055376,
+                "y": 40.11264071211156
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "4cba6d62-9944-4f0d-ba9c-68a669225350",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 2956",
+                "OBJECTID": 898,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1808 Albany St, Beech Grove, IN 46107",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Albany St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.10337825705783,
+                "y": 39.723858783058574
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "3da80aba-49bd-4d34-941f-f9632e1ce1e7",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 6454",
+                "OBJECTID": 899,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "20 W Main St, Brownsburg, IN 46112",
+                "Site_County": "Hendricks",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W Main St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.39826610787404,
+                "y": 39.843853550503425
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "fd0f7aab-3f62-4406-946f-9c35c7077463",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 6165",
+                "OBJECTID": 900,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "10595 N Michigan Rd, Carmel, IN 46032",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Michigan Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.2366004582146,
+                "y": 39.94043797163379
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e424d84e-d376-43e3-a1e0-59d39d95e79c",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 15334",
+                "OBJECTID": 901,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1424 S Rangeline Rd, Carmel, IN 46032",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S Rangeline Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12765426105109,
+                "y": 39.95722698925283
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "6b81a8ff-2910-4b34-a409-1a306409c70d",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 4946",
+                "OBJECTID": 902,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "580 Indian Boundary Rd, Chesterton, IN 46304",
+                "Site_County": "Porter",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Indian Boundary Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.044258401842,
+                "y": 41.616778769884334
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d36e0f1c-952b-4a1d-8cb7-406f24442385",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 3524",
+                "OBJECTID": 903,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2400 Beam Rd, Columbus, IN 47203",
+                "Site_County": "Bartholomew",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Beam Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.88876430815768,
+                "y": 39.22195458833028
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "b93d20a9-81dc-4de8-889b-ffcf37094b26",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10857",
+                "OBJECTID": 904,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2140 W Jonathan Moore Pike, Columbus, IN 47201",
+                "Site_County": "Bartholomew",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W Jonathan Moore Pike",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.94747030645303,
+                "y": 39.20078754814921
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "7ce94f14-98ae-4443-a879-62a33b648058",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10124",
+                "OBJECTID": 905,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1400 Cassopolis St, Elkhart, IN 46514",
+                "Site_County": "Elkhart",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 1400 Cassopolis St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.97123077245196,
+                "y": 41.70186149429776
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "96ac5244-d9f1-4134-b3dd-cc3360ab81c6",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 11795",
+                "OBJECTID": 906,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3551 Cassopolis St, Elkhart, IN 46514",
+                "Site_County": "Elkhart",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 3551 Cassopolis St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.97467158935375,
+                "y": 41.73839017820192
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8a52c2db-fc75-49fc-bffc-88faadc39c4e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 12264",
+                "OBJECTID": 907,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "200 S Nappanee St, Elkhart, IN 46514",
+                "Site_County": "Elkhart",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S Nappanee St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.00268576031469,
+                "y": 41.68339139222675
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d704531a-f8cf-43be-bc49-b7227bd7ddce",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10149",
+                "OBJECTID": 908,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "13741 E 116th St, Fishers, IN 46037",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E 116th St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.91939626010803,
+                "y": 39.957691785358485
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "32889f50-230a-4050-9b60-6bcf2baacf4e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9710",
+                "OBJECTID": 909,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "200 Lafollette Sta S, Floyds Knobs, IN 47119",
+                "Site_County": "Floyd",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Lafollette Sta S",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.89669528801608,
+                "y": 38.313983698441156
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "f845277f-5fb4-4a07-8b6f-43eb6c1d1a0e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5393",
+                "OBJECTID": 910,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "20 S Morton St, Franklin, IN 46131",
+                "Site_County": "Johnson",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S Morton St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.06471536224302,
+                "y": 39.47953993857454
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e375016b-ae6e-4b8e-9598-a7eb8cd3ae96",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 3232",
+                "OBJECTID": 911,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "429 W Pike St, Goshen, IN 46526",
+                "Site_County": "Elkhart",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W Pike St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.84259615818543,
+                "y": 41.58954653437998
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "b7f85217-2013-4353-8389-aa9824e00168",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 6965",
+                "OBJECTID": 912,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "15005 State Road 23, Granger, IN 46530",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - State Road 23",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.15990640726153,
+                "y": 41.73256296258952
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "7f40dfcf-60a4-4b41-bad6-ec8d34fece9f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 11544",
+                "OBJECTID": 913,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "13060 Adams Rd, Granger, IN 46530",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Adams Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12171135391804,
+                "y": 41.75313987359684
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "42370af5-ac91-4407-9437-b563729496f3",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 7174",
+                "OBJECTID": 914,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1195 N State St, Greenfield, IN 46140",
+                "Site_County": "Hancock",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N State St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.76944136505196,
+                "y": 39.79923861426512
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2cb4b71c-fb87-48e8-91b9-7104de4b56a0",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9488",
+                "OBJECTID": 915,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2215 N State Road 3 Byp, Greensburg, IN 47240",
+                "Site_County": "Decatur",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N State Road 3 Byp",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.48041624991944,
+                "y": 39.358200507619635
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "4eacd797-a8a6-447f-85f2-13b058121d74",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 4592",
+                "OBJECTID": 916,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "700 Us Highway 31 S, Greenwood, IN 46143",
+                "Site_County": "Johnson",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Us Highway 31 S",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.1087873577222,
+                "y": 39.60574197841888
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "7e4027cc-446e-496b-a3f1-ccf444405342",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5853",
+                "OBJECTID": 917,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "720 S State Road 135, Greenwood, IN 46143",
+                "Site_County": "Johnson",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S State Road 135",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.15903719666775,
+                "y": 39.60572675659817
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "381e919d-070f-4b31-96e8-061eec170ad6",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 15032",
+                "OBJECTID": 918,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1290 N State Road 135, Greenwood, IN 46142",
+                "Site_County": "Johnson",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N State Road 135",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.15852926783356,
+                "y": 39.63484456657095
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0684ec3f-f4db-4a58-8f73-f4af91d12632",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 2796",
+                "OBJECTID": 919,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3003 Kessler Blvd N Dr, Indianapolis, IN 46222",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Kessler Blvd N Dr",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.21103915756704,
+                "y": 39.80993554312368
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a9722c0e-65f6-4545-addf-7d6e11144ff3",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 11248",
+                "OBJECTID": 920,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3545 W 86th St, Indianapolis, IN 46268",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W 86th St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.22078315103674,
+                "y": 39.91156879774973
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "ebb0b9bd-27d7-4874-9f3d-d2ac4b1482a2",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 15116",
+                "OBJECTID": 921,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5580 Georgetown Rd, Indianapolis, IN 46254",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Georgetown Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.24023409510292,
+                "y": 39.85290085539082
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "80e7f343-64a8-4392-8e91-d1b4e4c9910e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10606",
+                "OBJECTID": 922,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "8945 Madison Ave, Indianapolis, IN 46227",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Madison Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.1174444571991,
+                "y": 39.637101572238514
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a0a9cc53-f397-4987-a09b-da2b3bc2c1d9",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 2800",
+                "OBJECTID": 923,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "8905 E 10th St, Indianapolis, IN 46219",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E 10th St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.01006416053626,
+                "y": 39.78115770497013
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e727c818-97d7-4a2a-bc2e-3d7b57ec7a69",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 3065",
+                "OBJECTID": 924,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "4555 N Shadeland Ave, Indianapolis, IN 46226",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Shadeland Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.04589717129775,
+                "y": 39.83930452674291
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "022f957d-5875-4187-9878-6693d9920ea2",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 3609",
+                "OBJECTID": 925,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5095 E Thompson Rd, Indianapolis, IN 46237",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E Thompson Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.08342141363762,
+                "y": 39.69401586935981
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a03057db-1111-4823-8c50-7a9cfcc78d36",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5978",
+                "OBJECTID": 926,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "11020 Pendleton Pike, Indianapolis, IN 46236",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Pendleton Pike",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.97170825496742,
+                "y": 39.863124867831885
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d106783c-5eda-465a-be80-38e93c7dfa43",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9278",
+                "OBJECTID": 927,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "11025 E Washington St, Indianapolis, IN 46229",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E Washington St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.9705853330613,
+                "y": 39.77575469244241
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "7c91910f-53eb-4c7d-9289-5bce97594314",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10487",
+                "OBJECTID": 928,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "6745 E Southport Rd, Indianapolis, IN 46237",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E Southport Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.04799839854614,
+                "y": 39.66652180416872
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "18eaad9c-d54f-4633-8c62-027984ecb8be",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10973",
+                "OBJECTID": 929,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1530 N Meridian St, Indianapolis, IN 46202",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Meridian St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.15769100931698,
+                "y": 39.78776178138345
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "23b38501-017f-443f-ae3f-3b6c7ada7c3b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 13874",
+                "OBJECTID": 930,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "985 N Arlington Ave, Indianapolis, IN 46219",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Arlington Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.06415720022156,
+                "y": 39.781198805831984
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "3fdf5460-f9cd-4e2a-b7c0-4026eae103db",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 2797",
+                "OBJECTID": 931,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3734 E 38Th St, Indianapolis, IN 46218",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E 38Th St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.1040734228821,
+                "y": 39.825364673983984
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "fcfc9eb1-9b2f-48f3-bc72-917daa383398",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 2931",
+                "OBJECTID": 932,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5199 N Keystone Ave, Indianapolis, IN 46205",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 5199 N Keystone Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12186510258671,
+                "y": 39.847513572830756
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "9dd49267-4bf6-4fa2-8c81-550364a3793c",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 3363",
+                "OBJECTID": 933,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1505 E 86th St, Indianapolis, IN 46240",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E 86th St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.13330235773168,
+                "y": 39.91186056389266
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "918e7df3-f157-44d6-ae52-1d1a32a3f90d",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 6778",
+                "OBJECTID": 934,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "6191 N Keystone Ave, Indianapolis, IN 46220",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 6191 N Keystone Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12206350396376,
+                "y": 39.868249814031984
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5d71fabc-f4a3-4f9a-a5cb-7b5fb2c55fd7",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 7418",
+                "OBJECTID": 935,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1207 S Heaton St, Knox, IN 46534",
+                "Site_County": "Starke",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S Heaton St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.62071919318916,
+                "y": 41.28590568246183
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "efb645ac-2733-4fdf-8a2c-bc9140c81b91",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5141",
+                "OBJECTID": 936,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1302 W State Road 2, La Porte, IN 46350",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W State Road 2",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.73627301687583,
+                "y": 41.59890032140619
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "fc152a56-1c94-496c-9655-eefad0a9cbf5",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9318",
+                "OBJECTID": 937,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "525 E Lincolnway, La Porte, IN 46350",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E Lincolnway",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.70841208776339,
+                "y": 41.61772358649956
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "3f772cdd-6e10-4b12-882b-58ae7488a087",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 1444",
+                "OBJECTID": 938,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1130 N Lebanon St, Lebanon, IN 46052",
+                "Site_County": "Boone",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Lebanon St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.47157109642389,
+                "y": 40.05703911111571
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "6f560e5b-1cc8-449a-9618-12b4cdbf6dec",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5663",
+                "OBJECTID": 939,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1323 N Baldwin Ave, Marion, IN 46952",
+                "Site_County": "Grant",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Baldwin Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.67441218761617,
+                "y": 40.57576581314144
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a627fd50-a9e3-41ae-976f-ba5ceedc056b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9279",
+                "OBJECTID": 940,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2620 S Western Ave, Marion, IN 46953",
+                "Site_County": "Grant",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S Western Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.67379313496662,
+                "y": 40.53792595362675
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "9e54d39f-fd4f-48c8-9133-c904a3650250",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 7676",
+                "OBJECTID": 941,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1900 S Ohio St, Martinsville, IN 46151",
+                "Site_County": "Morgan",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S Ohio St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.42460934197446,
+                "y": 39.40866650648146
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8bb3ae81-da8a-4c13-91b1-8953b1f2a6ea",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 4635",
+                "OBJECTID": 942,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "101 W US Hwy 20, Michigan City, IN 46360",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W US Hwy 20",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.89469320554942,
+                "y": 41.68076752171578
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "f9359f84-9087-487a-92f3-6ebeb75ea668",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 11625",
+                "OBJECTID": 943,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "4620 Lincolnway E, Mishawaka, IN 46544",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Lincolnway E",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.1091988753716,
+                "y": 41.66339294195371
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "9bb841cc-413c-42ce-9e91-f8b92e3e4ebc",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9482",
+                "OBJECTID": 944,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "110 E McKinley Ave, Mishawaka, IN 46545",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E McKinley Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.18118305100674,
+                "y": 41.68046256286474
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c8752b90-f8e1-42a8-b131-ea209cd55eb7",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 6455",
+                "OBJECTID": 945,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "115 Fields St, Mooresville, IN 46158",
+                "Site_County": "Morgan",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Fields St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.3562136440897,
+                "y": 39.616288710394166
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "238e915c-4470-402f-a3de-e74921685e20",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5802",
+                "OBJECTID": 946,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "100 E McGalliard Rd, Muncie, IN 47303",
+                "Site_County": "Delaware",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E McGalliard Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.38626541647504,
+                "y": 40.219392822282956
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0913ac89-04f9-4bc1-973a-53142f8cf37e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5803",
+                "OBJECTID": 947,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2720 W Jackson St, Muncie, IN 47303",
+                "Site_County": "Delaware",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W Jackson St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.35483529168077,
+                "y": 40.19317796428923
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2a0c6cde-2549-4e53-803b-6406275a681e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 6420",
+                "OBJECTID": 948,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "400 E Memorial Dr, Muncie, IN 47302",
+                "Site_County": "Delaware",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E Memorial Dr",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.3828093766341,
+                "y": 40.1784008686826
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e86c807a-0bc6-4a9b-b3cc-b94bd34a34d0",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10533",
+                "OBJECTID": 949,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3250 N Morrison Rd, Muncie, IN 47304",
+                "Site_County": "Delaware",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Morrison Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.44206947814787,
+                "y": 40.21930605316593
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d0ff9a9a-d54d-4332-82c7-25d1fba27b4a",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 7926",
+                "OBJECTID": 950,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5190 Charlestown Rd, New Albany, IN 47150",
+                "Site_County": "Floyd",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Charlestown Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.77630219558776,
+                "y": 38.367387661221244
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "b589c341-1433-4ec0-9ef1-4b0e09b3358a",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 7690",
+                "OBJECTID": 951,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "100 N Memorial Dr, New Castle, IN 47362",
+                "Site_County": "Henry",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Memorial Dr",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.38151900608072,
+                "y": 39.931654525058825
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2c9cc66e-265f-4d09-90d8-5dc360add0b8",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 7618",
+                "OBJECTID": 952,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "14625 N Gray Rd, Noblesville, IN 46062",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Gray Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.08957439303938,
+                "y": 40.001026499293154
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2ad7f256-f194-4a1b-a889-b1a480464016",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9129",
+                "OBJECTID": 953,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2380 Pleasant St, Noblesville, IN 46060",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Pleasant St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.99513230039054,
+                "y": 40.039421983841684
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e9a0f14f-6a26-46ab-a291-0614d2f48778",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9644",
+                "OBJECTID": 954,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "555 Westfield Rd, Noblesville, IN 46060",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Westfield Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.02546030850351,
+                "y": 40.04606766801837
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "67218920-c590-4a21-b546-425569f7977e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5562",
+                "OBJECTID": 955,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1516 E Main St, Plainfield, IN 46168",
+                "Site_County": "Hendricks",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E Main St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.38145222632627,
+                "y": 39.709298862644
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0671a901-44b8-47f2-afa7-33f74d0b9726",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9100",
+                "OBJECTID": 956,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2014 N Michigan St, Plymouth, IN 46563",
+                "Site_County": "Marshall",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Michigan St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.31090202079692,
+                "y": 41.35887983387358
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "3b1a98cb-1a0e-451c-aee6-e3bb47919b6e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 4560",
+                "OBJECTID": 957,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5995 US Hwy 6, Portage, IN 46368",
+                "Site_County": "Porter",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - US Hwy 6",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.18315356330827,
+                "y": 41.549586165371316
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "99c8f63f-7a44-4c84-834a-8a1aa7cfbd3d",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 13949",
+                "OBJECTID": 958,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "6001 Central Ave, Portage, IN 46368",
+                "Site_County": "Porter",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Central Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.18301706699101,
+                "y": 41.57576296673404
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c6649ff2-f916-4c13-969f-c3466305a994",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 12676",
+                "OBJECTID": 959,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "124 W Votaw St, Portland, IN 47371",
+                "Site_County": "Jay",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - W Votaw St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.97850139905675,
+                "y": 40.4395006119442
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "38655b14-e011-41dd-ab56-160afe4870d9",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9489",
+                "OBJECTID": 960,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1010 E State Road 44, Shelbyville, IN 46176",
+                "Site_County": "Shelby",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E State Road 44",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.76147638762069,
+                "y": 39.52136964344098
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5e2e23e8-a4a0-44ed-8805-d9b5ab11972c",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10184",
+                "OBJECTID": 961,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1351 N Ironwood Dr, South Bend, IN 46615",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Ironwood Dr",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.21691204091564,
+                "y": 41.69398582263965
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d14087ed-99af-4a37-b7a0-552b3f4f0c04",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 3680",
+                "OBJECTID": 962,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1903 Calumet Ave, Valparaiso, IN 46383",
+                "Site_County": "Porter",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 1903 Calumet Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.0510583420616,
+                "y": 41.48589476173418
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "172c9ff1-26d7-4257-836f-0f0b7fb148e0",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 5241",
+                "OBJECTID": 963,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "252 Morthland Dr, Valparaiso, IN 46383",
+                "Site_County": "Porter",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - Morthland Dr",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.06383112831494,
+                "y": 41.46027561525721
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e0103951-ceba-4a5c-9d77-49ad55cc4d53",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 9689",
+                "OBJECTID": 964,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "487 N Cass St, Wabash, IN 46992",
+                "Site_County": "Wabash",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - N Cass St",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.8264764288153,
+                "y": 40.80344786605499
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "1b14e8e7-60e2-4b7e-832a-f4c121b1d5ba",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 15181",
+                "OBJECTID": 965,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "200 S Ford Rd, Zionsville, IN 46077",
+                "Site_County": "Boone",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - S Ford Rd",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.27937041220805,
+                "y": 39.94940510432795
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "fd81c261-4001-45e0-aefc-bc986ab754a0",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 10426",
+                "OBJECTID": 966,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3275 E State Road 32, Westfield, IN 46074",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - E State Road 32",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.10946087982886,
+                "y": 40.04244281812125
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5274bcc6-f9b5-47d0-9a57-57ce92ace4b7",
+                "ID": null,
+                "IsView": 1,
+                "Name": "WALGREENS 21202",
+                "OBJECTID": 967,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1001 Calumet Ave, Dyer, IN 46311",
+                "Site_County": "Lake",
+                "Site_Location_Info": null,
+                "Site_Name": "Walgreens Pharmacy - 1001 Calumet Ave",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.walgreens.com/findcare/vaccination/covid-19",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.50822000030777,
+                "y": 41.513670000045565
             }
         }
     ],

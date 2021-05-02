@@ -314,41 +314,17 @@
         },
         {
             "attributes": {
-                "OBJECTID": 14,
-                "USER_Active": "Not Active",
-                "USER_Address": "1057 Mineral Spring Avenue",
-                "USER_City_Town": "North Providence",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
-                "USER_Name": "White Cross Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
-                "USER_State": "RI",
-                "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
-                "ZIPCODE": "02904"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -71.42495907515907,
-                "y": 41.86874860697219
-            }
-        },
-        {
-            "attributes": {
                 "OBJECTID": 15,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "1057 Mineral Spring Ave",
                 "USER_City_Town": "North Providence",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.vaccinateri.org/",
                 "USER_Name": "White Cross Pharmacy",
-                "USER_Scheduling_by_Phone": "-",
+                "USER_Scheduling_by_Phone": "844-930-1779",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
                 "ZIPCODE": "02904"
             },
             "geometry": {
@@ -963,16 +939,16 @@
         {
             "attributes": {
                 "OBJECTID": 41,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "15 Smithfield Road",
                 "USER_City_Town": "North Providence",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
-                "USER_Name": "Albertsons",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://local.pharmacy.shaws.com/ri/north-providence/15-smithfield-rd.html",
+                "USER_Name": "Osco",
                 "USER_Scheduling_by_Phone": "-",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
                 "ZIPCODE": "02904"
             },
             "geometry": {
@@ -1755,16 +1731,16 @@
         {
             "attributes": {
                 "OBJECTID": 74,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "219 Manton Ave",
                 "USER_City_Town": "Providence",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://vaccinateri.org/",
                 "USER_Name": "Anthony's Pharmacy",
                 "USER_Scheduling_by_Phone": "-",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
                 "ZIPCODE": "02909"
             },
             "geometry": {
@@ -3507,16 +3483,16 @@
         {
             "attributes": {
                 "OBJECTID": 147,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "905 N Main Street",
                 "USER_City_Town": "Providence",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.vaccinateri.org/",
                 "USER_Name": "Green Line Apothecary",
                 "USER_Scheduling_by_Phone": "-",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Varies",
                 "ZIPCODE": "02904"
             },
             "geometry": {

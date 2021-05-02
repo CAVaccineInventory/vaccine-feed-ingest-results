@@ -1,0 +1,32 @@
+[
+    {
+        "id": 14,
+        "name": "Manhattan - Lenox Health Greenwich Village (200 W. 13th) -- Pfizer",
+        "address": "200 West 13th Street",
+        "suite": "5th Floor",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10011",
+        "county": "New York",
+        "latitude": "40.7379",
+        "longitude": "-74.0008",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 13,
+        "name": "Westchester - Chappaqua Crossing (480 N Bedford Rd) -- Moderna",
+        "address": "480 N Bedford Rod",
+        "suite": "",
+        "city": "Chappaqua",
+        "state": "New York",
+        "zip": "10514",
+        "county": "Westchester",
+        "latitude": "41.1789",
+        "longitude": "-73.7515",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
+        "distance": null
+    }
+]
