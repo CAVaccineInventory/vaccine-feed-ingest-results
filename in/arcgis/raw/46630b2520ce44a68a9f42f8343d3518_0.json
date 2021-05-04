@@ -15423,36 +15423,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "eb7c2898-664e-45b9-b8b3-a4c3c8cfea9f",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA- Pentecostal Temple Church of God and Christ",
-                "OBJECTID": 681,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2722 Wabash St, Michigan City, IN 46360",
-                "Site_County": "LaPorte",
-                "Site_Location_Info": null,
-                "Site_Name": "FEMA Pentecostal Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.89522602861216,
-                "y": 41.69726573403683
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "c6f09bf5-73d7-4c5b-bcf7-c5678d24f046",
                 "ID": null,
                 "IsView": 1,
@@ -20593,11 +20563,11 @@
                 "Site_Address": "1412 Miller St, Shelbyville, IN 46176",
                 "Site_County": "Shelby",
                 "Site_Location_Info": null,
-                "Site_Name": "MedWorks Pharmacy VAX",
+                "Site_Name": "MedWorks Pharmacy",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Zotec_Link": "https://blog.prescribewellness.com/contact-free/?apt=no&npi=1710070156",
                 "Symbology": "Regular",
                 "Vaccine_Type": "Johnson & Johnson"
             },

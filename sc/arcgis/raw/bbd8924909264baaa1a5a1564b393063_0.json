@@ -15810,8 +15810,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": "covidvaccine@anmedhealth.org",
+                "Appointments": "Yes",
+                "Contact": "www.covidvaccine@anmedhealth.org",
                 "GlobalID": "24666fa5-fa9b-4ba2-afc8-6e03e4d24dbb",
                 "Loc_ID": 369,
                 "OBJECTID": 481,
@@ -40772,7 +40772,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29601",
                 "URL": "http://www.embermodernmedicine.com/",
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "PZR, MOD",
                 "loc_name": "Ember Modern Medicine",
                 "loc_type1": "Medical practice – family medicine",
                 "ref_ID": 2212,
@@ -55603,39 +55603,6 @@
                 },
                 "x": -80.46441013499668,
                 "y": 33.73644623062552
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": "Thursday - Saturday",
-                "GlobalID": "fb2dfad7-e522-4523-87fc-23211b731f97",
-                "Loc_ID": null,
-                "OBJECTID": 8429,
-                "Phone_Sec": null,
-                "Region": "UPSTATE",
-                "SiteAddress": "3027 Martin Luther King Jr Blvd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Anderson",
-                "SitePhone": "864-512-2897",
-                "SiteState": "SC",
-                "SiteZip": "29625",
-                "URL": null,
-                "V_Manufacturer": null,
-                "loc_name": "AnMed Health @ Anderson Civic Center",
-                "loc_type1": "Community Clinic",
-                "ref_ID": null,
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.6801464439742,
-                "y": 34.536858836204146
             }
         },
         {
