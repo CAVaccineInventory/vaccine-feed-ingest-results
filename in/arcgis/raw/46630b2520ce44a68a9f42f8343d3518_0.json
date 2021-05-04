@@ -21213,36 +21213,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "ebfafdcd-0177-46c2-8c35-463a6d1cb676",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Madison Co Celebration Church VAX",
-                "OBJECTID": 888,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1120 Arrow Ave, Anderson, IN 46016",
-                "Site_County": "Madison",
-                "Site_Location_Info": "This is a one-day clinic on May 3, 9 a.m. – 11:30 a.m.",
-                "Site_Name": "Madison Co Celebration Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.70100966216769,
-                "y": 40.10420421971139
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "e1da7ad5-2d62-4349-95ab-fa7df3ee1f5d",
                 "ID": null,
                 "IsView": 1,
