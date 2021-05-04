@@ -30,21 +30,6 @@
         "distance": null
     },
     {
-        "id": 45,
-        "name": "Queens - Church of Corona (100-10 Astoria Blvd) -- Moderna",
-        "address": "100-10 Astoria Blvd",
-        "suite": "",
-        "city": "East Elmhurst",
-        "state": "New York",
-        "zip": "11369",
-        "county": "Queens",
-        "latitude": "40.7615",
-        "longitude": "-73.8689",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfOkEAK",
-        "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
         "id": 42,
         "name": "Queens - Church of Corona (100-10 Astoria Blvd) -- Pfizer",
         "address": "100-10 Astoria Blvd",
@@ -132,6 +117,21 @@
         "longitude": "-73.3884",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
+        "distance": null
+    },
+    {
+        "id": 18,
+        "name": "Nassau - Belmont (2150 Hempstead Tpk) -- Pfizer",
+        "address": "2150 Hempstead Turnpike",
+        "suite": "",
+        "city": "Elmont",
+        "state": "New York",
+        "zip": "11722",
+        "county": "Nassau",
+        "latitude": "40.7095",
+        "longitude": "-73.7204",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Pfizer",
         "distance": null
     },
     {

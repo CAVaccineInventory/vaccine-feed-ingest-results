@@ -4443,36 +4443,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": "State",
-                "GlobalID": "09537bdb-8604-42a1-b222-7a0c75c73f54",
-                "ID": "ISDH1169",
-                "IsView": 1,
-                "Name": "Neighborhood Health Clinics, Inc.",
-                "OBJECTID": 243,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1717 South Calhoun Street, Fort Wayne 46802",
-                "Site_County": "Allen",
-                "Site_Location_Info": null,
-                "Site_Name": "NEIGHBORHOOD HC S CALHOUNST VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.13814726672965,
-                "y": 41.06987631748899
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": "State",
                 "GlobalID": "76768656-81ac-40e4-b4d9-e0ef47581e10",
                 "ID": "ISDH1170",
                 "IsView": 1,
@@ -13123,11 +13093,11 @@
                 "Site_Address": "900 N. Main St., Cloverdale, IN  46120",
                 "Site_County": "Putnam",
                 "Site_Location_Info": null,
-                "Site_Name": "Cloverdale Drugs Pharmacy VAX",
+                "Site_Name": "Cloverdale Drugs Pharmacy",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Zotec_Link": "https://app.acuityscheduling.com/schedule.php?owner=21713169",
                 "Symbology": "Regular",
                 "Vaccine_Type": "Johnson & Johnson"
             },
@@ -23578,6 +23548,36 @@
                 },
                 "x": -87.50822000030777,
                 "y": 41.513670000045565
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "b018ae26-10cc-4a15-b63d-be69fc651cb3",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Holden Pharmacy",
+                "OBJECTID": 968,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "359 W. Walnut St, Frankfort, IN 46041",
+                "Site_County": "Clinton",
+                "Site_Location_Info": null,
+                "Site_Name": "Holden Pharmacy",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://book-ch.appointment-plus.com/d09v4c90#/",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.51527918308447,
+                "y": 40.27932341677444
             }
         }
     ],
