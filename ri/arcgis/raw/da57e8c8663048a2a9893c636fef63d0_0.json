@@ -13,7 +13,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02893"
+                "ZIPCODE": "02893",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -37,7 +39,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02909"
+                "ZIPCODE": "02909",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -61,7 +65,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02861"
+                "ZIPCODE": "02861",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -85,7 +91,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02860"
+                "ZIPCODE": "02860",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -109,7 +117,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02871"
+                "ZIPCODE": "02871",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -133,7 +143,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02903"
+                "ZIPCODE": "02903",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -157,7 +169,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02980"
+                "ZIPCODE": "02980",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -181,7 +195,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02863"
+                "ZIPCODE": "02863",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -205,7 +221,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02910"
+                "ZIPCODE": "02910",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -229,7 +247,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Hospital",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02905"
+                "ZIPCODE": "02905",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -253,7 +273,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02852"
+                "ZIPCODE": "02852",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -277,7 +299,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02895"
+                "ZIPCODE": "02895",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -301,7 +325,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02814"
+                "ZIPCODE": "02814",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -325,7 +351,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -349,7 +377,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -373,7 +403,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -397,7 +429,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Hospital",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02860"
+                "ZIPCODE": "02860",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -421,7 +455,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02915"
+                "ZIPCODE": "02915",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -445,7 +481,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02882"
+                "ZIPCODE": "02882",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -469,7 +507,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02879"
+                "ZIPCODE": "02879",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -493,7 +533,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -517,7 +559,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -541,7 +585,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02882"
+                "ZIPCODE": "02882",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -565,7 +611,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02920"
+                "ZIPCODE": "02920",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -589,7 +637,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02898"
+                "ZIPCODE": "02898",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -613,7 +663,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02920"
+                "ZIPCODE": "02920",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -637,7 +689,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02893"
+                "ZIPCODE": "02893",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -661,7 +715,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02896"
+                "ZIPCODE": "02896",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -685,7 +741,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02842"
+                "ZIPCODE": "02842",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -709,7 +767,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -733,7 +793,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02909"
+                "ZIPCODE": "02909",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -757,7 +819,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02892"
+                "ZIPCODE": "02892",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -781,7 +845,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02906"
+                "ZIPCODE": "02906",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -805,7 +871,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02919"
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -829,7 +897,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02919"
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -853,7 +923,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02818"
+                "ZIPCODE": "02818",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -877,7 +949,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02840"
+                "ZIPCODE": "02840",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -901,7 +975,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02842"
+                "ZIPCODE": "02842",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -925,7 +1001,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02891"
+                "ZIPCODE": "02891",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -949,7 +1027,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -973,7 +1053,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02895"
+                "ZIPCODE": "02895",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -997,7 +1079,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02891"
+                "ZIPCODE": "02891",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1021,7 +1105,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02889"
+                "ZIPCODE": "02889",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1045,7 +1131,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02911"
+                "ZIPCODE": "02911",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1069,7 +1157,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02919"
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1093,7 +1183,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Hospital",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02906"
+                "ZIPCODE": "02906",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1117,7 +1209,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02891"
+                "ZIPCODE": "02891",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1141,7 +1235,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Hospital",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02905"
+                "ZIPCODE": "02905",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1165,7 +1261,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1189,7 +1287,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02809"
+                "ZIPCODE": "02809",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1213,7 +1313,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02893"
+                "ZIPCODE": "02893",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1237,7 +1339,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02905"
+                "ZIPCODE": "02905",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1261,7 +1365,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02905"
+                "ZIPCODE": "02905",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1285,7 +1391,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02921"
+                "ZIPCODE": "02921",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1309,7 +1417,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02806"
+                "ZIPCODE": "02806",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1333,7 +1443,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02840"
+                "ZIPCODE": "02840",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1357,7 +1469,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Hospital",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02840"
+                "ZIPCODE": "02840",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1381,7 +1495,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Hospital",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1405,7 +1521,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02914"
+                "ZIPCODE": "02914",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1429,7 +1547,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1453,7 +1573,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1477,7 +1599,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02919"
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1501,7 +1625,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02840"
+                "ZIPCODE": "02840",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1525,7 +1651,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02864"
+                "ZIPCODE": "02864",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1549,7 +1677,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02882"
+                "ZIPCODE": "02882",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1573,7 +1703,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02920"
+                "ZIPCODE": "02920",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1597,7 +1729,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02920"
+                "ZIPCODE": "02920",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1621,7 +1755,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02859"
+                "ZIPCODE": "02859",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1645,7 +1781,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02920"
+                "ZIPCODE": "02920",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1669,7 +1807,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02864"
+                "ZIPCODE": "02864",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1693,7 +1833,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02864"
+                "ZIPCODE": "02864",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1717,7 +1859,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02898"
+                "ZIPCODE": "02898",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1741,7 +1885,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02909"
+                "ZIPCODE": "02909",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1765,7 +1911,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02891"
+                "ZIPCODE": "02891",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1789,7 +1937,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02916"
+                "ZIPCODE": "02916",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1813,7 +1963,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02889"
+                "ZIPCODE": "02889",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1837,7 +1989,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02889"
+                "ZIPCODE": "02889",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1861,7 +2015,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02889"
+                "ZIPCODE": "02889",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1885,7 +2041,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02888"
+                "ZIPCODE": "02888",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1909,7 +2067,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02871"
+                "ZIPCODE": "02871",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1933,7 +2093,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02891"
+                "ZIPCODE": "02891",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1957,7 +2119,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02919"
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -1981,7 +2145,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02818"
+                "ZIPCODE": "02818",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2005,7 +2171,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02889"
+                "ZIPCODE": "02889",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2029,7 +2197,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2053,7 +2223,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02919"
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2077,7 +2249,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02908"
+                "ZIPCODE": "02908",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2101,7 +2275,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02863"
+                "ZIPCODE": "02863",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2125,7 +2301,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02864"
+                "ZIPCODE": "02864",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2149,7 +2327,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2173,7 +2353,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02903"
+                "ZIPCODE": "02903",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2197,7 +2379,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02861"
+                "ZIPCODE": "02861",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2221,7 +2405,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02908"
+                "ZIPCODE": "02908",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2245,7 +2431,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02861"
+                "ZIPCODE": "02861",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2269,7 +2457,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2293,7 +2483,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02813"
+                "ZIPCODE": "02813",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2317,7 +2509,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02908"
+                "ZIPCODE": "02908",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2341,7 +2535,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02917"
+                "ZIPCODE": "02917",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2365,7 +2561,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2389,7 +2587,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02860"
+                "ZIPCODE": "02860",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2413,7 +2613,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02809"
+                "ZIPCODE": "02809",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2437,7 +2639,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02828"
+                "ZIPCODE": "02828",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2461,7 +2665,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02915"
+                "ZIPCODE": "02915",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2485,7 +2691,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02895"
+                "ZIPCODE": "02895",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2509,7 +2717,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02828"
+                "ZIPCODE": "02828",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2533,7 +2743,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02828"
+                "ZIPCODE": "02828",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2557,7 +2769,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Hospital",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2581,7 +2795,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02857"
+                "ZIPCODE": "02857",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2605,7 +2821,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2629,7 +2847,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02906"
+                "ZIPCODE": "02906",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2653,7 +2873,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02907"
+                "ZIPCODE": "02907",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2677,7 +2899,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02878"
+                "ZIPCODE": "02878",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2701,7 +2925,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02818"
+                "ZIPCODE": "02818",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2725,7 +2951,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2749,7 +2977,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02907"
+                "ZIPCODE": "02907",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2773,7 +3003,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02852"
+                "ZIPCODE": "02852",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2797,7 +3029,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02809"
+                "ZIPCODE": "02809",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2821,7 +3055,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02914"
+                "ZIPCODE": "02914",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2845,7 +3081,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02885"
+                "ZIPCODE": "02885",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2869,7 +3107,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02896"
+                "ZIPCODE": "02896",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2893,7 +3133,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02865"
+                "ZIPCODE": "02865",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2917,7 +3159,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02860"
+                "ZIPCODE": "02860",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2941,7 +3185,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02865"
+                "ZIPCODE": "02865",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2965,7 +3211,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02914"
+                "ZIPCODE": "02914",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -2989,7 +3237,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "\b",
-                "ZIPCODE": "02916"
+                "ZIPCODE": "02916",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3013,7 +3263,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02852"
+                "ZIPCODE": "02852",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3037,7 +3289,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02852"
+                "ZIPCODE": "02852",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3061,7 +3315,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02914"
+                "ZIPCODE": "02914",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3085,7 +3341,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02886"
+                "ZIPCODE": "02886",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3109,7 +3367,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02816"
+                "ZIPCODE": "02816",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3133,7 +3393,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02878"
+                "ZIPCODE": "02878",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3157,7 +3419,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02910"
+                "ZIPCODE": "02910",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3181,7 +3445,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02864"
+                "ZIPCODE": "02864",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3205,7 +3471,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02816"
+                "ZIPCODE": "02816",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3229,7 +3497,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02896"
+                "ZIPCODE": "02896",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3253,7 +3523,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02888"
+                "ZIPCODE": "02888",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3277,7 +3549,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02852"
+                "ZIPCODE": "02852",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3301,7 +3575,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02906"
+                "ZIPCODE": "02906",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3325,7 +3601,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "\b",
-                "ZIPCODE": "02893"
+                "ZIPCODE": "02893",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3349,7 +3627,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02861"
+                "ZIPCODE": "02861",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3373,7 +3653,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02888"
+                "ZIPCODE": "02888",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3397,7 +3679,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02816"
+                "ZIPCODE": "02816",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3421,7 +3705,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02909"
+                "ZIPCODE": "02909",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3445,7 +3731,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02896"
+                "ZIPCODE": "02896",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3469,7 +3757,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
-                "ZIPCODE": "02842"
+                "ZIPCODE": "02842",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3493,7 +3783,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02904"
+                "ZIPCODE": "02904",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3517,7 +3809,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02909"
+                "ZIPCODE": "02909",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3541,7 +3835,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02905"
+                "ZIPCODE": "02905",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3565,7 +3861,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
-                "ZIPCODE": "02903"
+                "ZIPCODE": "02903",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3589,7 +3887,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "Moderna COVID-19 Vaccine",
-                "ZIPCODE": "02882"
+                "ZIPCODE": "02882",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3613,7 +3913,9 @@
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
                 "USER_VaxType": "-",
-                "ZIPCODE": "02842"
+                "ZIPCODE": "02842",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3637,7 +3939,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02919"
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3661,7 +3965,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02891"
+                "ZIPCODE": "02891",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3685,7 +3991,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02914"
+                "ZIPCODE": "02914",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {
@@ -3709,7 +4017,9 @@
                 "USER_State": "RI",
                 "USER_Type": "State-run Vaccination Center",
                 "USER_VaxType": "Varies",
-                "ZIPCODE": "02914"
+                "ZIPCODE": "02914",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
             },
             "geometry": {
                 "spatialReference": {

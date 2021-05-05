@@ -23,7 +23,9 @@
                 "Status": "M",
                 "X": -86.35897143,
                 "Y": 33.27956929,
-                "ZIP_CODE": "35044"
+                "ZIP_CODE": "35044",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -57,7 +59,9 @@
                 "Status": "M",
                 "X": -86.22065723,
                 "Y": 32.8869274,
-                "ZIP_CODE": "35136"
+                "ZIP_CODE": "35136",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -91,7 +95,9 @@
                 "Status": "M",
                 "X": -86.24376415,
                 "Y": 32.38346703,
-                "ZIP_CODE": "36109"
+                "ZIP_CODE": "36109",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -125,7 +131,9 @@
                 "Status": "M",
                 "X": -86.242356,
                 "Y": 32.355405,
-                "ZIP_CODE": "36106"
+                "ZIP_CODE": "36106",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -159,7 +167,9 @@
                 "Status": "M",
                 "X": -86.45067005,
                 "Y": 32.46463679,
-                "ZIP_CODE": "36066"
+                "ZIP_CODE": "36066",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -193,7 +203,9 @@
                 "Status": "M",
                 "X": -86.17100138,
                 "Y": 32.37598055,
-                "ZIP_CODE": "36117"
+                "ZIP_CODE": "36117",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -227,7 +239,9 @@
                 "Status": "M",
                 "X": -86.21118165,
                 "Y": 32.51816888,
-                "ZIP_CODE": "36092"
+                "ZIP_CODE": "36092",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -261,7 +275,9 @@
                 "Status": "M",
                 "X": -86.81429964,
                 "Y": 33.5528265,
-                "ZIP_CODE": "35207"
+                "ZIP_CODE": "35207",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -295,7 +311,9 @@
                 "Status": "M",
                 "X": -85.96762,
                 "Y": 31.811395,
-                "ZIP_CODE": "36081-2540"
+                "ZIP_CODE": "36081-2540",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -329,7 +347,9 @@
                 "Status": "M",
                 "X": -86.5787106,
                 "Y": 34.69461152,
-                "ZIP_CODE": "35801-6403"
+                "ZIP_CODE": "35801-6403",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -363,7 +383,9 @@
                 "Status": "M",
                 "X": -86.57206,
                 "Y": 34.79227,
-                "ZIP_CODE": "35762"
+                "ZIP_CODE": "35762",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -397,7 +419,9 @@
                 "Status": "M",
                 "X": -85.44376562,
                 "Y": 31.26665319,
-                "ZIP_CODE": "36303-1880"
+                "ZIP_CODE": "36303-1880",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -431,7 +455,9 @@
                 "Status": "M",
                 "X": -85.28973052,
                 "Y": 31.55000926,
-                "ZIP_CODE": "36310"
+                "ZIP_CODE": "36310",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -465,7 +491,9 @@
                 "Status": "M",
                 "X": -85.71594486,
                 "Y": 34.36753114,
-                "ZIP_CODE": "35968"
+                "ZIP_CODE": "35968",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -499,7 +527,9 @@
                 "Status": "M",
                 "X": -85.44011073,
                 "Y": 31.26432731,
-                "ZIP_CODE": "36303"
+                "ZIP_CODE": "36303",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -533,7 +563,9 @@
                 "Status": "M",
                 "X": -85.50010605,
                 "Y": 32.57061194,
-                "ZIP_CODE": "36830"
+                "ZIP_CODE": "36830",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -567,7 +599,9 @@
                 "Status": "M",
                 "X": -85.40885471,
                 "Y": 32.61974277,
-                "ZIP_CODE": "36801-6860"
+                "ZIP_CODE": "36801-6860",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -601,7 +635,9 @@
                 "Status": "M",
                 "X": -86.6697075,
                 "Y": 33.417495,
-                "ZIP_CODE": "35242"
+                "ZIP_CODE": "35242",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -635,7 +671,9 @@
                 "Status": "M",
                 "X": -86.16275671,
                 "Y": 32.35968877,
-                "ZIP_CODE": "36117-3564"
+                "ZIP_CODE": "36117-3564",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -669,7 +707,9 @@
                 "Status": "M",
                 "X": -87.58547925,
                 "Y": 30.26989343,
-                "ZIP_CODE": "36561-6602"
+                "ZIP_CODE": "36561-6602",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -703,7 +743,9 @@
                 "Status": "M",
                 "X": -85.98891908,
                 "Y": 34.5802127,
-                "ZIP_CODE": "35771-7006"
+                "ZIP_CODE": "35771-7006",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -737,7 +779,9 @@
                 "Status": "M",
                 "X": -86.32452665,
                 "Y": 34.0263019,
-                "ZIP_CODE": "35952"
+                "ZIP_CODE": "35952",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -771,7 +815,9 @@
                 "Status": "M",
                 "X": -86.49482183,
                 "Y": 31.29792893,
-                "ZIP_CODE": "36420-5325"
+                "ZIP_CODE": "36420-5325",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -805,7 +851,9 @@
                 "Status": "M",
                 "X": -85.82339303,
                 "Y": 33.65774147,
-                "ZIP_CODE": "36207-5782"
+                "ZIP_CODE": "36207-5782",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -839,7 +887,9 @@
                 "Status": "M",
                 "X": -86.873265,
                 "Y": 34.049403,
-                "ZIP_CODE": "35077"
+                "ZIP_CODE": "35077",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -873,7 +923,9 @@
                 "Status": "M",
                 "X": -86.41321962,
                 "Y": 32.45995228,
-                "ZIP_CODE": "36066-7290"
+                "ZIP_CODE": "36066-7290",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -907,7 +959,9 @@
                 "Status": "M",
                 "X": -85.83620833,
                 "Y": 33.27366139,
-                "ZIP_CODE": "36251-7975"
+                "ZIP_CODE": "36251-7975",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -941,7 +995,9 @@
                 "Status": "M",
                 "X": -86.9784792,
                 "Y": 34.80362635,
-                "ZIP_CODE": "35611-2457"
+                "ZIP_CODE": "35611-2457",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -975,7 +1031,9 @@
                 "Status": "M",
                 "X": -86.2957035,
                 "Y": 32.365017,
-                "ZIP_CODE": "36104"
+                "ZIP_CODE": "36104",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1009,7 +1067,9 @@
                 "Status": "M",
                 "X": -86.27085105,
                 "Y": 33.84651793,
-                "ZIP_CODE": "35953"
+                "ZIP_CODE": "35953",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1043,7 +1103,9 @@
                 "Status": "M",
                 "X": -87.4796584,
                 "Y": 31.01699554,
-                "ZIP_CODE": "36502-3006"
+                "ZIP_CODE": "36502-3006",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1077,7 +1139,9 @@
                 "Status": "M",
                 "X": -85.48731778,
                 "Y": 32.59303405,
-                "ZIP_CODE": "36832-4643"
+                "ZIP_CODE": "36832-4643",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1111,7 +1175,9 @@
                 "Status": "M",
                 "X": -85.42975985,
                 "Y": 32.60735794,
-                "ZIP_CODE": "36830-6482"
+                "ZIP_CODE": "36830-6482",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1145,7 +1211,9 @@
                 "Status": "M",
                 "X": -86.98116228,
                 "Y": 34.80088787,
-                "ZIP_CODE": "35611-2492"
+                "ZIP_CODE": "35611-2492",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1179,7 +1247,9 @@
                 "Status": "M",
                 "X": -85.49873498,
                 "Y": 32.575541,
-                "ZIP_CODE": "36832-6637"
+                "ZIP_CODE": "36832-6637",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1213,7 +1283,9 @@
                 "Status": "M",
                 "X": -86.47517,
                 "Y": 32.46473892,
-                "ZIP_CODE": "36067-3003"
+                "ZIP_CODE": "36067-3003",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1247,7 +1319,9 @@
                 "Status": "M",
                 "X": -86.2774662,
                 "Y": 32.32716599,
-                "ZIP_CODE": "36116-2409"
+                "ZIP_CODE": "36116-2409",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1281,7 +1355,9 @@
                 "Status": "M",
                 "X": -87.71209,
                 "Y": 30.55589,
-                "ZIP_CODE": "36567-0369"
+                "ZIP_CODE": "36567-0369",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1315,7 +1391,9 @@
                 "Status": "M",
                 "X": -88.24313073,
                 "Y": 30.42348497,
-                "ZIP_CODE": "36544-4015"
+                "ZIP_CODE": "36544-4015",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1349,7 +1427,9 @@
                 "Status": "M",
                 "X": -85.1403635,
                 "Y": 31.88206348,
-                "ZIP_CODE": "36027-2430"
+                "ZIP_CODE": "36027-2430",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1383,7 +1463,9 @@
                 "Status": "M",
                 "X": -87.14622072,
                 "Y": 32.94793709,
-                "ZIP_CODE": "35042-2953"
+                "ZIP_CODE": "35042-2953",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1417,7 +1499,9 @@
                 "Status": "M",
                 "X": -88.11927811,
                 "Y": 33.75232015,
-                "ZIP_CODE": "35592"
+                "ZIP_CODE": "35592",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1451,7 +1535,9 @@
                 "Status": "M",
                 "X": -87.14763759,
                 "Y": 32.95139073,
-                "ZIP_CODE": "35042-2918"
+                "ZIP_CODE": "35042-2918",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1485,7 +1571,9 @@
                 "Status": "M",
                 "X": -87.14763759,
                 "Y": 32.95139073,
-                "ZIP_CODE": "35042"
+                "ZIP_CODE": "35042",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1519,7 +1607,9 @@
                 "Status": "M",
                 "X": -86.46532841,
                 "Y": 33.95782967,
-                "ZIP_CODE": "35121-2533"
+                "ZIP_CODE": "35121-2533",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1553,7 +1643,9 @@
                 "Status": "M",
                 "X": -86.93686234,
                 "Y": 33.58946848,
-                "ZIP_CODE": "35005-2238"
+                "ZIP_CODE": "35005-2238",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1587,7 +1679,9 @@
                 "Status": "M",
                 "X": -87.51648493,
                 "Y": 33.20885996,
-                "ZIP_CODE": "35404-2990"
+                "ZIP_CODE": "35404-2990",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1621,7 +1715,9 @@
                 "Status": "M",
                 "X": -86.82519633,
                 "Y": 33.21849618,
-                "ZIP_CODE": "35007"
+                "ZIP_CODE": "35007",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1655,7 +1751,9 @@
                 "Status": "M",
                 "X": -86.15945706,
                 "Y": 34.19853076,
-                "ZIP_CODE": "35957-1951"
+                "ZIP_CODE": "35957-1951",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1689,7 +1787,9 @@
                 "Status": "M",
                 "X": -86.77650011,
                 "Y": 33.46308929,
-                "ZIP_CODE": "35209-6804"
+                "ZIP_CODE": "35209-6804",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1723,7 +1823,9 @@
                 "Status": "M",
                 "X": -85.69882049,
                 "Y": 32.13524924,
-                "ZIP_CODE": "36089"
+                "ZIP_CODE": "36089",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1757,7 +1859,9 @@
                 "Status": "M",
                 "X": -85.71703156,
                 "Y": 32.14625512,
-                "ZIP_CODE": "36089-1303"
+                "ZIP_CODE": "36089-1303",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1791,7 +1895,9 @@
                 "Status": "M",
                 "X": -86.3091004,
                 "Y": 34.34988598,
-                "ZIP_CODE": "35976-1613"
+                "ZIP_CODE": "35976-1613",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1825,7 +1931,9 @@
                 "Status": "M",
                 "X": -85.971519,
                 "Y": 31.80794153,
-                "ZIP_CODE": "36081"
+                "ZIP_CODE": "36081",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1859,7 +1967,9 @@
                 "Status": "M",
                 "X": -86.61683771,
                 "Y": 31.8485851,
-                "ZIP_CODE": "36037-8822"
+                "ZIP_CODE": "36037-8822",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1893,7 +2003,9 @@
                 "Status": "M",
                 "X": -86.91908103,
                 "Y": 33.46880133,
-                "ZIP_CODE": "35064"
+                "ZIP_CODE": "35064",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1927,7 +2039,9 @@
                 "Status": "M",
                 "X": -87.14557657,
                 "Y": 32.9450855,
-                "ZIP_CODE": "35042-2946"
+                "ZIP_CODE": "35042-2946",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1961,7 +2075,9 @@
                 "Status": "M",
                 "X": -87.31791277,
                 "Y": 32.62134868,
-                "ZIP_CODE": "36756"
+                "ZIP_CODE": "36756",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -1995,7 +2111,9 @@
                 "Status": "M",
                 "X": -86.99006317,
                 "Y": 33.37497391,
-                "ZIP_CODE": "35022"
+                "ZIP_CODE": "35022",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2029,7 +2147,9 @@
                 "Status": "M",
                 "X": -86.85411096,
                 "Y": 33.49289647,
-                "ZIP_CODE": "35211-1948"
+                "ZIP_CODE": "35211-1948",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2063,7 +2183,9 @@
                 "Status": "M",
                 "X": -85.82326447,
                 "Y": 33.69152978,
-                "ZIP_CODE": "36201-2128"
+                "ZIP_CODE": "36201-2128",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2097,7 +2219,9 @@
                 "Status": "M",
                 "X": -86.87098544,
                 "Y": 32.78863716,
-                "ZIP_CODE": "36750-3264"
+                "ZIP_CODE": "36750-3264",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2131,7 +2255,9 @@
                 "Status": "M",
                 "X": -87.27124437,
                 "Y": 33.74773981,
-                "ZIP_CODE": "35580-3847"
+                "ZIP_CODE": "35580-3847",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2165,7 +2291,9 @@
                 "Status": "M",
                 "X": -87.1641802,
                 "Y": 33.21448822,
-                "ZIP_CODE": "35188-3613"
+                "ZIP_CODE": "35188-3613",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2199,7 +2327,9 @@
                 "Status": "M",
                 "X": -87.50362061,
                 "Y": 33.87929234,
-                "ZIP_CODE": "35549"
+                "ZIP_CODE": "35549",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2233,7 +2363,9 @@
                 "Status": "M",
                 "X": -86.897214,
                 "Y": 33.51231,
-                "ZIP_CODE": "35128"
+                "ZIP_CODE": "35128",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2267,7 +2399,9 @@
                 "Status": "M",
                 "X": -87.02052574,
                 "Y": 32.40881223,
-                "ZIP_CODE": "36701-4606"
+                "ZIP_CODE": "36701-4606",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2301,7 +2435,9 @@
                 "Status": "M",
                 "X": -85.78401165,
                 "Y": 33.28718587,
-                "ZIP_CODE": "36251"
+                "ZIP_CODE": "36251",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2335,7 +2471,9 @@
                 "Status": "M",
                 "X": -87.21339898,
                 "Y": 34.07610093,
-                "ZIP_CODE": "35541"
+                "ZIP_CODE": "35541",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2369,7 +2507,9 @@
                 "Status": "M",
                 "X": -85.1707174,
                 "Y": 32.82546085,
-                "ZIP_CODE": "36854-3607"
+                "ZIP_CODE": "36854-3607",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2403,7 +2543,9 @@
                 "Status": "M",
                 "X": -85.94715459,
                 "Y": 31.78084694,
-                "ZIP_CODE": "36081-3058"
+                "ZIP_CODE": "36081-3058",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2437,7 +2579,9 @@
                 "Status": "M",
                 "X": -85.64348559,
                 "Y": 34.16270474,
-                "ZIP_CODE": "35960-1023"
+                "ZIP_CODE": "35960-1023",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2471,7 +2615,9 @@
                 "Status": "M",
                 "X": -85.66181967,
                 "Y": 34.16511784,
-                "ZIP_CODE": "35960-1005"
+                "ZIP_CODE": "35960-1005",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2505,7 +2651,9 @@
                 "Status": "M",
                 "X": -88.21283239,
                 "Y": 32.10037308,
-                "ZIP_CODE": "36904-3032"
+                "ZIP_CODE": "36904-3032",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2539,7 +2687,9 @@
                 "Status": "M",
                 "X": -88.22407517,
                 "Y": 32.07924811,
-                "ZIP_CODE": "36904-2813"
+                "ZIP_CODE": "36904-2813",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2573,7 +2723,9 @@
                 "Status": "M",
                 "X": -86.62526008,
                 "Y": 32.85654649,
-                "ZIP_CODE": "35045-2349"
+                "ZIP_CODE": "35045-2349",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2607,7 +2759,9 @@
                 "Status": "M",
                 "X": -86.80497341,
                 "Y": 33.50344527,
-                "ZIP_CODE": "35233-1711"
+                "ZIP_CODE": "35233-1711",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2641,7 +2795,9 @@
                 "Status": "M",
                 "X": -86.74939947,
                 "Y": 33.54140134,
-                "ZIP_CODE": "35212-2522"
+                "ZIP_CODE": "35212-2522",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2675,7 +2831,9 @@
                 "Status": "M",
                 "X": -85.82355139,
                 "Y": 33.27671701,
-                "ZIP_CODE": "36251-7981"
+                "ZIP_CODE": "36251-7981",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2709,7 +2867,9 @@
                 "Status": "M",
                 "X": -86.65737762,
                 "Y": 33.64096256,
-                "ZIP_CODE": "35215-4005"
+                "ZIP_CODE": "35215-4005",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2743,7 +2903,9 @@
                 "Status": "M",
                 "X": -85.77489084,
                 "Y": 33.29251495,
-                "ZIP_CODE": "36266-6949"
+                "ZIP_CODE": "36266-6949",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2777,7 +2939,9 @@
                 "Status": "M",
                 "X": -85.48469403,
                 "Y": 33.31316284,
-                "ZIP_CODE": "36278"
+                "ZIP_CODE": "36278",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2811,7 +2975,9 @@
                 "Status": "M",
                 "X": -85.58935889,
                 "Y": 33.63582263,
-                "ZIP_CODE": "36264-1677"
+                "ZIP_CODE": "36264-1677",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2845,7 +3011,9 @@
                 "Status": "M",
                 "X": -87.75797887,
                 "Y": 31.68945584,
-                "ZIP_CODE": "36451-0477"
+                "ZIP_CODE": "36451-0477",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2879,7 +3047,9 @@
                 "Status": "M",
                 "X": -85.7543592,
                 "Y": 33.30955662,
-                "ZIP_CODE": "36266-4735"
+                "ZIP_CODE": "36266-4735",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2913,7 +3083,9 @@
                 "Status": "M",
                 "X": -85.58740288,
                 "Y": 33.64889406,
-                "ZIP_CODE": "36264-1131"
+                "ZIP_CODE": "36264-1131",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2947,7 +3119,9 @@
                 "Status": "M",
                 "X": -86.1521117,
                 "Y": 34.20155737,
-                "ZIP_CODE": "35957-1763"
+                "ZIP_CODE": "35957-1763",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -2981,7 +3155,9 @@
                 "Status": "M",
                 "X": -85.8681945,
                 "Y": 31.361319,
-                "ZIP_CODE": "36330"
+                "ZIP_CODE": "36330",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3015,7 +3191,9 @@
                 "Status": "M",
                 "X": -85.90648897,
                 "Y": 32.53549003,
-                "ZIP_CODE": "36078-1234"
+                "ZIP_CODE": "36078-1234",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3049,7 +3227,9 @@
                 "Status": "M",
                 "X": -85.76189926,
                 "Y": 34.18168756,
-                "ZIP_CODE": "35983"
+                "ZIP_CODE": "35983",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3083,7 +3263,9 @@
                 "Status": "M",
                 "X": -87.67673084,
                 "Y": 34.59495685,
-                "ZIP_CODE": "35674-5684"
+                "ZIP_CODE": "35674-5684",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3117,7 +3299,9 @@
                 "Status": "M",
                 "X": -86.84466082,
                 "Y": 33.35205137,
-                "ZIP_CODE": "35244"
+                "ZIP_CODE": "35244",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3151,7 +3335,9 @@
                 "Status": "M",
                 "X": -86.96932825,
                 "Y": 31.42859263,
-                "ZIP_CODE": "36401-2134"
+                "ZIP_CODE": "36401-2134",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3185,7 +3371,9 @@
                 "Status": "M",
                 "X": -86.25412767,
                 "Y": 33.16459979,
-                "ZIP_CODE": "35150-2913"
+                "ZIP_CODE": "35150-2913",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3219,7 +3407,9 @@
                 "Status": "M",
                 "X": -86.58734873,
                 "Y": 33.98453247,
-                "ZIP_CODE": "35049"
+                "ZIP_CODE": "35049",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3253,7 +3443,9 @@
                 "Status": "M",
                 "X": -85.92594202,
                 "Y": 32.55677434,
-                "ZIP_CODE": "36078-2314"
+                "ZIP_CODE": "36078-2314",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3287,7 +3479,9 @@
                 "Status": "M",
                 "X": -87.06398134,
                 "Y": 31.09719635,
-                "ZIP_CODE": "36426"
+                "ZIP_CODE": "36426",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3321,7 +3515,9 @@
                 "Status": "M",
                 "X": -86.26480949,
                 "Y": 31.69455734,
-                "ZIP_CODE": "36049-7341"
+                "ZIP_CODE": "36049-7341",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3355,7 +3551,9 @@
                 "Status": "M",
                 "X": -86.2654977,
                 "Y": 31.693347,
-                "ZIP_CODE": "36049"
+                "ZIP_CODE": "36049",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3389,7 +3587,9 @@
                 "Status": "M",
                 "X": -86.57248233,
                 "Y": 34.69293376,
-                "ZIP_CODE": "35801-6455"
+                "ZIP_CODE": "35801-6455",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3423,7 +3623,9 @@
                 "Status": "M",
                 "X": -86.86541625,
                 "Y": 34.16806814,
-                "ZIP_CODE": "35055-4520"
+                "ZIP_CODE": "35055-4520",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3457,7 +3659,9 @@
                 "Status": "M",
                 "X": -86.48063142,
                 "Y": 31.27814947,
-                "ZIP_CODE": "36420-5470"
+                "ZIP_CODE": "36420-5470",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3491,7 +3695,9 @@
                 "Status": "M",
                 "X": -86.8398255,
                 "Y": 34.179471,
-                "ZIP_CODE": "35055-1953"
+                "ZIP_CODE": "35055-1953",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3525,7 +3731,9 @@
                 "Status": "M",
                 "X": -86.26626361,
                 "Y": 31.69658866,
-                "ZIP_CODE": "36049"
+                "ZIP_CODE": "36049",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3559,7 +3767,9 @@
                 "Status": "M",
                 "X": -87.25728684,
                 "Y": 33.84537388,
-                "ZIP_CODE": "35501-4059"
+                "ZIP_CODE": "35501-4059",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3593,7 +3803,9 @@
                 "Status": "M",
                 "X": -85.63094173,
                 "Y": 31.451823,
-                "ZIP_CODE": "36360-2018"
+                "ZIP_CODE": "36360-2018",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3627,7 +3839,9 @@
                 "Status": "M",
                 "X": -87.0724876,
                 "Y": 31.12716405,
-                "ZIP_CODE": "36426-1306"
+                "ZIP_CODE": "36426-1306",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3661,7 +3875,9 @@
                 "Status": "M",
                 "X": -87.05661295,
                 "Y": 32.43106821,
-                "ZIP_CODE": "36701-6729"
+                "ZIP_CODE": "36701-6729",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3695,7 +3911,9 @@
                 "Status": "M",
                 "X": -85.6498436,
                 "Y": 31.47087912,
-                "ZIP_CODE": "36360-1006"
+                "ZIP_CODE": "36360-1006",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3729,7 +3947,9 @@
                 "Status": "M",
                 "X": -85.59358791,
                 "Y": 31.10662761,
-                "ZIP_CODE": "36375"
+                "ZIP_CODE": "36375",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3763,7 +3983,9 @@
                 "Status": "M",
                 "X": -87.0571436,
                 "Y": 32.40265639,
-                "ZIP_CODE": "36701"
+                "ZIP_CODE": "36701",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3797,7 +4019,9 @@
                 "Status": "M",
                 "X": -87.525549,
                 "Y": 33.205257,
-                "ZIP_CODE": "35401-2029"
+                "ZIP_CODE": "35401-2029",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3831,7 +4055,9 @@
                 "Status": "M",
                 "X": -86.80418134,
                 "Y": 34.1986292,
-                "ZIP_CODE": "35058-0609"
+                "ZIP_CODE": "35058-0609",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3865,7 +4091,9 @@
                 "Status": "M",
                 "X": -86.97045815,
                 "Y": 34.5911287,
-                "ZIP_CODE": "35601-3337"
+                "ZIP_CODE": "35601-3337",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3899,7 +4127,9 @@
                 "Status": "M",
                 "X": -85.6976568,
                 "Y": 31.10524404,
-                "ZIP_CODE": "36344"
+                "ZIP_CODE": "36344",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3933,7 +4163,9 @@
                 "Status": "M",
                 "X": -85.66736821,
                 "Y": 34.16108642,
-                "ZIP_CODE": "35960"
+                "ZIP_CODE": "35960",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -3967,7 +4199,9 @@
                 "Status": "M",
                 "X": -85.76032921,
                 "Y": 34.42703802,
-                "ZIP_CODE": "35967-1100"
+                "ZIP_CODE": "35967-1100",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4001,7 +4235,9 @@
                 "Status": "M",
                 "X": -85.75571421,
                 "Y": 34.43943598,
-                "ZIP_CODE": "35968-3421"
+                "ZIP_CODE": "35968-3421",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4035,7 +4271,9 @@
                 "Status": "M",
                 "X": -85.45233922,
                 "Y": 31.23655751,
-                "ZIP_CODE": "36303-1980"
+                "ZIP_CODE": "36303-1980",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4069,7 +4307,9 @@
                 "Status": "M",
                 "X": -85.36158759,
                 "Y": 31.21493436,
-                "ZIP_CODE": "36301-3023"
+                "ZIP_CODE": "36301-3023",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4103,7 +4343,9 @@
                 "Status": "M",
                 "X": -85.7560847,
                 "Y": 34.4381574,
-                "ZIP_CODE": "35968-1608"
+                "ZIP_CODE": "35968-1608",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4137,7 +4379,9 @@
                 "Status": "M",
                 "X": -86.8399155,
                 "Y": 33.501123,
-                "ZIP_CODE": "35211"
+                "ZIP_CODE": "35211",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4171,7 +4415,9 @@
                 "Status": "M",
                 "X": -88.10858545,
                 "Y": 33.76286268,
-                "ZIP_CODE": "35592-5647"
+                "ZIP_CODE": "35592-5647",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4205,7 +4451,9 @@
                 "Status": "M",
                 "X": -85.74944911,
                 "Y": 34.44075883,
-                "ZIP_CODE": "35968-3420"
+                "ZIP_CODE": "35968-3420",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4239,7 +4487,9 @@
                 "Status": "M",
                 "X": -85.40445006,
                 "Y": 32.63809145,
-                "ZIP_CODE": "36801-5452"
+                "ZIP_CODE": "36801-5452",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4273,7 +4523,9 @@
                 "Status": "M",
                 "X": -85.41521,
                 "Y": 32.64661666,
-                "ZIP_CODE": "36801"
+                "ZIP_CODE": "36801",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4307,7 +4559,9 @@
                 "Status": "M",
                 "X": -86.18703793,
                 "Y": 32.552262,
-                "ZIP_CODE": "36092-1625"
+                "ZIP_CODE": "36092-1625",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4341,7 +4595,9 @@
                 "Status": "M",
                 "X": -85.369115,
                 "Y": 33.15379,
-                "ZIP_CODE": "36274-0899"
+                "ZIP_CODE": "36274-0899",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4375,7 +4631,9 @@
                 "Status": "M",
                 "X": -85.16968718,
                 "Y": 32.82378818,
-                "ZIP_CODE": "36854-3666"
+                "ZIP_CODE": "36854-3666",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4409,7 +4667,9 @@
                 "Status": "M",
                 "X": -86.579982,
                 "Y": 34.719165,
-                "ZIP_CODE": "35801"
+                "ZIP_CODE": "35801",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4443,7 +4703,9 @@
                 "Status": "M",
                 "X": -86.61230388,
                 "Y": 32.82055614,
-                "ZIP_CODE": "35045-3723"
+                "ZIP_CODE": "35045-3723",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4477,7 +4739,9 @@
                 "Status": "M",
                 "X": -87.07392103,
                 "Y": 31.12593898,
-                "ZIP_CODE": "36426-1318"
+                "ZIP_CODE": "36426-1318",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4511,7 +4775,9 @@
                 "Status": "M",
                 "X": -86.28199838,
                 "Y": 32.31911871,
-                "ZIP_CODE": "36116-2953"
+                "ZIP_CODE": "36116-2953",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4545,7 +4811,9 @@
                 "Status": "M",
                 "X": -86.03782198,
                 "Y": 33.95269855,
-                "ZIP_CODE": "35906-6218"
+                "ZIP_CODE": "35906-6218",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4579,7 +4847,9 @@
                 "Status": "M",
                 "X": -86.20327432,
                 "Y": 32.53483408,
-                "ZIP_CODE": "36092-0006"
+                "ZIP_CODE": "36092-0006",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4613,7 +4883,9 @@
                 "Status": "M",
                 "X": -87.47133186,
                 "Y": 31.02452798,
-                "ZIP_CODE": "36502-2686"
+                "ZIP_CODE": "36502-2686",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4647,7 +4919,9 @@
                 "Status": "M",
                 "X": -85.18354812,
                 "Y": 32.7967097,
-                "ZIP_CODE": "36854"
+                "ZIP_CODE": "36854",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4681,7 +4955,9 @@
                 "Status": "M",
                 "X": -86.94126793,
                 "Y": 31.43106428,
-                "ZIP_CODE": "36401-3333"
+                "ZIP_CODE": "36401-3333",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4715,7 +4991,9 @@
                 "Status": "M",
                 "X": -85.9852888,
                 "Y": 34.00326737,
-                "ZIP_CODE": "35903-2452"
+                "ZIP_CODE": "35903-2452",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4749,7 +5027,9 @@
                 "Status": "M",
                 "X": -86.78427971,
                 "Y": 33.46846988,
-                "ZIP_CODE": "35209"
+                "ZIP_CODE": "35209",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4783,7 +5063,9 @@
                 "Status": "M",
                 "X": -87.67895363,
                 "Y": 34.74686072,
-                "ZIP_CODE": "35661-2100"
+                "ZIP_CODE": "35661-2100",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4817,7 +5099,9 @@
                 "Status": "M",
                 "X": -87.6847772,
                 "Y": 34.79440193,
-                "ZIP_CODE": "35630"
+                "ZIP_CODE": "35630",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4851,7 +5135,9 @@
                 "Status": "M",
                 "X": -87.72816503,
                 "Y": 34.50647456,
-                "ZIP_CODE": "35653-2331"
+                "ZIP_CODE": "35653-2331",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4885,7 +5171,9 @@
                 "Status": "M",
                 "X": -87.8861868,
                 "Y": 30.5035476,
-                "ZIP_CODE": "36532-3899"
+                "ZIP_CODE": "36532-3899",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4919,7 +5207,9 @@
                 "Status": "M",
                 "X": -86.97142185,
                 "Y": 34.58725234,
-                "ZIP_CODE": "35601-4316"
+                "ZIP_CODE": "35601-4316",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4953,7 +5243,9 @@
                 "Status": "M",
                 "X": -87.89361029,
                 "Y": 31.53039245,
-                "ZIP_CODE": "36545-2423"
+                "ZIP_CODE": "36545-2423",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -4987,7 +5279,9 @@
                 "Status": "M",
                 "X": -86.04697116,
                 "Y": 34.66462743,
-                "ZIP_CODE": "35768-4216"
+                "ZIP_CODE": "35768-4216",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5021,7 +5315,9 @@
                 "Status": "M",
                 "X": -87.72014546,
                 "Y": 34.51302689,
-                "ZIP_CODE": "35653"
+                "ZIP_CODE": "35653",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5055,7 +5351,9 @@
                 "Status": "M",
                 "X": -87.82381762,
                 "Y": 33.70768417,
-                "ZIP_CODE": "35555-1314"
+                "ZIP_CODE": "35555-1314",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5089,7 +5387,9 @@
                 "Status": "M",
                 "X": -87.83190207,
                 "Y": 33.68614029,
-                "ZIP_CODE": "35555-2331"
+                "ZIP_CODE": "35555-2331",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5123,7 +5423,9 @@
                 "Status": "M",
                 "X": -88.22882143,
                 "Y": 31.09272039,
-                "ZIP_CODE": "36522-2122"
+                "ZIP_CODE": "36522-2122",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5157,7 +5459,9 @@
                 "Status": "M",
                 "X": -85.45795229,
                 "Y": 31.23603663,
-                "ZIP_CODE": "36305-1056"
+                "ZIP_CODE": "36305-1056",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5191,7 +5495,9 @@
                 "Status": "M",
                 "X": -87.6541697,
                 "Y": 34.84389652,
-                "ZIP_CODE": "35630-1189"
+                "ZIP_CODE": "35630-1189",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5225,7 +5531,9 @@
                 "Status": "M",
                 "X": -87.41997942,
                 "Y": 34.68154328,
-                "ZIP_CODE": "35672-2500"
+                "ZIP_CODE": "35672-2500",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5259,7 +5567,9 @@
                 "Status": "M",
                 "X": -88.17369434,
                 "Y": 30.58144801,
-                "ZIP_CODE": "36619-1904"
+                "ZIP_CODE": "36619-1904",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5293,7 +5603,9 @@
                 "Status": "M",
                 "X": -88.2595058,
                 "Y": 30.77065193,
-                "ZIP_CODE": "36575-5256"
+                "ZIP_CODE": "36575-5256",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5327,7 +5639,9 @@
                 "Status": "M",
                 "X": -88.06052637,
                 "Y": 31.1066194,
-                "ZIP_CODE": "36560-3201"
+                "ZIP_CODE": "36560-3201",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5361,7 +5675,9 @@
                 "Status": "M",
                 "X": -88.05471144,
                 "Y": 30.69226921,
-                "ZIP_CODE": "36603-5827"
+                "ZIP_CODE": "36603-5827",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5395,7 +5711,9 @@
                 "Status": "M",
                 "X": -88.32203237,
                 "Y": 31.8772792,
-                "ZIP_CODE": "36908-5510"
+                "ZIP_CODE": "36908-5510",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5429,7 +5747,9 @@
                 "Status": "M",
                 "X": -87.40380127,
                 "Y": 31.4321761,
-                "ZIP_CODE": "36445-4484"
+                "ZIP_CODE": "36445-4484",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5463,7 +5783,9 @@
                 "Status": "M",
                 "X": -87.7284135,
                 "Y": 34.5087018,
-                "ZIP_CODE": "35653-0100"
+                "ZIP_CODE": "35653-0100",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5497,7 +5819,9 @@
                 "Status": "M",
                 "X": -85.01375374,
                 "Y": 32.31475035,
-                "ZIP_CODE": "36856-4442"
+                "ZIP_CODE": "36856-4442",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5531,7 +5855,9 @@
                 "Status": "M",
                 "X": -87.77620562,
                 "Y": 30.88207824,
-                "ZIP_CODE": "36507"
+                "ZIP_CODE": "36507",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5565,7 +5891,9 @@
                 "Status": "M",
                 "X": -86.25674107,
                 "Y": 33.16732149,
-                "ZIP_CODE": "35150-2435"
+                "ZIP_CODE": "35150-2435",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5599,7 +5927,9 @@
                 "Status": "M",
                 "X": -86.00449113,
                 "Y": 33.99921856,
-                "ZIP_CODE": "35901-5309"
+                "ZIP_CODE": "35901-5309",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5633,7 +5963,9 @@
                 "Status": "M",
                 "X": -85.96782414,
                 "Y": 34.00934305,
-                "ZIP_CODE": "35903-1195"
+                "ZIP_CODE": "35903-1195",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5667,7 +5999,9 @@
                 "Status": "M",
                 "X": -88.14535732,
                 "Y": 33.12699722,
-                "ZIP_CODE": "35442-2743"
+                "ZIP_CODE": "35442-2743",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5701,7 +6035,9 @@
                 "Status": "M",
                 "X": -86.716863,
                 "Y": 33.433002,
-                "ZIP_CODE": "35243-3326"
+                "ZIP_CODE": "35243-3326",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5735,7 +6071,9 @@
                 "Status": "M",
                 "X": -86.80724076,
                 "Y": 33.40208185,
-                "ZIP_CODE": "35226"
+                "ZIP_CODE": "35226",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5769,7 +6107,9 @@
                 "Status": "M",
                 "X": -86.2528942,
                 "Y": 34.52638843,
-                "ZIP_CODE": "35747-8322"
+                "ZIP_CODE": "35747-8322",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5803,7 +6143,9 @@
                 "Status": "M",
                 "X": -87.88698432,
                 "Y": 32.84170592,
-                "ZIP_CODE": "35462-1109"
+                "ZIP_CODE": "35462-1109",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5837,7 +6179,9 @@
                 "Status": "M",
                 "X": -86.3006988,
                 "Y": 34.34736479,
-                "ZIP_CODE": "35976-1831"
+                "ZIP_CODE": "35976-1831",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5871,7 +6215,9 @@
                 "Status": "M",
                 "X": -85.82394853,
                 "Y": 31.05982798,
-                "ZIP_CODE": "36344-5177"
+                "ZIP_CODE": "36344-5177",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5905,7 +6251,9 @@
                 "Status": "M",
                 "X": -85.48467174,
                 "Y": 33.31435957,
-                "ZIP_CODE": "36278-4574"
+                "ZIP_CODE": "36278-4574",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5939,7 +6287,9 @@
                 "Status": "M",
                 "X": -87.55151833,
                 "Y": 33.24253891,
-                "ZIP_CODE": "35473"
+                "ZIP_CODE": "35473",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -5973,7 +6323,9 @@
                 "Status": "M",
                 "X": -87.58890373,
                 "Y": 32.69220253,
-                "ZIP_CODE": "36744-2516"
+                "ZIP_CODE": "36744-2516",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6007,7 +6359,9 @@
                 "Status": "M",
                 "X": -87.77705159,
                 "Y": 31.69465369,
-                "ZIP_CODE": "36451-3231"
+                "ZIP_CODE": "36451-3231",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6041,7 +6395,9 @@
                 "Status": "M",
                 "X": -87.58795379,
                 "Y": 32.69493781,
-                "ZIP_CODE": "36744-2316"
+                "ZIP_CODE": "36744-2316",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6075,7 +6431,9 @@
                 "Status": "M",
                 "X": -86.5784944,
                 "Y": 34.72271116,
-                "ZIP_CODE": "35801-4311"
+                "ZIP_CODE": "35801-4311",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6109,7 +6467,9 @@
                 "Status": "M",
                 "X": -87.5869245,
                 "Y": 32.69479108,
-                "ZIP_CODE": "36744-2316"
+                "ZIP_CODE": "36744-2316",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6143,7 +6503,9 @@
                 "Status": "M",
                 "X": -87.69896189,
                 "Y": 34.74646985,
-                "ZIP_CODE": "35660-6334"
+                "ZIP_CODE": "35660-6334",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6177,7 +6539,9 @@
                 "Status": "M",
                 "X": -85.25228412,
                 "Y": 31.56197616,
-                "ZIP_CODE": "36310-2736"
+                "ZIP_CODE": "36310-2736",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6211,7 +6575,9 @@
                 "Status": "M",
                 "X": -86.01932274,
                 "Y": 34.65902817,
-                "ZIP_CODE": "35768"
+                "ZIP_CODE": "35768",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6245,7 +6611,9 @@
                 "Status": "M",
                 "X": -86.570955,
                 "Y": 34.910271,
-                "ZIP_CODE": "35750-8642"
+                "ZIP_CODE": "35750-8642",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6279,7 +6647,9 @@
                 "Status": "M",
                 "X": -88.29593163,
                 "Y": 32.49166819,
-                "ZIP_CODE": "36925-2121"
+                "ZIP_CODE": "36925-2121",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6313,7 +6683,9 @@
                 "Status": "M",
                 "X": -85.82320389,
                 "Y": 33.65448032,
-                "ZIP_CODE": "36202"
+                "ZIP_CODE": "36202",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6347,7 +6719,9 @@
                 "Status": "M",
                 "X": -88.32177185,
                 "Y": 31.87694253,
-                "ZIP_CODE": "36908"
+                "ZIP_CODE": "36908",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6381,7 +6755,9 @@
                 "Status": "M",
                 "X": -85.3749389,
                 "Y": 31.19230553,
-                "ZIP_CODE": "36301-5309"
+                "ZIP_CODE": "36301-5309",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6415,7 +6791,9 @@
                 "Status": "M",
                 "X": -86.04670826,
                 "Y": 34.66174049,
-                "ZIP_CODE": "35768-2428"
+                "ZIP_CODE": "35768-2428",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6449,7 +6827,9 @@
                 "Status": "M",
                 "X": -85.17438855,
                 "Y": 32.82660708,
-                "ZIP_CODE": "36854"
+                "ZIP_CODE": "36854",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6483,7 +6863,9 @@
                 "Status": "M",
                 "X": -86.28371408,
                 "Y": 32.37003415,
-                "ZIP_CODE": "36107-2613"
+                "ZIP_CODE": "36107-2613",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6517,7 +6899,9 @@
                 "Status": "M",
                 "X": -86.57363096,
                 "Y": 32.18455536,
-                "ZIP_CODE": "36040-2666"
+                "ZIP_CODE": "36040-2666",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6551,7 +6935,9 @@
                 "Status": "M",
                 "X": -85.96665645,
                 "Y": 34.00872738,
-                "ZIP_CODE": "35903"
+                "ZIP_CODE": "35903",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6585,7 +6971,9 @@
                 "Status": "M",
                 "X": -88.08139177,
                 "Y": 30.69453496,
-                "ZIP_CODE": "36607-3509"
+                "ZIP_CODE": "36607-3509",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6619,7 +7007,9 @@
                 "Status": "M",
                 "X": -86.58182185,
                 "Y": 34.72112532,
-                "ZIP_CODE": "35801-4421"
+                "ZIP_CODE": "35801-4421",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6653,7 +7043,9 @@
                 "Status": "M",
                 "X": -87.88950926,
                 "Y": 30.51992349,
-                "ZIP_CODE": "36532-1812"
+                "ZIP_CODE": "36532-1812",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6687,7 +7079,9 @@
                 "Status": "M",
                 "X": -87.63220054,
                 "Y": 34.83394272,
-                "ZIP_CODE": "35630-1750"
+                "ZIP_CODE": "35630-1750",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6721,7 +7115,9 @@
                 "Status": "M",
                 "X": -85.93379952,
                 "Y": 32.56599977,
-                "ZIP_CODE": "36078-7114"
+                "ZIP_CODE": "36078-7114",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6755,7 +7151,9 @@
                 "Status": "M",
                 "X": -86.01588528,
                 "Y": 34.65808794,
-                "ZIP_CODE": "35769-4133"
+                "ZIP_CODE": "35769-4133",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6789,7 +7187,9 @@
                 "Status": "M",
                 "X": -86.58152213,
                 "Y": 34.69038627,
-                "ZIP_CODE": "35801-5338"
+                "ZIP_CODE": "35801-5338",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6823,7 +7223,9 @@
                 "Status": "M",
                 "X": -87.89446826,
                 "Y": 31.53116619,
-                "ZIP_CODE": "36545-2459"
+                "ZIP_CODE": "36545-2459",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6857,7 +7259,9 @@
                 "Status": "M",
                 "X": -85.00577249,
                 "Y": 32.50910348,
-                "ZIP_CODE": "36867-7483"
+                "ZIP_CODE": "36867-7483",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6891,7 +7295,9 @@
                 "Status": "M",
                 "X": -87.89446826,
                 "Y": 31.53116619,
-                "ZIP_CODE": "36545-2459"
+                "ZIP_CODE": "36545-2459",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6925,7 +7331,9 @@
                 "Status": "M",
                 "X": -85.94901836,
                 "Y": 32.92023477,
-                "ZIP_CODE": "35010"
+                "ZIP_CODE": "35010",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6959,7 +7367,9 @@
                 "Status": "M",
                 "X": -86.2851067,
                 "Y": 32.36659308,
-                "ZIP_CODE": "36106-1109"
+                "ZIP_CODE": "36106-1109",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -6993,7 +7403,9 @@
                 "Status": "M",
                 "X": -85.01840244,
                 "Y": 32.49621024,
-                "ZIP_CODE": "36867-3178"
+                "ZIP_CODE": "36867-3178",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7027,7 +7439,9 @@
                 "Status": "M",
                 "X": -86.04591746,
                 "Y": 34.01850188,
-                "ZIP_CODE": "35904-1938"
+                "ZIP_CODE": "35904-1938",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7061,7 +7475,9 @@
                 "Status": "M",
                 "X": -87.54788723,
                 "Y": 34.85716634,
-                "ZIP_CODE": "35645-9106"
+                "ZIP_CODE": "35645-9106",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7095,7 +7511,9 @@
                 "Status": "M",
                 "X": -86.8094955,
                 "Y": 33.505182,
-                "ZIP_CODE": "35233"
+                "ZIP_CODE": "35233",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7129,7 +7547,9 @@
                 "Status": "M",
                 "X": -87.54154849,
                 "Y": 34.85778982,
-                "ZIP_CODE": "35645"
+                "ZIP_CODE": "35645",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7163,7 +7583,9 @@
                 "Status": "M",
                 "X": -87.62045403,
                 "Y": 33.00064194,
-                "ZIP_CODE": "35474-4367"
+                "ZIP_CODE": "35474-4367",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7197,7 +7619,9 @@
                 "Status": "M",
                 "X": -85.74178132,
                 "Y": 32.81919747,
-                "ZIP_CODE": "36853-6244"
+                "ZIP_CODE": "36853-6244",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7231,7 +7655,9 @@
                 "Status": "M",
                 "X": -85.74144101,
                 "Y": 32.81817203,
-                "ZIP_CODE": "36853-6254"
+                "ZIP_CODE": "36853-6254",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7265,7 +7691,9 @@
                 "Status": "M",
                 "X": -86.311627,
                 "Y": 34.33722693,
-                "ZIP_CODE": "35976-2205"
+                "ZIP_CODE": "35976-2205",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7299,7 +7727,9 @@
                 "Status": "M",
                 "X": -87.59100419,
                 "Y": 34.2410962,
-                "ZIP_CODE": "35565-7054"
+                "ZIP_CODE": "35565-7054",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7333,7 +7763,9 @@
                 "Status": "M",
                 "X": -86.49600106,
                 "Y": 34.31391237,
-                "ZIP_CODE": "35016"
+                "ZIP_CODE": "35016",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7367,7 +7799,9 @@
                 "Status": "M",
                 "X": -88.13307005,
                 "Y": 33.75340265,
-                "ZIP_CODE": "35592-4648"
+                "ZIP_CODE": "35592-4648",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7401,7 +7835,9 @@
                 "Status": "M",
                 "X": -85.69694225,
                 "Y": 34.1616528,
-                "ZIP_CODE": "35960"
+                "ZIP_CODE": "35960",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7435,7 +7871,9 @@
                 "Status": "M",
                 "X": -85.40192169,
                 "Y": 32.6272835,
-                "ZIP_CODE": "36801-6861"
+                "ZIP_CODE": "36801-6861",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7469,7 +7907,9 @@
                 "Status": "M",
                 "X": -87.673835,
                 "Y": 34.86537799,
-                "ZIP_CODE": "35630-7345"
+                "ZIP_CODE": "35630-7345",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7503,7 +7943,9 @@
                 "Status": "M",
                 "X": -86.95775517,
                 "Y": 34.75193753,
-                "ZIP_CODE": "35611-6764"
+                "ZIP_CODE": "35611-6764",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7537,7 +7979,9 @@
                 "Status": "M",
                 "X": -86.57363956,
                 "Y": 32.18455347,
-                "ZIP_CODE": "36040-2666"
+                "ZIP_CODE": "36040-2666",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7571,7 +8015,9 @@
                 "Status": "M",
                 "X": -85.36290286,
                 "Y": 33.157226,
-                "ZIP_CODE": "36274"
+                "ZIP_CODE": "36274",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7605,7 +8051,9 @@
                 "Status": "M",
                 "X": -86.10228383,
                 "Y": 33.63142338,
-                "ZIP_CODE": "35096-4723"
+                "ZIP_CODE": "35096-4723",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7639,7 +8087,9 @@
                 "Status": "M",
                 "X": -85.71176305,
                 "Y": 32.44654365,
-                "ZIP_CODE": "36083-1541"
+                "ZIP_CODE": "36083-1541",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7673,7 +8123,9 @@
                 "Status": "M",
                 "X": -87.28641613,
                 "Y": 34.505684,
-                "ZIP_CODE": "35650-3706"
+                "ZIP_CODE": "35650-3706",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7707,7 +8159,9 @@
                 "Status": "M",
                 "X": -86.63158964,
                 "Y": 31.83354025,
-                "ZIP_CODE": "36037-2025"
+                "ZIP_CODE": "36037-2025",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7741,7 +8195,9 @@
                 "Status": "M",
                 "X": -86.73590926,
                 "Y": 34.68315742,
-                "ZIP_CODE": "35758"
+                "ZIP_CODE": "35758",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7775,7 +8231,9 @@
                 "Status": "M",
                 "X": -86.6260517,
                 "Y": 34.76503,
-                "ZIP_CODE": "35810-7708"
+                "ZIP_CODE": "35810-7708",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7809,7 +8267,9 @@
                 "Status": "M",
                 "X": -86.281452,
                 "Y": 33.588135,
-                "ZIP_CODE": "35125"
+                "ZIP_CODE": "35125",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7843,7 +8303,9 @@
                 "Status": "M",
                 "X": -87.0687912,
                 "Y": 31.14178711,
-                "ZIP_CODE": "36426"
+                "ZIP_CODE": "36426",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7877,7 +8339,9 @@
                 "Status": "M",
                 "X": -86.47614027,
                 "Y": 31.30836857,
-                "ZIP_CODE": "36420"
+                "ZIP_CODE": "36420",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7911,7 +8375,9 @@
                 "Status": "M",
                 "X": -85.14796771,
                 "Y": 31.87946561,
-                "ZIP_CODE": "36027"
+                "ZIP_CODE": "36027",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7945,7 +8411,9 @@
                 "Status": "M",
                 "X": -86.50353075,
                 "Y": 34.3409567,
-                "ZIP_CODE": "35016"
+                "ZIP_CODE": "35016",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -7979,7 +8447,9 @@
                 "Status": "M",
                 "X": -85.71391621,
                 "Y": 34.16072053,
-                "ZIP_CODE": "35960"
+                "ZIP_CODE": "35960",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8013,7 +8483,9 @@
                 "Status": "M",
                 "X": -85.97863545,
                 "Y": 32.93945697,
-                "ZIP_CODE": "35010"
+                "ZIP_CODE": "35010",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8047,7 +8519,9 @@
                 "Status": "M",
                 "X": -87.31957444,
                 "Y": 31.50963922,
-                "ZIP_CODE": "36460"
+                "ZIP_CODE": "36460",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8081,7 +8555,9 @@
                 "Status": "M",
                 "X": -88.18870499,
                 "Y": 30.66126765,
-                "ZIP_CODE": "36609"
+                "ZIP_CODE": "36609",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8115,7 +8591,9 @@
                 "Status": "M",
                 "X": -86.51869367,
                 "Y": 33.57259503,
-                "ZIP_CODE": "35004"
+                "ZIP_CODE": "35004",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8149,7 +8627,9 @@
                 "Status": "M",
                 "X": -86.26204305,
                 "Y": 32.35241676,
-                "ZIP_CODE": "36106"
+                "ZIP_CODE": "36106",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8183,7 +8663,9 @@
                 "Status": "M",
                 "X": -86.45346831,
                 "Y": 33.96870113,
-                "ZIP_CODE": "35121"
+                "ZIP_CODE": "35121",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8217,7 +8699,9 @@
                 "Status": "M",
                 "X": -86.40636674,
                 "Y": 32.49154446,
-                "ZIP_CODE": "36054"
+                "ZIP_CODE": "36054",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8251,7 +8735,9 @@
                 "Status": "M",
                 "X": -86.08441124,
                 "Y": 33.43882424,
-                "ZIP_CODE": "35160"
+                "ZIP_CODE": "35160",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8285,7 +8771,9 @@
                 "Status": "M",
                 "X": -87.01407599,
                 "Y": 32.43153546,
-                "ZIP_CODE": "36703"
+                "ZIP_CODE": "36703",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8319,7 +8807,9 @@
                 "Status": "M",
                 "X": -86.25235321,
                 "Y": 33.16755998,
-                "ZIP_CODE": "35150-2451"
+                "ZIP_CODE": "35150-2451",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8353,7 +8843,9 @@
                 "Status": "T",
                 "X": -85.15496936,
                 "Y": 32.7823469,
-                "ZIP_CODE": "36854"
+                "ZIP_CODE": "36854",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8387,7 +8879,9 @@
                 "Status": "M",
                 "X": -86.29176922,
                 "Y": 33.17611852,
-                "ZIP_CODE": "35150"
+                "ZIP_CODE": "35150",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8421,7 +8915,9 @@
                 "Status": "M",
                 "X": -87.794475,
                 "Y": 32.30317,
-                "ZIP_CODE": "36748-2002"
+                "ZIP_CODE": "36748-2002",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8455,7 +8951,9 @@
                 "Status": "M",
                 "X": -86.79467052,
                 "Y": 33.34436569,
-                "ZIP_CODE": "35124"
+                "ZIP_CODE": "35124",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8489,7 +8987,9 @@
                 "Status": "M",
                 "X": -86.25526642,
                 "Y": 33.16740562,
-                "ZIP_CODE": "35150-2432"
+                "ZIP_CODE": "35150-2432",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8523,7 +9023,9 @@
                 "Status": "M",
                 "X": -87.31792742,
                 "Y": 32.60754442,
-                "ZIP_CODE": "36756-3406"
+                "ZIP_CODE": "36756-3406",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8557,7 +9059,9 @@
                 "Status": "M",
                 "X": -86.40134,
                 "Y": 33.68112,
-                "ZIP_CODE": "35120"
+                "ZIP_CODE": "35120",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8591,7 +9095,9 @@
                 "Status": "M",
                 "X": -87.98925511,
                 "Y": 34.10825533,
-                "ZIP_CODE": "35570-6673"
+                "ZIP_CODE": "35570-6673",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8625,7 +9131,9 @@
                 "Status": "M",
                 "X": -86.35742338,
                 "Y": 34.23241727,
-                "ZIP_CODE": "35976-4500"
+                "ZIP_CODE": "35976-4500",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8659,7 +9167,9 @@
                 "Status": "M",
                 "X": -86.41976401,
                 "Y": 34.36395545,
-                "ZIP_CODE": "35976-7140"
+                "ZIP_CODE": "35976-7140",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8693,7 +9203,9 @@
                 "Status": "M",
                 "X": -87.56346,
                 "Y": 33.20534,
-                "ZIP_CODE": "35401"
+                "ZIP_CODE": "35401",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8727,7 +9239,9 @@
                 "Status": "M",
                 "X": -86.15945621,
                 "Y": 34.22144044,
-                "ZIP_CODE": "35957-5908"
+                "ZIP_CODE": "35957-5908",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8761,7 +9275,9 @@
                 "Status": "M",
                 "X": -87.31932602,
                 "Y": 31.49836817,
-                "ZIP_CODE": "36460-3044"
+                "ZIP_CODE": "36460-3044",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8795,7 +9311,9 @@
                 "Status": "M",
                 "X": -85.82767231,
                 "Y": 33.61414434,
-                "ZIP_CODE": "36203"
+                "ZIP_CODE": "36203",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8829,7 +9347,9 @@
                 "Status": "M",
                 "X": -85.85559665,
                 "Y": 31.31854519,
-                "ZIP_CODE": "36330-2510"
+                "ZIP_CODE": "36330-2510",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8863,7 +9383,9 @@
                 "Status": "M",
                 "X": -87.549201,
                 "Y": 33.238458,
-                "ZIP_CODE": "35406"
+                "ZIP_CODE": "35406",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8897,7 +9419,9 @@
                 "Status": "M",
                 "X": -85.15605928,
                 "Y": 31.88801749,
-                "ZIP_CODE": "36027-1822"
+                "ZIP_CODE": "36027-1822",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8931,7 +9455,9 @@
                 "Status": "M",
                 "X": -87.26061368,
                 "Y": 33.18933187,
-                "ZIP_CODE": "35940"
+                "ZIP_CODE": "35940",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8965,7 +9491,9 @@
                 "Status": "M",
                 "X": -85.25030338,
                 "Y": 31.56942911,
-                "ZIP_CODE": "36310"
+                "ZIP_CODE": "36310",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -8999,7 +9527,9 @@
                 "Status": "M",
                 "X": -86.9917447,
                 "Y": 33.37296678,
-                "ZIP_CODE": "35022-4527"
+                "ZIP_CODE": "35022-4527",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9033,7 +9563,9 @@
                 "Status": "M",
                 "X": -88.3135824,
                 "Y": 31.63451049,
-                "ZIP_CODE": "36558-4551"
+                "ZIP_CODE": "36558-4551",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9067,7 +9599,9 @@
                 "Status": "M",
                 "X": -85.39315312,
                 "Y": 31.21127758,
-                "ZIP_CODE": "36301"
+                "ZIP_CODE": "36301",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9101,7 +9635,9 @@
                 "Status": "M",
                 "X": -87.88699806,
                 "Y": 32.84147753,
-                "ZIP_CODE": "35462"
+                "ZIP_CODE": "35462",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9135,7 +9671,9 @@
                 "Status": "M",
                 "X": -87.33212175,
                 "Y": 31.49037449,
-                "ZIP_CODE": "36460-8686"
+                "ZIP_CODE": "36460-8686",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9169,7 +9707,9 @@
                 "Status": "M",
                 "X": -86.25539887,
                 "Y": 31.29216255,
-                "ZIP_CODE": "36467-1626"
+                "ZIP_CODE": "36467-1626",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9203,7 +9743,9 @@
                 "Status": "M",
                 "X": -86.85809424,
                 "Y": 33.11257375,
-                "ZIP_CODE": "35115-3586"
+                "ZIP_CODE": "35115-3586",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9237,7 +9779,9 @@
                 "Status": "M",
                 "X": -87.31932602,
                 "Y": 31.49836817,
-                "ZIP_CODE": "36460"
+                "ZIP_CODE": "36460",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9271,7 +9815,9 @@
                 "Status": "M",
                 "X": -86.33843795,
                 "Y": 32.34898855,
-                "ZIP_CODE": "36108-4027"
+                "ZIP_CODE": "36108-4027",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9305,7 +9851,9 @@
                 "Status": "M",
                 "X": -86.2452762,
                 "Y": 32.3617378,
-                "ZIP_CODE": "36109"
+                "ZIP_CODE": "36109",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9339,7 +9887,9 @@
                 "Status": "M",
                 "X": -88.23727815,
                 "Y": 30.42704696,
-                "ZIP_CODE": "36544-4011"
+                "ZIP_CODE": "36544-4011",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9373,7 +9923,9 @@
                 "Status": "M",
                 "X": -86.02068878,
                 "Y": 34.07106113,
-                "ZIP_CODE": "35904-3047"
+                "ZIP_CODE": "35904-3047",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9407,7 +9959,9 @@
                 "Status": "M",
                 "X": -86.282595,
                 "Y": 32.366727,
-                "ZIP_CODE": "36106"
+                "ZIP_CODE": "36106",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9441,7 +9995,9 @@
                 "Status": "M",
                 "X": -88.14718448,
                 "Y": 34.45753966,
-                "ZIP_CODE": "35582-3858"
+                "ZIP_CODE": "35582-3858",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9475,7 +10031,9 @@
                 "Status": "M",
                 "X": -87.673185,
                 "Y": 34.802435,
-                "ZIP_CODE": "35630"
+                "ZIP_CODE": "35630",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9509,7 +10067,9 @@
                 "Status": "M",
                 "X": -86.97402392,
                 "Y": 34.53436611,
-                "ZIP_CODE": "35603-1637"
+                "ZIP_CODE": "35603-1637",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9543,7 +10103,9 @@
                 "Status": "M",
                 "X": -85.67988759,
                 "Y": 34.48952803,
-                "ZIP_CODE": "35967-4010"
+                "ZIP_CODE": "35967-4010",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9577,7 +10139,9 @@
                 "Status": "M",
                 "X": -87.98988163,
                 "Y": 34.12682088,
-                "ZIP_CODE": "35570-5003"
+                "ZIP_CODE": "35570-5003",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9611,7 +10175,9 @@
                 "Status": "M",
                 "X": -88.337754,
                 "Y": 30.478185,
-                "ZIP_CODE": "36541-5707"
+                "ZIP_CODE": "36541-5707",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9645,7 +10211,9 @@
                 "Status": "M",
                 "X": -85.4523,
                 "Y": 32.635224,
-                "ZIP_CODE": "36830"
+                "ZIP_CODE": "36830",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9679,7 +10247,9 @@
                 "Status": "M",
                 "X": -85.82342083,
                 "Y": 33.65703317,
-                "ZIP_CODE": "36207-4716"
+                "ZIP_CODE": "36207-4716",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9713,7 +10283,9 @@
                 "Status": "M",
                 "X": -86.40576905,
                 "Y": 33.67679517,
-                "ZIP_CODE": "35120"
+                "ZIP_CODE": "35120",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9747,7 +10319,9 @@
                 "Status": "M",
                 "X": -88.1470797,
                 "Y": 33.13035662,
-                "ZIP_CODE": "35442-2200"
+                "ZIP_CODE": "35442-2200",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9781,7 +10355,9 @@
                 "Status": "M",
                 "X": -87.18357741,
                 "Y": 34.80286443,
-                "ZIP_CODE": "35611"
+                "ZIP_CODE": "35611",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9815,7 +10391,9 @@
                 "Status": "M",
                 "X": -86.5031374,
                 "Y": 33.5907553,
-                "ZIP_CODE": "35004"
+                "ZIP_CODE": "35004",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9849,7 +10427,9 @@
                 "Status": "M",
                 "X": -87.82497633,
                 "Y": 33.92955803,
-                "ZIP_CODE": "35594-5056"
+                "ZIP_CODE": "35594-5056",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9883,7 +10463,9 @@
                 "Status": "M",
                 "X": -86.97205903,
                 "Y": 34.59121926,
-                "ZIP_CODE": "35601"
+                "ZIP_CODE": "35601",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9917,7 +10499,9 @@
                 "Status": "M",
                 "X": -87.3178725,
                 "Y": 32.60801568,
-                "ZIP_CODE": "36756-3406"
+                "ZIP_CODE": "36756-3406",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9951,7 +10535,9 @@
                 "Status": "M",
                 "X": -85.82478519,
                 "Y": 33.64926767,
-                "ZIP_CODE": "36207-6012"
+                "ZIP_CODE": "36207-6012",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -9985,7 +10571,9 @@
                 "Status": "M",
                 "X": -87.73838197,
                 "Y": 31.93056256,
-                "ZIP_CODE": "36784-3309"
+                "ZIP_CODE": "36784-3309",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10019,7 +10607,9 @@
                 "Status": "M",
                 "X": -86.27483967,
                 "Y": 33.57958488,
-                "ZIP_CODE": "35128"
+                "ZIP_CODE": "35128",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10053,7 +10643,9 @@
                 "Status": "M",
                 "X": -85.94681709,
                 "Y": 31.78500817,
-                "ZIP_CODE": "36081-3812"
+                "ZIP_CODE": "36081-3812",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10087,7 +10679,9 @@
                 "Status": "M",
                 "X": -85.844065,
                 "Y": 34.680965,
-                "ZIP_CODE": "35765-0246"
+                "ZIP_CODE": "35765-0246",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10121,7 +10715,9 @@
                 "Status": "M",
                 "X": -86.58751111,
                 "Y": 34.07118529,
-                "ZIP_CODE": "35031"
+                "ZIP_CODE": "35031",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10155,7 +10751,9 @@
                 "Status": "M",
                 "X": -88.09164749,
                 "Y": 33.27533428,
-                "ZIP_CODE": "35447-3231"
+                "ZIP_CODE": "35447-3231",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10189,7 +10787,9 @@
                 "Status": "M",
                 "X": -87.31661482,
                 "Y": 31.51586302,
-                "ZIP_CODE": "36460-2839"
+                "ZIP_CODE": "36460-2839",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10223,7 +10823,9 @@
                 "Status": "M",
                 "X": -86.22773061,
                 "Y": 32.4123821,
-                "ZIP_CODE": "36109"
+                "ZIP_CODE": "36109",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10257,7 +10859,9 @@
                 "Status": "M",
                 "X": -87.02001546,
                 "Y": 32.40794458,
-                "ZIP_CODE": "36701-4606"
+                "ZIP_CODE": "36701-4606",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10291,7 +10895,9 @@
                 "Status": "M",
                 "X": -86.48842667,
                 "Y": 33.93724414,
-                "ZIP_CODE": "35121-2100"
+                "ZIP_CODE": "35121-2100",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10325,7 +10931,9 @@
                 "Status": "M",
                 "X": -85.69526179,
                 "Y": 32.4231433,
-                "ZIP_CODE": "36083"
+                "ZIP_CODE": "36083",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10359,7 +10967,9 @@
                 "Status": "M",
                 "X": -86.64509747,
                 "Y": 31.85184147,
-                "ZIP_CODE": "36037-3128"
+                "ZIP_CODE": "36037-3128",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10393,7 +11003,9 @@
                 "Status": "M",
                 "X": -85.85642108,
                 "Y": 31.31738131,
-                "ZIP_CODE": "36330-2500"
+                "ZIP_CODE": "36330-2500",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10427,7 +11039,9 @@
                 "Status": "T",
                 "X": -88.01607543,
                 "Y": 33.37603924,
-                "ZIP_CODE": "35481-8018"
+                "ZIP_CODE": "35481-8018",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10461,7 +11075,9 @@
                 "Status": "M",
                 "X": -86.83171897,
                 "Y": 33.4653521,
-                "ZIP_CODE": "35209"
+                "ZIP_CODE": "35209",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10495,7 +11111,9 @@
                 "Status": "M",
                 "X": -85.36925702,
                 "Y": 31.20000554,
-                "ZIP_CODE": "36301"
+                "ZIP_CODE": "36301",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10529,7 +11147,9 @@
                 "Status": "M",
                 "X": -88.198875,
                 "Y": 30.678075,
-                "ZIP_CODE": "36608-3709"
+                "ZIP_CODE": "36608-3709",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10563,7 +11183,9 @@
                 "Status": "M",
                 "X": -85.85342351,
                 "Y": 34.49809403,
-                "ZIP_CODE": "35986-5944"
+                "ZIP_CODE": "35986-5944",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10597,7 +11219,9 @@
                 "Status": "M",
                 "X": -85.36412373,
                 "Y": 33.15074713,
-                "ZIP_CODE": "36274-1436"
+                "ZIP_CODE": "36274-1436",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10631,7 +11255,9 @@
                 "Status": "M",
                 "X": -88.14709211,
                 "Y": 34.45753726,
-                "ZIP_CODE": "35582-3858"
+                "ZIP_CODE": "35582-3858",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10665,7 +11291,9 @@
                 "Status": "M",
                 "X": -86.6473543,
                 "Y": 31.82904877,
-                "ZIP_CODE": "36037-3850"
+                "ZIP_CODE": "36037-3850",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10699,7 +11327,9 @@
                 "Status": "M",
                 "X": -86.77531335,
                 "Y": 33.47762735,
-                "ZIP_CODE": "35223-2455"
+                "ZIP_CODE": "35223-2455",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10733,7 +11363,9 @@
                 "Status": "M",
                 "X": -86.24106924,
                 "Y": 34.28878361,
-                "ZIP_CODE": "35950-0128"
+                "ZIP_CODE": "35950-0128",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10767,7 +11399,9 @@
                 "Status": "M",
                 "X": -85.04528745,
                 "Y": 32.49901595,
-                "ZIP_CODE": "36867"
+                "ZIP_CODE": "36867",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10801,7 +11435,9 @@
                 "Status": "M",
                 "X": -86.210695,
                 "Y": 32.53981,
-                "ZIP_CODE": "36092"
+                "ZIP_CODE": "36092",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10835,7 +11471,9 @@
                 "Status": "M",
                 "X": -86.77387556,
                 "Y": 33.48425838,
-                "ZIP_CODE": "35223-2304"
+                "ZIP_CODE": "35223-2304",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10869,7 +11507,9 @@
                 "Status": "M",
                 "X": -86.94194926,
                 "Y": 31.43111908,
-                "ZIP_CODE": "36401-3319"
+                "ZIP_CODE": "36401-3319",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10903,7 +11543,9 @@
                 "Status": "M",
                 "X": -86.11158918,
                 "Y": 34.00594404,
-                "ZIP_CODE": "35954-1132"
+                "ZIP_CODE": "35954-1132",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10937,7 +11579,9 @@
                 "Status": "M",
                 "X": -87.07066105,
                 "Y": 33.48109007,
-                "ZIP_CODE": "35023-5601"
+                "ZIP_CODE": "35023-5601",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -10971,7 +11615,9 @@
                 "Status": "M",
                 "X": -88.1832183,
                 "Y": 32.60873898,
-                "ZIP_CODE": "35470-5410"
+                "ZIP_CODE": "35470-5410",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11005,7 +11651,9 @@
                 "Status": "M",
                 "X": -85.01938142,
                 "Y": 32.47374614,
-                "ZIP_CODE": "36867-4222"
+                "ZIP_CODE": "36867-4222",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11039,7 +11687,9 @@
                 "Status": "M",
                 "X": -86.00406505,
                 "Y": 34.00340991,
-                "ZIP_CODE": "35901-5304"
+                "ZIP_CODE": "35901-5304",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11073,7 +11723,9 @@
                 "Status": "M",
                 "X": -87.7284135,
                 "Y": 34.5087018,
-                "ZIP_CODE": "35653-1089"
+                "ZIP_CODE": "35653-1089",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11107,7 +11759,9 @@
                 "Status": "T",
                 "X": -87.84864554,
                 "Y": 32.49704629,
-                "ZIP_CODE": "36732-4156"
+                "ZIP_CODE": "36732-4156",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11141,7 +11795,9 @@
                 "Status": "M",
                 "X": -85.96138758,
                 "Y": 31.76531417,
-                "ZIP_CODE": "36079"
+                "ZIP_CODE": "36079",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11175,7 +11831,9 @@
                 "Status": "M",
                 "X": -85.96882492,
                 "Y": 32.93132433,
-                "ZIP_CODE": "35010-3369"
+                "ZIP_CODE": "35010-3369",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11209,7 +11867,9 @@
                 "Status": "M",
                 "X": -85.46051442,
                 "Y": 31.87036211,
-                "ZIP_CODE": "36016-2013"
+                "ZIP_CODE": "36016-2013",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11243,7 +11903,9 @@
                 "Status": "M",
                 "X": -86.36629745,
                 "Y": 31.49691681,
-                "ZIP_CODE": "36028-2719"
+                "ZIP_CODE": "36028-2719",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11277,7 +11939,9 @@
                 "Status": "M",
                 "X": -87.27880773,
                 "Y": 33.83376662,
-                "ZIP_CODE": "35501"
+                "ZIP_CODE": "35501",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11311,7 +11975,9 @@
                 "Status": "M",
                 "X": -85.85715046,
                 "Y": 31.31846478,
-                "ZIP_CODE": "36330-2511"
+                "ZIP_CODE": "36330-2511",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11345,7 +12011,9 @@
                 "Status": "M",
                 "X": -85.59366312,
                 "Y": 31.1069065,
-                "ZIP_CODE": "36375-5669"
+                "ZIP_CODE": "36375-5669",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11379,7 +12047,9 @@
                 "Status": "M",
                 "X": -85.98885087,
                 "Y": 34.58461504,
-                "ZIP_CODE": "35771-7203"
+                "ZIP_CODE": "35771-7203",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11413,7 +12083,9 @@
                 "Status": "M",
                 "X": -86.18133081,
                 "Y": 34.2537152,
-                "ZIP_CODE": "35950-0237"
+                "ZIP_CODE": "35950-0237",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11447,7 +12119,9 @@
                 "Status": "M",
                 "X": -88.25883873,
                 "Y": 30.77739695,
-                "ZIP_CODE": "36575-5287"
+                "ZIP_CODE": "36575-5287",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11481,7 +12155,9 @@
                 "Status": "M",
                 "X": -85.8807949,
                 "Y": 31.0452779,
-                "ZIP_CODE": "36340-1200"
+                "ZIP_CODE": "36340-1200",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11515,7 +12191,9 @@
                 "Status": "M",
                 "X": -86.8141781,
                 "Y": 33.25391524,
-                "ZIP_CODE": "35007-8703"
+                "ZIP_CODE": "35007-8703",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11549,7 +12227,9 @@
                 "Status": "M",
                 "X": -86.29962083,
                 "Y": 32.37649223,
-                "ZIP_CODE": "36130-3022"
+                "ZIP_CODE": "36130-3022",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11583,7 +12263,9 @@
                 "Status": "M",
                 "X": -87.67613882,
                 "Y": 34.74498552,
-                "ZIP_CODE": "35662-3359"
+                "ZIP_CODE": "35662-3359",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11617,7 +12299,9 @@
                 "Status": "M",
                 "X": -86.79367121,
                 "Y": 33.28308071,
-                "ZIP_CODE": "35124-6149"
+                "ZIP_CODE": "35124-6149",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11651,7 +12335,9 @@
                 "Status": "M",
                 "X": -87.68324334,
                 "Y": 30.42567703,
-                "ZIP_CODE": "36535-2247"
+                "ZIP_CODE": "36535-2247",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11685,7 +12371,9 @@
                 "Status": "M",
                 "X": -85.36142204,
                 "Y": 31.21561606,
-                "ZIP_CODE": "36301-3022"
+                "ZIP_CODE": "36301-3022",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11719,7 +12407,9 @@
                 "Status": "M",
                 "X": -85.69100691,
                 "Y": 32.43377844,
-                "ZIP_CODE": "36083-7262"
+                "ZIP_CODE": "36083-7262",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11753,7 +12443,9 @@
                 "Status": "M",
                 "X": -85.82336432,
                 "Y": 33.69277013,
-                "ZIP_CODE": "36201-2132"
+                "ZIP_CODE": "36201-2132",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11787,7 +12479,9 @@
                 "Status": "M",
                 "X": -86.78873604,
                 "Y": 33.50845042,
-                "ZIP_CODE": "35205-1606"
+                "ZIP_CODE": "35205-1606",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11821,7 +12515,9 @@
                 "Status": "M",
                 "X": -86.6071,
                 "Y": 33.181655,
-                "ZIP_CODE": "35051-0769"
+                "ZIP_CODE": "35051-0769",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11855,7 +12551,9 @@
                 "Status": "M",
                 "X": -88.1315505,
                 "Y": 30.684483,
-                "ZIP_CODE": "36608-1753"
+                "ZIP_CODE": "36608-1753",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11889,7 +12587,9 @@
                 "Status": "M",
                 "X": -86.49278204,
                 "Y": 33.93237201,
-                "ZIP_CODE": "35121-2827"
+                "ZIP_CODE": "35121-2827",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11923,7 +12623,9 @@
                 "Status": "M",
                 "X": -86.78879316,
                 "Y": 33.50796402,
-                "ZIP_CODE": "35205-1601"
+                "ZIP_CODE": "35205-1601",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11957,7 +12659,9 @@
                 "Status": "M",
                 "X": -86.02420446,
                 "Y": 33.934965,
-                "ZIP_CODE": "35907-0405"
+                "ZIP_CODE": "35907-0405",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -11991,7 +12695,9 @@
                 "Status": "M",
                 "X": -86.30154991,
                 "Y": 33.60509001,
-                "ZIP_CODE": "35125-5114"
+                "ZIP_CODE": "35125-5114",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12025,7 +12731,9 @@
                 "Status": "M",
                 "X": -86.6234847,
                 "Y": 32.87685612,
-                "ZIP_CODE": "35045-8344"
+                "ZIP_CODE": "35045-8344",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12059,7 +12767,9 @@
                 "Status": "M",
                 "X": -86.66537357,
                 "Y": 33.59522119,
-                "ZIP_CODE": "35235-3401"
+                "ZIP_CODE": "35235-3401",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12093,7 +12803,9 @@
                 "Status": "M",
                 "X": -86.7153555,
                 "Y": 34.85043,
-                "ZIP_CODE": "35749"
+                "ZIP_CODE": "35749",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12127,7 +12839,9 @@
                 "Status": "M",
                 "X": -88.18317648,
                 "Y": 32.60626592,
-                "ZIP_CODE": "35470-5415"
+                "ZIP_CODE": "35470-5415",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12161,7 +12875,9 @@
                 "Status": "M",
                 "X": -86.03911218,
                 "Y": 33.95728986,
-                "ZIP_CODE": "35906"
+                "ZIP_CODE": "35906",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12195,7 +12911,9 @@
                 "Status": "M",
                 "X": -86.24458873,
                 "Y": 33.18535064,
-                "ZIP_CODE": "35150"
+                "ZIP_CODE": "35150",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12229,7 +12947,9 @@
                 "Status": "M",
                 "X": -86.25796277,
                 "Y": 33.1717926,
-                "ZIP_CODE": "35150-1992"
+                "ZIP_CODE": "35150-1992",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12263,7 +12983,9 @@
                 "Status": "M",
                 "X": -85.97220132,
                 "Y": 31.80869003,
-                "ZIP_CODE": "36081"
+                "ZIP_CODE": "36081",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12297,7 +13019,9 @@
                 "Status": "M",
                 "X": -85.80687602,
                 "Y": 34.55983744,
-                "ZIP_CODE": "35988"
+                "ZIP_CODE": "35988",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12331,7 +13055,9 @@
                 "Status": "T",
                 "X": -86.28614288,
                 "Y": 33.60198407,
-                "ZIP_CODE": "35125-9310"
+                "ZIP_CODE": "35125-9310",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12365,7 +13091,9 @@
                 "Status": "M",
                 "X": -87.517971,
                 "Y": 33.218631,
-                "ZIP_CODE": "35404-1060"
+                "ZIP_CODE": "35404-1060",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12399,7 +13127,9 @@
                 "Status": "M",
                 "X": -88.18665479,
                 "Y": 32.58416717,
-                "ZIP_CODE": "35470"
+                "ZIP_CODE": "35470",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12433,7 +13163,9 @@
                 "Status": "M",
                 "X": -85.97976022,
                 "Y": 32.92722263,
-                "ZIP_CODE": "35010"
+                "ZIP_CODE": "35010",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12467,7 +13199,9 @@
                 "Status": "M",
                 "X": -86.08360288,
                 "Y": 33.43579804,
-                "ZIP_CODE": "35160-2621"
+                "ZIP_CODE": "35160-2621",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12501,7 +13235,9 @@
                 "Status": "M",
                 "X": -86.62690924,
                 "Y": 34.71208899,
-                "ZIP_CODE": "35805-4325"
+                "ZIP_CODE": "35805-4325",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12535,7 +13271,9 @@
                 "Status": "M",
                 "X": -87.7405852,
                 "Y": 31.87568737,
-                "ZIP_CODE": "36784"
+                "ZIP_CODE": "36784",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12569,7 +13307,9 @@
                 "Status": "M",
                 "X": -85.39663912,
                 "Y": 32.63903149,
-                "ZIP_CODE": "36801"
+                "ZIP_CODE": "36801",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12603,7 +13343,9 @@
                 "Status": "M",
                 "X": -88.21881477,
                 "Y": 30.59001195,
-                "ZIP_CODE": "36619-1122"
+                "ZIP_CODE": "36619-1122",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12637,7 +13379,9 @@
                 "Status": "M",
                 "X": -85.96138758,
                 "Y": 31.76531417,
-                "ZIP_CODE": "36079"
+                "ZIP_CODE": "36079",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12671,7 +13415,9 @@
                 "Status": "M",
                 "X": -86.8027905,
                 "Y": 33.503787,
-                "ZIP_CODE": "35233"
+                "ZIP_CODE": "35233",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12705,7 +13451,9 @@
                 "Status": "M",
                 "X": -85.94579413,
                 "Y": 31.78041088,
-                "ZIP_CODE": "36081-3058"
+                "ZIP_CODE": "36081-3058",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12739,7 +13487,9 @@
                 "Status": "M",
                 "X": -87.50639077,
                 "Y": 33.17883151,
-                "ZIP_CODE": "35405-2612"
+                "ZIP_CODE": "35405-2612",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12773,7 +13523,9 @@
                 "Status": "M",
                 "X": -86.27870983,
                 "Y": 32.32718421,
-                "ZIP_CODE": "36116-2002"
+                "ZIP_CODE": "36116-2002",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12807,7 +13559,9 @@
                 "Status": "M",
                 "X": -86.80185261,
                 "Y": 33.50617481,
-                "ZIP_CODE": "35233-1925"
+                "ZIP_CODE": "35233-1925",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12841,7 +13595,9 @@
                 "Status": "M",
                 "X": -85.9565951,
                 "Y": 31.7987064,
-                "ZIP_CODE": "36082"
+                "ZIP_CODE": "36082",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12875,7 +13631,9 @@
                 "Status": "M",
                 "X": -86.80497341,
                 "Y": 33.50344527,
-                "ZIP_CODE": "35233"
+                "ZIP_CODE": "35233",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12909,7 +13667,9 @@
                 "Status": "M",
                 "X": -87.67640297,
                 "Y": 34.80361277,
-                "ZIP_CODE": "35630"
+                "ZIP_CODE": "35630",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12943,7 +13703,9 @@
                 "Status": "M",
                 "X": -86.64403683,
                 "Y": 34.72351023,
-                "ZIP_CODE": "35899-0001"
+                "ZIP_CODE": "35899-0001",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -12977,7 +13739,9 @@
                 "Status": "M",
                 "X": -87.56346,
                 "Y": 33.20534,
-                "ZIP_CODE": "35401"
+                "ZIP_CODE": "35401",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13011,7 +13775,9 @@
                 "Status": "M",
                 "X": -88.098264,
                 "Y": 30.707073,
-                "ZIP_CODE": "36617"
+                "ZIP_CODE": "36617",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13045,7 +13811,9 @@
                 "Status": "M",
                 "X": -88.197768,
                 "Y": 30.67929,
-                "ZIP_CODE": "36608-6705"
+                "ZIP_CODE": "36608-6705",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13079,7 +13847,9 @@
                 "Status": "M",
                 "X": -86.80193957,
                 "Y": 33.50608836,
-                "ZIP_CODE": "35249-6508"
+                "ZIP_CODE": "35249-6508",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13113,7 +13883,9 @@
                 "Status": "M",
                 "X": -88.07796,
                 "Y": 30.697965,
-                "ZIP_CODE": "36604-3301"
+                "ZIP_CODE": "36604-3301",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13147,7 +13919,9 @@
                 "Status": "T",
                 "X": -85.15688031,
                 "Y": 32.79005597,
-                "ZIP_CODE": "36854-3448"
+                "ZIP_CODE": "36854-3448",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13181,7 +13955,9 @@
                 "Status": "M",
                 "X": -87.05490376,
                 "Y": 32.43003727,
-                "ZIP_CODE": "36701-6748"
+                "ZIP_CODE": "36701-6748",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13215,7 +13991,9 @@
                 "Status": "M",
                 "X": -86.98134165,
                 "Y": 34.80086378,
-                "ZIP_CODE": "35611-2438"
+                "ZIP_CODE": "35611-2438",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13249,7 +14027,9 @@
                 "Status": "M",
                 "X": -87.277625,
                 "Y": 33.83424,
-                "ZIP_CODE": "35502-3207"
+                "ZIP_CODE": "35502-3207",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13283,7 +14063,9 @@
                 "Status": "M",
                 "X": -87.23655107,
                 "Y": 33.84109137,
-                "ZIP_CODE": "35501-8956"
+                "ZIP_CODE": "35501-8956",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13317,7 +14099,9 @@
                 "Status": "M",
                 "X": -88.2352289,
                 "Y": 31.46019073,
-                "ZIP_CODE": "36518-6711"
+                "ZIP_CODE": "36518-6711",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13351,7 +14135,9 @@
                 "Status": "M",
                 "X": -88.23012799,
                 "Y": 31.45849757,
-                "ZIP_CODE": "36518-6715"
+                "ZIP_CODE": "36518-6715",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13385,7 +14171,9 @@
                 "Status": "M",
                 "X": -86.1774885,
                 "Y": 32.36702852,
-                "ZIP_CODE": "36117"
+                "ZIP_CODE": "36117",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13419,7 +14207,9 @@
                 "Status": "M",
                 "X": -86.19062456,
                 "Y": 32.55211628,
-                "ZIP_CODE": "36092-1504"
+                "ZIP_CODE": "36092-1504",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13453,7 +14243,9 @@
                 "Status": "M",
                 "X": -85.82334382,
                 "Y": 33.27679138,
-                "ZIP_CODE": "36251"
+                "ZIP_CODE": "36251",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13487,7 +14279,9 @@
                 "Status": "M",
                 "X": -87.56233,
                 "Y": 33.20253,
-                "ZIP_CODE": "35403-2400"
+                "ZIP_CODE": "35403-2400",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13521,7 +14315,9 @@
                 "Status": "M",
                 "X": -87.12164224,
                 "Y": 34.93060979,
-                "ZIP_CODE": "35620-7938"
+                "ZIP_CODE": "35620-7938",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13555,7 +14351,9 @@
                 "Status": "M",
                 "X": -87.29056425,
                 "Y": 31.99160819,
-                "ZIP_CODE": "36726-1728"
+                "ZIP_CODE": "36726-1728",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13589,7 +14387,9 @@
                 "Status": "M",
                 "X": -88.21883457,
                 "Y": 32.08990149,
-                "ZIP_CODE": "36904"
+                "ZIP_CODE": "36904",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13623,7 +14423,9 @@
                 "Status": "M",
                 "X": -87.8247961,
                 "Y": 33.93178569,
-                "ZIP_CODE": "35594-5067"
+                "ZIP_CODE": "35594-5067",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13657,7 +14459,9 @@
                 "Status": "M",
                 "X": -86.45193712,
                 "Y": 32.47463193,
-                "ZIP_CODE": "36067-2132"
+                "ZIP_CODE": "36067-2132",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13691,7 +14495,9 @@
                 "Status": "M",
                 "X": -85.58718718,
                 "Y": 33.65027035,
-                "ZIP_CODE": "36264-1164"
+                "ZIP_CODE": "36264-1164",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13725,7 +14531,9 @@
                 "Status": "M",
                 "X": -87.4029794,
                 "Y": 34.14450099,
-                "ZIP_CODE": "35553-2365"
+                "ZIP_CODE": "35553-2365",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13759,7 +14567,9 @@
                 "Status": "M",
                 "X": -87.82345296,
                 "Y": 33.70802432,
-                "ZIP_CODE": "35555-1309"
+                "ZIP_CODE": "35555-1309",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13793,7 +14603,9 @@
                 "Status": "M",
                 "X": -88.31520111,
                 "Y": 32.48216498,
-                "ZIP_CODE": "36925-2008"
+                "ZIP_CODE": "36925-2008",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
@@ -13827,7 +14639,9 @@
                 "Status": "M",
                 "X": -87.83705233,
                 "Y": 32.50364438,
-                "ZIP_CODE": "36732-3605"
+                "ZIP_CODE": "36732-3605",
+                "layer_id": 0,
+                "service_item_id": "51d4c310f1fe4d83a63e2b47acb77898"
             },
             "geometry": {
                 "spatialReference": {
