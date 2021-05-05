@@ -11914,10 +11914,10 @@
                 "OBJECTID": 498,
                 "Promote_Name": "Indy Motor Speedway Gate2 VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46222</a>",
                 "Promote_Site": "Y",
-                "Site_Address": "4790 W 16th St, Indianapolis, IN  46222",
+                "Site_Address": "4551 West 16th St., Indianapolis, IN  46222",
                 "Site_County": "Marion",
-                "Site_Location_Info": " Gate 2 is off of 16th St. This site has J&J but Pfizer is available upon request. HOURS: 9am – 7pm",
-                "Site_Name": "Indy Motor Speedway Gate2 VAX",
+                "Site_Location_Info": "Drive-through site in parking lot south of IMS gate 2. This site will be offering Pfizer vaccines on all available dates and also Johnson and Johnson vaccines on 5/10, 5/17, and 5/24. Walk-ins will also be accepted. ",
+                "Site_Name": "INDYCAR Parking Lot 16th St. VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Mass Vaccination",
@@ -25182,6 +25182,102 @@
                 },
                 "x": -85.4186799902976,
                 "y": 40.19417275325558
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0612a781-d3d2-49a8-9eca-b923ef9fec2b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Meridian Health Services – Ohio Ave.",
+                "OBJECTID": 971,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1547 Ohio Ave, Anderson, IN 46016",
+                "Site_County": "Madison",
+                "Site_Location_Info": null,
+                "Site_Name": "Meridian Health Services – Ohio Ave.",
+                "Site_Phone": null,
+                "Site_Special_Inst": "No online appointments. Call:  765-641-7499 Walk-in appointments until 3pm each day the vaccine clinic is open.",
+                "Site_Type": "Primary Care",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.66969811568761,
+                "y": 40.09990591806563
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "fc94b4fe-280a-4d8b-ab3a-e53d8e6a2756",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Meridian Health Service – S. Main St.",
+                "OBJECTID": 972,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1150 S. Main St, Dunkirk, IN 47336",
+                "Site_County": "Blackford",
+                "Site_Location_Info": null,
+                "Site_Name": "Meridian Health Service – S. Main St.",
+                "Site_Phone": null,
+                "Site_Special_Inst": "No online appointments. Call:  765-768-3188 Walk-in appointments until 3pm each day the vaccine clinic is open.",
+                "Site_Type": "Primary Care",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.21796494538223,
+                "y": 40.36553634306452
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2c288e56-78ce-45a5-a198-8459e6ee4c04",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Lightstone Education Center VAX",
+                "OBJECTID": 973,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "210 Professional Ct., Ste. C, Lafayette, IN 47905",
+                "Site_County": "Tippecanoe",
+                "Site_Location_Info": null,
+                "Site_Name": "Lightstone Education Center VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.84840446466785,
+                "y": 40.39561328455529
             }
         }
     ],

@@ -55,16 +55,16 @@
         {
             "attributes": {
                 "OBJECTID": 3,
-                "USER_Active": "Not Active",
+                "USER_Active": "Active",
                 "USER_Address": "10 Newport Ave",
                 "USER_City_Town": "Pawtucket",
-                "USER_Eligibility": "-",
-                "USER_Link_to_Sign_Up": "-",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "http://www.pawtucketri.com/COVID19",
                 "USER_Name": "Simpson's Pharmacy",
                 "USER_Scheduling_by_Phone": "-",
                 "USER_State": "RI",
                 "USER_Type": "Retail Pharmacy",
-                "USER_VaxType": "-",
+                "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
                 "ZIPCODE": "02861",
                 "layer_id": 0,
                 "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
@@ -4015,7 +4015,7 @@
                 "USER_Name": "East Providence Shaw's POD",
                 "USER_Scheduling_by_Phone": "844-930-1779",
                 "USER_State": "RI",
-                "USER_Type": "State-run Vaccination Center",
+                "USER_Type": "State-run or Regional Vaccination Site",
                 "USER_VaxType": "Varies",
                 "ZIPCODE": "02914",
                 "layer_id": 0,
@@ -4028,6 +4028,214 @@
                 },
                 "x": -71.35747781705068,
                 "y": 41.820308085188394
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 157,
+                "USER_Active": "Active",
+                "USER_Address": "1524 Atwood Ave, Suite 125",
+                "USER_City_Town": "Johnston",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.vaccinateri.org/",
+                "USER_Name": "Atmed Treatment Center",
+                "USER_Scheduling_by_Phone": "844-930-1779",
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
+                "ZIPCODE": "02919",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.50144683403917,
+                "y": 41.827478085293365
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 158,
+                "USER_Active": "Active",
+                "USER_Address": "85 Eagle Street",
+                "USER_City_Town": "Providence",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.providenceri.gov/vaccinate/",
+                "USER_Name": "Clinica Esperanza / Hope Clinic",
+                "USER_Scheduling_by_Phone": "401-421-2489",
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Moderna COVID-19 Vaccine",
+                "ZIPCODE": "02909",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.48617571477423,
+                "y": 41.83018414815886
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 159,
+                "USER_Active": "Active",
+                "USER_Address": "712 Broad Street",
+                "USER_City_Town": "Providence",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.oakstreethealth.com/covid-19-vaccine",
+                "USER_Name": "Oak Street Health S. Providence",
+                "USER_Scheduling_by_Phone": null,
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Moderna COVID-19 Vaccine",
+                "ZIPCODE": "02903",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.41913305700572,
+                "y": 41.80475492763241
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 160,
+                "USER_Active": "Active",
+                "USER_Address": "650 Branch Avenue",
+                "USER_City_Town": "Providence",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.oakstreethealth.com/covid-19-vaccine",
+                "USER_Name": "Oak Street Health Branch Ave",
+                "USER_Scheduling_by_Phone": null,
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Moderna COVID-19 Vaccine",
+                "ZIPCODE": "02903",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.42775758244831,
+                "y": 41.85245729162582
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 161,
+                "USER_Active": "Active",
+                "USER_Address": "1000 Broad Street",
+                "USER_City_Town": "Central Falls",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.bvchc.org/for-patients/covid-vaccine-appointment",
+                "USER_Name": "Blackstone Valley Community Hospital Center",
+                "USER_Scheduling_by_Phone": null,
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Moderna COVID-19 Vaccine",
+                "ZIPCODE": "02863",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.38839578823082,
+                "y": 41.89334891306082
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 163,
+                "USER_Active": "Active",
+                "USER_Address": "333 School St #210",
+                "USER_City_Town": "Pawtucket",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://vax.mednetmedical.com/Nardone-Pawtucket/",
+                "USER_Name": "Nardone Medical Associates",
+                "USER_Scheduling_by_Phone": null,
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Pfizer-BioNTech COVID-19 Vaccine",
+                "ZIPCODE": "02860",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.3776561032809,
+                "y": 41.86728961802262
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 164,
+                "USER_Active": "Active",
+                "USER_Address": "33 Maple Avenue",
+                "USER_City_Town": "North Providence",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://tricountyri.org/covid-19-testing/",
+                "USER_Name": "Tri-County Health Center",
+                "USER_Scheduling_by_Phone": null,
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Moderna COVID-19 Vaccine",
+                "ZIPCODE": "02911",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.4789369975949,
+                "y": 41.8470635129199
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 165,
+                "USER_Active": "Active",
+                "USER_Address": "10 Beach Ave",
+                "USER_City_Town": "New Shoreham",
+                "USER_Eligibility": "16+, 16+ with underlying medical conditions, 16+ who live in certain hard-hit ZIP codes, and teachers/child care providers",
+                "USER_Link_to_Sign_Up": "https://www.vaccinateri.org/",
+                "USER_Name": "New Shoreham POD",
+                "USER_Scheduling_by_Phone": "844-930-1779",
+                "USER_State": "RI",
+                "USER_Type": "Community Clinic",
+                "USER_VaxType": "Janssen (Johnson & Johnson) COVID-19 vaccine",
+                "ZIPCODE": "02807",
+                "layer_id": 0,
+                "service_item_id": "da57e8c8663048a2a9893c636fef63d0"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -71.57086159017476,
+                "y": 41.17687481409331
             }
         }
     ],
