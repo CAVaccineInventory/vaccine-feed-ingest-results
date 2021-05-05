@@ -5803,7 +5803,7 @@
                 "Site_Address": "1845 N. Scatterfield Rd., Anderson, IN, 46012",
                 "Site_County": "Madison",
                 "Site_Location_Info": null,
-                "Site_Name": "Pay Less Pharmacy",
+                "Site_Name": "Pay Less Pharmacy - N. Scatterfield Rd",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Call 866-211-5320 to schedule Kroger/Pay Less  appts. ONLY. (Do not call 211.)",
                 "Site_Type": "Pharmacy",
@@ -5833,7 +5833,7 @@
                 "Site_Address": "1900 Applewood Center Dr., Anderson, IN, 46013",
                 "Site_County": "Madison",
                 "Site_Location_Info": null,
-                "Site_Name": "Pay Less Pharmacy",
+                "Site_Name": "Pay Less Pharmacy - Applewood Center Dr",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Call 866-211-5320 to schedule Kroger/Pay Less  appts. ONLY. (Do not call 211.)",
                 "Site_Type": "Pharmacy",
@@ -20565,7 +20565,7 @@
                 "Site_Location_Info": null,
                 "Site_Name": "MedWorks Pharmacy",
                 "Site_Phone": null,
-                "Site_Special_Inst": null,
+                "Site_Special_Inst": "Patients may also scan the QR code below to make an appointment.",
                 "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://blog.prescribewellness.com/contact-free/?apt=no&npi=1710070156",
                 "Symbology": "Regular",
@@ -23548,6 +23548,36 @@
                 },
                 "x": -86.51527918308447,
                 "y": 40.27932341677444
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5360cf66-e3af-408c-b35e-b1d2daf9ecf4",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Hobart High School VAX",
+                "OBJECTID": 969,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2211 E. 10th St, Hobart, IN 46342",
+                "Site_County": "Lake",
+                "Site_Location_Info": "This is a mobile site 5/11 – 5/13, 9am – 6pm.",
+                "Site_Name": "Hobart High School VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.23197417207865,
+                "y": 41.51952473610122
             }
         }
     ],
