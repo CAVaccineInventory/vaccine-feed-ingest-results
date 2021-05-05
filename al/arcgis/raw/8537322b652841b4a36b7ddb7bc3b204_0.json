@@ -153,31 +153,6 @@
         {
             "attributes": {
                 "EXCEL_ID": null,
-                "f1": "Southwestern",
-                "f2": "Marengo",
-                "f3": "Scott Park",
-                "f4": "Drive Thru",
-                "f5": "701 Cahaba Ave, Linden, AL 36748",
-                "f6": 1617253200000,
-                "f7": "9:00 a.m.",
-                "f8": "5:00 p.m.",
-                "f9": "First Dose: April 1, 2021 | Second Dose: April 22, 2021",
-                "layer_id": 0,
-                "objectId": 341,
-                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.80543008195545,
-                "y": 32.312336582581935
-            }
-        },
-        {
-            "attributes": {
-                "EXCEL_ID": null,
                 "f1": "East Central",
                 "f2": "Russell",
                 "f3": "Chattahoochee Valley CC",
@@ -198,31 +173,6 @@
                 },
                 "x": -85.03141344759213,
                 "y": 32.423928308915706
-            }
-        },
-        {
-            "attributes": {
-                "EXCEL_ID": null,
-                "f1": "Southwestern",
-                "f2": "Wilcox",
-                "f3": "Wilcox Central H.S.",
-                "f4": "Drive Thru",
-                "f5": "1310 T. L. Threadgill Road, Camden, AL 36726",
-                "f6": 1617339600000,
-                "f7": "9:00 a.m.",
-                "f8": "5:00 p.m.",
-                "f9": "First Dose: April 2, 2021 | Second Dose: April 23, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
-                "layer_id": 0,
-                "objectId": 343,
-                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.32257068226228,
-                "y": 32.006792752346
             }
         },
         {
@@ -323,31 +273,6 @@
                 },
                 "x": -87.33374436941806,
                 "y": 31.48375403985825
-            }
-        },
-        {
-            "attributes": {
-                "EXCEL_ID": null,
-                "f1": "Southwestern",
-                "f2": "Clarke",
-                "f3": "SP Hudson Park",
-                "f4": "Drive Thru",
-                "f5": "115 Park Street, Grove Hill, AL 36451",
-                "f6": 1617858000000,
-                "f7": "9:00 a.m.",
-                "f8": "5:00 p.m.",
-                "f9": "First Dose: April 8, 2021 | Second Dose: April 29, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
-                "layer_id": 0,
-                "objectId": 348,
-                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.76906578116527,
-                "y": 31.725325527625113
             }
         },
         {
@@ -823,6 +748,256 @@
                 },
                 "x": -86.99728593708898,
                 "y": 33.38624553328436
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Clarke",
+                "f3": "Clarke County Health Department",
+                "f4": "Walk-In",
+                "f5": "22600 US-84, Grove Hill, AL 36451",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Tuesday's in May from 9:00 a.m. - 3:00 p.m. / Appointment or Walk-In.  For an appointment go to https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 368,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.75971970609042,
+                "y": 31.69086900463192
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Monroe",
+                "f3": "Monroe County Health Department",
+                "f4": "Walk-In",
+                "f5": "416 Agriculture Dr Monroeville, AL 36460",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Tuesday's in May from 9:00 a.m. to 3:00 p.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 369,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.32978779232663,
+                "y": 31.49102621342018
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Conecuh",
+                "f3": "Conecuh County Health Department",
+                "f4": "Walk-In",
+                "f5": "102 Wild Ave, Evergreen, AL 36401",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Wednesday's in May from 10:00 a.m. to 2:00 p.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 370,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.96879376521156,
+                "y": 31.429725254736944
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Washington",
+                "f3": "Washington County Health Department",
+                "f4": "Walk-In",
+                "f5": "14900 St Stephens Ave, Chatom, AL 36518",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Wednesday's in May from 9:00 a.m. to 11:00 a.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 371,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -88.23040677617782,
+                "y": 31.45814893753066
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Dallas",
+                "f3": "Dallas County Health Department",
+                "f4": "Walk-In",
+                "f5": "100 Samuel O Moseley Dr, Selma, AL 36701",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Thursday's in May from 1:00 p.m. to 3:00 p.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 372,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.0558116295654,
+                "y": 32.43154350301868
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Wilcox",
+                "f3": "Wilcox County Health Department",
+                "f4": "Walk-In",
+                "f5": "107 Union St, Camden, AL 36726",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Thursday's in May from 9:00 a.m. to 11:00 a.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 373,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.2910078895094,
+                "y": 31.99145374856366
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Choctaw",
+                "f3": "Choctaw County Health Department",
+                "f4": "Walk-In",
+                "f5": "1001 S Mulberry Ave, Butler, AL 36904",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Monday's in May from 9:00 a.m. to 11:00 a.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 374,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -88.22594304332681,
+                "y": 32.07979038338047
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Escambia",
+                "f3": "Escambia County Health Department",
+                "f4": "Walk-In",
+                "f5": "8600 US-31, Atmore, AL 36502",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Monday's in May from 9:00 a.m. to 11:00 a.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 375,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.47060143721977,
+                "y": 31.024019669204485
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Escambia",
+                "f3": "Escambia County Health Department",
+                "f4": "Walk-In",
+                "f5": "1115 Azalea Pl # A, Brewton, AL 36426",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Monday's in May from 1:00 p.m. to 3:00 p.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 376,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.07389659969621,
+                "y": 31.124222631738437
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Marengo",
+                "f3": "Marengo County Health Department",
+                "f4": "Walk-In",
+                "f5": "303 Industrial Drive, Linden, AL 36748",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Monday's in May from 1:00 p.m. to 3:00 p.m.  Walk-Ins or Appointments.  For an appointment: https://govstatus.egov.com/vaccine-eligibility-form",
+                "layer_id": 0,
+                "objectId": 377,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.7944665241394,
+                "y": 32.29620370060776
             }
         }
     ],

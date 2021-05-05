@@ -25151,6 +25151,38 @@
                 "x": -87.23197417207865,
                 "y": 41.51952473610122
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5f5e5280-df0c-453e-88f0-6c1a9e8c6e73",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Meridian Health Services – N. Tillotson",
+                "OBJECTID": 970,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "100 N Tillotson Ave, Muncie, IN 47304",
+                "Site_County": "Delaware",
+                "Site_Location_Info": null,
+                "Site_Name": "Meridian Health Services – N. Tillotson",
+                "Site_Phone": null,
+                "Site_Special_Inst": "No online appointments. Call: 765-288-1928  Walk-in appointments until 3pm each day the vaccine clinic is open.",
+                "Site_Type": "Primary Care",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.4186799902976,
+                "y": 40.19417275325558
+            }
         }
     ],
     "fields": [
