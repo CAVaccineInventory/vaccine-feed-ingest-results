@@ -5027,38 +5027,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": "State",
-                "GlobalID": "a4101017-60d5-4c84-8c9c-d824dbf2e6ab",
-                "ID": "ISDH1249",
-                "IsView": 1,
-                "Name": "Riggs Community Health Centerr",
-                "OBJECTID": 255,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1716 Harftord Street, Lafayette, IN 47904",
-                "Site_County": "Tippecanoe",
-                "Site_Location_Info": "Last day of operation: 5/5",
-                "Site_Name": "Riggs CHC HartfordSt Lafayette VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.87830147573972,
-                "y": 40.4288312205287
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": "State",
                 "GlobalID": "26cd6cf0-93bc-4c66-a280-4fc2015f6f21",
                 "ID": "ISDH1156",
                 "IsView": 1,
