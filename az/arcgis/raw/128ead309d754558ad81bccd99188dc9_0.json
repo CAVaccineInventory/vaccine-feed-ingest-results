@@ -5719,7 +5719,7 @@
                 "transportation_access": "walk_through",
                 "tues_hrs": "8:00AM-7:00PM",
                 "tues_open": "Yes",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, J_J",
                 "wed_hrs": "8:00AM-7:00PM",
                 "wed_open": "Yes",
                 "zip": "86336"
@@ -10751,7 +10751,7 @@
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
                 "site_type": "other",
                 "spanish_staff_y_n": "No",
-                "state": null,
+                "state": "AZ",
                 "sun_hrs": "10:00AM-5:00PM",
                 "sun_open": "Yes",
                 "thur_hrs": "8:00AM-7:00PM",
@@ -10759,7 +10759,7 @@
                 "transportation_access": "walk_through",
                 "tues_hrs": "8:00AM-7:00PM",
                 "tues_open": "Yes",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "wed_hrs": "08:00 AM - 07:00 PM",
                 "wed_open": "Yes",
                 "zip": "85338"
@@ -40448,7 +40448,7 @@
         },
         {
             "attributes": {
-                "addr1": "5130 E Thomas Rd",
+                "addr1": "5140 E Thomas Rd",
                 "addr2": null,
                 "adult_chronicmedical": "No",
                 "adults_16plus": "No",
@@ -40464,7 +40464,7 @@
                 "event_yn": "No",
                 "fri_hrs": "8:00AM-6:00PM",
                 "fri_open": "Yes",
-                "full_address": "5130 E Thomas Rd Phoenix, AZ 85018",
+                "full_address": "5140 E Thomas Rd Phoenix AZ 85018",
                 "globalid": "2d03e012-a3e2-4dd3-8189-725e550508ae",
                 "healthcare_ems": "Yes",
                 "lawenforcement": "Yes",

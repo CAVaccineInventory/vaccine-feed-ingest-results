@@ -49,6 +49,7 @@
 {"name": "Belmont: CVS (Leonard Street)", "address": "60 Leonard Street, Belmont, MA 02478"}
 {"name": "Belmont: CVS (Trapelo Rd.)", "address": "264 Trapelo Rd, Belmont, MA 02478"}
 {"name": "Belmont: Osco (Trapelo Rd.)", "address": "535 Trapelo Road, Belmont, MA 02478"}
+{"name": "Beverly: Anchor Home Medical Pharmacy", "address": "409 Cabot Street, Beverly, MA 01915"}
 {"name": "Beverly: CVS (Dodge Street)", "address": "19 Dodge St., Beverly, MA 01915"}
 {"name": "Beverly: CVS (Rantoul St.)", "address": "434 Rantoul St., Beverly, MA 01915"}
 {"name": "Beverly: Pediatric Associates of Greater Salem", "address": "30 Tozer Rd, Beverly, MA 01915"}
@@ -205,6 +206,7 @@
 {"name": "Dedham: Dedham Pharmacy & Medical Supply (Providence Hwy.)", "address": "596 Providence Highway, Norfolk, MA 02026"}
 {"name": "Dedham: Stop and Shop (Providence Highway)", "address": "160 Providence Highway, Dedham, MA 02026"}
 {"name": "Dennisport: Walgreens (Main St.)", "address": "711 Main St, Dennisport, MA 02639"}
+{"name": "Devens: Clear Path for Veterans New England", "address": "84 Antietam St, Devens, MA 01434"}
 {"name": "Dorchester: CVS (Blue Hill Ave.)", "address": "468 Blue Hill Ave, Dorchester, MA 02121"}
 {"name": "Dorchester: CVS (Dudley St.)", "address": "778 Dudley Street, Dorchester, MA 02125"}
 {"name": "Dorchester: CVS (Gallivan Blvd)", "address": "703 Gallivan Blvd, Dorchester, MA 02124"}
@@ -251,7 +253,7 @@
 {"name": "Fall River: Rite Aid (1024 S. Main St.)", "address": "1024 S. Main St., Fall River, MA 02724"}
 {"name": "Fall River: Rite Aid (233 S. Main St.)", "address": "233 S. Main St., Fall River, MA 02721"}
 {"name": "Fall River: Rite Aid (Stafford Rd.)", "address": "10 Stafford Road, Fall River, MA 02721"}
-{"name": "Fall River: Stop and Shop (Mariano Bishop BoulevaRd.)", "address": "333 Mariano Bishop Boulevard, Fall River, MA 02721"}
+{"name": "Fall River: Stop and Shop (Mariano Bishop Boulevard)", "address": "333 Mariano Bishop Boulevard, Fall River, MA 02721"}
 {"name": "Fall River: Stop and Shop (Rodman St.)", "address": "501 Rodman Street, Fall River, MA 02721"}
 {"name": "Fall River: Walgreens (N Main St.)", "address": "870 N Main St., Fall River, MA 02720"}
 {"name": "Fall River: Walgreens (Pleasant St.)", "address": "933 Pleasant St, Fall River, MA 02723"}
@@ -327,7 +329,7 @@
 {"name": "Harwich: CVS (Route 137)", "address": "148 Route 137, Harwich, MA 02645"}
 {"name": "Harwich: Osco (Sisson Rd.)", "address": "18 Sisson Road, Harwich, MA 02645"}
 {"name": "Harwich: Stop and Shop", "address": "111 Chatam Rd, Harwich, MA 02645"}
-{"name": "Haverhill: CVS (Lafayette Sq)", "address": "150 Lafayette Square, Haverhill, MA 01832"}
+{"name": "Haverhill: CVS (Lafayette Sq.)", "address": "150 Lafayette Square, Haverhill, MA 01832"}
 {"name": "Haverhill: CVS (Lincoln Ave.)", "address": "211 Lincoln Avenue, Haverhill, MA 01830"}
 {"name": "Haverhill: CVS (Lowell Ave.)", "address": "425 Lowell Ave, Haverhill, MA 01832"}
 {"name": "Haverhill: CVS (Main St.)", "address": "259 Main St., Haverhill, MA 01830"}
@@ -541,7 +543,7 @@
 {"name": "Newton: CVS (Boylston St.)", "address": "978 Boylston St., Newton, MA 02461"}
 {"name": "Newton: CVS (Center Street)", "address": "1199-1201 Center Street, Newton, MA 02459"}
 {"name": "Newton: CVS (Washington Street)", "address": "839 Washington Street, Newton, MA 02460"}
-{"name": "Newton: Holtzman Medical Group at Mt. Ida Campus (UMass AmherSt.)", "address": "100 Carlson Ave, Newton, MA 02459"}
+{"name": "Newton: Holtzman Medical Group at Mt. Ida Campus (UMass Amherst)", "address": "100 Carlson Ave, Newton, MA 02459"}
 {"name": "Newton: Union Pharmacy", "address": "103 Union St, Newton, MA 02459"}
 {"name": "Newton: Walgreens (Beacon St.)", "address": "1101 Beacon St, Newton, MA 02461"}
 {"name": "Newton: Walgreens (Washington St.)", "address": "399 Washington St, Newton, MA 02458"}
