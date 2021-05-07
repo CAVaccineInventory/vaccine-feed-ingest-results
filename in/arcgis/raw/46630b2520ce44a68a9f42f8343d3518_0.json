@@ -742,20 +742,20 @@
                 "GlobalID": "5eb7522c-7e5f-4d15-b15d-2bf1ff822af9",
                 "ID": "ISDH973",
                 "IsView": 1,
-                "Name": "IU Health Paoli Hospital",
+                "Name": "ORANGE CO HD COVID VAX",
                 "OBJECTID": 26,
-                "Promote_Name": "IU HLTH PAOLI ORANG CO COM CTR VAX - <a href=\"https://vaccine.coronavirus.in.gov target=\"_blank\">Search Zip Code 47454</a>",
+                "Promote_Name": "ORANGE CO HD COVID VAX - <a href=\"https://vaccine.coronavirus.in.gov target=\"_blank\">Search Zip Code 47454</a>",
                 "Promote_Site": "Y",
-                "Site_Address": "1075 N Sandy Hook Rd, Paoli, IN 47454-7800",
+                "Site_Address": "5368 W. US Hwy. 150, Paoli, IN 47454",
                 "Site_County": "Orange",
-                "Site_Location_Info": "Use main entrance.",
-                "Site_Name": "IU HLTH PAOLI ORNG CO COM CTR VAX",
+                "Site_Location_Info": "Ames Chapel United Methodist Church",
+                "Site_Name": "ORANGE CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
+                "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
+                "Vaccine_Type": "Moderna",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -764,8 +764,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.47302637932705,
-                "y": 38.5689746079223
+                "x": -86.56022499440117,
+                "y": 38.57395716156095
             }
         },
         {
@@ -25182,6 +25182,38 @@
                 },
                 "x": -86.84840446466785,
                 "y": 40.39561328455529
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e64c9a97-286e-4a51-9e84-a10697ddb754",
+                "ID": null,
+                "IsView": 1,
+                "Name": "CLINTON CO HD COVID VAX",
+                "OBJECTID": 974,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1234 Rossville Ave, Frankfort, IN 46041",
+                "Site_County": "Clinton",
+                "Site_Location_Info": null,
+                "Site_Name": "CLINTON CO HD COVID VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.52254122955938,
+                "y": 40.29209197122814
             }
         }
     ],
