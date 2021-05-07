@@ -33,7 +33,7 @@
 {"name": "Attleboro: LaSalette Shrine (Attleboro Health Dept.)", "address": "947 Park St, Attleboro, MA 02703"}
 {"name": "Attleboro: Walgreens (Pleasant St.)", "address": "196 Pleasant St., Attleboro, MA 02703"}
 {"name": "Attleborough: Stop and Shop (Pleasant Street)", "address": "469 Pleasant St, Attleborough, MA 02703"}
-{"name": "Auburn: Auburn Pharmacy & Home Health Care", "address": "689 Southbridge St, Auburn, MA 01501"}
+{"name": "Auburn: Auburn Pharmacy and Home Health Care", "address": "689 Southbridge St, Auburn, MA 01501"}
 {"name": "Auburn: CVS (Southbridge Street)", "address": "676 Southbridge Street, Auburn, MA 01501"}
 {"name": "Auburndale: Keyes Drug", "address": "2090 Commonwealth Ave, Auburndale, MA 02466"}
 {"name": "Avon: Walmart (Memorial Dr.)", "address": "30 Memorial Dr, Avon, MA 02322"}
@@ -203,7 +203,7 @@
 {"name": "Dedham: CVS (Bussey St.)", "address": "270 Bussey St, Della Park Plaza, Dedham, MA 02026"}
 {"name": "Dedham: CVS (Eastern Avenue)", "address": "19 Eastern Avenue, Dedham, MA 02026"}
 {"name": "Dedham: CVS (Providence Hwy)", "address": "947 Providence Hwy, Dedham, MA 02026"}
-{"name": "Dedham: Dedham Pharmacy & Medical Supply (Providence Hwy.)", "address": "596 Providence Highway, Norfolk, MA 02026"}
+{"name": "Dedham: Dedham Pharmacy and Medical Supply (Providence Hwy.)", "address": "596 Providence Highway, Norfolk, MA 02026"}
 {"name": "Dedham: Stop and Shop (Providence Highway)", "address": "160 Providence Highway, Dedham, MA 02026"}
 {"name": "Dennisport: Walgreens (Main St.)", "address": "711 Main St, Dennisport, MA 02639"}
 {"name": "Devens: Clear Path for Veterans New England", "address": "84 Antietam St, Devens, MA 01434"}
@@ -457,7 +457,7 @@
 {"name": "Marlborough: Walgreens (Boston Post Rd E)", "address": "525 Boston Post Rd E, Marlborough, MA 01752"}
 {"name": "Marlborough: Walgreens (Granger Blvd.)", "address": "99 Granger Blvd., Marlborough, MA 01752"}
 {"name": "Marshfield: CVS (Ocean Street)", "address": "1880 Ocean Street, Marshfield, MA 02050"}
-{"name": "Marshfield: Marshfield Fairgrounds", "address": "140 Main St, Marshfield, MA 02050"}
+{"name": "Marshfield: Marshfield Fairgrounds", "address": "61 South River St, Marshfield, MA 02050"}
 {"name": "Marshfield: Shaw's Osco Pharmacy", "address": "16 Webster Square, Marshfield, MA 02050"}
 {"name": "Marshfield: Walgreens (Ocean St.)", "address": "2177 Ocean St, Marshfield, MA 02050"}
 {"name": "Marstons Mills: CVS (Putnam Avenue)", "address": "1030 Putnam Avenue, Marstons Mills, MA 02648"}
@@ -623,7 +623,7 @@
 {"name": "Pittsfield: Price Chopper", "address": "555 Hubbard Ave, Pittsfield, MA 01201"}
 {"name": "Pittsfield: Stop and Shop (Dan Fox Dr.)", "address": "Dan Fox Drive, Pittsfield, MA 01201"}
 {"name": "Pittsfield: Stop and Shop (Merrill Road)", "address": "660 Merrill Road, Pittsfield, MA 01201"}
-{"name": "Pittsfield: T&C Flynn's Pharmacy Inc. (Elm St.)", "address": "173 Elm St, Berkshire, MA 01201"}
+{"name": "Pittsfield: T and C Flynn's Pharmacy Inc. (Elm St.)", "address": "173 Elm St, Berkshire, MA 01201"}
 {"name": "Pittsfield: Walgreens (Cheshire Rd.)", "address": "37 Cheshire Road, Pittsfield, MA 01201"}
 {"name": "Pittsfield: Walgreens (Elm Street)", "address": "180 Elm Street, Pittsfield, MA 01201"}
 {"name": "Pittsfield: Walgreens (North Street)", "address": "501 North Street, Pittsfield, MA 01201"}
@@ -829,7 +829,7 @@
 {"name": "Ware: Walmart (Palmer Rd.)", "address": "352 Palmer Rd, Ware, MA 01082"}
 {"name": "Wareham: CVS (Cranberry Hwy)", "address": "2421 Cranberry Hwy Ste 110, Wareham, MA 02571"}
 {"name": "Wareham: CVS (Main St.)", "address": "419 Main St, Wareham, MA 02571"}
-{"name": "Wareham: Gleason Family YMCA (Southcoast Health)", "address": "33 Charge Pond Road, Wareham, MA 02571"}
+{"name": "Wareham: Town Multiservice Center (Southcoast Health)", "address": "48 Marion Rd, Wareham, MA 02571"}
 {"name": "Wareham: Walgreens (Marion Rd.)", "address": "121 Marion Rd., Wareham, MA 02571"}
 {"name": "Wareham: Walmart (Tobey Rd.)", "address": "15 Tobey Rd, Wareham, MA 02571"}
 {"name": "Watertown: CVS (Arsenal St.)", "address": "550 Arsenal St, Watertown, MA 02472"}

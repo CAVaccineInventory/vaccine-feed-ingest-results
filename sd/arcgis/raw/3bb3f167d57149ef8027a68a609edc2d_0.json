@@ -1,0 +1,3086 @@
+{
+    "features": [
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "4dd5c027-89c2-4644-91fa-e48245a109c3",
+                "OBJECTID": 464,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2791 DAKOTA AVE S",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "HURON",
+                "name": "WALMART PHARMACY #3853",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.214367,
+                "y": 44.33447799999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "78fb30c5-5496-435e-a7ba-cb93ee36ddb3",
+                "OBJECTID": 465,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-huron-sd",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1950 DAKOTA AVE S",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "HURON",
+                "name": "LEWIS DRUGS INC #4",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.214103,
+                "y": 44.343479
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "d382ab7c-78a1-4159-bdaf-e95d808a3de8",
+                "OBJECTID": 466,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.northsidepharmacyrx.com/",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "100 DAKOTA AVE N SUITE A",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "HURON",
+                "name": "NORTHSIDE PHARMACY",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.214063,
+                "y": 44.36732699999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "842592f0-cfc5-4239-92fc-61135c5c74dc",
+                "OBJECTID": 467,
+                "acceptsinsurance": null,
+                "agencyurl": "https://form.jotform.com/210405618656152",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1004 6TH ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "BROOKINGS",
+                "name": "BROTHERS PHARMACY",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.78817,
+                "y": 44.311482
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "20c0bdb6-51f5-412b-9225-f9d2d56601f4",
+                "OBJECTID": 468,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-aberdeen",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "119 6TH AVE SW",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "ABERDEEN",
+                "name": "LEWIS FAMILY DRUG LLC #43",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.49057999999998,
+                "y": 45.45905199999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "dda50685-dd49-426e-b7a2-757b6fd80e6d",
+                "OBJECTID": 469,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "790 22ND AVE S",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "BROOKINGS",
+                "name": "HY-VEE PHARMACY (1039)",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.768406,
+                "y": 44.296131
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "22bd8b3c-cd25-4164-aa5c-ffbc0af799a7",
+                "OBJECTID": 470,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2233 6TH ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "BROOKINGS",
+                "name": "WALMART PHARMACY #1538",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.765907,
+                "y": 44.311577
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "dd887302-7576-42ce-8bbc-973d5260d060",
+                "OBJECTID": 471,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1207 PRINCETON AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "VERMILLION",
+                "name": "WALMART PHARMACY #3734",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.938973,
+                "y": 42.79175
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "283cc8c8-404c-4bd5-b570-c5f3e74b5e12",
+                "OBJECTID": 472,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.facebook.com/Prairiehillspharmacy/",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "319 SUMMIT ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "BELLE FOURCHE",
+                "name": "PRAIRIE HILLS PHARMACY",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -103.856596,
+                "y": 44.654721
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "6110d9f9-a0f8-4099-8c65-8fc7b4058777",
+                "OBJECTID": 473,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-chamberlain",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "201 N MAIN ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "CHAMBERLAIN",
+                "name": "LEWIS FAMILY DRUG LLC #73",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -99.329699,
+                "y": 43.811888
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "53869e44-7f50-418e-9edc-0d09ab165b0b",
+                "OBJECTID": 474,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-mitchell",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1305 W HAVENS AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "MITCHELL",
+                "name": "LEWIS FAMILY DRUG LLC #72",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.04196400000001,
+                "y": 43.70186799999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "b2c66f03-728c-4c73-ba01-0b029add0425",
+                "OBJECTID": 475,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1101 E SPRUCE ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "MITCHELL",
+                "name": "WALMART PHARMACY #2990",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.00989,
+                "y": 43.687582
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "f7dc6ddb-7fc2-46fa-ad83-eafc3ce1177a",
+                "OBJECTID": 476,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1320 9TH AVENUE SE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "WATERTOWN",
+                "name": "HY-VEE PHARMACY (1871)",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.09524,
+                "y": 44.89005300000001
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "96b6b66c-dad8-419e-bd69-1f812eafb1f9",
+                "OBJECTID": 477,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-main-st-mitchell",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1507 N MAIN ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "MITCHELL",
+                "name": "LEWIS FAMILY DRUG LLC",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.025748,
+                "y": 43.72413
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "b74ce1a3-da3a-4cda-a193-4aa3e78b2e79",
+                "OBJECTID": 478,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "421 9TH AVE SE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "WATERTOWN",
+                "name": "WALGREEN DRUG STORE# 10007",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.110181,
+                "y": 44.890147999999996
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "f678ed05-afae-47a1-adbb-54517da150c4",
+                "OBJECTID": 479,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "100 E SIOUX AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "PIERRE",
+                "name": "WALGREEN DRUG STORE# 10572",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -100.353622,
+                "y": 44.366777
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "48b6ab9f-5604-48c9-8001-d6217f322ba8",
+                "OBJECTID": 480,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.shanespharmacy.com/",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "212 EAST SIOUX AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "PIERRE",
+                "name": "SHANE'S PHARMACY",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -100.352035,
+                "y": 44.365825
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "76298a49-49c7-4ab4-b5ec-9783d70b6ccf",
+                "OBJECTID": 481,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-milbank",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "109 S MAIN STREET",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "MILBANK",
+                "name": "LEWIS FAMILY DRUG LLC #31",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.635909,
+                "y": 45.221500999999996
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "7667bb91-d0d8-4fe4-9c44-42b15d4ccf00",
+                "OBJECTID": 482,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-de-smet",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "111 CALUMET AVE SW",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "DESMET",
+                "name": "LEWIS FAMILY DRUG LLC #68",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.548939,
+                "y": 44.387164
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "3f3f9176-8c7b-417c-9a25-6fe4591f2f9f",
+                "OBJECTID": 483,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.heritagepharmacyfreeman.com/coronavirus",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "609 S HWY 81",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "FREEMAN",
+                "name": "HERITAGE PHARMACY",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.420488,
+                "y": 43.34921999999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "8831ff23-67f2-40f6-a665-df023e44ec6c",
+                "OBJECTID": 484,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-s-washington-ave-madison-sd",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "741 S WASHINGTON AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "MADISON",
+                "name": "LEWIS DRUGS INC #5",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.10986599999998,
+                "y": 43.99808099999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "1a7edda6-4f75-49f2-af2e-95a9b286ea46",
+                "OBJECTID": 485,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-69th-louise-sioux-falls",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "6109 S LOUISE AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUGS INC #10",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.768616,
+                "y": 43.488780999999996
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "aa89c79f-1782-443b-b106-ffd684e95a6f",
+                "OBJECTID": 486,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-lennox",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "515 PINE ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "LENNOX",
+                "name": "LEWIS DRUGS INC",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.885929,
+                "y": 43.35925199999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "68564dcd-8213-4753-aa49-e50ad4b5edda",
+                "OBJECTID": 487,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-canton",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "715 E 5TH ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "CANTON",
+                "name": "LEWIS DRUGS INC",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.58428,
+                "y": 43.300812
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "01a3f5ba-6f12-4bc6-9c51-3debb163465d",
+                "OBJECTID": 488,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "4101 S LOUISE AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "HY-VEE PHARMACY #2 (1631)",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.773808,
+                "y": 43.508149
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "45f3c677-0954-4bd4-bef9-1bf793f2d614",
+                "OBJECTID": 489,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-link2-coronavirus-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3600 S LOUISE AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "CVS STORE #16018",
+                "operhours": null,
+                "phone": null,
+                "pubview": "No",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.768716,
+                "y": 43.51215299999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "44eb1a1a-2e3a-491d-882f-62e66b97db86",
+                "OBJECTID": 490,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-dell-rapids",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1002 N HWY 77",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "DELL RAPIDS",
+                "name": "LEWIS DRUGS INC",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.725675,
+                "y": 43.830166999999996
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "237fba37-c2c6-420c-9bc6-7894a53f7e11",
+                "OBJECTID": 491,
+                "acceptsinsurance": null,
+                "agencyurl": "https://hartford.medicap.com/",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "304 W HWY 38 SUITE 102",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "HARTFORD",
+                "name": "MEDICAP PHARMACY 8394",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.94873000000001,
+                "y": 43.63077700000001
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "651814d4-327f-4be1-b89e-2a0df20abb1c",
+                "OBJECTID": 492,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-37th-minnesota-sioux-falls",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2901 S MINNESOTA AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUGS INC #1",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.732168,
+                "y": 43.51788499999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "5d3b3a52-62be-4a1b-8c4f-aeed44b732d1",
+                "OBJECTID": 493,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1900 S MARION ROAD",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "HY-VEE PHARMACY #4 (1633)",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.78952500000001,
+                "y": 43.527505999999995
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "89fde871-9ffe-48e1-9fea-4a5654b84bda",
+                "OBJECTID": 494,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-41st-marion-sioux-falls",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "5500 W 41ST ST.",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUGS INC #6",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.79363200000002,
+                "y": 43.515612999999995
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "69e32b98-f52a-42c7-997c-983c29613511",
+                "OBJECTID": 495,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-26th-sycamore-sioux-falls",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "4409 E 26TH ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUGS INC #7",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.67246,
+                "y": 43.528161999999995
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "2acf8146-4e33-4de5-8cc9-acbc7e9c8b02",
+                "OBJECTID": 496,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-10th-cliff-sioux-falls",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1301 E 10TH ST STE 100",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUGS INC #11",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.709777,
+                "y": 43.54565399999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "c4a88500-9ad5-4c9c-8f9d-7ed9a9ebc6ff",
+                "OBJECTID": 497,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3620 W 41ST ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALGREEN DRUG STORE# 5745",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.77035399999998,
+                "y": 43.515387
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "72d4002a-9a61-4c0e-a561-64dae970204b",
+                "OBJECTID": 498,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-12th-kiwanis-sioux-falls-sd",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2700 W 12TH ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUGS INC",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.76179699999999,
+                "y": 43.544933999999984
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "25292a7d-e380-4f7b-85b0-4e09850b91bb",
+                "OBJECTID": 499,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-link2-coronavirus-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1415 EGLIN ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "RAPID CITY",
+                "name": "CVS STORE #17510",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -103.188186,
+                "y": 44.099788
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "3e85abd2-da43-417e-b6a0-42c82ea6cc04",
+                "OBJECTID": 500,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-flandreau",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "127 E 2ND AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "FLANDREAU",
+                "name": "LEWIS DRUGS INC",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.59402,
+                "y": 44.049432
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "c5f50bd9-79de-4fd8-9471-ee743b7c2956",
+                "OBJECTID": 501,
+                "acceptsinsurance": null,
+                "agencyurl": "https://rapidcity.medicineshoppe.com/",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1304 MT RUSHMORE RD",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "RAPID CITY",
+                "name": "THE MEDICINE SHOPPE PHARMACY",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -103.232401,
+                "y": 44.07332199999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "17d02505-cbb3-4a9a-8c26-7d632cbe0fc6",
+                "OBJECTID": 502,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-sisseton",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "925 SD HWY 10",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SISSETON",
+                "name": "LEWIS FAMILY DRUG LLC #44",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.0401,
+                "y": 45.660264000000005
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "0bc48955-d2b5-4302-ab32-33853776887a",
+                "OBJECTID": 503,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1200 N LACROSSE ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "RAPID CITY",
+                "name": "WALMART PHARMACY #1604",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -103.198192,
+                "y": 44.098089
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "f35152a4-03ed-4693-b180-17f0de5c9574",
+                "OBJECTID": 504,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-beresford",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "911 W CEDAR ST SUITE 1",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "BERESFORD",
+                "name": "LEWIS FAMILY DRUG LLC #66",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.78564,
+                "y": 43.083652
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "41f073d8-c5a1-4edb-9e45-44dd5fef9a9f",
+                "OBJECTID": 505,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-elk-point",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "204 W MAIN ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "ELK POINT",
+                "name": "LEWIS FAMILY DRUG LLC #37",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.68638200000001,
+                "y": 42.68691400000001
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "3f0a5813-1e5e-4622-9a06-7675bc2be9b9",
+                "OBJECTID": 506,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "540 MOUNTAIN VIEW RD",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "RAPID CITY",
+                "name": "WALGREEN DRUG STORE# 5643",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -103.251982,
+                "y": 44.08149099999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "3d2b5a68-d509-4f5b-84ee-f437b904a73b",
+                "OBJECTID": 507,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228297",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3201 S LOUISE AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "SAM'S CLUB PHARMACY #8165",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.773398,
+                "y": 43.518903
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "0fa2709b-9fe3-4717-8fd3-bf40f720ca1e",
+                "OBJECTID": 508,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3001 BROADWAY AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "YANKTON",
+                "name": "WALMART PHARMACY #1483",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.397698,
+                "y": 42.906519999999986
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "7c91c164-3849-4834-ab4e-78e56ce21658",
+                "OBJECTID": 509,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3820 7TH AVE SE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "ABERDEEN",
+                "name": "WALMART PHARMACY #1520",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.43641,
+                "y": 45.45828299999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "29235bbc-b2c8-4f64-817e-776cbac9b938",
+                "OBJECTID": 510,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3209 S LOUISE AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALMART PHARMACY #1535",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.77349200000002,
+                "y": 43.516780999999995
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "fa02bf95-e3fa-44ea-8a1b-3533e74bb545",
+                "OBJECTID": 511,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1730 N GARFIELD AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "PIERRE",
+                "name": "WALMART PHARMACY #1685",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -100.314656,
+                "y": 44.381333
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "788eec72-383f-4ad1-863b-6534efdf6e1b",
+                "OBJECTID": 512,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "5521 E ARROWHEAD PKWY",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALMART PHARMACY #3237",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.658448,
+                "y": 43.54118199999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "3afb2591-050e-4eea-9235-14610edd4b6b",
+                "OBJECTID": 513,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-viborg",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "104 W PARK AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "VIBORG",
+                "name": "LEWIS FAMILY DRUG #58",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.08255,
+                "y": 43.170307
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "ab9ee17d-28be-461e-ad2c-7ef83eef7878",
+                "OBJECTID": 514,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-clinic-pharmacy-at-sanford-grange-avenue",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1205 S GRANGE AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS FAMILY DRUG #64",
+                "operhours": null,
+                "phone": null,
+                "pubview": "No",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.742846,
+                "y": 43.534578999999994
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "ff5b09b7-1ac3-4522-bfcf-030c534eb8ce",
+                "OBJECTID": 515,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-ellis-rd-sioux-falls",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2525 S ELLIS ROAD",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUG #15",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.83211799999998,
+                "y": 43.52019299999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "23fe76a7-9730-424b-94ce-4329379510a5",
+                "OBJECTID": 516,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-10th-phillips-sioux-falls",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "136 S PHILLIPS AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "LEWIS DRUG #14",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.726509,
+                "y": 43.546145
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "12430bb6-e16b-406c-a291-f198cf6d6be0",
+                "OBJECTID": 517,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-store-brandon",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "115 N SPLITROCK BLVD",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "BRANDON",
+                "name": "LEWIS DRUG #9",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.572414,
+                "y": 43.59521999999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "272a1d6d-79d3-41bc-b13a-1dffc5cbdfef",
+                "OBJECTID": 518,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-pharmacy-tea",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "720 E 1ST ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "TEA",
+                "name": "LEWIS DRUG #13",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.827199,
+                "y": 43.44655899999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "701b119f-828b-497b-b05b-e2c561d3d9b1",
+                "OBJECTID": 519,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-wessington-springs",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "202 E MAIN ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "WESSINGTON SPRINGS",
+                "name": "LEWIS FAMILY DRUG #78",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.56925,
+                "y": 44.079417
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "0cabae4b-0b9b-4f7b-bb24-c04995e7fc19",
+                "OBJECTID": 520,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-clear-lake",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "404 3RD AVE S",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "CLEAR LAKE",
+                "name": "LEWIS FAMILY DRUG #38",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.682503,
+                "y": 44.754673
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "3d526f18-0c6c-4028-9458-393c2d2a1638",
+                "OBJECTID": 521,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-family-drug-clark",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "211 N COMMERCIAL ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "CLARK",
+                "name": "LEWIS FAMILY DRUG #57",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.733185,
+                "y": 44.87899899999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "189e733e-78d5-4601-8cae-c0d3fda1f95a",
+                "OBJECTID": 522,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.lewisdrug.com/stores/lewis-brookings-sd",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "910 22ND AVE S",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "BROOKINGS",
+                "name": "LEWIS DRUG #12",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.768379,
+                "y": 44.295136
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "2a2ff951-d681-456f-aeb1-000931a7aaa2",
+                "OBJECTID": 523,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1601 S SYCAMORE AVENUE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "HY-VEE PHARMACY #1 (1624) - #7206",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.672854,
+                "y": 43.530469
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "b8c73fd3-c9c2-4c51-92f1-032b56012436",
+                "OBJECTID": 524,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3000 S MINNESOTA AVENUE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "HY-VEE PHARMACY #3 (1632) - #7207",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.72828499999999,
+                "y": 43.517527999999984
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "4e7c2eab-c5c2-408b-a578-37a8ad7f17db",
+                "OBJECTID": 525,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "3020 EAST 10TH STREET",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "HY-VEE PHARMACY #5 (1637) - #7209",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.68806799999999,
+                "y": 43.547846
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "fe6d3356-4a63-4004-a3e3-66ee0a220258",
+                "OBJECTID": 526,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1231 E 57TH STREET",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "HY-VEE PHARMACY #6 (1638) - #7210",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.708746,
+                "y": 43.49864599999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "b685fa95-b0bc-410f-b3d4-fe2a74996818",
+                "OBJECTID": 527,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2700 W 10TH STREET",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "HY-VEE PHARMACY #7 (1639) - #7211",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.762024,
+                "y": 43.546845
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "7966c94a-12ed-4102-9b5e-31cd990d99d8",
+                "OBJECTID": 528,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "525 WEST CHERRY STREET",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "VERMILLION",
+                "name": "HY-VEE PHARMACY (1820) - #7212",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.94054,
+                "y": 42.787057
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "a65e9d73-8699-4c39-8806-bafdd8e80069",
+                "OBJECTID": 529,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2100 N BROADWAY",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "YANKTON",
+                "name": "HY-VEE PHARMACY (1899) - #7213",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.397233,
+                "y": 42.891414
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "8682bd06-d8e7-448e-8c36-2f4353f7d7c5",
+                "OBJECTID": 530,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "7821 S MINNESOTA AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALMART PHARMACY #2443",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.729462,
+                "y": 43.47297600000001
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "84fe93a3-cbd4-400e-ac22-f711f20f7882",
+                "OBJECTID": 531,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walmart.com/cp/1228302",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "5200 W 60TH ST N",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALMART PHARMACY #4865",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.789054,
+                "y": 43.603222999999986
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "0cafa309-920f-4086-8863-3cdc7732a4e6",
+                "OBJECTID": 532,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "7120 W 41ST ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALGREEN DRUG STORE# 10729",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.81259,
+                "y": 43.51522099999998
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "f8717833-4866-4c08-bf0e-cba011a03625",
+                "OBJECTID": 533,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1806 S MINNESOTA AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALGREEN DRUG STORE# 5514",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.730806,
+                "y": 43.52908899999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "7cb51d9c-c3de-424e-9187-063a67c9a030",
+                "OBJECTID": 534,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2605 W 12TH ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALGREEN DRUG STORE# 5243",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.76082200000002,
+                "y": 43.54340999999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "e77fd7cb-fd1d-4c5d-963a-77d72a8888cc",
+                "OBJECTID": 535,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "1720 S SYCAMORE AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALGREEN DRUG STORE# 1975",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.670931,
+                "y": 43.52974099999999
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "835958c9-9c1f-4f97-819e-38e020f32005",
+                "OBJECTID": 536,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "4900 S CLIFF AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "SIOUX FALLS",
+                "name": "WALGREEN DRUG STORE# 5242",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -96.707232,
+                "y": 43.499785
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "3cb3485a-9955-45fb-bbd6-8c2829cfc66e",
+                "OBJECTID": 537,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "901 S BURR ST",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "MITCHELL",
+                "name": "WALGREEN DRUG STORE# 10347",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -98.019066,
+                "y": 43.701876999999996
+            }
+        },
+        {
+            "attributes": {
+                "EditDate": null,
+                "GlobalID": "fcb79435-e856-4141-a367-e18aa466f96f",
+                "OBJECTID": 538,
+                "acceptsinsurance": null,
+                "agencyurl": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+                "comments": null,
+                "email": null,
+                "facebook": null,
+                "facilityarea": null,
+                "facilityid": null,
+                "factype": "Pharmacy",
+                "fulladdr": "2020 BROADWAY AVE",
+                "imageurl": null,
+                "instagram": null,
+                "layer_id": 0,
+                "municipality": "YANKTON",
+                "name": "WALGREEN DRUG STORE# 10735",
+                "operhours": null,
+                "phone": null,
+                "pubview": "Yes",
+                "service_item_id": "3bb3f167d57149ef8027a68a609edc2d",
+                "status": null,
+                "twitter": null,
+                "waittime": null,
+                "walkins": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -97.396639,
+                "y": 42.89035799999999
+            }
+        }
+    ],
+    "fields": [
+        {
+            "alias": "OBJECTID",
+            "defaultValue": null,
+            "domain": null,
+            "name": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeOID"
+        },
+        {
+            "alias": "Facility ID",
+            "defaultValue": null,
+            "domain": null,
+            "length": 50,
+            "name": "facilityid",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Facility Area",
+            "defaultValue": null,
+            "domain": null,
+            "name": "facilityarea",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeDouble"
+        },
+        {
+            "alias": "Name of Facility",
+            "defaultValue": null,
+            "domain": null,
+            "length": 255,
+            "name": "name",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Facility Type",
+            "defaultValue": null,
+            "domain": {
+                "codedValues": [
+                    {
+                        "code": "Pharmacy",
+                        "name": "Pharmacy"
+                    },
+                    {
+                        "code": "Doctor Office",
+                        "name": "Doctor Office"
+                    },
+                    {
+                        "code": "Hospital",
+                        "name": "Hospital"
+                    },
+                    {
+                        "code": "Healthcare ",
+                        "name": "Healthcare"
+                    },
+                    {
+                        "code": "Public Health Department",
+                        "name": "Public Health Department"
+                    },
+                    {
+                        "code": "Mobile Clinic",
+                        "name": "Mobile Clinic"
+                    },
+                    {
+                        "code": "Workplace",
+                        "name": "Workplace"
+                    },
+                    {
+                        "code": "School",
+                        "name": "School"
+                    },
+                    {
+                        "code": "Other",
+                        "name": "Other"
+                    }
+                ],
+                "mergePolicy": "esriMPTDefaultValue",
+                "name": "VaccineProviderType",
+                "splitPolicy": "esriSPTDefaultValue",
+                "type": "codedValue"
+            },
+            "length": 50,
+            "name": "factype",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Full Address",
+            "defaultValue": null,
+            "domain": null,
+            "length": 250,
+            "name": "fulladdr",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Municipality",
+            "defaultValue": null,
+            "domain": null,
+            "length": 150,
+            "name": "municipality",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Phone",
+            "defaultValue": null,
+            "domain": null,
+            "length": 15,
+            "name": "phone",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "email",
+            "defaultValue": null,
+            "domain": null,
+            "length": 100,
+            "name": "email",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Website",
+            "defaultValue": null,
+            "domain": null,
+            "length": 300,
+            "name": "agencyurl",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Operational Hours",
+            "defaultValue": null,
+            "domain": null,
+            "length": 150,
+            "name": "operhours",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Comments",
+            "defaultValue": null,
+            "domain": null,
+            "length": 500,
+            "name": "comments",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "image URL",
+            "defaultValue": null,
+            "domain": null,
+            "length": 500,
+            "name": "imageurl",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Facebook Site",
+            "defaultValue": null,
+            "domain": null,
+            "length": 300,
+            "name": "facebook",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Twitter",
+            "defaultValue": null,
+            "domain": null,
+            "length": 300,
+            "name": "twitter",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Instagram",
+            "defaultValue": null,
+            "domain": null,
+            "length": 300,
+            "name": "instagram",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Visible to Public",
+            "defaultValue": null,
+            "domain": {
+                "codedValues": [
+                    {
+                        "code": "Yes",
+                        "name": "Yes"
+                    },
+                    {
+                        "code": "No",
+                        "name": "No"
+                    }
+                ],
+                "mergePolicy": "esriMPTDefaultValue",
+                "name": "YesNo",
+                "splitPolicy": "esriSPTDefaultValue",
+                "type": "codedValue"
+            },
+            "length": 5,
+            "name": "pubview",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Accepts Walk-Ins",
+            "defaultValue": null,
+            "domain": {
+                "codedValues": [
+                    {
+                        "code": "Yes",
+                        "name": "Yes"
+                    },
+                    {
+                        "code": "No",
+                        "name": "No"
+                    }
+                ],
+                "mergePolicy": "esriMPTDefaultValue",
+                "name": "YesNo",
+                "splitPolicy": "esriSPTDefaultValue",
+                "type": "codedValue"
+            },
+            "length": 255,
+            "name": "walkins",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Current Wait Time",
+            "defaultValue": null,
+            "domain": null,
+            "name": "waittime",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeSmallInteger"
+        },
+        {
+            "alias": "Status",
+            "domain": {
+                "codedValues": [
+                    {
+                        "code": "Open",
+                        "name": "Open"
+                    },
+                    {
+                        "code": "Closed",
+                        "name": "Closed"
+                    },
+                    {
+                        "code": "Scheduled to Close",
+                        "name": "Scheduled to Close"
+                    },
+                    {
+                        "code": "Impacted",
+                        "name": "Impacted"
+                    }
+                ],
+                "mergePolicy": "esriMPTDefaultValue",
+                "name": "status",
+                "splitPolicy": "esriSPTDefaultValue",
+                "type": "codedValue"
+            },
+            "length": 30,
+            "name": "status",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Accepts Insurance",
+            "defaultValue": null,
+            "domain": null,
+            "length": 256,
+            "name": "acceptsinsurance",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "GlobalID",
+            "domain": null,
+            "length": 38,
+            "name": "GlobalID",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeGlobalID"
+        },
+        {
+            "alias": "EditDate",
+            "defaultValue": null,
+            "domain": null,
+            "length": 8,
+            "name": "EditDate",
+            "sqlType": "sqlTypeOther",
+            "type": "esriFieldTypeDate"
+        }
+    ],
+    "geometryType": "esriGeometryPoint",
+    "globalIdFieldName": "GlobalID",
+    "objectIdFieldName": "OBJECTID",
+    "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+    }
+}

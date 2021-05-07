@@ -74674,7 +74674,7 @@
                 "URL": "https://prismahealth.org/coronavirus/covid-19-vaccine",
                 "V_Manufacturer": "PFR",
                 "layer_id": 0,
-                "loc_name": "Prisma Health Drive-Thru Vaccination Site @ Colonial Life Arena",
+                "loc_name": "Prisma Health Vaccination Site @ Colonial Life Arena",
                 "loc_type1": null,
                 "ref_ID": null,
                 "service_item_id": "bbd8924909264baaa1a5a1564b393063",
@@ -75738,6 +75738,76 @@
                 },
                 "x": -82.27318517969604,
                 "y": 34.93627359805407
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "49f410c8-9af6-4993-9c60-45434d35910f",
+                "Loc_ID": null,
+                "OBJECTID": 27911,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "511 Augusta St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29605",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Preserve at Logan Park",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.40582576289694,
+                "y": 34.83788482905214
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "bb18c5da-1384-4087-8526-daa3bc6984a5",
+                "Loc_ID": null,
+                "OBJECTID": 27912,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "East Main St and Rosewood St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Liberty",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29657",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Rosewood Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.68912539011279,
+                "y": 34.78989692850962
             }
         }
     ],

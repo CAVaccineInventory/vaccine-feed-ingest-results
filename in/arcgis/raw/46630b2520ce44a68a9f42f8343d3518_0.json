@@ -4738,6 +4738,38 @@
         },
         {
             "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "09ec8ee3-d7bc-43dc-951a-def6324d7f21",
+                "ID": "ISDH1248",
+                "IsView": 1,
+                "Name": "Neighborhood Health Clinics, Inc.",
+                "OBJECTID": 244,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3350 E Paulding Rd, Fort Wayne 46816",
+                "Site_County": "Allen",
+                "Site_Location_Info": null,
+                "Site_Name": "NEIGHBORHOOD HC PAULDINGRD VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.09249869946606,
+                "y": 41.03240124448515
+            }
+        },
+        {
+            "attributes": {
                 "FQHC_Registry_Stat": "State",
                 "GlobalID": "76768656-81ac-40e4-b4d9-e0ef47581e10",
                 "ID": "ISDH1170",
@@ -13676,7 +13708,7 @@
                 "Promote_Site": null,
                 "Site_Address": "103 N Heeter S, North Manchester, IN 46962",
                 "Site_County": "Wabash",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "Clinic will be closed to the public on May 12. ",
                 "Site_Name": "WEBBS FAMILY PHARMACY 3 VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -19198,6 +19230,38 @@
                 },
                 "x": -85.7298066498529,
                 "y": 38.33393663963358
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "53fee1f9-1bbe-46d1-897d-82b97a8f6ad4",
+                "ID": null,
+                "IsView": 1,
+                "Name": "FEMA La Porte Rural King VAX",
+                "OBJECTID": 779,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1340 W State Road 2, La Porte , IN 46350",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": null,
+                "Site_Name": "FEMA La Porte Rural King VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "FEMA",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.73872331200124,
+                "y": 41.59945763665576
             }
         },
         {
