@@ -13314,38 +13314,6 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": "State",
-                "GlobalID": "495385d2-4d51-46a0-b792-fa336e755730",
-                "ID": "ISDH1540",
-                "IsView": 1,
-                "Name": "Valley Professionals Community Health Ctr. Clinton",
-                "OBJECTID": 564,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "777 S. Main St., Ste. 100, Clinton, IN 47842",
-                "Site_County": "Vermillion",
-                "Site_Location_Info": "Last day of clinic:  5.6.2021",
-                "Site_Name": "Valley Professionals Community Health Ctr. Clinton",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.39924065756263,
-                "y": 39.6535697972248
-            }
-        },
-        {
-            "attributes": {
                 "FQHC_Registry_Stat": null,
                 "GlobalID": "55371b62-5ee1-43cb-be7c-57073aacb2ac",
                 "ID": "ISDH1293",
@@ -21726,38 +21694,6 @@
                 },
                 "x": -87.32124045847313,
                 "y": 41.475834371951535
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "6cb5433d-3b18-422a-8bbf-0c1cd9d387c1",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Delaware County Fairgrounds VAX",
-                "OBJECTID": 861,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1210 N. Wheeling Ave.  Muncie, IN  47303",
-                "Site_County": "Delaware",
-                "Site_Location_Info": "This is a mobile site 5/4 – 5/6, 9 a.m. – 6 p.m.",
-                "Site_Name": "Delaware County Fairgrounds VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.39396592529697,
-                "y": 40.20764859532487
             }
         },
         {
