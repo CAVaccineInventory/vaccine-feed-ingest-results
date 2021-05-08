@@ -18133,7 +18133,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": "HHRH_COVID_VACCINE_INFORMATION@tenethealth.com ",
                 "GlobalID": "66e87f05-4334-4537-b1bc-13b047429a72",
                 "Loc_ID": 381,
