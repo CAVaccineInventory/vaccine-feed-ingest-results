@@ -16006,14 +16006,14 @@
                 "GlobalID": "9bbee0fc-aba6-415d-b6ba-fb2138aa5454",
                 "ID": null,
                 "IsView": 1,
-                "Name": "McMillen Park Comm Ctr VAX",
+                "Name": "FEMA McMillen Park VAX",
                 "OBJECTID": 665,
                 "Promote_Name": null,
                 "Promote_Site": null,
                 "Site_Address": "3901 Abbott St, Ft. Wayne, IN 46806",
                 "Site_County": "Allen",
-                "Site_Location_Info": null,
-                "Site_Name": "McMillen Park Comm Ctr VAX",
+                "Site_Location_Info": "Mobile site 5/25 – 5/29; 9am – 6pm. Walk-in appointments available.",
+                "Site_Name": "FEMA McMillen Park  VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "FEMA",
@@ -25278,6 +25278,102 @@
                 },
                 "x": -86.52254122955938,
                 "y": 40.29209197122814
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "20fd00a6-f68c-4b62-af2a-9a3ba8a1c60f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "HealthNet Northeast Hlth Ctr VAX",
+                "OBJECTID": 975,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3908 Meadows Dr, Indianapolis, IN 46205",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "HealthNet Northeast Hlth Ctr VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.11526738198783,
+                "y": 39.828262507275184
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "4e61844a-46ab-440f-9fee-de6005de51c5",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Tippecanoe Co. Amphitheater VAX",
+                "OBJECTID": 976,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "4449 IN-43, West Lafayette, IN 47906",
+                "Site_County": "Tippecanoe",
+                "Site_Location_Info": "Mobile site 5/25 – 5/27; 9am – 6pm. Walk-in appointments available.",
+                "Site_Name": "Tippecanoe Co. Amphitheater VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.87880826932981,
+                "y": 40.4797242435019
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "05c70219-c757-47f1-87a8-b993a22eeb95",
+                "ID": null,
+                "IsView": 1,
+                "Name": "First Church Wheatfield VAX",
+                "OBJECTID": 977,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5387 IN-10, Wheatfield, IN 46392",
+                "Site_County": "Jasper",
+                "Site_Location_Info": "Mobile site 5/25 – 5/27; 9am – 6pm; Walk-in appointments available.",
+                "Site_Name": "First Church Wheatfield VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.14891234011517,
+                "y": 41.18560253795176
             }
         }
     ],
