@@ -22051,38 +22051,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "0fa5ea4a-78b1-42a7-a140-04312c8a4ad8",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Wolf Lake Pavilion VAX",
-                "OBJECTID": 872,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2324 Calumet Ave, Hammond, IN 46320",
-                "Site_County": "Lake",
-                "Site_Location_Info": "This is a one-day mobile clinic on May 8,  9am – 9pm.",
-                "Site_Name": "Wolf Lake Pavilion VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.509916359508,
-                "y": 41.67084385139826
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "26243640-dd91-4d28-8408-98500415923f",
                 "ID": null,
                 "IsView": 1,

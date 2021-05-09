@@ -294,6 +294,9 @@ div#entity-list-map-locations table tr td p { cursor: pointer !important; }</sty
 <script type="text/javascript">
          $(document).ready(function()
          {
+            $("br").attr("role", "presentation");
+            $("#VRAS_MAIN_CONTENT").attr("role", "main").attr("tabindex", "-1");
+            $("#mainContent").attr("role", "main").attr("tabindex", "-1");
             $("option[label=' ']").attr("aria-label","blank");
          });
 
@@ -343,7 +346,7 @@ div#entity-list-map-locations table tr td p { cursor: pointer !important; }</sty
 		
 	
 	<form method="post" action="/vaccine-centers/" id="content_form">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="o+rSN/16tiesWhkewqrVef4BQTr+xR1uHEbgwkOtvwU+mtXltLlqZKvv6wIy2A1KzkFvhKVV1xFrCKICJVwN1hhmu4V3Yk4uITmG9TjLxeZwoD+rtUF0WLH4Y+QbqEuH7rVyhUNb3od68PsxiXBkPnwov1l7kbO+8VlB+XRH6mAJEtQO1t6ok/D/5NSQbYRD6AQrTfw4p63odqkNnFLkDely2pRKjEHsnJjhYl2pVwjcrAwZfU/tnsI5hCDyWw01SMIV+N2ypVPlDKD6Zv9VSim/ye2r/r6/thHL2iMywvw3zfok7yP2YEudWeS+fSAgThPp7VyKkzFy/5nfFPMjmlNrPfku2aduJ2kkMr0kVBwuD5BoiBhf2C6pW5BqMP2lziMZyWVINVR+ZAoZQwj38qzhuGz4t8dDZckW4ZcegbsaRvgIXL2MrRAXE9FhV+JriJEaPtWhNzqFpP1uzPkvpeuPJPXClZtQpX5MjuFDg3MqTnZg+Vd6dLbVpsCX+7Cf5sdXEEgKs7rEYlfrDAcUdo0QUU7M+SETUyCeGPO+QkbDvhBc8lwHPu2JN5lY5V6pnzt7U16ZpYbhhDApjhubSROTU6fOC3IYjI0cP1OCK2jeJUXb1N+haxQ5UNQwfU+It9eObCeg8/rGsNO9LNysErV60zdj5EqPp0ViLi54TYheLGUEGsGIzBKZXwrblN+aNQIF5k61RG8x/5e4/XZVGH0yV9OtXja08jhXPMuo3hSM6+1AqUOeUnxTGR5m6Jv4pqLivw/kl9t+upz5IEmRA0gIc2qysw02VHvL+IpcLrZA8Gd3Beu288ngvs2mN9py4J/ICqAkVMgkuGYmJIeCTdKKz4bxciJIA9NJKwh+RUJfQXtQuwBdf8Vmx7YYntWPpLNOzPcLeksIRsM5j2Ts74zDW3ItIJS8iFae3z9q1iAR7/dQEr7j1v5fNmyl2zVRIePAtXW/WvoJ0DPi7SX5bCiXrxkV38zFV1pBryN8do0g8gHjl5d5i+8IsiRL9k3a" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="4Vu5v0vSgmbJAGT6BwV7wksfzmcl8qlg/j7zD7NKf710akAzN9vG21dWh4D6quUICnErZ9zncDj3GLivBBLam2fJ1ykkkdwVS8M4iXHmnfKmtTSxrxmGm8GkXeMjF+oww+1tiUWmateZOMLPv0+DCUkFQarHgBV1aBv0AJJfR4/J83Nfg5GdPckb8+nYkJ+EW4knXLOLAcXVY8Bb9gqOTVnbMrmZUY6rnmTRS+59HILZz1HXLDHX4cqK3US1o42NNEE2JuPSu5pej9yYRuw72ke6Q7V0DBernVw/tY73uQV5Ne3o9ea7v8UuKr18W19a3CyOQWDMX6+6VXMIxa5pK9g4pGZmlAmKgjbW9/dLQKmcIQ6r4vaGI7r6PEk0QeLBcZEJE0x9jzurIPz1+JVCvHCOH57Nk7S/RlRS23aLwuIRsG9XHMLfHlwellZ56l0MTovJc1354kmZLp4XjXfXjHpNmJB35CJ3/HneLICykuI68sx9p1USx5SjIQ4ulKD84U9Xfs4js5i3PklVnoM7VaOaDj/RF2n+HDvPKB7ai8pScQSEAGJlS5ZMIlLOpGe2guiI/4CvQjnAEnck78/JLjttluJ8OyhZN7HrBXKc7PGTwSNryN1WD21Z4pzQU8lDNCjQbxel5Kn7og4OiTaowkeuN6cFiX3ogK5OtSxvlk52VSb7KAoun4PE48Lxi8aG4L/X8+j1f/A3FN02sChc0L9OGod4XmrqumrSSRljmUoFkQE2Mu3pqWwH1q/GDgeMvZ4zOgUEQZAbCzygpZx8/4pXQYIn/KW6oj1AahDbdaA/aE9BZqiukLmoy59LVF4CQh0hRvWX4CqXjNtp7ef35jCDznUxs4Xft9HGjSDARr/3yS275dNi+z+it1MwkQgf7UxofqE0Gx9KazOcAOXFyfIgWeer694fRR5dF1eZs13g9VsMzbfp00iJhyqhCiPXw+rlj1FqPR5AHkdysk8IHYWSmxv+cKh1iJrInIzGdfDQk0LPz8N+Zz3Wc7WV+ol+" />
 
 
 <script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvtPCNymg1Sol3uyI95xDxIgeFym0eXIs5i1mMEvre6n5b1sb9nqjRIPt0tAG7_BIu8FKXalrePl0PXvM-PNzSlm3QKDwPTHbmfyluauuYNTga8YKkUZ5AsVS7SwCMbh2XIPLPFrEwHrJyC6GgZpEMlk1&amp;t=ffffffffb4e3605f" type="text/javascript"></script>
@@ -545,6 +548,6 @@ $(window).on('load', function() {
 	
 </body>
 </html>
-<!-- Generated at 5/9/2021 2:30:21 AM -->
+<!-- Generated at 5/9/2021 7:50:38 AM -->
 <!-- Page OK -->
 
