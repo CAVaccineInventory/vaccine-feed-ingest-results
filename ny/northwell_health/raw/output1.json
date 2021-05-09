@@ -1,5 +1,20 @@
 [
     {
+        "id": 37,
+        "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Moderna",
+        "address": "335 Greenwich Street",
+        "suite": "",
+        "city": "Hempstead",
+        "state": "NY",
+        "zip": "11550",
+        "county": "Nassau",
+        "latitude": "40.6991",
+        "longitude": "-73.6129",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TemTEAS",
+        "vaccine_manufacturer": "Moderna",
+        "distance": null
+    },
+    {
         "id": 35,
         "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
         "address": "1 Marcus Avenue",
