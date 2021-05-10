@@ -1,23 +1,24 @@
 {"name": "Abington: CVS (Centre Ave.)", "address": "385 Centre Ave, Abington, MA 02351"}
+{"name": "Abington: Stop and Shop (Centre Avenue)", "address": "375 Centre Avenue (Route 123), Abington, MA 02351"}
 {"name": "Abington: Walmart (Brockton Ave.)", "address": "777 Brockton Ave, Abington, MA 02351"}
 {"name": "Acton: Acton Pharmacy", "address": "563 Massachusetts Ave, Acton, MA 01720"}
+{"name": "Acton: CVS (Great Road)", "address": "344 Great Road, Acton, MA 01720"}
 {"name": "Acton: CVS (Massachusetts Ave.)", "address": "400 Massachusetts Ave., Acton, MA 01720"}
 {"name": "Acton: Walgreens (Powder Mill Road)", "address": "100 Powder Mill Road, Acton, MA 01720"}
 {"name": "Adams: Walgreens (Columbia Street)", "address": "21 Columbia Street, Adams, MA 01220"}
 {"name": "Agawam: CVS (Silver St.)", "address": "163 Silver Street, Agawam, MA 01001"}
 {"name": "Agawam: CVS (Springfield Street)", "address": "287 Springfield Street, Agawam, MA 01001"}
 {"name": "Agawam: Walgreens (Springfield St.)", "address": "60 Springfield St., Agawam, MA 01001"}
-{"name": "Allston: CVS (Brighton Ave.)", "address": "181 Brighton Ave, Allston, MA 02134"}
 {"name": "Allston: CVS (Harvard Avenue)", "address": "214 Harvard Avenue, Allston, MA 02134"}
 {"name": "Amesbury: CVS (Macy Street)", "address": "5 Macy Street, Amesbury, MA 01913"}
 {"name": "Amesbury: Stop and Shop", "address": "100 Macy Street, Amesbury, MA 01913"}
 {"name": "Amesbury: Walgreens (Haverhill Road)", "address": "15 Haverhill Road, Amesbury, MA 01913"}
 {"name": "Amherst: Bangs Community Center", "address": "70 Boltwood Walk, Amherst, MA 01002"}
 {"name": "Amherst: CVS (North Pleasant Street)", "address": "76 North Pleasant Street, Amherst, MA 01002"}
+{"name": "Amherst: CVS (University Drive)", "address": "165 University Drive, Amherst, MA 01002"}
 {"name": "Amherst: UMass Amherst Campus Center", "address": "1 Campus Center Way, Amherst, MA 01003"}
 {"name": "Andover: CVS (Main Street)", "address": "68 Main Street, Andover, MA 01810"}
 {"name": "Arlington: CVS (23-25 Massachusetts Ave.)", "address": "23-25 Massachusetts Ave, Arlington, MA 02474"}
-{"name": "Arlington: CVS (833 Massachusetts Ave.)", "address": "833 Massachusetts Avenue, Arlington, MA 02476"}
 {"name": "Arlington: Family Practice Group, PC", "address": "11 Water Street, Suite 1A, Arlington, MA 02476"}
 {"name": "Arlington: Stop and Shop (Massachusetts Avenue)", "address": "905 Massachusetts Avenue, Arlington, MA 02476"}
 {"name": "Arlington: Walgreens (1425 Massachusetts Ave.)", "address": "1425 Massachusetts Ave, Arlington, MA 02476"}
@@ -26,7 +27,6 @@
 {"name": "Ashland: CVS (Union St.)", "address": "414 Union St., Ashland, MA 01721"}
 {"name": "Ashland: Walgreens (Pond Street)", "address": "339 Pond Street, Ashland, MA 01721"}
 {"name": "Ashland: Walgreens (Union Street)", "address": "399 Union Street, Ashland, MA 01721"}
-{"name": "Athol: CVS (Main St.)", "address": "1653 Main St., Athol, MA 01331"}
 {"name": "Athol: Walgreens (S Main St.)", "address": "1640 S Main St, Athol, MA 01331"}
 {"name": "Attleboro: CVS (N. Main St.)", "address": "191 N. Main St., Attleboro, MA 02703"}
 {"name": "Attleboro: CVS (Pleasant Street)", "address": "486 Pleasant Street, Attleboro, MA 02703"}
@@ -36,6 +36,7 @@
 {"name": "Auburn: Auburn Pharmacy and Home Health Care", "address": "689 Southbridge St, Auburn, MA 01501"}
 {"name": "Auburn: CVS (Southbridge Street)", "address": "676 Southbridge Street, Auburn, MA 01501"}
 {"name": "Auburndale: Keyes Drug", "address": "2090 Commonwealth Ave, Auburndale, MA 02466"}
+{"name": "Avon: Costco (Stockwell Dr.)", "address": "120 Stockwell Drive, Avon, MA 02322"}
 {"name": "Avon: Walmart (Memorial Dr.)", "address": "30 Memorial Dr, Avon, MA 02322"}
 {"name": "Ayer: Ayer Family Pharmacy", "address": "13 Park Street, Ayer, MA 01432"}
 {"name": "Barre: Barre Family Pharmacy", "address": "547 Summer Street, Barre, MA 01005"}
@@ -43,7 +44,7 @@
 {"name": "Bedford: Stop and Shop (Great Road)", "address": "337 Great Road, Bedford, MA 01730"}
 {"name": "Belchertown: CVS (N Main St.)", "address": "151 N Main St, Crystal Springs Plaza, Belchertown, MA 01007"}
 {"name": "Belchertown: Stop and Shop (Federal Street)", "address": "40 Federal Street, Belchertown, MA 01007"}
-{"name": "Bellingham: CVS (Pulaski Blvd)", "address": "370 Pulaski Blvd, Bellingham, MA 02019"}
+{"name": "Bellingham: CVS (Pulaski Blvd.)", "address": "370 Pulaski Blvd, Bellingham, MA 02019"}
 {"name": "Bellingham: Walgreens (Mechanic St.)", "address": "20 Mechanic St, Bellingham, MA 02019"}
 {"name": "Bellingham: Walmart (Hartford Ave.)", "address": "250 Hartford Ave, Bellingham, MA 02019"}
 {"name": "Belmont: CVS (Leonard Street)", "address": "60 Leonard Street, Belmont, MA 02478"}
@@ -57,6 +58,7 @@
 {"name": "Billerica: CVS (Boston Rd, RT 3A Towne Plaza)", "address": "700 Boston Rd. RT 3A, Billerica, MA 01821"}
 {"name": "Billerica: Walgreens (466 Boston Rd.)", "address": "446 Boston Rd, Billerica, MA 01821"}
 {"name": "Billerica: Walgreens (467 Boston Rd.)", "address": "467 Boston Rd., Billerica, MA 01821"}
+{"name": "Blackstone: CVS (Main St.)", "address": "22 Main Street, Blackstone, MA 01504"}
 {"name": "Boston: Boston Medical Center", "address": "85 E Concord St, Boston, MA 02118"}
 {"name": "Boston: Community Care Pharmacy Inc", "address": "2100 Dorchester Avenue, Boston, MA 02124"}
 {"name": "Boston: CVS (1249 Boylston Street)", "address": "1249 Boylston St., Boston, MA 02215"}
@@ -78,10 +80,11 @@
 {"name": "Boston: CVS (7 Allstate Rd.)", "address": "7 Allstate Rd, Boston, MA 02125"}
 {"name": "Boston: CVS (700 Atlantic Ave.)", "address": "700 Atlantic Ave, Boston, MA 02111"}
 {"name": "Boston: CVS (800 Boylston Street)", "address": "800 Boylston Street, Boston, MA 02199"}
-{"name": "Boston: CVS (85 Seaport Blvd)", "address": "85 Seaport Blvd Unit H, Boston, MA 02210"}
+{"name": "Boston: CVS (85 Seaport Blvd.)", "address": "85 Seaport Blvd Unit H, Boston, MA 02210"}
 {"name": "Boston: CVS (874 Harrison Ave.)", "address": "874 Harrison Ave, Boston, MA 02118"}
 {"name": "Boston: CVS (Canal St.)", "address": "101 Canal Street, Suite A, Boston, MA 02114"}
 {"name": "Boston: CVS (Columbus Ave.)", "address": "285 Columbus Ave., Boston, MA 02116"}
+{"name": "Boston: CVS (Commonwealth Ave.)", "address": "900 Commonwealth Avenue, Boston, MA 02215"}
 {"name": "Boston: CVS (Dorchester Avenue)", "address": "2235 Dorchester Avenue, Boston, MA 02124"}
 {"name": "Boston: CVS (Tremont St.)", "address": "400 Tremont St, Boston, MA 02116"}
 {"name": "Boston: East Boston Neighborhood Health Center", "address": "120 Liverpool Street, Boston, MA 02128"}
@@ -108,9 +111,10 @@
 {"name": "Boston: Walgreens (Morton St.)", "address": "825 Morton St, Boston, MA 02126"}
 {"name": "Boston: Walgreens (School St.)", "address": "24 School St, Boston, MA 02108"}
 {"name": "Boston: Walgreens (Tremont St.)", "address": "1630 Tremont St, Boston, MA 02120"}
-{"name": "Boston: Walgreens (Truman Hwy)", "address": "1065 Truman Hwy, Boston, MA 02136"}
+{"name": "Boston: Walgreens (Truman Hwy.)", "address": "1065 Truman Hwy, Boston, MA 02136"}
 {"name": "Boston: Walgreens (Washington St.)", "address": "585 Washington St, Boston, MA 02124"}
 {"name": "Bourne: CVS (Head Of The Bay Rd.)", "address": "6 Head Of The Bay Road, Bourne, MA 02532"}
+{"name": "Bourne: Stop and Shop (Trowbridge Place)", "address": "1 Trowbridge Place Suite 103, Bourne, MA 02532"}
 {"name": "Bradford: Whittier Rehabilitation Hospital", "address": "145 Ward Hill Avenue, Bradford, MA 01835"}
 {"name": "Braintree: CVS (178 Washington St.)", "address": "178 Washington St., Braintree, MA 02184"}
 {"name": "Braintree: CVS (Granite St.)", "address": "250 Granite St, Braintree, MA 02184"}
@@ -123,15 +127,14 @@
 {"name": "Bridgewater: Walgreens (Central Sq.)", "address": "4 Central Sq., Bridgewater, MA 02324"}
 {"name": "Brighton: CVS (427 Washington Street)", "address": "427 Washington Street, Brighton, MA 02135"}
 {"name": "Brighton: CVS (Beacon St.)", "address": "1927 Beacon St, Brighton, MA 02135"}
-{"name": "Brighton: CVS (Market Street)", "address": "207 Market Street, Brighton, MA 02135"}
 {"name": "Brighton: Osco (Western Ave.)", "address": "370 Western Ave, Brighton, MA 02135"}
 {"name": "Brockton: CVS (Belmont Street)", "address": "555 Belmont Street, Brockton, MA 02301"}
 {"name": "Brockton: CVS (Cary Hill Plaza)", "address": "230 East Ashland St, Cary Hill Plaza, Brockton, MA 02302"}
 {"name": "Brockton: CVS (Centre St.)", "address": "355 Centre St., Brockton, MA 02302"}
 {"name": "Brockton: CVS (Main St.)", "address": "1267 Main St, Brockton, MA 02301"}
-{"name": "Brockton: CVS (North Pearl St.)", "address": "316 North Pearl Street, Brockton, MA 02301"}
 {"name": "Brockton: CVS (Oak St.)", "address": "240 Oak St, Brockton, MA 02301"}
 {"name": "Brockton: Osco (Belmont St.)", "address": "641 Belmont Street, Brockton, MA 02301"}
+{"name": "Brockton: Stop and Shop (North Montello Street)", "address": "932 North Montello Street, Brockton, MA 02301"}
 {"name": "Brockton: Walgreens (Centre St.)", "address": "771 Centre St., Brockton, MA 02302"}
 {"name": "Brockton: Walgreens (Main St.)", "address": "1101 Main St, Brockton, MA 02301"}
 {"name": "Brockton: Walgreens (Pleasant St.)", "address": "610 Pleasant St., Brockton, MA 02301"}
@@ -140,13 +143,13 @@
 {"name": "Brookline: CVS (Harvard Street)", "address": "294 Harvard Street, Brookline, MA 02446"}
 {"name": "Brookline: CVS (Washington St.)", "address": "400 Washington St., Brookline, MA 02446"}
 {"name": "Brookline: Walgreens (Harvard St.)", "address": "99 Harvard St., Brookline, MA 02446"}
-{"name": "Burlington: CVS (242 Cambridge St.)", "address": "242 Cambridge St., Burlington, MA 01803"}
 {"name": "Burlington: CVS (34 Cambridge St.)", "address": "34 Cambridge Street, Space 160, Burlington, MA 01803"}
 {"name": "Burlington: Osco (Cambridge St.)", "address": "180 A Cambridge Street, Burlington, MA 01803"}
 {"name": "Burlington: Wegmans", "address": "53 Third Avenue, Burlington, MA 01803"}
 {"name": "Cambridge: Cambridge Health Alliance (Cambridge St.)", "address": "1493 Cambridge St, Cambridge, MA 02139"}
 {"name": "Cambridge: Cambridge Health Alliance (Gore Street)", "address": "163 Gore Street, Cambridge, MA 02139"}
 {"name": "Cambridge: CVS (Alewife Brook Pkwy)", "address": "215 Alewife Brook Parkway, Cambridge, MA 02138"}
+{"name": "Cambridge: CVS (Cambridge St.)", "address": "225 Cambridge St, Cambridge, MA 02141"}
 {"name": "Cambridge: CVS (JFK Street)", "address": "6 JFK Street, Cambridge, MA 02138"}
 {"name": "Cambridge: CVS (Mass Ave.)", "address": "624 Massachusetts Ave., Cambridge, MA 02139"}
 {"name": "Cambridge: CVS (White St.)", "address": "36 White St, Cambridge, MA 02140"}
@@ -155,9 +158,10 @@
 {"name": "Cambridge: Walgreens (1470 Massachusetts Ave.)", "address": "1740 Massachusetts Ave, Cambridge, MA 02138"}
 {"name": "Cambridge: Walgreens (625 Massachusetts Ave.)", "address": "625 Massachusetts Ave, Cambridge, MA 02139"}
 {"name": "Cambridge: Walgreens (River St.)", "address": "330 River St., Cambridge, MA 02139"}
-{"name": "Canton: CVS (Washington St.)", "address": "95 Washington Street, Canton, MA 02021"}
 {"name": "Canton: Osco (Washington St.)", "address": "95 Washington St, Cobbs Corner, Canton, MA 02021"}
 {"name": "Canton: Walgreens (Washington St.)", "address": "595 Washington St, Canton, MA 02021"}
+{"name": "Carver: CVS (N. Main St.)", "address": "100 D N. Main St., Carver, MA 02330"}
+{"name": "Charlestown: CVS (Austin St.)", "address": "21 Austin Street, Charlestown, MA 02129"}
 {"name": "Charlton City: CVS (Worcester Rd.)", "address": "142 Worcester Rd, Charlton City, MA 01507"}
 {"name": "Chatham: CVS (Queen Anne Rd.)", "address": "12 Queen Anne Rd., Chatham, MA 02633"}
 {"name": "Chelmsford: CVS (Boston Road)", "address": "16 Boston Road, Chelmsford, MA 01824"}
@@ -166,7 +170,6 @@
 {"name": "Chelmsford: Walmart (Parkhurst Rd.)", "address": "66 Parkhurst Rd # 4, Chelmsford, MA 01824"}
 {"name": "Chelsea: CVS (Broadway)", "address": "324 Broadway, Chelsea, MA 02150"}
 {"name": "Chelsea: CVS (Revere Beach Pkwy)", "address": "1010 Revere Beach Pkwy, Chelsea, MA 02150"}
-{"name": "Chelsea: Margolis Pharmacy", "address": "447 Broadway, Chelsea, MA 02150"}
 {"name": "Chelsea: Walgreens (Broadway)", "address": "1010 Broadway, Chelsea, MA 02150"}
 {"name": "Chestnut Hill: CVS (Boylston Street)", "address": "1195 Boylston Street, Chestnut Hill, MA 02467"}
 {"name": "Chestnut Hill: CVS (VFW Pkwy)", "address": "647 VFW Pkwy, Chestnut Hill, MA 02467"}
@@ -174,6 +177,7 @@
 {"name": "Chestnut Hill: Wegmans", "address": "200 Boylston St, Chestnut Hill, MA 02467"}
 {"name": "Chicopee: Castle of Knights", "address": "1599 Memorial Dr, Chicopee, MA 01020"}
 {"name": "Chicopee: CVS (Center St.)", "address": "235 Center St, Chicopee, MA 01013"}
+{"name": "Chicopee: CVS (Granby Rd.)", "address": "1176 Granby Rd, Chicopee, MA 01020"}
 {"name": "Chicopee: CVS (Memorial Dr.)", "address": "1616 Memorial Dr, Chicopee, MA 01020"}
 {"name": "Chicopee: Stop and Shop (Memorial Drive)", "address": "672 Memorial Drive, Route 33, Chicopee, MA 01021"}
 {"name": "Chicopee: Walgreens (Granby Rd.)", "address": "1195 Granby Rd, Chicopee, MA 01020"}
@@ -185,7 +189,8 @@
 {"name": "Clinton: Rite Aid", "address": "1031 Main St, Clinton, MA 01510"}
 {"name": "Clinton: Walgreens (Main St.)", "address": "720 Main St., Clinton, MA 01510"}
 {"name": "Cohasset: CVS (Justice Cushing Way, Rte 3A)", "address": "790 Justice Cushing Way, Rte 3A, Cohasset, MA 02025"}
-{"name": "Cohasset: Walgreens (Chief Justice Cushing Hwy)", "address": "735 Chief Justice Cushing Hwy, Cohasset, MA 02025"}
+{"name": "Cohasset: Stop and Shop (Chief Justice Cushing Highway)", "address": "400 Chief Justice Cushing Hwy, Cohasset, MA 02025"}
+{"name": "Cohasset: Walgreens (Chief Justice Cushing Hwy.)", "address": "735 Chief Justice Cushing Hwy, Cohasset, MA 02025"}
 {"name": "Concord: Concord Pharmacy Inc", "address": "1212 Main Street, Concord, MA 01742"}
 {"name": "Concord: CVS (Sudbury Road)", "address": "199 Sudbury Road, Concord, MA 01742"}
 {"name": "Concord: Walgreens (Lowell Rd.)", "address": "71 Lowell Rd, Concord, MA 01742"}
@@ -198,21 +203,20 @@
 {"name": "Danvers: Walgreens (High St.)", "address": "107 High St, Danvers, MA 01923"}
 {"name": "Danvers: Walmart (Brooksby Village Way)", "address": "55 Brooksby Village Way, Danvers, MA 01923"}
 {"name": "Dartmouth: Former Circuit City", "address": "456 State Rd, Dartmouth, MA 02747"}
+{"name": "Dartmouth: Stop and Shop (Faunce Corner Road)", "address": "25 Faunce Corner Rd, Dartmouth, MA 02747"}
 {"name": "Dartmouth: VF Factory Outlet (Southcoast Health)", "address": "375 Faunce Corner Road, Dartmouth, MA 02747"}
 {"name": "Dedham: Costco (Legacy Blvd.)", "address": "200 Legacy Boulevard, Dedham, MA 02026"}
 {"name": "Dedham: CVS (Bussey St.)", "address": "270 Bussey St, Della Park Plaza, Dedham, MA 02026"}
 {"name": "Dedham: CVS (Eastern Avenue)", "address": "19 Eastern Avenue, Dedham, MA 02026"}
-{"name": "Dedham: CVS (Providence Hwy)", "address": "947 Providence Hwy, Dedham, MA 02026"}
-{"name": "Dedham: Dedham Pharmacy and Medical Supply (Providence Hwy.)", "address": "596 Providence Highway, Norfolk, MA 02026"}
+{"name": "Dedham: CVS (Providence Hwy.)", "address": "947 Providence Hwy, Dedham, MA 02026"}
 {"name": "Dedham: Stop and Shop (Providence Highway)", "address": "160 Providence Highway, Dedham, MA 02026"}
 {"name": "Dennisport: Walgreens (Main St.)", "address": "711 Main St, Dennisport, MA 02639"}
 {"name": "Devens: Clear Path for Veterans New England", "address": "84 Antietam St, Devens, MA 01434"}
 {"name": "Dorchester: CVS (Blue Hill Ave.)", "address": "468 Blue Hill Ave, Dorchester, MA 02121"}
 {"name": "Dorchester: CVS (Dudley St.)", "address": "778 Dudley Street, Dorchester, MA 02125"}
-{"name": "Dorchester: CVS (Gallivan Blvd)", "address": "703 Gallivan Blvd, Dorchester, MA 02124"}
-{"name": "Dorchester: CVS (Morrissey Blvd)", "address": "715 Morrissey Boulevard, Dorchester, MA 02122"}
-{"name": "Dorchester: CVS (Washington St.)", "address": "451 Washington St, Dorchester, MA 02124"}
-{"name": "Dorchester: Osco (William T Morrissey Blvd)", "address": "45 William T Morrissey Blvd, Dorchester, MA 02124"}
+{"name": "Dorchester: CVS (Gallivan Blvd.)", "address": "703 Gallivan Blvd, Dorchester, MA 02124"}
+{"name": "Dorchester: CVS (Morrissey Blvd.)", "address": "715 Morrissey Boulevard, Dorchester, MA 02122"}
+{"name": "Dorchester: Osco (William T Morrissey Blvd.)", "address": "45 William T Morrissey Blvd, Dorchester, MA 02124"}
 {"name": "Dorchester: Russell Auditorium", "address": "71 Talbot Ave, Dorchester, MA 02124"}
 {"name": "Dorchester: Stop and Shop (Massachusetts Avenue)", "address": "1100 Massachusetts Avenue, Boston, MA 02125"}
 {"name": "Dorchester: Upham's Corner Health Center at the Strand Theater", "address": "543 Columbia Road, Dorchester, MA 02125"}
@@ -223,17 +227,19 @@
 {"name": "Dracut: Hannaford", "address": "301 Pleasant Street, Dracut, MA 01826"}
 {"name": "Dudley: Walgreens (Schofield Avenue)", "address": "5 Schofield Avenue, Dudley, MA 01571"}
 {"name": "Duxbury: Walgreens (Depot Street)", "address": "28 Depot Street, Duxbury, MA 02332"}
+{"name": "E Longmeadow: Stop and Shop (North Main Street)", "address": "470 North Main Street, E Longmeadow, MA 01028"}
 {"name": "East Boston: CVS (Border St.)", "address": "210 Border Street, East Boston, MA 02128"}
 {"name": "East Boston: CVS (Saratoga St.)", "address": "1150 Saratoga Street, East Boston, MA 02128"}
 {"name": "East Bridgewater: CVS (Bedford St.)", "address": "119 Bedford St, East Bridgewater, MA 02333"}
-{"name": "East Falmouth: CVS (E Falmouth Hwy)", "address": "419 East Falmouth Hwy., East Falmouth, MA 02536"}
+{"name": "East Falmouth: CVS (E Falmouth Hwy.)", "address": "419 East Falmouth Hwy., East Falmouth, MA 02536"}
 {"name": "East Falmouth: Falmouth Fairgrounds", "address": "1220 Nathan Ellis Hwy, East Falmouth, MA 02536"}
 {"name": "East Falmouth: Osco (Tea Ticket Highway)", "address": "137 Tea Ticket Highway, East Falmouth, MA 02536"}
+{"name": "East Longmeadow: Big Y", "address": "443 North Main St, East Longmeadow, MA 01028"}
 {"name": "East Longmeadow: CVS (North Main Street)", "address": "217 North Main Street, East Longmeadow, MA 01028"}
 {"name": "East Longmeadow: Walgreens (Center Sq)", "address": "54 Center Sq, East Longmeadow, MA 01028"}
-{"name": "East Wareham: CVS (Cranberry Hwy)", "address": "2992 Cranberry Hwy, East Wareham, MA 02538"}
-{"name": "Easthampton: CVS (Route 10, 118 Northampton Street)", "address": "Route 10, 118 Northampton Street, Easthampton, MA 01027"}
+{"name": "East Wareham: CVS (Cranberry Hwy.)", "address": "2992 Cranberry Hwy, East Wareham, MA 02538"}
 {"name": "Easthampton: Walgreens (Union Street)", "address": "32 Union Street, Easthampton, MA 01027"}
+{"name": "Edgartown: Stop and Shop (Vineyard Haven Road)", "address": "245 Vineyard Haven Road, Edgartown, MA 02539"}
 {"name": "Everett: Costco (Mystic View Rd.)", "address": "2 Mystic View Road, Everett, MA 02149"}
 {"name": "Everett: CVS (Mystic View Rd.)", "address": "1 Mystic View Rd., Everett, MA 02149"}
 {"name": "Everett: Encore Boston - CHA Vaccination Center", "address": "1 Broadway, Everett, MA 02149"}
@@ -248,12 +254,12 @@
 {"name": "Fall River: CVS (North Main Street)", "address": "4171 North Main Street, Fall River, MA 02720"}
 {"name": "Fall River: CVS (Pleasant St.)", "address": "550 Pleasant St., Fall River, MA 02720"}
 {"name": "Fall River: CVS (President Ave.)", "address": "1620 President Avenue, Fall River, MA 02720"}
-{"name": "Fall River: CVS (William S. Canning Blvd)", "address": "245 William S. Canning Blvd, Fall River, MA 02721"}
+{"name": "Fall River: CVS (William S. Canning Blvd.)", "address": "245 William S. Canning Blvd, Fall River, MA 02721"}
 {"name": "Fall River: Liberal Club (Southcoast Health)", "address": "20 Star Street, Fall River, MA 02724"}
 {"name": "Fall River: Rite Aid (1024 S. Main St.)", "address": "1024 S. Main St., Fall River, MA 02724"}
 {"name": "Fall River: Rite Aid (233 S. Main St.)", "address": "233 S. Main St., Fall River, MA 02721"}
 {"name": "Fall River: Rite Aid (Stafford Rd.)", "address": "10 Stafford Road, Fall River, MA 02721"}
-{"name": "Fall River: Stop and Shop (Mariano Bishop Boulevard)", "address": "333 Mariano Bishop Boulevard, Fall River, MA 02721"}
+{"name": "Fall River: Stop and Shop (Mariano Bishop BoulevaRd.)", "address": "333 Mariano Bishop Boulevard, Fall River, MA 02721"}
 {"name": "Fall River: Stop and Shop (Rodman St.)", "address": "501 Rodman Street, Fall River, MA 02721"}
 {"name": "Fall River: Walgreens (N Main St.)", "address": "870 N Main St., Fall River, MA 02720"}
 {"name": "Fall River: Walgreens (Pleasant St.)", "address": "933 Pleasant St, Fall River, MA 02723"}
@@ -262,7 +268,6 @@
 {"name": "Fall River: Walgreens (S Main St.)", "address": "1512 S Main St., Fall River, MA 02724"}
 {"name": "Fall River: Walmart (Quequechan St.)", "address": "638 Quequechan St, Fall River, MA 02721"}
 {"name": "Fall River: Walsh Pharmacy", "address": "202 Rock Street, Fall River, MA 02720"}
-{"name": "Falmouth: CVS (Davis Straits)", "address": "105 Davis Straits, Falmouth, MA 02540"}
 {"name": "Falmouth: Walgreens (Main Street)", "address": "520 Main Street, Falmouth, MA 02540"}
 {"name": "Feeding Hills: Stop and Shop", "address": "1282 Springfield Street, Feeding Hills, MA 01030"}
 {"name": "Fitchburg: CVS (Main St.)", "address": "161 Main St, Fitchburg, MA 01420"}
@@ -280,6 +285,7 @@
 {"name": "Framingham: CVS (Worcester Rd.)", "address": "1280 Worcester Rd, Framingham, MA 01702"}
 {"name": "Framingham: Health First Pharmacy", "address": "855 Worcester Rd Ste 5, Framingham, MA 01701"}
 {"name": "Framingham: Metrowest Pharmacy LLC", "address": "214 Union Avenue, Framingham, MA 01702"}
+{"name": "Framingham: Stop and Shop (Old Connecticut Path)", "address": "235 Old Connecticut Path, Framingham, MA 01701"}
 {"name": "Framingham: V-Care Pharmacy And Surgical Supplies (Cochituate Rd.)", "address": "151 Cochituate Rd, Middlesex, MA 01701"}
 {"name": "Framingham: Walgreens (School St.)", "address": "15 School St, Framingham, MA 01701"}
 {"name": "Framingham: Walgreens (Waverly St.)", "address": "624 Waverly St, Framingham, MA 01702"}
@@ -293,17 +299,16 @@
 {"name": "Gardner: CVS (Main Street)", "address": "314 Main Street, Gardner, MA 01440"}
 {"name": "Gardner: Heywood Healthcare at Polish American Citizen's Club (PACC)", "address": "171 Kendall Pond Rd W, Gardner, MA 01440"}
 {"name": "Gardner: Medical Arts Building, Suite 200", "address": "250 Green St Suite 200, Gardner, MA 01440"}
+{"name": "Gardner: Price Chopper", "address": "560 Main St, Gardner, MA 01440"}
 {"name": "Gardner: Walgreens (Main St.)", "address": "232 Main St, Gardner, MA 01440"}
-{"name": "Gardner: Walgreens (Pearson Blvd)", "address": "52 Pearson Blvd, Gardner, MA 01440"}
-{"name": "Gardner: Walmart (Timpany Blvd)", "address": "677 Timpany Blvd, Gardner, MA 01440"}
+{"name": "Gardner: Walgreens (Pearson Blvd.)", "address": "52 Pearson Blvd, Gardner, MA 01440"}
+{"name": "Gardner: Walmart (Timpany Blvd.)", "address": "677 Timpany Blvd, Gardner, MA 01440"}
 {"name": "Georgetown: CVS (Central Street)", "address": "65 Central Street, Georgetown, MA 01833"}
 {"name": "Gloucester: CVS (Gloucester Crossing Rd.)", "address": "401 Gloucester Crossing Road, Gloucester, MA 01930"}
 {"name": "Gloucester: CVS (Thatcher Rd.)", "address": "6 Thatcher Rd, E Gloucester S/c, Gloucester, MA 01930"}
 {"name": "Gloucester: Walgreens (Eastern Ave.)", "address": "127 Eastern Ave, Gloucester, MA 01930"}
 {"name": "Gloucester: Walgreens (Main St.)", "address": "201 Main St., Gloucester, MA 01930"}
-{"name": "Granby: CVS (West State St.)", "address": "70 West State St, Granby, MA 01033"}
 {"name": "Great Barrington: Big Y", "address": "700 Main Street Suite 2, Great Barrington, MA 01230"}
-{"name": "Great Barrington: CVS (Main Street, Suite 2)", "address": "362 Main Street, Suite 2, Great Barrington, MA 01230"}
 {"name": "Great Barrington: Price Chopper", "address": "300 Stockbridge Rd, Great Barrington, MA 01230"}
 {"name": "Great Barrington: Walgreens (Main St.)", "address": "197 Main St., Great Barrington, MA 01230"}
 {"name": "Great Barrington: WEB DuBois Middle School", "address": "313 Monument Valley Rd, Great Barrington, MA 01230"}
@@ -313,10 +318,12 @@
 {"name": "Greenfield: Greenfield Community College", "address": "1 College Drive, Greenfield, MA 01301"}
 {"name": "Greenfield: John Zon Center", "address": "35 Pleasant St, Greenfield, MA 01301"}
 {"name": "Greenfield: Rite Aid", "address": "107 Main St, Greenfield, MA 01301"}
+{"name": "Greenfield: Stop and Shop (French King Highway)", "address": "89 French King Hwy, Greenfield, MA 01301"}
 {"name": "Greenfield: Walgreens (Pierce St.)", "address": "5 Pierce St, Greenfield, MA 01301"}
 {"name": "Groton: CVS (Boston Road Route 119)", "address": "106 Boston Road Route 119, Groton, MA 01450"}
 {"name": "Groton: Osco (Boston Road)", "address": "760 A Boston Road, Groton, MA 01450"}
 {"name": "Hadley: CVS (Russell St.)", "address": "367 Russell St, Hadley, MA 01035"}
+{"name": "Hadley: Stop and Shop (Russell Street)", "address": "456 Russell Street, Hadley, MA 01035"}
 {"name": "Hadley: Walmart (Russell St.)", "address": "337 Russell St, Hadley, MA 01035"}
 {"name": "Halifax: Stop and Shop", "address": "341 Plymouth Road, Halifax, MA 02388"}
 {"name": "Halifax: Walmart (Plymouth St.)", "address": "295 Plymouth St, Halifax, MA 02338"}
@@ -329,10 +336,9 @@
 {"name": "Harwich: CVS (Route 137)", "address": "148 Route 137, Harwich, MA 02645"}
 {"name": "Harwich: Osco (Sisson Rd.)", "address": "18 Sisson Road, Harwich, MA 02645"}
 {"name": "Harwich: Stop and Shop", "address": "111 Chatam Rd, Harwich, MA 02645"}
-{"name": "Haverhill: CVS (Lafayette Sq.)", "address": "150 Lafayette Square, Haverhill, MA 01832"}
+{"name": "Haverhill: CVS (Lafayette Sq)", "address": "150 Lafayette Square, Haverhill, MA 01832"}
 {"name": "Haverhill: CVS (Lincoln Ave.)", "address": "211 Lincoln Avenue, Haverhill, MA 01830"}
 {"name": "Haverhill: CVS (Lowell Ave.)", "address": "425 Lowell Ave, Haverhill, MA 01832"}
-{"name": "Haverhill: CVS (Main St.)", "address": "259 Main St., Haverhill, MA 01830"}
 {"name": "Haverhill: Greater Lawrence Family Health Center", "address": "2 Water St, Haverhill, MA 01830"}
 {"name": "Haverhill: Walgreens (Main St.)", "address": "310 Main St., Haverhill, MA 01830"}
 {"name": "Haverhill: Walgreens (River St.)", "address": "800 River St., Haverhill, MA 01832"}
@@ -340,6 +346,7 @@
 {"name": "Hingham: CVS (Lincoln St.)", "address": "405 Lincoln St, Hingham, MA 02043"}
 {"name": "Hingham: CVS (South Street)", "address": "86 South Street, Hingham, MA 02043"}
 {"name": "Hingham: Hingham Centre Pharmacy (Main St.)", "address": "294 Main St, Plymouth, MA 02043"}
+{"name": "Hingham: Stop and Shop (Lincoln Street)", "address": "400 Lincoln Street, Hingham, MA 02043"}
 {"name": "Hingham: Walgreens (Lincoln St.)", "address": "184 Lincoln St, Hingham, MA 02043"}
 {"name": "Holbrook: CVS (480 North Franklin St.)", "address": "480 North Franklin St, Holbrook, MA 02343"}
 {"name": "Holbrook: CVS (842 South Franklin St.)", "address": "842 South Franklin Street, Holbrook, MA 02343"}
@@ -349,18 +356,16 @@
 {"name": "Holden: Walgreens (Shrewsbury St.)", "address": "5 Shrewsbury St, Holden, MA 01520"}
 {"name": "Holliston: CVS (Central Street)", "address": "101 Central Street, Holliston, MA 01746"}
 {"name": "Holyoke: Baystate Health Whitney Avenue Vaccine Center", "address": "361 Whitney Avenue, Holyoke, MA 01040"}
-{"name": "Holyoke: CVS (Beech St.)", "address": "400 Beech St, Holyoke, MA 01040"}
 {"name": "Holyoke: CVS (Holyoke St.)", "address": "50 Holyoke Street, Holyoke, MA 01040"}
 {"name": "Holyoke: CVS (Whiting Farms Rd.)", "address": "250 Whiting Farms Rd., Holyoke, MA 01040"}
 {"name": "Holyoke: Stop and Shop (Lincoln Street)", "address": "28 Lincoln Street, Holyoke, MA 01040"}
+{"name": "Holyoke: Stop and Shop (Northampton Street)", "address": "2265 Northampton Street, Holyoke, MA 01040"}
 {"name": "Holyoke: Walgreens (Northampton St.)", "address": "1588 Northampton St., Holyoke, MA 01040"}
-{"name": "Hopkinton: CVS (Main St.)", "address": "61 Main Street, Hopkinton, MA 01748"}
 {"name": "Hudson: CVS (Washington St.)", "address": "234 Washington St, Hudson, MA 01749"}
 {"name": "Hudson: Walgreens (Main St.)", "address": "186 Main St, Hudson, MA 01749"}
 {"name": "Hudson: Walmart (Washington St.)", "address": "280 Washington St, Hudson, MA 01749"}
 {"name": "Hull: Nantasket Pharmacy Inc", "address": "480 Nantasket Avenue, Hull, MA 02045"}
 {"name": "Hyannis: CVS (Barnstable Rd.)", "address": "411 Barnstable Rd, Hyannis, MA 02601"}
-{"name": "Hyannis: CVS (Falmouth Rd.)", "address": "1080 Falmouth Rd., Hyannis, MA 02601"}
 {"name": "Hyannis: CVS (Iyannough Rd.)", "address": "793 Iyannough Rd, Hyannis, MA 02601"}
 {"name": "Hyannis: CVS (North Street)", "address": "176 North Street, Hyannis, MA 02601"}
 {"name": "Hyannis: Melody Tent", "address": "21 W Main St, Hyannis, MA 02601"}
@@ -378,10 +383,13 @@
 {"name": "Kingston: Big Y", "address": "182 Summer Street, Kingston, MA 02364"}
 {"name": "Kingston: CVS (Independence Mall Way)", "address": "101 Independence Mall Way, Kingston, MA 02364"}
 {"name": "Kingston: CVS (Summer Street)", "address": "189 Summer Street, Kingston, MA 02364"}
+{"name": "Kingston: Stop and Shop (Summer Street)", "address": "160 Summer Street, Kingston, MA 02364"}
 {"name": "Lakeville: CVS (Main St.)", "address": "11 Main St, Lakeville, MA 02347"}
 {"name": "Lakeville: Walgreens (Main St.)", "address": "32 Main St, Lakeville, MA 02347"}
 {"name": "Lanesborough: CVS (Cheshire Rd.)", "address": "655 Cheshire Rd, Lanesborough, MA 01237"}
-{"name": "Lawrence: CVS (Broadway)", "address": "266 Broadway, Lawrence, MA 01841"}
+{"name": "Lawrence: Cure-aid Pharmacy", "address": "203 Essex St, Lawrence, MA 01840"}
+{"name": "Lawrence: CVS (205 South Broadway)", "address": "205 South Broadway, Lawrence, MA 01843"}
+{"name": "Lawrence: CVS (266 Broadway)", "address": "266 Broadway, Lawrence, MA 01841"}
 {"name": "Lawrence: Packard Pharmacy (Parker St.)", "address": "128 Parker Street, Lawrence, MA 01843"}
 {"name": "Lawrence: South Lawrence East Elementary School", "address": "165 Crawford Street, Lawrence, MA 01843"}
 {"name": "Lawrence: Walgreens (135 Broadway)", "address": "135 Broadway., Lawrence, MA 01840"}
@@ -389,7 +397,6 @@
 {"name": "Lee: Big Y", "address": "10 Pleasant Street, Lee, MA 01238"}
 {"name": "Lee: Walgreens (Park St.)", "address": "25 Park St, Lee, MA 01238"}
 {"name": "Leicester: Walmart (Soojian Dr.)", "address": "20 Soojian Dr, Leicester, MA 01524"}
-{"name": "Lenox: CVS (Pittsfield Rd.)", "address": "481 Pittsfield Rd, Lenox, MA 01240"}
 {"name": "Leominster: CVS (Central St.)", "address": "188 Central St, Leominster, MA 01453"}
 {"name": "Leominster: CVS (Mill St.)", "address": "246 Mill St., Leominster, MA 01453"}
 {"name": "Leominster: CVS (Nelson St.)", "address": "9 Nelson St, Leominster, MA 01453"}
@@ -424,7 +431,6 @@
 {"name": "Lunenburg: Hannaford (Mass Avenue)", "address": "333 Mass Ave., Lunenburg, MA 01462"}
 {"name": "Lunenburg: Walmart (Massachusetts Ave.)", "address": "301 Massachusetts Ave, Lunenburg, MA 01462"}
 {"name": "Lynn: CVS (Boston St.)", "address": "65 Boston St, Lynn, MA 01904"}
-{"name": "Lynn: CVS (Eastern Ave.)", "address": "509 Eastern Ave, Lynn, MA 01902"}
 {"name": "Lynn: CVS (South Common St.)", "address": "200 South Common St., Lynn, MA 01905"}
 {"name": "Lynn: Flag Pharmacy", "address": "7 Willow St, Essex, MA 01901"}
 {"name": "Lynn: Lynn Tech High School Field House", "address": "80 Neptune Blvd., Lynn, MA 01902"}
@@ -451,9 +457,8 @@
 {"name": "Marlborough: Bouvier Pharmacy", "address": "515 Lincoln Street, Marlborough, MA 01752"}
 {"name": "Marlborough: Courtyard Marriott (UMass)", "address": "75 Felton Street, Marlborough, MA 01752"}
 {"name": "Marlborough: CVS (Boston Post Rd E)", "address": "605 Boston Post Rd E, Marlborough, MA 01752"}
-{"name": "Marlborough: CVS (Donald Lynch Blvd)", "address": "423 Donald Lynch Blvd, Marlborough, MA 01752"}
+{"name": "Marlborough: CVS (Donald Lynch Blvd.)", "address": "423 Donald Lynch Blvd, Marlborough, MA 01752"}
 {"name": "Marlborough: CVS (E Main St.)", "address": "264 East Main Street, Marlborough, MA 01752"}
-{"name": "Marlborough: Hannaford", "address": "193 Boston Post Road West, Marlborough, MA 01752"}
 {"name": "Marlborough: Walgreens (Boston Post Rd E)", "address": "525 Boston Post Rd E, Marlborough, MA 01752"}
 {"name": "Marlborough: Walgreens (Granger Blvd.)", "address": "99 Granger Blvd., Marlborough, MA 01752"}
 {"name": "Marshfield: CVS (Ocean Street)", "address": "1880 Ocean Street, Marshfield, MA 02050"}
@@ -499,7 +504,7 @@
 {"name": "Middleborough: Hannaford", "address": "8 Merchants Way, Middleborough, MA 01569"}
 {"name": "Middleton: CVS (Maple St.)", "address": "220 Maple St, Middleton, MA 01949"}
 {"name": "Middleton: Walgreens (S Main St.)", "address": "235 S Main St, Middleton, MA 01949"}
-{"name": "Milford: CVS (Fortune Blvd)", "address": "250 Fortune Blvd., Milford, MA 01757"}
+{"name": "Milford: CVS (Fortune Blvd.)", "address": "250 Fortune Blvd., Milford, MA 01757"}
 {"name": "Milford: CVS (Medway Rd.)", "address": "50 Medway Rd,, Milford, MA 01757"}
 {"name": "Milford: CVS (South Main Street)", "address": "137 South Main Street, Milford, MA 01757"}
 {"name": "Milford: Milford Central Pharmacy", "address": "105 E Main St, Milford, MA 01757"}
@@ -513,17 +518,16 @@
 {"name": "Monson: Walgreens (Main St.)", "address": "117 Main St, Monson, MA 01057"}
 {"name": "Nantucket: Dan's Pharmacy", "address": "110 Pleasant Street, Nantucket, MA 02554"}
 {"name": "Nantucket: Nantucket VFW (operated by Nantucket Cottage Hospital)", "address": "22 New South Road, Nantucket, MA 02554"}
-{"name": "Natick: CVS (West Central St.)", "address": "137 West Central Street, Natick, MA 01760"}
 {"name": "Natick: Natick Mall", "address": "1235 Worcester St, Natick, MA 01760"}
 {"name": "Natick: Stop and Shop (Worcester Street)", "address": "829 Worcester Street, Rte 9, Natick, MA 01760"}
 {"name": "Natick: Walgreens (W Central St.)", "address": "148 W Central St, Natick, MA 01760"}
-{"name": "Needham: Bird's Hill Pharmacy", "address": "401 Great Plain Ave, Needham, MA 02492"}
 {"name": "Needham: CVS (Great Plain Avenue)", "address": "980-986 Great Plain Avenue, Needham, MA 02492"}
 {"name": "Needham: CVS (Highland Avenue)", "address": "936 Highland Avenue, Needham, MA 02494"}
 {"name": "Needham: Harvard Vanguard Medical Associates-Atrius Health", "address": "100 2nd Avenue, Needham, MA 02494"}
 {"name": "Needham: Walgreens (Highland Ave.)", "address": "1478 Highland Ave, Needham, MA 02492"}
-{"name": "New Bedford: CVS (136 Ashley Blvd)", "address": "136 Ashley Blvd., New Bedford, MA 02746"}
-{"name": "New Bedford: CVS (786 Ashley Blvd)", "address": "786 Ashley Blvd., New Bedford, MA 02745"}
+{"name": "New Bedford: CVS (136 Ashley Blvd.)", "address": "136 Ashley Blvd., New Bedford, MA 02746"}
+{"name": "New Bedford: CVS (786 Ashley Blvd.)", "address": "786 Ashley Blvd., New Bedford, MA 02745"}
+{"name": "New Bedford: CVS (Acushnet Avenue)", "address": "2100 Acushnet Avenue, New Bedford, MA 02745"}
 {"name": "New Bedford: CVS (Kempton Street)", "address": "1145 Kempton Street, New Bedford, MA 02740"}
 {"name": "New Bedford: Rite Aid (Acushnet Ave.)", "address": "1207 Acushnet Ave, New Bedford, MA 02746"}
 {"name": "New Bedford: Rite Aid (Mill Street)", "address": "565 Mill Street, New Bedford, MA 02740"}
@@ -537,13 +541,14 @@
 {"name": "New Bedford: Walgreens (Kempton St.)", "address": "1103 Kempton St, New Bedford, MA 02740"}
 {"name": "New Bedford: Walgreens (Pleasant St.)", "address": "838 Pleasant St., New Bedford, MA 02740"}
 {"name": "Newburyport: CVS (Pond Street)", "address": "13-1/2 Pond Street, Newburyport, MA 01950"}
+{"name": "Newburyport: CVS (Storey Ave.)", "address": "75 Storey Ave., Newburyport, MA 01950"}
 {"name": "Newburyport: Nock Middle School", "address": "70 Low St, Newburyport, MA 01950"}
 {"name": "Newburyport: Walgreens (Storey Ave.)", "address": "25 Storey Ave, Newburyport, MA 01950"}
 {"name": "Newton Centre: Walgreens (Langley Rd.)", "address": "22 Langley Rd, Newton Centre, MA 02459"}
 {"name": "Newton: CVS (Boylston St.)", "address": "978 Boylston St., Newton, MA 02461"}
 {"name": "Newton: CVS (Center Street)", "address": "1199-1201 Center Street, Newton, MA 02459"}
 {"name": "Newton: CVS (Washington Street)", "address": "839 Washington Street, Newton, MA 02460"}
-{"name": "Newton: Holtzman Medical Group at Mt. Ida Campus (UMass Amherst)", "address": "100 Carlson Ave, Newton, MA 02459"}
+{"name": "Newton: Holtzman Medical Group at Mt. Ida Campus (UMass AmherSt.)", "address": "100 Carlson Ave, Newton, MA 02459"}
 {"name": "Newton: Union Pharmacy", "address": "103 Union St, Newton, MA 02459"}
 {"name": "Newton: Walgreens (Beacon St.)", "address": "1101 Beacon St, Newton, MA 02461"}
 {"name": "Newton: Walgreens (Washington St.)", "address": "399 Washington St, Newton, MA 02458"}
@@ -555,6 +560,7 @@
 {"name": "North Adams: Walmart", "address": "1415 Curran Hwy, North Adams, MA 01247"}
 {"name": "North Andover: CVS (Main Street)", "address": "109 Main Street, North Andover, MA 01845"}
 {"name": "North Andover: CVS (Turnpike St.)", "address": "110 Turnpike St, North Andover, MA 01845"}
+{"name": "North Andover: Stop and Shop (Turnpike Street)", "address": "757 Turnpike Street, North Andover, MA 01845"}
 {"name": "North Andover: Walgreens (Waverley Rd.)", "address": "800 Waverley Rd, North Andover, MA 01845"}
 {"name": "North Attleboro: Shaw's Osco Pharmacy", "address": "125 Toner Blvd., North Attleboro, MA 02760"}
 {"name": "North Attleboro: Walgreens (E Washington St.)", "address": "475 E Washington St., North Attleboro, MA 02760"}
@@ -584,10 +590,12 @@
 {"name": "Northampton: Walgreens (King St.)", "address": "225R King St, Northampton, MA 01060"}
 {"name": "Northampton: Walmart (N King St.)", "address": "180 N King St, Northampton, MA 01060"}
 {"name": "Northborough: CVS (24 West Main Street)", "address": "24 West Main Street, Northborough, MA 01532"}
+{"name": "Northborough: Walmart (Otis St.)", "address": "200 Otis St, Northborough, MA 01532"}
 {"name": "Northborough: Wegmans", "address": "9102 Shops Way, Northborough, MA 01532"}
 {"name": "Norton: CVS (W Main St.)", "address": "35 W Main St, Norton, MA 02766"}
 {"name": "Norton: Walgreens (W Main St.)", "address": "38 W Main St., Norton, MA 02766"}
 {"name": "Norwell: CVS (Washington Street)", "address": "104 Washington Street, Norwell, MA 02061"}
+{"name": "Norwell: Stop and Shop (Washington St.)", "address": "468 Washington St, Norwell, MA 02061"}
 {"name": "Norwell: Walgreens (Washington St.)", "address": "119 Washington St, Norwell, MA 02061"}
 {"name": "Norwood: CVS (Nahatan St.)", "address": "136 Nahatan St, Norwood, MA 02062"}
 {"name": "Norwood: Norwood Pharmacy", "address": "54 Broadway, Norwood, MA 02062"}
@@ -600,7 +608,6 @@
 {"name": "Orleans: Department of Public Works", "address": "40 Giddiah Hill Rd, Orleans, MA 02653"}
 {"name": "Orleans: Stop and Shop", "address": "Route 3 6A Cranberry Cove Plaza, Orleans, MA 02653"}
 {"name": "Orleans: Walgreens (Rt 6A)", "address": "130 Rt 6A, Orleans, MA 02653"}
-{"name": "Oxford: CVS (Main St.)", "address": "302 Main Street, Oxford, MA 01540"}
 {"name": "Oxford: Walgreens (Main St.)", "address": "175 Main St., Oxford, MA 01540"}
 {"name": "Palmer: Big Y", "address": "1180 Thorndike Street, Palmer, MA 01069"}
 {"name": "Palmer: Converse Middle School", "address": "24 Converse Street, Palmer, MA 01069"}
@@ -608,19 +615,17 @@
 {"name": "Palmer: Walgreens (Thorndike St.)", "address": "1047 Thorndike St, Palmer, MA 01069"}
 {"name": "Peabody: CVS (535 Lowell St.)", "address": "535 Lowell Street, Peabody, MA 01960"}
 {"name": "Peabody: CVS (637 Lowell St.)", "address": "637 Lowell St, Peabody, MA 01960"}
-{"name": "Peabody: CVS (Lynnfield St.)", "address": "79 Lynnfield Street, Peabody, MA 01960"}
 {"name": "Peabody: CVS (Main St.)", "address": "174 Main St., Peabody, MA 01960"}
 {"name": "Peabody: Pediatric Health Care Associates", "address": "10 Centennial Drive, Peabody, MA 01960"}
 {"name": "Peabody: Walgreens (Andover St.)", "address": "229 Andover St, Peabody, MA 01960"}
 {"name": "Peabody: Walgreens (Main St.)", "address": "35 Main St, Peabody, MA 01960"}
 {"name": "Pembroke: CVS (Center St.)", "address": "155 Center St, Pembroke, MA 02359"}
+{"name": "Pembroke: Stop and Shop (Church Street)", "address": "125 Church Street, Pembroke, MA 02359"}
 {"name": "Pepperell: Pepperell Family Pharmacy", "address": "74 Main Street, Pepperell, MA 01463"}
 {"name": "Pepperell: Walgreens (Groton St.)", "address": "60 Groton St, Pepperell, MA 01463"}
 {"name": "Pittsfield: Berkshire Allergy Care", "address": "369 South St, Pittsfield, MA 01201"}
 {"name": "Pittsfield: Berkshire Community College Paterson Field House", "address": "1350 West St., Pittsfield, MA 01201"}
 {"name": "Pittsfield: Big Y", "address": "200 West Street, Pittsfield, MA 01201"}
-{"name": "Pittsfield: CVS (West St.)", "address": "107 West St, Pittsfield, MA 01201"}
-{"name": "Pittsfield: Price Chopper", "address": "555 Hubbard Ave, Pittsfield, MA 01201"}
 {"name": "Pittsfield: Stop and Shop (Dan Fox Dr.)", "address": "Dan Fox Drive, Pittsfield, MA 01201"}
 {"name": "Pittsfield: Stop and Shop (Merrill Road)", "address": "660 Merrill Road, Pittsfield, MA 01201"}
 {"name": "Pittsfield: T and C Flynn's Pharmacy Inc. (Elm St.)", "address": "173 Elm St, Berkshire, MA 01201"}
@@ -633,7 +638,6 @@
 {"name": "Plainville: CVS (Taunton St.)", "address": "91 Taunton St, Plainville, MA 02762"}
 {"name": "Plainville: Walgreens (Taunton St.)", "address": "13 Taunton St, Plainville, MA 02762"}
 {"name": "Plymouth: CVS (2253 State Rd.)", "address": "2253 State Rd, Plymouth, MA 02360"}
-{"name": "Plymouth: CVS (517 State Rd.)", "address": "517 State Rd., Plymouth, MA 02360"}
 {"name": "Plymouth: CVS (Court St.)", "address": "330 Court St, Plymouth, MA 02360"}
 {"name": "Plymouth: CVS (Pilgrim Hill Rd.)", "address": "8 Pilgrim Hill Road, Plymouth, MA 02360"}
 {"name": "Plymouth: Osco (State Rd.)", "address": "2260 State Road, Plymouth, MA 02360"}
@@ -641,6 +645,7 @@
 {"name": "Plymouth: Walgreens (Samoset St.)", "address": "165 Samoset St, Plymouth, MA 02360"}
 {"name": "Plymouth: Walmart (Colony Place Rd.)", "address": "300 Colony Place Rd, Plymouth, MA 02360"}
 {"name": "Provincetown: CVS (Bradford St.)", "address": "132 Bradford St, Provincetown, MA 02657"}
+{"name": "Provincetown: Stop and Shop (Shank Painter Road)", "address": "56 Shank Painter Road, Provincetown, MA 02657"}
 {"name": "Quincy: CVS (Quincy Shore Drive)", "address": "321 Quincy Shore Drive, Quincy, MA 02171"}
 {"name": "Quincy: CVS (Southern Artery)", "address": "626 Southern Artery, Rte 3A, Quincy, MA 02169"}
 {"name": "Quincy: Galaxy Pharmacy", "address": "343 Newport Ave, Quincy, MA 02170"}
@@ -655,7 +660,6 @@
 {"name": "Randolph: CVS (N Main St.)", "address": "171 North Main Street, Randolph, MA 02368"}
 {"name": "Randolph: Intergenerational Community Center", "address": "128 Pleasant St, Randolph, MA 02368"}
 {"name": "Randolph: Walgreens (N Main St.)", "address": "170 N Main St, Randolph, MA 02368"}
-{"name": "Raynham: CVS (Broadway)", "address": "252 Broadway, Raynham, MA 02767"}
 {"name": "Raynham: CVS (Rte 44)", "address": "266 Rte 44, Raynham, MA 02767"}
 {"name": "Raynham: Walmart (Broadway)", "address": "160 Broadway, Raynham, MA 02767"}
 {"name": "Raynham: Walmart (Paramount Dr.)", "address": "36 Paramount Dr, Raynham, MA 02767"}
@@ -665,6 +669,9 @@
 {"name": "Revere: CVS (Furlong Dr.)", "address": "36 Furlong Dr., Revere, MA 02151"}
 {"name": "Revere: CVS (Squire Rd.)", "address": "339 Squire Road, Revere, MA 02151"}
 {"name": "Revere: Rite Aid (Broadway)", "address": "467 Broadway, Revere, MA 02151"}
+{"name": "Revere: Seaside Pharmacy", "address": "169 Shirley Ave, Revere, MA 02151"}
+{"name": "Revere: Stop and Shop (Furlong Drive)", "address": "40 Furlong Dr, Revere, MA 02151"}
+{"name": "Revere: Stop and Shop (Squire Road)", "address": "540 Squire Road, Revere, MA 02151"}
 {"name": "Revere: Walgreens (Broadway)", "address": "430 Broadway, Revere, MA 02151"}
 {"name": "Rockland: CVS (Market Street)", "address": "80 Market Street, Rockland, MA 02370"}
 {"name": "Rockland: Walgreens (Market St.)", "address": "75 Market St, Rockland, MA 02370"}
@@ -672,7 +679,8 @@
 {"name": "Roslindale: COVID-19 Vaccination Site @ 39 Belgrade Avenue", "address": "39 Belgrade Avenue, Roslindale, MA 02131"}
 {"name": "Roslindale: CVS (4165 Washington Street)", "address": "4165 Washington St, Roslindale, MA 02131"}
 {"name": "Roslindale: CVS (4600 Washington Street)", "address": "4600 Washington Street, Roslindale, MA 02131"}
-{"name": "Roslindale: Walgreens (American Legion Hwy)", "address": "980 American Legion Hwy, Boston, MA 02131"}
+{"name": "Roslindale: Sullivans Pharmacy and Medical Supply Inc", "address": "One Corinth Street, Roslindale, MA 02131"}
+{"name": "Roslindale: Walgreens (American Legion Hwy.)", "address": "980 American Legion Hwy, Boston, MA 02131"}
 {"name": "Rowley: CVS (Newburyport Turnpike)", "address": "Newburyport Tpke/Rt 1, Rowley, MA 01969"}
 {"name": "Roxbury: The Dimock Center", "address": "30 Dimock St, Boston, MA 02119"}
 {"name": "Roxbury: Twelfth Baptist Church", "address": "160 Warren St, Roxbury MA 02119"}
@@ -693,13 +701,13 @@
 {"name": "Salisbury: CVS (Lafayette Rd.)", "address": "2 Lafayette Rd., Salisbury, MA 01952"}
 {"name": "Sandwich: CVS (Quaker Meeting House Road)", "address": "77 Quaker Meeting House Road, Sandwich, MA 02563"}
 {"name": "Sandwich: CVS (Tupper Rd.)", "address": "65 Tupper Rd, Sandwich, MA 02563"}
+{"name": "Sandwich: Stop and Shop (Route 6a)", "address": "65 Route 6a, Sandwich, MA 02563"}
 {"name": "Saugus: CVS (Broadway St.)", "address": "1075 Broadway St., Saugus, MA 01906"}
 {"name": "Saugus: CVS (Lynn Fells Pkwy)", "address": "400 Lynn Fells Pkwy, Saugus, MA 01906"}
 {"name": "Saugus: Stop and Shop (Main Street)", "address": "164 Main Street, Saugus, MA 01906"}
 {"name": "Saugus: Walgreens (Broadway)", "address": "1228 Broadway, Saugus, MA 01906"}
 {"name": "Saugus: Walgreens (Walnut St.)", "address": "166 Walnut St, Saugus, MA 01906"}
 {"name": "Saugus: Walmart (Broadway)", "address": "770 Broadway, Saugus, MA 0906"}
-{"name": "Scituate: CVS (Front St.)", "address": "100 Front St, Scituate, MA 02066"}
 {"name": "Scituate: Scituate Pharmacy", "address": "384 Gannett Rd, Scituate, MA 02066"}
 {"name": "Seekonk: CVS (Commerce Way)", "address": "79 Commerce Way, Seekonk, MA 02771"}
 {"name": "Seekonk: CVS (Newman Ave.)", "address": "1479 Newman Ave., Seekonk, MA 02771"}
@@ -722,7 +730,7 @@
 {"name": "Somerville: Stop and Shop (McGrath Highway)", "address": "779 McGrath Highway, Somerville, MA 02145"}
 {"name": "Somerville: Walgreens (Beacon St.)", "address": "16 Beacon St, Somerville, MA 02143"}
 {"name": "Somerville: Walgreens (Broadway)", "address": "299 Broadway, Somerville, MA 02143"}
-{"name": "Somerville: Walgreens (Mcgrath Hwy)", "address": "14 Mcgrath Hwy, Somerville, MA 02143"}
+{"name": "Somerville: Walgreens (Mcgrath Hwy.)", "address": "14 Mcgrath Hwy, Somerville, MA 02143"}
 {"name": "Somerville: Walgreens (Somerville Ave.)", "address": "530 Somerville Ave, Somerville, MA 02143"}
 {"name": "South Attleboro: CVS (Washington Street)", "address": "366 Washington Street, South Attleboro, MA 02703"}
 {"name": "South Attleboro: Walgreens (Washington Street)", "address": "1099 Washington Street, South Attleboro, MA 02703"}
@@ -743,9 +751,10 @@
 {"name": "Southbridge: CVS (Main St.)", "address": "399 Main St, Southbridge, MA 01550"}
 {"name": "Southbridge: Southbridge Community Center/Harrington Hospital", "address": "153 Chestnut St, Southbridge, MA 01550"}
 {"name": "Southbridge: Walgreens (Main Street)", "address": "455 Main Street, Southbridge, MA 01550"}
-{"name": "Southwick: CVS (College Hwy)", "address": "215 College Hwy., Southwick, MA 01077"}
-{"name": "Southwick: Walgreens (College Hwy)", "address": "592 College Hwy, Southwick, MA 01077"}
+{"name": "Southwick: CVS (College Hwy.)", "address": "215 College Hwy., Southwick, MA 01077"}
+{"name": "Southwick: Walgreens (College Hwy.)", "address": "592 College Hwy, Southwick, MA 01077"}
 {"name": "Spencer: Big Y", "address": "62 W Main Street, Spencer, MA 01562"}
+{"name": "Spencer: CVS (Main St.)", "address": "131 Main Street, Spencer, MA 01562"}
 {"name": "Springfield: Big Y", "address": "300 Cooley Street, Springfield, MA 01128"}
 {"name": "Springfield: CVS (Belmont Ave.)", "address": "615-621 Belmont Ave., Springfield, MA 01108"}
 {"name": "Springfield: CVS (Boston Rd.)", "address": "770 Boston Rd, Springfield, MA 01119"}
@@ -756,20 +765,19 @@
 {"name": "Springfield: Eastfield Mall", "address": "1655 Boston Rd, Springfield, MA 01129"}
 {"name": "Springfield: Mercy Medical Center", "address": "271 Carew Street, Springfield, MA 01104"}
 {"name": "Springfield: Springfield Pharmacy", "address": "2547 Main St, Springfield, MA 01107"}
+{"name": "Springfield: Stop and Shop (Boston Post Road)", "address": "1600 Boston Post Road, Springfield, MA 01129"}
 {"name": "Springfield: Stop and Shop (Liberty Street)", "address": "1277 Liberty Street, Springfield, MA 01104"}
 {"name": "Springfield: Walgreens (Boston Rd.)", "address": "1440 Boston Rd, Springfield, MA 01129"}
 {"name": "Springfield: Walgreens (Carew St.)", "address": "625 Carew St., Springfield, MA 01104"}
 {"name": "Springfield: Walgreens (Cooley Street)", "address": "381 Cooley Street, Springfield, MA 01128"}
 {"name": "Springfield: Walgreens (Island Pond Rd.)", "address": "126 Island Pond Rd., Springfield, MA 01118"}
-{"name": "Springfield: Walgreens (Saint James Blvd)", "address": "50 Saint James Blvd, Springfield, MA 01104"}
+{"name": "Springfield: Walgreens (Saint James Blvd.)", "address": "50 Saint James Blvd, Springfield, MA 01104"}
 {"name": "Springfield: Walgreens (State St.)", "address": "707 State St, Springfield, MA 01109"}
 {"name": "Springfield: Walgreens (Sumner Ave.)", "address": "501 Sumner Ave., Springfield, MA 01108"}
 {"name": "Springfield: Walgreens (Wilbraham Rd.)", "address": "1919 Wilbraham Rd, Springfield, MA 01129"}
 {"name": "Springfield: Walmart (Boston Rd.)", "address": "1105 Boston Rd, Springfield, MA 01119"}
-{"name": "Stoneham: CVS (107 Main St.)", "address": "107 Main St, Stoneham, MA 02180"}
 {"name": "Stoneham: CVS (113 Main St.)", "address": "113 Main St, Stoneham, MA 02180"}
 {"name": "Stoneham: Walgreens (Main St.)", "address": "225 Main St, Stoneham, MA 02180"}
-{"name": "Stoughton: CVS (Central St.)", "address": "1025 Central Street, Stoughton, MA 02072"}
 {"name": "Stoughton: CVS (Hawes Way)", "address": "1 Hawes Way, Stoughton, MA 02072"}
 {"name": "Stoughton: Walgreens (Washington St.)", "address": "413 Washington St, Stoughton, MA 02072"}
 {"name": "Stow: Osco (Great Rd.)", "address": "155 Great Road, Stow, MA 01775"}
@@ -777,8 +785,6 @@
 {"name": "Sturbridge: Walgreens (Main St.)", "address": "178 Main St, Sturbridge, MA 01566"}
 {"name": "Sturbridge: Walmart (Charlton Rd.)", "address": "100 Charlton Rd, Sturbridge, MA 01566"}
 {"name": "Sudbury: CVS (Boston Post Rd.)", "address": "501 Boston Post Rd, Sudbury, MA 01776"}
-{"name": "Sudbury: Sudbury Pharmacy", "address": "447 Boston Post Rd, Sudbury, MA 01776"}
-{"name": "Sutton: Price Chopper", "address": "21 Galaxy Pass, Sutton, MA 01590"}
 {"name": "Swampscott: CVS (Paradise Road)", "address": "413 Paradise Road, Swampscott, MA 01907"}
 {"name": "Swampscott: Stop and Shop", "address": "450 Paradise Rd, Swampscott, MA 01907"}
 {"name": "Swampscott: Walgreens (Paradise Rd.)", "address": "505 Paradise Rd, Swampscott, MA 01907"}
@@ -797,8 +803,9 @@
 {"name": "Taunton: Walgreens (Tremont Street)", "address": "51 Tremont Street, Taunton, MA 02780"}
 {"name": "Taunton: Walgreens (Winthrop St.)", "address": "57 Winthrop St., Taunton, MA 02780"}
 {"name": "Teaticket: Stop and Shop (Teaticket Highway)", "address": "20 Teaticket Highway, Teaticket, MA 02536"}
-{"name": "Teaticket: Walmart (Teaticket Hwy)", "address": "137 Teaticket Hwy, Teaticket, MA 02536"}
-{"name": "Tewksbury: CVS (Main St.)", "address": "10 Main St, Tewksbury, MA 01876"}
+{"name": "Teaticket: Walmart (Teaticket Hwy.)", "address": "137 Teaticket Hwy, Teaticket, MA 02536"}
+{"name": "Tewksbury: CVS (10 Main St.)", "address": "10 Main St, Tewksbury, MA 01876"}
+{"name": "Tewksbury: CVS (1900 Main St.)", "address": "1900 Main Street, Tewksbury, MA 01876"}
 {"name": "Tewksbury: Walgreens (Andover Street)", "address": "935 Andover Street, Tewksbury, MA 01876"}
 {"name": "Tewksbury: Walgreens (Main St.)", "address": "2341 Main St, Tewksbury, MA 01876"}
 {"name": "Tewksbury: Walmart (Main St.)", "address": "333 Main St, Tewksbury, MA 01876"}
@@ -814,7 +821,7 @@
 {"name": "Wakefield: Walgreens (Main St.)", "address": "572 Main St, Wakefield, MA 01880"}
 {"name": "Walpole: Big Y", "address": "999 Providence Highway, Walpole, MA 02081"}
 {"name": "Walpole: CVS (Main Street)", "address": "929 Main Street, Walpole, MA 02081"}
-{"name": "Walpole: Walmart (Providence Hwy)", "address": "550 Providence Hwy, Walpole, MA 02081"}
+{"name": "Walpole: Walmart (Providence Hwy.)", "address": "550 Providence Hwy, Walpole, MA 02081"}
 {"name": "Walpole: Walpole Pharmacy", "address": "699 Main Street, Walpole, MA 02081"}
 {"name": "Waltham: Costco (Second Ave.)", "address": "71 Second Avenue, Waltham, MA 02451"}
 {"name": "Waltham: CVS (Harvard St.)", "address": "12 Harvard St., Waltham, MA 02453"}
@@ -827,7 +834,7 @@
 {"name": "Ware: CVS (West St.)", "address": "104 West St, Ware, MA 01082"}
 {"name": "Ware: Walgreens (West St.)", "address": "171 West St, Ware, MA 01082"}
 {"name": "Ware: Walmart (Palmer Rd.)", "address": "352 Palmer Rd, Ware, MA 01082"}
-{"name": "Wareham: CVS (Cranberry Hwy)", "address": "2421 Cranberry Hwy Ste 110, Wareham, MA 02571"}
+{"name": "Wareham: CVS (Cranberry Hwy.)", "address": "2421 Cranberry Hwy Ste 110, Wareham, MA 02571"}
 {"name": "Wareham: CVS (Main St.)", "address": "419 Main St, Wareham, MA 02571"}
 {"name": "Wareham: Town Multiservice Center (Southcoast Health)", "address": "48 Marion Rd, Wareham, MA 02571"}
 {"name": "Wareham: Walgreens (Marion Rd.)", "address": "121 Marion Rd., Wareham, MA 02571"}
@@ -839,7 +846,6 @@
 {"name": "Wayland: CVS (Boston Post Rd.)", "address": "325 Boston Post Rd, Wayland, MA 01778"}
 {"name": "Wayland: CVS (Main St.)", "address": "150 Main St., Wayland, MA 01778"}
 {"name": "Wayland: Walgreens (Main St.)", "address": "35 Main St, Wayland, MA 01778"}
-{"name": "Webster: CVS (E. Main St.)", "address": "112 E. Main St., Webster, MA 01570"}
 {"name": "Webster: Price Chopper", "address": "East Village Square, 2 Worcester Rd, Webster, MA 01570"}
 {"name": "Webster: Rite Aid", "address": "80 East Main Street, Webster, MA 01570"}
 {"name": "Webster: Walgreens (E Main St.)", "address": "100 E Main St, Webster, MA 01570"}
@@ -855,17 +861,19 @@
 {"name": "West Medford: Walgreens (High St.)", "address": "491 High St, West Medford, MA 02155"}
 {"name": "West Newton: CVS (Watertown St.)", "address": "999 Watertown Street, West Newton, MA 02465"}
 {"name": "West Roxbury: Osco (Spring St.)", "address": "75 Spring Street, West Roxbury, MA 02132"}
+{"name": "West Springfield: Costco (Daggett Dr.)", "address": "119 Daggett Drive, West Springfield, MA 01089"}
 {"name": "West Springfield: CVS (Elm St.)", "address": "152 Elm St, West Springfield, MA 01089"}
 {"name": "West Springfield: CVS (Memorial Ave.)", "address": "503 Memorial Ave, West Springfield, MA 01089"}
 {"name": "West Springfield: CVS (Riverdale St.)", "address": "928 Riverdale St, West Springfield, MA 01089"}
 {"name": "West Springfield: Stop and Shop", "address": "935 Riverdale Street, W. Springfield, MA 01089"}
 {"name": "West Springfield: Walgreens (Westfield St.)", "address": "99 Westfield St., West Springfield, MA 01089"}
 {"name": "West Springfield: West of the River Vaccine Collaborative at Eastern States Exposition", "address": "1761 Memorial Ave, West Springfield, MA 01089"}
+{"name": "Westborough: CVS (East Main Street)", "address": "74 East Main Street, Westborough, MA 01581"}
 {"name": "Westborough: CVS (Turnpike Rd.)", "address": "330 Turnpike Rd, Westborough, MA 01581"}
 {"name": "Westborough: MetroWest-Westborough at the DoubleTree Hotel", "address": "5400 Computer Dr., Westborough, MA 01581"}
+{"name": "Westborough: Stop and Shop (Lyman Street)", "address": "32 Lyman Street, Westborough, MA 01581"}
 {"name": "Westfield: Arrow Prescription Center", "address": "427 North Elm Street, Westfield, MA 01085"}
 {"name": "Westfield: CVS (E Main St.)", "address": "427 East Main St, Westfield, MA 01085"}
-{"name": "Westfield: CVS (Elm St.)", "address": "208 Elm St, Westfield, MA 01085"}
 {"name": "Westfield: Stop and Shop (Main Street)", "address": "57 Main Street, Westfield, MA 01085"}
 {"name": "Westfield: Walgreens (East Silver St.)", "address": "7 East Silver St., Westfield, MA 01085"}
 {"name": "Westfield: Walgreens (Main St.)", "address": "78 Main St., Westfield, MA 01085"}
@@ -907,21 +915,22 @@
 {"name": "Woburn: Walgreens (Cambridge St.)", "address": "350 Cambridge St, Woburn, MA 01801"}
 {"name": "Woburn: Walgreens (Main St.)", "address": "506 Main St, Woburn, MA 01801"}
 {"name": "Wollaston: CVS (Beale St.)", "address": "42 Beale St, Wollaston, MA 02170"}
+{"name": "Worcester: Big Y", "address": "100 Mayfield Street, Worcester, MA 01602"}
 {"name": "Worcester: Central Mass Allergy and Asthma Care", "address": "425 Lake Avenue North, Suite 201, Worcester, MA 01605"}
 {"name": "Worcester: Compare Quality Pharmacy", "address": "664 Main St, Worcester, MA 01610"}
 {"name": "Worcester: CVS (256 Lincoln St.)", "address": "256 Lincoln St., Worcester, MA 01605"}
 {"name": "Worcester: CVS (481 Lincoln St.)", "address": "481 Lincoln Street, Worcester, MA 01605"}
 {"name": "Worcester: CVS (529 Lincoln St.)", "address": "529 Lincoln St., Worcester, MA 01605"}
-{"name": "Worcester: CVS (Chandler St.)", "address": "638 Chandler Street, Worcester, MA 01602"}
 {"name": "Worcester: CVS (Front St.)", "address": "110 Front St., Suite #102, Worcester, MA 01608"}
 {"name": "Worcester: CVS (Grafton St.)", "address": "500 Grafton St, Worcester, MA 01604"}
 {"name": "Worcester: CVS (Park Ave.)", "address": "400 Park Ave., Worcester, MA 01610"}
 {"name": "Worcester: CVS (Stafford St.)", "address": "115 Stafford St, Worcester, MA 01603"}
-{"name": "Worcester: CVS (SW Cutoff)", "address": "50 SW Cutoff, Worcester, MA 01604"}
 {"name": "Worcester: CVS (W. Boylston St.)", "address": "44 W. Boylston St, Worcester, MA 01605"}
 {"name": "Worcester: Price Chopper (Cambridge St.)", "address": "50 Cambridge Street, Worcester, MA 01610"}
 {"name": "Worcester: Price Chopper (Pullman Rd.)", "address": "72 Pullman Road, Worcester, MA 01606"}
 {"name": "Worcester: Shaw's Osco Pharmacy", "address": "14 W. Boylston St., Worcester, MA 01605"}
+{"name": "Worcester: Stop and Shop (Grafton Street)", "address": "949 Grafton Street, Worcester, MA 01604"}
+{"name": "Worcester: Stop and Shop (West Boylston Street)", "address": "940 West Boylston Street, Worcester, MA 01605"}
 {"name": "Worcester: The Wellness Center at Worcester State University (collaboration with Saint Vincent Hospital)", "address": "486 Chandler Street, Worcester, MA 01602"}
 {"name": "Worcester: UMass - Front Street (Mercantile Center)", "address": "100 Front St, Worcester, MA 01608"}
 {"name": "Worcester: Walgreens (Belmont St.)", "address": "398 BELMONT ST, Worcester, MA 01604"}
