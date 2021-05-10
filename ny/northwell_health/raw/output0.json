@@ -1,5 +1,20 @@
 [
     {
+        "id": 57,
+        "name": "Nassau - Freeport High School (50 S Brookside Avenue) -- Pfizer",
+        "address": "50 South Brookside Avenue",
+        "suite": "",
+        "city": "Freeport",
+        "state": "NY",
+        "zip": "11520",
+        "county": "Nassau",
+        "latitude": "40.6539",
+        "longitude": "-73.6019",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TjZ9EAK",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
         "id": 56,
         "name": "Suffolk - Riverhead Entemanns (4 West 2nd St) -- Pfizer",
         "address": "4 West 2nd St",
@@ -131,21 +146,6 @@
         "latitude": "40.7648",
         "longitude": "-73.0926",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
-        "id": 37,
-        "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Moderna",
-        "address": "335 Greenwich Street",
-        "suite": "",
-        "city": "Hempstead",
-        "state": "NY",
-        "zip": "11550",
-        "county": "Nassau",
-        "latitude": "40.6991",
-        "longitude": "-73.6129",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TemTEAS",
         "vaccine_manufacturer": "Moderna",
         "distance": null
     }
