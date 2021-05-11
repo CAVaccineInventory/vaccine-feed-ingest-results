@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"NRJS-848e62875ff3670501b","applicationID":"803438034","transactionName":"JgpeEhRfVF4HQx0VFwcJWQVJU1RbDFhRFk0MC1QDHg==","queueTime":0,"applicationTime":59,"agent":""}</script>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"NRJS-848e62875ff3670501b","applicationID":"803438034","transactionName":"JgpeEhRfVF4HQx0VFwcJWQVJU1RbDFhRFk0MC1QDHg==","queueTime":0,"applicationTime":99,"agent":""}</script>
 <script>(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-848e62875ff3670501b",applicationID:"803438034"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(7),c=e(8),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||"file:"===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(6),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=e(2),c=e("handle"),f=e(7),u=e("ee"),s=e(5),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1208.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0}},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(8),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
     <title>Washington</title>
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="eUg8ISjrQk20Lqs6b3eVZW/PMVWqb95VCBdaORxmzIxzCYVCusQmahDwIMN2i3BsD6ci+kvcbBGf5Nez1Bu1FQ==" />
+<meta name="csrf-token" content="RrusC4FMOZ6D4dR9SoFg4+Hk3PkizlzDV1xlWiSAKqN8kPiSSJex0fxRrnC29s1L40prSXOafZUGy4ZqDW3Jxg==" />
     
     
 
@@ -256,58 +256,11 @@
     <div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
   <div class="md:flex-shrink text-gray-800">
     <p class="text-xl font-black">
-      Dixon Village on 05/12/2021
+      Yakima Community Vaccine Center on 05/12/2021
     </p>
 
     <p>
-      5420 South Stevens Street, Tacoma WA, 98409
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-      Janssen COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          Adults, Seniors
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-
-    <p><strong>Clinic Hours
-      :</strong> 02:00 pm - 04:15 pm</p>
-
-      <p>
-        <strong>Available Appointments:</strong>
-        107
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=1947">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1VFRGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--92b0fe005dface3639eef7a403ade8e03c37a388/clinic1947.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
-  <div class="md:flex-shrink text-gray-800">
-    <p class="text-xl font-black">
-      SRHD- Fire Station - Emergency Management Services on 05/12/2021
-    </p>
-
-    <p>
-      929 South Garfield Road, Airway Heights WA, 99001
+      1301 South Fair Avenue, Yakima WA, 98901
     </p>
 
     <p>
@@ -327,77 +280,27 @@
     </p>
 
       <p>
-        <strong>Additional Information:</strong> Vaccines by appointment Only.  No Walk-ins
+        <strong>Additional Information:</strong> ***PFIZER VACCINATIONS*** !!!!VACUNAS DE PFIZER!!! Enter fairgrounds through Gate 12 off of Pacific Avenue. Be prepared to show confirmation of your appointment or you may experience a slightly longer wait. Masks are required. Please wear clothing which allows access to your shoulder. Vaccinations at this site are reserved for people who live and/or work in Washington State. Minors age 16 and 17 must be accompanied by a parent. Ingresar por la puerta 12 en la avenida Pacífico. Se requieren máscaras. Por favor, use ropa que permita acceso a su brazo. Las vacunas en este sitio están reservadas para las personas que viven o trabajan en el estado de Washington. Los menores de 16 y 17 años deben estar acompañados por uno de sus padres. *** PFIZER VACCINATIONS*** !!!!VACUNAS DE PFIZER!!!
       </p>
 
     <p><strong>Clinic Hours
-      :</strong> 08:00 am - 12:00 pm</p>
+      :</strong> 12:00 pm - 06:00 pm</p>
 
       <p>
         <strong>Available Appointments:</strong>
-        5
+        972
       </p>
 
       <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
 
         <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=2017">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3364">
               Sign Up for a COVID-19 Vaccination
 </a>        </p>
   </div>
 
   <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMCtGRGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce902234c97cb4ba0283635e98a260fdac56ca35/clinic2017.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
-  <div class="md:flex-shrink text-gray-800">
-    <p class="text-xl font-black">
-      Yakima County Health District COVID Vaccination Site on 05/12/2021
-    </p>
-
-    <p>
-      3006 South Wiley Road, Yakima WA, 98903
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-      Pfizer-BioNTech COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          Adults, Seniors, Other
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> ***1ST DOSE ONLY PFIZER VACCINATIONS*** !!!!VACUNAS DE PRIMERA DOSIS ÚNICAMENTE PFIZER!!! . Ahtanum Elementary School Vaccine Clinic . Masks are required. Please wear clothing which allows access to your shoulder. Vaccinations at this site are reserved for people who live and/or work in Washington State. Minors age 16 and 17 must be accompanied by a parent. Clínica de vacunación de la escuela primaria Ahtanum. Se requieren máscaras. Use ropa que permita el acceso a su hombro. Las vacunas en este sitio están reservadas para personas que viven y / o trabajan en el estado de Washington. Los menores de 16 y 17 años deben estar acompañados por uno de sus padres OPEN TO ALL!!!!!! ABIERTO A TODOS!!!!!!
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 08:00 am - 03:00 pm</p>
-
-      <p>
-        <strong>Available Appointments:</strong>
-        271
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=2491">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHBoRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--641381fa0958ab4f490e111d38ce59aed183edca/clinic2491.png?locale=en" />
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTBVRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0058fc4e883a560ee95fc7667d2e55797035fc75/clinic3364.png?locale=en" />
   </div>
 </div>
 <div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
@@ -407,13 +310,13 @@
     </p>
 
     <p>
-      9 South 6th Avenue, Yakima WA, 98902
+      1301 South Fair Avenue, Yakima WA, 98901
     </p>
 
     <p>
       <strong>Vaccinations offered:</strong>
       <strong>
-      Pfizer-BioNTech COVID-19 Vaccine
+      Moderna COVID-19 Vaccine
       </strong>
     </p>
       <p>
@@ -427,43 +330,95 @@
     </p>
 
       <p>
-        <strong>Additional Information:</strong> ***1ST DOSE ONLY PFIZER VACCINATIONS***!!!!VACUNAS DE PRIMERA DOSIS ÚNICAMENTE PFIZER!!!  
-
-Salvation Army Clinic OPEN TO ALL!!! Located at the corner of Yakima Avenue and 6th Avenue. Masks are required. Please wear clothing which allows access to your shoulder. Vaccinations at this site are reserved for people who live and/or work in Washington State. All individuals 16 and over are eligible to get vaccinated. Those under 18 must be accompanied by a parent/guardian or must get parental consent via video/phone call or paper format
-
-Clínica del Ejército de Salvación ABIERTA A TODOS. Situado en la esquina de la Avenida Yakima y la Avenida 6ª. Se requieren máscaras. Por favor, use ropa que permita acceso a su brazo. Las vacunas en este sitio están reservadas para las personas que viven o trabajan en el estado de Washington. Todas las personas mayores de 16 años son elegibles para vacunarse. Los menores de 18 años deben estar acompañados por un padre/tutor o deben obtener el consentimiento de los padres por video/llamada telefónica o en papel.
-
-***1ST DOSE ONLY PFIZER VACCINATIONS*** !!!!VACUNAS DE PRIMERA DOSIS ÚNICAMENTE PFIZER!!!
+        <strong>Additional Information:</strong>  ***1ST AND 2ND DOSE ONLY MODERNA VACCINATIONS*** !!!!VACUNAS DE SEGUNDA DOSIS ÚNICAMENTE MODERNA!!! Enter fairgrounds through Gate 12 off of Pacific Avenue. Be prepared to show confirmation of your appointment or you may experience a slightly longer wait. Masks are required. Please wear clothing which allows access to your shoulder. Vaccinations at this site are reserved for people who live and/or work in Washington State. Ingresar por la puerta 12 en la avenida Pacífico. Se requieren máscaras. Por favor, use ropa que permita acceso a su brazo. Las vacunas en este sitio están reservadas para las personas que viven o trabajan en el estado de Washington. ***THOSE WHO GET THEIR 1ST MODERNA SHOT WILL NEED TO FIND OTHER ARRANGEMENTS TO RECEIVE THEIR SECOND DOSE BY FINDING A CLINIC AT THE WEBSITE PROVIDED. 
+AQUELLOS QUE RECIBAN SU PRIMERA DISPARO MODERNA DEBERÁN ENCONTRAR OTROS ARREGLOS PARA RECIBIR SU 2ª DOSIS ENCONTRANDO UNA CLÍNICA EN EL SITIO WEB PROPORCIONADO.**** https://prepmod.doh.wa.gov/
       </p>
 
     <p><strong>Clinic Hours
-      :</strong> 02:00 pm - 05:00 pm</p>
+      :</strong> 12:00 pm - 06:00 pm</p>
 
       <p>
         <strong>Available Appointments:</strong>
-        50
+        204
       </p>
 
       <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
 
         <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=2531">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3373">
               Sign Up for a COVID-19 Vaccination
 </a>        </p>
   </div>
 
   <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3VrRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0df84f1dcc8d6b92f1d9c950caa2ac6f22c7f38b/clinic2531.png?locale=en" />
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTRXRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0d313a59a70a7d668663ef2d3eb2bea904997ee9/clinic3373.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <p class="text-xl font-black">
+      Lewis County Mall on 05/12/2021
+    </p>
+
+    <p>
+      151 Northeast Hampe Way, Chehalis WA, 98532
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+      Janssen COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          Children, Adults, Seniors
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> ****This is a single dose Johnson &amp; Johnson and 1ST DOSE PFIZER vaccine clinic.**** and is by appointment and walk-in. Please note: J&amp;J vaccine can only be administered to individuals 18 years of age or older according CDC requirements while Pfizer can be administered to those 16 and 17 years of age with signed parental consent.
+
+This clinic is located at the west end of the Lewis County Mall in the former Sears location. Please park in front or to the west end of the building. This is a walk in location. Please let us know if you or someone you are with needs assistance of any kind.  **You should also plan your visit around waiting for 15 minutes in the observation area so we can monitor for any unlikely adverse reactions to the vaccine.** Certain people with pre-identified conditions or past anaphylaxis events may be asked to wait for 30 minutes of observation.
+
+Free language translation services are provided. Video ASL translation is also provided.
+
+Please bring your appointment confirmation. Please do not come if you are feeling ill. Please arrive as close as possible to your scheduled time to prevent crowding that will impede appropriate social distancing. - It is best to wear clothes that will allow for access to your upper arm, just below the shoulder. Given the limited supply of COVID-19 vaccine available at this time and Washington&#39;s commitment to equitable and fair access, those seeking COVID-19 vaccines at this clinic location must either live or work in Washington state. If you do not live or work in Washington, please do not make an appointment or travel to this site.  **Masks are required. If you do not have a mask, one will be provided.
+
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 02:00 am - 07:00 pm</p>
+
+      <p>
+        <strong>Available Appointments:</strong>
+        259
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3395">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEljRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d533136f4a3c7235f061cab22fd842850e446f5e/clinic3395.png?locale=en" />
   </div>
 </div>
 <div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
   <div class="md:flex-shrink text-gray-800">
     <p class="text-xl font-black">
-      Skagit County Public Health- Fairgrounds on 05/12/2021
+      Arlington Airport Covid-19 Vaccine Site on 05/12/2021
     </p>
 
     <p>
-      Skagit County Fairgrounds 1410 Virginia St., Mount Vernon WA, 98273
+      4226 188th St NE, Arlington WA, 98223
     </p>
 
     <p>
@@ -483,66 +438,55 @@ Clínica del Ejército de Salvación ABIERTA A TODOS. Situado en la esquina de l
     </p>
 
       <p>
-        <strong>Additional Information:</strong> Pfizer Dose 1 &amp; 2 Vaccine Clinic 
-•	North Entrance to Skagit County Fairgrounds 1410 Virginia Street, Mount Vernon WA
-•	Child watching provided
-•	Vaccination process will take approximately 1 hour.  Wheel chairs and accessible parking available for people with mobility challenges.
-•	All forms available in English and Spanish.  Spanish language interpretation provided.  
-•	Dose 2 appointments scheduled 3 weeks following 
+        <strong>Additional Information:</strong> Everyone 16 and older in Washington is eligible for COVID-19 vaccination.
 
-We are unable to vaccinate people who have received another vaccine of any type within 14 days OR those that have severe allergic reactions to vaccines or injectable medications.
+Please also note that, even if you are otherwise eligible, you must be 18 or older for the Moderna or Johnson &amp; Johnson vaccine, and 16 or older for the Pfizer vaccine (parent/guardian must be present to sign the consent form).
 
+Appointments are highly recommended but not required.  Please arrive no more than 10 minutes prior to your appointment time. Expect to stay between 15-30 minutes after you receive your vaccine to monitor for any adverse reaction. Medical staff will be on hand. A mask must be worn at all times during the appointment, and please wear clothing with short or loose sleeves.
 
-Clínica de vacunas de primer y Segundo dosis Pfizer
-•	Entrada norte al recinto ferial del condado de Skagit 1410 Virginia Street, Mount Vernon WA
-•	Vigilancia de niños proveída
-•	El proceso de vacunación durará aproximadamente 1 hora. Sillas de ruedas y estacionamiento accesible para personas con problemas de movilidad.
-•	Todos los formularios están disponibles en inglés y español. Interpretación en español será proveída.
-
-No podemos vacunar a personas que hayan recibido otra vacuna de cualquier tipo durante los ultimos 14 días O personas que tengan reacciones alérgicas graves a vacunas o medicamentos inyectables.
-Citas reservadas 3 semanas después para la segunda dosis.
+****IF YOU ARE SCHEDULING YOUR 2ND DOSE APPOINTMENT, YOU MUST PROVIDE PROOF OF 1ST DOSE (example: vaccination card, medical record, myir.net immunization record)****
 
       </p>
 
     <p><strong>Clinic Hours
-      :</strong> 10:00 am - 04:00 pm</p>
+      :</strong> 09:00 am - 04:00 pm</p>
 
       <p>
         <strong>Available Appointments:</strong>
-        158
+        1402
       </p>
 
       <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
 
         <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=2578">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3417">
               Sign Up for a COVID-19 Vaccination
 </a>        </p>
   </div>
 
   <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXYzRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--55f34f5c2045bbe49e3ea1014f3737e2fac3ba98/clinic2578.png?locale=en" />
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemN0Rmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1333a79189f2951711cad48055454d8512f88a6/clinic3417.png?locale=en" />
   </div>
 </div>
 <div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
   <div class="md:flex-shrink text-gray-800">
     <p class="text-xl font-black">
-      6M Geriatrics and Hospital Medicine - COVID Vaccine Clinic on 05/12/2021
+      Camano Island Fire and Rescue- COVID Vaccination Site on 05/12/2021
     </p>
 
     <p>
-      Saint Mark’s Episcopal Cathedral - 1245 10th Ave E, Seattle WA, 98102
+      606 Arrowhead Road, Camano WA, 98282
     </p>
 
     <p>
       <strong>Vaccinations offered:</strong>
       <strong>
-      Pfizer-BioNTech COVID-19 Vaccine, Janssen COVID-19 Vaccine, Moderna COVID-19 Vaccine
+      Pfizer-BioNTech COVID-19 Vaccine
       </strong>
     </p>
       <p>
         <strong>Age groups served:</strong>
-          Adults, Seniors
+          All Ages
       </p>
     <p>
     <p>
@@ -551,43 +495,158 @@ Citas reservadas 3 semanas después para la segunda dosis.
     </p>
 
       <p>
-        <strong>Additional Information:</strong> Recommended to use Bus Route 49 - Stops at the front door.  Service Delivery Upgrade to drive thru and walk-in service.  ALL are welcome, with focus on drive thru
+        <strong>Additional Information:</strong> Pfizer clinic aiming to reach 16-18 year old age group. Parent or guardian must be present with minor and consent must be filled out. 
       </p>
 
     <p><strong>Clinic Hours
-      :</strong> 04:00 pm - 08:00 pm</p>
+      :</strong> 03:30 pm - 06:30 pm</p>
 
       <p>
         <strong>Available Appointments:</strong>
-        75
+        337
       </p>
 
       <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
 
         <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=2922">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3428">
               Sign Up for a COVID-19 Vaccination
 </a>        </p>
   </div>
 
   <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDgxRkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a2eccdd7fc431d9001bfdce9b09e968eb478ddcc/clinic2922.png?locale=en" />
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVl4Rmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--54dde5382a2b5fa1fddf5d93f266e36f0d6c18c4/clinic3428.png?locale=en" />
   </div>
 </div>
 <div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
   <div class="md:flex-shrink text-gray-800">
     <p class="text-xl font-black">
-      Island Drug - COVID Vaccine Site on 05/12/2021
+      Ash Way Park &amp; Ride DRIVE THROUGH - COVID Vaccine Site on 05/12/2021
     </p>
 
     <p>
-      32170 Washington 20, Oak Harbor WA, 98277
+      16327 Ash Way, Lynnwood WA, 98087
     </p>
 
     <p>
       <strong>Vaccinations offered:</strong>
       <strong>
-      Janssen COVID-19 Vaccine, Moderna COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
+      Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          Children, Adults, Seniors
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> *********THIS IS A PFIZER CLINIC*************
+Everyone 16 and older in Washington is eligible for COVID-19 vaccination.
+ 
+Please also note that, even if you are otherwise eligible, you must be 18 or older for the Moderna or Johnson &amp; Johnson vaccine, and 16 or older for the Pfizer vaccine (parent/guardian must be present to sign the consent form).
+ 
+Appointments are highly recommended but not required.  Please arrive no more than 10 minutes prior to your appointment time. Expect to stay between 15-30 minutes after you receive your vaccine to monitor for any adverse reaction. Medical staff will be on hand. A mask must be worn at all times during the appointment, and please wear clothing with short or loose sleeves.
+ 
+****IF YOU ARE SCHEDULING YOUR 2ND DOSE APPOINTMENT, YOU MUST PROVIDE PROOF OF 1ST DOSE (example: vaccination card, medical record, myir.net immunization record)****
+
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 11:00 am - 06:00 pm</p>
+
+      <p>
+        <strong>Available Appointments:</strong>
+        386
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3439">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWsxRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5f0e7fe9373fe5dc7344f5a6f94497f5bd0f62ae/clinic3439.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
+  <div class="md:flex-shrink text-gray-800">
+    <p class="text-xl font-black">
+      Ash Way Park and Ride WALK IN Covid Vaccine Clinic on 05/12/2021
+    </p>
+
+    <p>
+      16327 Ash Way, Lynnwood WA, 98087
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+      Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          Children, Adults, Seniors
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> Everyone 16 and older in Washington is eligible for COVID-19 vaccination.
+
+Please also note that, even if you are otherwise eligible, you must be 18 or older for the Moderna or Johnson &amp; Johnson vaccine, and 16 or older for the Pfizer vaccine (parent/guardian must be present to sign the consent form).
+
+Appointments are highly recommended but not required.  Please arrive no more than 10 minutes prior to your appointment time. Expect to stay between 15-30 minutes after you receive your vaccine to monitor for any adverse reaction. Medical staff will be on hand. A mask must be worn at all times during the appointment, and please wear clothing with short or loose sleeves.
+
+****IF YOU ARE SCHEDULING YOUR 2ND DOSE APPOINTMENT, YOU MUST PROVIDE PROOF OF 1ST DOSE (example: vaccination card, medical record, myir.net immunization record)****
+
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 11:00 am - 06:00 pm</p>
+
+      <p>
+        <strong>Available Appointments:</strong>
+        348
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3444">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVExRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d7826af7484eeb6419011c307a2e9912e2c0850/clinic3444.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <p class="text-xl font-black">
+      Benton Franklin - Kennewick COVID Vaccine Clinic on 05/12/2021
+    </p>
+
+    <p>
+      1500 South Oak Street, Kennewick WA, 99336
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+      Pfizer-BioNTech COVID-19 Vaccine
       </strong>
     </p>
       <p>
@@ -601,41 +660,87 @@ Citas reservadas 3 semanas después para la segunda dosis.
     </p>
 
       <p>
-        <strong>Additional Information:</strong> Modern, Pfizer and Johnson &amp; Johnson will be provided. While every attempt will be made to provide preferred brand, Island Drug reserves the right to assign brand based on supply to ensure the largest amount of people possible receive vaccine.
-
-If you do not upload your insurance or photo ID here please do so at www.islanddrug.com/up before arriving for your appointment. Please present the green upload banner to the vaccinator when you check in.
-
-Please wear clothing that allows access to your upper arm.
+        <strong>Additional Information:</strong> ******Pfizer Clinic***** All patients 16 years old and older can register. If you are 16-17 years old you must be with a parent or guardian or verbal parental/guardian consent. **FOR 2ND DOSE PLEASE BRING YOUR COVID-19 VACCINATION RECORD CARD** For Both 1st and 2nd dose - Please bring your appointment confirmation. Please do not come if you are feeling ill. Given the limited supply of COVID-19 vaccine available at this time and Washington&#39;s commitment to equitable and fair access, those seeking COVID-19 vaccines at this clinic location you must either live or work in Washington state. If you do not live or work in Washington, please do not make an appointment or travel to this site. You may be asked to provide something that shows you live or work in Washington, such as a utility bill; a voucher from your employer; or your work, school, or state ID. The site will not make a copy or record this information in any way. This is only to show that you currently live or work in Washington. ---- **Masks are required. If you do not have a mask, one will be provided. Follow posted signage about traffic and parking at the site. **Enter the fairgrounds from 10th Street.** If you have lost your vaccination record card, please go to https://wa.myir.net
       </p>
 
     <p><strong>Clinic Hours
-      :</strong> 09:00 am - 05:00 pm</p>
+      :</strong> 11:00 am - 07:30 pm</p>
 
       <p>
         <strong>Available Appointments:</strong>
-        893
+        1857
       </p>
 
       <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
 
         <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=2979">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3551">
               Sign Up for a COVID-19 Vaccination
 </a>        </p>
   </div>
 
   <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUtGRkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc481254f8201f6ceeab47f7283aa02a554a0a23/clinic2979.png?locale=en" />
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2wzRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b05881a485565044821af94537f479ec3e203c4/clinic3551.png?locale=en" />
   </div>
 </div>
 <div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
   <div class="md:flex-shrink text-gray-800">
     <p class="text-xl font-black">
-      Onestop Medical Clinic - Covid Vaccination Venue on 05/12/2021
+      Benton Franklin - Kennewick COVID Vaccine Clinic on 05/12/2021
     </p>
 
     <p>
-      1314 Central Ave. S, #102, Kent WA, 98032
+      1500 South Oak Street, Kennewick WA, 99336
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+      Janssen COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          Adults, Seniors, Other
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> ********************JOHNSON and JOHNSON*************************** Now Johnson and Johnson ** Must be 18 years of age or over. Please do not come if you are feeling ill. Washington&#39;s commitment to equitable and fair access, those seeking COVID-19 vaccines at this clinic location you must either live or work in Washington state. If you do not live or work in Washington, please do not make an appointment or travel to this site.**Masks are required. If you do not have a mask, one will be provided. Follow posted signage about traffic and parking at the site. **Enter the fairgrounds from 10th Street.**
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 05:30 pm - 07:30 pm</p>
+
+      <p>
+        <strong>Available Appointments:</strong>
+        75
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3556">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeU40Rmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b8de0be84690ae8c4cf606be5519cba38f00cbcd/clinic3556.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <p class="text-xl font-black">
+      Town Toyota Center on 05/12/2021
+    </p>
+
+    <p>
+      1300 Walla Walla Avenue, Wenatchee WA, 98801
     </p>
 
     <p>
@@ -646,7 +751,7 @@ Please wear clothing that allows access to your upper arm.
     </p>
       <p>
         <strong>Age groups served:</strong>
-          Adults, Seniors, Children
+          Children, Adults, Seniors
       </p>
     <p>
     <p>
@@ -655,150 +760,34 @@ Please wear clothing that allows access to your upper arm.
     </p>
 
       <p>
-        <strong>Additional Information:</strong> 	• This is a Community service our Clinic is providing as a give back in the current difficult situation since January 2021. Please DO NOT disrespect our hardworking staff and volunteers. No profanity please.
-	
-	• Due to the social distancing limitations and limited parking, please plan to arrive NO earlier than 5 Minutes. Please DO NOT park in front of our neighbor’s building; 1316 Central Ave S. The extra public parking is available next door at the Kent Municipal Court (1220 Central Ave S, Kent, WA 98032).
-	
-	• In order to better serve you and make your wait time shorter, could you please print, fill, sign and bring the forms to be sent by email post your registration along with you for your appointment? 
-	
-	• We ask that for everyone’s safety, please DO NOT visit this vaccination drive without an appointment. Please DO NOT email or call us to inquire, schedule, reschedule, cancel your appointment about COVID-19 Vaccine as we are experiencing extremely high email and call volumes. Please DO NOT book an appointment from the Zocodoc or Onestop Medical&#39;s website for COVID-19 Immunization.
-	
-	• Please allow up to Two Weeks to schedule you for Dose 2. Please note Dose 1 and Dose 2 are at least 17 days apart. Please DO NOT laminate the vaccine card. 
- 
-	• Please remember that you will need to bring your photo ID/Passport, medical insurance card (if insured). If you&#39;re receiving your 2nd vaccination, you will be required to bring your vaccination card too.
-
-	• We DO NOT accept any form of payment, donation for COVID-19 vaccine from any patient. Please DO NOT make any payment to the Onestop Medical. If you receive a bill for your COVID vaccine, please contact your insurance company First.
-	If you DO NOT have an insurance, no worries and you will still receive your vaccine.
-	If you have Insurance a small Admin Fee will be charged to the insurance. The patient DOES NOT PAY for any vaccine related services out-of-pocket  The Admin Fee will be used to help cover a portion of the cost to maintain the staff, PPEs and all medical need.
-	
-	https://www.doh.wa.gov/Emergencies/COVID19/VaccineInformation/VaccineCost#heading67668
-
+        <strong>Additional Information:</strong> COVID-19 vaccines are currently available to those 16 or older who reside or work in Washington state. 
+---- Register in advance or on-site. ----
       </p>
 
     <p><strong>Clinic Hours
-      :</strong> 08:30 am - 01:30 pm</p>
+      :</strong> 11:00 am - 06:30 pm</p>
 
       <p>
         <strong>Available Appointments:</strong>
-        66
+        283
       </p>
 
       <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
 
         <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3074">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3563">
               Sign Up for a COVID-19 Vaccination
 </a>        </p>
   </div>
 
   <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFhJRkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--34e94083048da0514fcd8783cb4a786cfad4e9f3/clinic3074.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
-  <div class="md:flex-shrink text-gray-800">
-    <p class="text-xl font-black">
-      Island Drug - South Whidbey - Covid Vaccine Site on 05/12/2021
-    </p>
-
-    <p>
-      8970 Washington 525, Clinton WA, 98236
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-      Janssen COVID-19 Vaccine, Moderna COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          Other
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> All vaccines and doses available based on supply. Please ensure you have uploaded insurance or photo ID if you do not have insurance to www.islanddrug.com/up/
-
-Ensure you wear clothing that provides access to your upper arm.
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 10:00 am - 05:00 pm</p>
-
-      <p>
-        <strong>Available Appointments:</strong>
-        0
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOU1PRlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ecf841cee081791714d6fd7c5035106282754e32/clinic3103.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
-  <div class="md:flex-shrink text-gray-800">
-    <p class="text-xl font-black">
-      La Conner Drug COVID Vaccine Venue on 05/12/2021
-    </p>
-
-    <p>
-      708 Morris Street, La Conner WA, 98257
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-      Janssen COVID-19 Vaccine, Moderna COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          Other
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> All brands and doses available based on supply. Please ensure you have uploaded your insurance or photo ID if you do not have insurance to www.islanddrug.com/up/
-
-Please wear clothing that provides access to your upper arm.
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 10:00 am - 05:00 pm</p>
-
-      <p>
-        <strong>Available Appointments:</strong>
-        7
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3110">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnNQRlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--98d738bea5feb0196fb28925e4c70432515ed3be/clinic3110.png?locale=en" />
+      <img alt="Map" src="https://prepmod.doh.wa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHFBRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b63ee0803204359e9884e4ff2431f77c52407ac/clinic3563.png?locale=en" />
   </div>
 </div>
 
 
   <div class="mt-4 flex justify-center">
-    <nav class="pagy-nav pagination" role="navigation" aria-label="pager"><span class="page prev"><a href="/appointment/en/clinic/search?page=4"   rel="prev" aria-label="previous">&lsaquo;&nbsp;Prev</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=1"   >1</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=2"   >2</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=3"   >3</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=4"   rel="prev" >4</a></span> <span class="page active">5</span> <span class="page"><a href="/appointment/en/clinic/search?page=6"   rel="next" >6</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=7"   >7</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=8"   >8</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=9"   >9</a></span> <span class="page gap">&hellip;</span> <span class="page"><a href="/appointment/en/clinic/search?page=24"   >24</a></span> <span class="page next"><a href="/appointment/en/clinic/search?page=6"   rel="next" aria-label="next">Next&nbsp;&rsaquo;</a></span></nav>
+    <nav class="pagy-nav pagination" role="navigation" aria-label="pager"><span class="page prev"><a href="/appointment/en/clinic/search?page=4"   rel="prev" aria-label="previous">&lsaquo;&nbsp;Prev</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=1"   >1</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=2"   >2</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=3"   >3</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=4"   rel="prev" >4</a></span> <span class="page active">5</span> <span class="page"><a href="/appointment/en/clinic/search?page=6"   rel="next" >6</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=7"   >7</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=8"   >8</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=9"   >9</a></span> <span class="page gap">&hellip;</span> <span class="page"><a href="/appointment/en/clinic/search?page=23"   >23</a></span> <span class="page next"><a href="/appointment/en/clinic/search?page=6"   rel="next" aria-label="next">Next&nbsp;&rsaquo;</a></span></nav>
   </div>
 </div>
 
