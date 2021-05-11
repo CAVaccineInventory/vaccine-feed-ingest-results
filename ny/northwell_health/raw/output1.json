@@ -1,5 +1,20 @@
 [
     {
+        "id": 42,
+        "name": "Queens - Church of Corona (100-10 Astoria Blvd) -- Pfizer",
+        "address": "100-10 Astoria Boulevard",
+        "suite": "",
+        "city": "Queens",
+        "state": "NY",
+        "zip": "11369",
+        "county": "Queens",
+        "latitude": "40.7615",
+        "longitude": "-73.8689",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfP9EAK",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
         "id": 41,
         "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Moderna",
         "address": "5181 Sunrise Highway",
@@ -26,21 +41,6 @@
         "latitude": "40.6991",
         "longitude": "-73.6129",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TemTEAS",
-        "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
-        "id": 32,
-        "name": "Suffolk - Riverhead Entemanns (4 West 2nd St) -- Moderna",
-        "address": "4 West 2nd Street",
-        "suite": "",
-        "city": "Riverhead",
-        "state": "NY",
-        "zip": "11901",
-        "county": "Suffolk",
-        "latitude": "40.9188",
-        "longitude": "-72.664",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TS3zEAG",
         "vaccine_manufacturer": "Moderna",
         "distance": null
     },

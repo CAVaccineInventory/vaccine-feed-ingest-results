@@ -1,5 +1,20 @@
 [
     {
+        "id": 59,
+        "name": "Suffolk - Cherry Grove Community House (180 Bayview Walk) -- J&J",
+        "address": "180 Bayview Walk",
+        "suite": "",
+        "city": "Bay Shore",
+        "state": "NY",
+        "zip": "11706",
+        "county": "Suffolk",
+        "latitude": "40.7168",
+        "longitude": "-73.1911",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TktiEAC",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "distance": null
+    },
+    {
         "id": 58,
         "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Pfizer",
         "address": "5181 Sunrise Highway",
@@ -131,21 +146,6 @@
         "latitude": "40.8543",
         "longitude": "-72.9661",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3NEAS",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
-        "id": 42,
-        "name": "Queens - Church of Corona (100-10 Astoria Blvd) -- Pfizer",
-        "address": "100-10 Astoria Boulevard",
-        "suite": "",
-        "city": "Queens",
-        "state": "NY",
-        "zip": "11369",
-        "county": "Queens",
-        "latitude": "40.7615",
-        "longitude": "-73.8689",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfP9EAK",
         "vaccine_manufacturer": "Pfizer",
         "distance": null
     }
