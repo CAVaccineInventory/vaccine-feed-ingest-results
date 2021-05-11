@@ -832,9 +832,9 @@
             "attributes": {
                 "CreationDate": 1609189356356,
                 "Creator": "",
-                "EditDate": 1614123533197,
+                "EditDate": 1620679717674,
                 "Editor": "kelly.isham_Alaska_DHSS",
-                "address": "4300 Bartlett Street",
+                "address": "4201 Bartlett Street",
                 "adminContactName": "Nicole Reynolds",
                 "adminEmail": "nreynolds@sphosp.org",
                 "city": "Homer",
@@ -849,7 +849,7 @@
                 "objectid": 37,
                 "phone": "907-435-3188",
                 "publicEmail": null,
-                "publicNotes": "Offers free vaccines at mass vaccination community events as supply allows, scheduled regularly.",
+                "publicNotes": "Offers free vaccines daily at the COVID Clinic at 4201 Bartlett Street.  By appointment at www.sphosp.org; walk-ins welcome from noon-5pm. Now offering Pfizer and single-dose Janssen.",
                 "publicWebsite": "https://www.sphosp.org/",
                 "service_item_id": "7b65a9e852524227be91ad45d613da33",
                 "vaccinationSite": "South Peninsula Hospital",
@@ -860,8 +860,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -151.5486991165165,
-                "y": 59.65269604675465
+                "x": -151.5484931228969,
+                "y": 59.65227106582671
             }
         },
         {

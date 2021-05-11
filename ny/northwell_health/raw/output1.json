@@ -30,21 +30,6 @@
         "distance": null
     },
     {
-        "id": 35,
-        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
-        "address": "1 Marcus Avenue",
-        "suite": "",
-        "city": "New Hyde Park",
-        "state": "NY",
-        "zip": "11040",
-        "county": "Nassau",
-        "latitude": "40.7577",
-        "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
         "id": 32,
         "name": "Suffolk - Riverhead Entemanns (4 West 2nd St) -- Moderna",
         "address": "4 West 2nd Street",

@@ -10923,7 +10923,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "bec1f95e-732e-443f-97a1-189beb0a29cd",
                 "Loc_ID": 546,
@@ -10936,7 +10936,7 @@
                 "SitePhone": "",
                 "SiteState": "SC",
                 "SiteZip": "29927",
-                "URL": null,
+                "URL": "http://www.bjhchs.org/",
                 "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "Donald Gatch Medical Center (Hardeeville Pharmacy)",
@@ -11028,7 +11028,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "72c57107-8f1d-4f9c-b3aa-ccfdd21f56f6",
                 "Loc_ID": 547,
@@ -11041,7 +11041,7 @@
                 "SitePhone": "",
                 "SiteState": "SC",
                 "SiteZip": "29940",
-                "URL": null,
+                "URL": "http://www.bjhchs.org/",
                 "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "Elijah Washington Medical Center (Sheldon Pharmacy)",
@@ -12743,7 +12743,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "345fd9bc-0e33-4c24-99e6-9d3e1d4d9889",
                 "Loc_ID": 550,
@@ -12756,7 +12756,7 @@
                 "SitePhone": "",
                 "SiteState": "SC",
                 "SiteZip": "29936",
-                "URL": null,
+                "URL": "http://www.bjhchs.org/",
                 "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "Ridgeland Medical Center",
@@ -16068,7 +16068,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e7b99733-bb22-43c5-ae7a-8ad52daaa655",
                 "Loc_ID": 548,
@@ -16078,11 +16078,11 @@
                 "SiteAddress": "6315 Jonathan Francis Sr Road",
                 "SiteAddressDetail": null,
                 "SiteCity": "St. Helena",
-                "SitePhone": "(843) 987-7555",
+                "SitePhone": null,
                 "SiteState": "SC",
                 "SiteZip": "29920",
-                "URL": null,
-                "V_Manufacturer": "JJ",
+                "URL": "http://www.bjhchs.org/",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "Leroy E. Browne Medical Center (St. Helena Pharmacy)",
                 "loc_type1": "Public health provider – Federally Qualified Health Center",

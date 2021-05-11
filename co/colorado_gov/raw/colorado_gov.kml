@@ -441,20 +441,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>Alpine Pharmacy</name>
-        <address>8600 W. 14th Ave Suite 4, Lakewood, CO</address>
-        <description><![CDATA[Mapped Description: Moderna Vaccine<br>Address: 8600 W. 14th Ave Suite 4, Lakewood, CO]]></description>
-        <styleUrl>#icon-1899-A52714</styleUrl>
-        <ExtendedData>
-          <Data name="Mapped Description">
-            <value>Moderna Vaccine</value>
-          </Data>
-          <Data name="Address">
-            <value>8600 W. 14th Ave Suite 4, Lakewood, CO</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>B And B Pharmacy</name>
         <address>1302 Edison St., Brush, CO</address>
         <description><![CDATA[Mapped Description: Moderna Vaccine<br>Address: 1302 Edison St., Brush, CO]]></description>

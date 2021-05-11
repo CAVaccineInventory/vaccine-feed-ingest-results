@@ -715,7 +715,7 @@
         },
         {
             "attributes": {
-                "address": "4300 Bartlett Street",
+                "address": "4201 Bartlett Street",
                 "city": "Homer",
                 "cost_other": "TBD",
                 "datesubmited": 1609189200000,
@@ -729,7 +729,7 @@
                 "objectid": 37,
                 "phone": "907-435-3188",
                 "publicEmail": null,
-                "publicNotes": "Offers free vaccines at mass vaccination community events as supply allows, scheduled regularly.",
+                "publicNotes": "Offers free vaccines daily at the COVID Clinic at 4201 Bartlett Street.  By appointment at www.sphosp.org; walk-ins welcome from noon-5pm. Now offering Pfizer and single-dose Janssen.",
                 "publicWebsite": "https://www.sphosp.org/",
                 "service_item_id": "d92cbd6ff2524d7e92bef109f30cb366",
                 "vaccinationSite": "South Peninsula Hospital",
@@ -740,8 +740,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -151.5486991165165,
-                "y": 59.65269604675465
+                "x": -151.5484931228969,
+                "y": 59.65227106582671
             }
         },
         {
