@@ -62408,7 +62408,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7b2f8537-91ea-4667-a537-34330b6e02a2",
                 "Loc_ID": null,
@@ -67938,7 +67938,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "74fdfb25-094d-45b9-a951-9e062df0cc4f",
                 "Loc_ID": null,
@@ -76088,6 +76088,41 @@
                 },
                 "x": -82.32887940589745,
                 "y": 34.85502047829709
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "6c8f8de6-dfe0-4c66-8588-826569c76b25",
+                "Loc_ID": null,
+                "OBJECTID": 28319,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "74 Byrdland Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29607",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Relentless Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.34445893314876,
+                "y": 34.85065779567395
             }
         }
     ],
