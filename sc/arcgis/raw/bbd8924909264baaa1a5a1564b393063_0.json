@@ -28808,7 +28808,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "dbc062ce-14cc-48eb-87a8-02a7efb15973",
                 "Loc_ID": 105,
@@ -28822,7 +28822,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29583",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Wall Drugs of Pamplico, Inc.",
                 "loc_type1": "Pharmacy – independent",
@@ -33568,7 +33568,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ddb0fe43-2439-4f4e-b82e-60c1918820dd",
                 "Loc_ID": null,
@@ -33603,7 +33603,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d5c1d02f-9013-4742-a018-c46c31b46039",
                 "Loc_ID": null,
@@ -44523,7 +44523,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "60ad3421-9757-4825-922a-6678d5e2f1da",
                 "Loc_ID": null,
@@ -56808,7 +56808,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "45edfd1f-80bb-42ad-bd0f-8d70021a7102",
                 "Loc_ID": null,
@@ -56843,7 +56843,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ac5d6f61-da52-43d0-816a-e600c0ce43ce",
                 "Loc_ID": null,
@@ -63458,7 +63458,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6f6b60b1-6471-42da-9dbe-410b2f2e695b",
                 "Loc_ID": null,
@@ -63493,7 +63493,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a842545c-0af8-4bbb-b940-661499efdfdf",
                 "Loc_ID": null,
@@ -74289,7 +74289,7 @@
                 "URL": "http://www.musc.co/community",
                 "V_Manufacturer": "PFR",
                 "layer_id": 0,
-                "loc_name": "MUSC Health Community Vaccination Event – Kingstree",
+                "loc_name": "MUSC Health @ St. Pauls United Methodist Church",
                 "loc_type1": null,
                 "ref_ID": null,
                 "service_item_id": "bbd8924909264baaa1a5a1564b393063",
@@ -76023,7 +76023,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": "covidvaccine@pathwayhospicecares.com",
                 "GlobalID": "b0f91266-9d6d-46c2-8010-f2af126540aa",
                 "Loc_ID": null,
@@ -76123,6 +76123,146 @@
                 },
                 "x": -82.34445893314876,
                 "y": 34.85065779567395
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "49f5bee8-a8cc-448d-92c6-a62d77f16246",
+                "Loc_ID": null,
+                "OBJECTID": 28711,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "5400 Cane Savannah Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Wedgefield",
+                "SitePhone": "843-727-7227",
+                "SiteState": "SC",
+                "SiteZip": "29168",
+                "URL": "http://www.musc.co/community",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "MUSC Health @ Delaine Community Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.47918539037425,
+                "y": 33.9318204805578
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "2affe52a-99bc-4866-8d97-75675791c550",
+                "Loc_ID": null,
+                "OBJECTID": 28712,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "172 Rutledge Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-727-7227",
+                "SiteState": "SC",
+                "SiteZip": "29403",
+                "URL": "http://www.musc.co/community",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "MUSC Health @ Ashley Hall",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.94515012947159,
+                "y": 32.78637809327438
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "8ab9d8a7-9ddd-4055-8feb-dd36b11c9d38",
+                "Loc_ID": null,
+                "OBJECTID": 28713,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "2750 McCords Ferry Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Eastover",
+                "SitePhone": "843-727-7227",
+                "SiteState": "SC",
+                "SiteZip": "29044",
+                "URL": "http://www.musc.co/community",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "MUSC Health @ Crossroads Community Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.68898527915098,
+                "y": 33.94410192234045
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "a4acb8c6-f59c-498a-a0fd-9ce6593fd3bb",
+                "Loc_ID": null,
+                "OBJECTID": 28714,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "150 Hopkins Park Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Hopkins",
+                "SitePhone": "843-727-7227",
+                "SiteState": "SC",
+                "SiteZip": "29061",
+                "URL": "http://www.musc.co/community",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "MUSC Health @ Hopkins Park",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.88825928973961,
+                "y": 33.88381090656645
             }
         }
     ],

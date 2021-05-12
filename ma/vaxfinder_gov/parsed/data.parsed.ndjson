@@ -148,7 +148,6 @@
 {"name": "Canton: Osco (Washington St.)", "address": "95 Washington St, Cobbs Corner, Canton, MA 02021"}
 {"name": "Canton: Walgreens (Washington St.)", "address": "595 Washington St, Canton, MA 02021"}
 {"name": "Carver: CVS (N. Main St.)", "address": "100 D N. Main St., Carver, MA 02330"}
-{"name": "Charlestown: CVS (Austin St.)", "address": "21 Austin Street, Charlestown, MA 02129"}
 {"name": "Chelmsford: CVS (Boston Road)", "address": "16 Boston Road, Chelmsford, MA 01824"}
 {"name": "Chelmsford: Hannaford (Drum Hill Shopping Center)", "address": "66-2 Drum Hill Shopping Ctr., Chelmsford, MA 01824"}
 {"name": "Chelmsford: Walgreens (Chelmsford St.)", "address": "86 Chelmsford St, Chelmsford, MA 01824"}
@@ -719,7 +718,6 @@
 {"name": "Southwick: CVS (College Hwy)", "address": "215 College Hwy., Southwick, MA 01077"}
 {"name": "Southwick: Walgreens (College Hwy)", "address": "592 College Hwy, Southwick, MA 01077"}
 {"name": "Spencer: Big Y", "address": "62 W Main Street, Spencer, MA 01562"}
-{"name": "Spencer: CVS (Main St.)", "address": "131 Main Street, Spencer, MA 01562"}
 {"name": "Springfield: Big Y", "address": "300 Cooley Street, Springfield, MA 01128"}
 {"name": "Springfield: CVS (Belmont Ave.)", "address": "615-621 Belmont Ave., Springfield, MA 01108"}
 {"name": "Springfield: CVS (Boston Rd.)", "address": "770 Boston Rd, Springfield, MA 01119"}
@@ -768,7 +766,6 @@
 {"name": "Teaticket: Stop and Shop (Teaticket Highway)", "address": "20 Teaticket Highway, Teaticket, MA 02536"}
 {"name": "Teaticket: Walmart (Teaticket Hwy)", "address": "137 Teaticket Hwy, Teaticket, MA 02536"}
 {"name": "Tewksbury: CVS (10 Main St.)", "address": "10 Main St, Tewksbury, MA 01876"}
-{"name": "Tewksbury: CVS (1900 Main St.)", "address": "1900 Main Street, Tewksbury, MA 01876"}
 {"name": "Tewksbury: Walgreens (Andover Street)", "address": "935 Andover Street, Tewksbury, MA 01876"}
 {"name": "Tewksbury: Walgreens (Main St.)", "address": "2341 Main St, Tewksbury, MA 01876"}
 {"name": "Tewksbury: Walmart (Main St.)", "address": "333 Main St, Tewksbury, MA 01876"}
@@ -872,9 +869,7 @@
 {"name": "Worcester: CVS (481 Lincoln St.)", "address": "481 Lincoln Street, Worcester, MA 01605"}
 {"name": "Worcester: CVS (529 Lincoln St.)", "address": "529 Lincoln St., Worcester, MA 01605"}
 {"name": "Worcester: CVS (Front St.)", "address": "110 Front St., Suite #102, Worcester, MA 01608"}
-{"name": "Worcester: CVS (Grafton St.)", "address": "500 Grafton St, Worcester, MA 01604"}
 {"name": "Worcester: CVS (Park Ave.)", "address": "400 Park Ave., Worcester, MA 01610"}
-{"name": "Worcester: CVS (Stafford St.)", "address": "115 Stafford St, Worcester, MA 01603"}
 {"name": "Worcester: CVS (W. Boylston St.)", "address": "44 W. Boylston St, Worcester, MA 01605"}
 {"name": "Worcester: Price Chopper (Cambridge St.)", "address": "50 Cambridge Street, Worcester, MA 01610"}
 {"name": "Worcester: Price Chopper (Pullman Rd.)", "address": "72 Pullman Road, Worcester, MA 01606"}
@@ -884,9 +879,11 @@
 {"name": "Worcester: The Wellness Center at Worcester State University (collaboration with Saint Vincent Hospital)", "address": "486 Chandler Street, Worcester, MA 01602"}
 {"name": "Worcester: UMass - Front Street (Mercantile Center)", "address": "100 Front St, Worcester, MA 01608"}
 {"name": "Worcester: Walgreens (Belmont St.)", "address": "398 BELMONT ST, Worcester, MA 01604"}
+{"name": "Worcester: Walgreens (Grafton St.)", "address": "220 Grafton St., Worcester, MA 01604"}
 {"name": "Worcester: Walgreens (Greenwood St.)", "address": "348 Greenwood St., Worcester, MA 01607"}
 {"name": "Worcester: Walgreens (Lincoln St.)", "address": "472 Lincoln St, Worcester, MA 01605"}
 {"name": "Worcester: Walgreens (Park Ave.)", "address": "320 Park Ave, Worcester, MA 01610"}
+{"name": "Worcester: Walgreens (Stafford St.)", "address": "99 Stafford St, Worcester, MA 01603"}
 {"name": "Worcester: Walgreens (W Boylston)", "address": "937 W Boylston, Worcester, MA 01606"}
 {"name": "Worcester: Walmart (Boland Way)", "address": "25 Tobias Boland Way, Worcester, MA 01607"}
 {"name": "Wrentham: CVS (South St.)", "address": "652 South Street, Wrentham, MA 02093"}

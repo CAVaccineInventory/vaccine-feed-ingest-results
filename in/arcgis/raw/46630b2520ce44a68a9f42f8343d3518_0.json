@@ -15661,7 +15661,7 @@
                 "Site_Address": "2344 Covert Ave, Evansville, IN 47714",
                 "Site_County": "Vanderburgh",
                 "Site_Location_Info": "Select Indiana, click ‘Schedule Now’ and answer pre-screening questions,  enter ZIP code to check availability.",
-                "Site_Name": "CVS - Covert Ave",
+                "Site_Name": "CVS Pharmacy - Covert Ave",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
@@ -15693,7 +15693,7 @@
                 "Site_Address": "4225 Hobson Rd, Fort Wayne, IN 46815",
                 "Site_County": "Allen",
                 "Site_Location_Info": "Select Indiana, click ‘Schedule Now’ and answer pre-screening questions,  enter ZIP code to check availability.",
-                "Site_Name": "CVS - Hobson Rd",
+                "Site_Name": "CVS Pharmacy - Hobson Rd",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
@@ -15725,7 +15725,7 @@
                 "Site_Address": "9550 Allisonville Rd, Indianapolis, IN 46250",
                 "Site_County": "Marion",
                 "Site_Location_Info": "Select Indiana, click ‘Schedule Now’ and answer pre-screening questions,  enter ZIP code to check availability.",
-                "Site_Name": "CVS - Allisonville Rd",
+                "Site_Name": "CVS Pharmacy - Allisonville Rd",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
@@ -15757,7 +15757,7 @@
                 "Site_Address": "1725 Salem St, Lafayette, IN 47904",
                 "Site_County": "Tippecanoe",
                 "Site_Location_Info": "Select Indiana, click ‘Schedule Now’ and answer pre-screening questions,  enter ZIP code to check availability.",
-                "Site_Name": "CVS - Salem St",
+                "Site_Name": "CVS Pharmacy - Salem St",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
@@ -15789,7 +15789,7 @@
                 "Site_Address": "13085 Tegler Dr, Noblesville, IN 46060",
                 "Site_County": "Hamilton",
                 "Site_Location_Info": "Select Indiana, click ‘Schedule Now’ and answer pre-screening questions,  enter ZIP code to check availability.",
-                "Site_Name": "CVS - Tegler Dr",
+                "Site_Name": "CVS Pharmacy - Tegler Dr",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
@@ -15821,7 +15821,7 @@
                 "Site_Address": "4403 W Western Ave, South Bend, IN 46619",
                 "Site_County": "St. Joseph",
                 "Site_Location_Info": "Select Indiana, click ‘Schedule Now’ and answer pre-screening questions,  enter ZIP code to check availability.",
-                "Site_Name": "CVS - W Western Ave",
+                "Site_Name": "CVS Pharmacy - W Western Ave",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
@@ -25406,6 +25406,38 @@
                 },
                 "x": -85.10480238702331,
                 "y": 41.0514794862288
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0105c81f-f3bf-45bf-acba-68d48a257d4b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Reynolds Parking Lot",
+                "OBJECTID": 981,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "401 W 2nd St, Reynolds, IN 47980",
+                "Site_County": "White",
+                "Site_Location_Info": "Mobile site 5/25 - 5/28; 9am - 6pm. This location has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Reynolds Parking Lot",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.88004893479045,
+                "y": 40.74970249761603
             }
         }
     ],
