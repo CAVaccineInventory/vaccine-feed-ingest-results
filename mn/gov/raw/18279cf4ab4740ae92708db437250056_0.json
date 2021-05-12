@@ -33357,57 +33357,6 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "1 Civic Center Plaza",
-                "City": "Mankato",
-                "County": null,
-                "EndDate": "2021-05-11",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6282,
-                "Phone": "(800) 800-5698",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "Mankato - Mayo Clinic Health System Event Center",
-                "StartDate": "2021-05-11",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 18+",
-                "TestingTypes": "Covid-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "8:00pm",
-                "TuesdayStart": "10:00am",
-                "URL": "http://vaulthealth.com/covid/start/?var_c=VACCINATION_MINNESOTA_OPEN",
-                "UpdateDate": "2021-05-07 18:27:57",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "Closed",
-                "WednesdayStart": "Closed",
-                "Zip": "56001",
-                "globalid": "2b09c5ad-8460-4c5e-8e4c-ebbeae87ac09",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20207
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.00432998035303,
-                "y": 44.16615999497759
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "10 4th Ave South",
                 "City": "St. Cloud",
                 "County": null,
