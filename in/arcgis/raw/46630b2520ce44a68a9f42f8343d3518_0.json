@@ -17507,38 +17507,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "faa8df0e-5b13-4f71-884c-344408760f9f",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA – St. Mary’s Church",
-                "OBJECTID": 719,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "600 St. Mary's Ave, Frankfort, IN 46041",
-                "Site_County": "Clinton",
-                "Site_Location_Info": "Mobile site 5/18 – 5/19;  9 am – 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "FEMA – St. Mary’s Church",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.49176455496084,
-                "y": 40.27726261925288
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "261b9849-e52b-4a7c-b5d3-d3d9c4740266",
                 "ID": null,
                 "IsView": 1,
