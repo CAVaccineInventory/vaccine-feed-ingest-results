@@ -4995,38 +4995,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": "State",
-                "GlobalID": "e7ec58eb-1947-496a-8b90-3c8fcaca283d",
-                "ID": "ISDH1159",
-                "IsView": 1,
-                "Name": "Greene County Health, INC",
-                "OBJECTID": 253,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1600 A St NE, Suite 9, Linton 47441",
-                "Site_County": "Greene",
-                "Site_Location_Info": "Last day of operation: 5/13",
-                "Site_Name": "GREENE CTY HLTH IN LNTON A ST VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.1447682159991,
-                "y": 39.03915645796145
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": "State",
                 "GlobalID": "ac7689ab-7c2a-471a-a56a-365f8e2d375f",
                 "ID": "ISDH1219",
                 "IsView": 1,
