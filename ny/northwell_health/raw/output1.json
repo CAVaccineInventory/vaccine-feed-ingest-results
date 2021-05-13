@@ -1,20 +1,5 @@
 [
     {
-        "id": 41,
-        "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Moderna",
-        "address": "5181 Sunrise Highway",
-        "suite": "",
-        "city": "Bohemia",
-        "state": "NY",
-        "zip": "11716",
-        "county": "Suffolk",
-        "latitude": "40.7648",
-        "longitude": "-73.0926",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
         "id": 37,
         "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Moderna",
         "address": "335 Greenwich Street",
