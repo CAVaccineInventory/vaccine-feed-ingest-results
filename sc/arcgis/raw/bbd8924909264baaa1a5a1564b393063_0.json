@@ -27338,8 +27338,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": "signupcovidvaccine@srhs.com",
+                "Appointments": "Yes",
+                "Contact": null,
                 "GlobalID": "bc48fa9a-6bc7-49b3-b099-53f1172acd19",
                 "Loc_ID": 210,
                 "OBJECTID": 788,
@@ -27348,10 +27348,10 @@
                 "SiteAddress": "101 East Wood St",
                 "SiteAddressDetail": null,
                 "SiteCity": "Spartanburg ",
-                "SitePhone": "",
+                "SitePhone": "(866) 365-8110",
                 "SiteState": "SC",
                 "SiteZip": "29303",
-                "URL": null,
+                "URL": "https://cvas.dhec.sc.gov/",
                 "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Spartanburg Regional Health Services District Inc",
@@ -29333,7 +29333,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "166927c8-1662-4619-a385-3db41ec1c5f9",
                 "Loc_ID": null,
@@ -37173,7 +37173,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "fd54c356-8f49-499c-ac8b-bb1fb5d4e898",
                 "Loc_ID": 1289,
@@ -45223,7 +45223,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "48d64e17-823e-4cf7-920a-4ece7d1a1b01",
                 "Loc_ID": null,
@@ -56913,7 +56913,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5e6b0472-5651-49ed-8d95-d1848a6e15ac",
                 "Loc_ID": null,
@@ -63563,7 +63563,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7277c4d7-e17e-4d93-a571-9dfb0cdd66f4",
                 "Loc_ID": null,
@@ -67973,7 +67973,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7b91d817-9466-446a-9410-a4218558d1b3",
                 "Loc_ID": null,
@@ -72278,7 +72278,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2abfd1bf-e07e-4e4c-8792-676e0352315c",
                 "Loc_ID": null,
@@ -74588,7 +74588,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2fe644f7-99f5-4c5a-b283-85a51d591583",
                 "Loc_ID": null,

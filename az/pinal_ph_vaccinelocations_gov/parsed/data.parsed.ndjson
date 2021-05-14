@@ -19,8 +19,8 @@
 {"providerName": "Cigna Medical Group", "city": "Apache Junction"}
 {"providerName": "Cigna Medical Group", "city": "Queen Creek", "phoneNumber": "800-233-3264"}
 {"providerName": "Cobre Valley RMC Clinic", "city": " Superior"}
-{"providerName": "Cobre Valley RMC Clinic", "city": "Kearny", "vaccineType": ["Janssen"]}
-{"providerName": "Florence Hospital", "city": "Florence", "vaccineType": ["Janssen", "Moderna"]}
+{"providerName": "Cobre Valley RMC Clinic", "city": "Kearny"}
+{"providerName": "Florence Hospital", "city": "Florence"}
 {"providerName": "Heavens Medical PLC", "city": "Apache Junction"}
 {"providerName": "Desert Life Pharmacy", "city": "Saddlebrooke "}
 {"providerName": "AZ. Department of Health Services", "city": "Mesa", "address": "232 S Dobson Rd, Mesa, AZ 85202", "website": "https://podvaccine.azdhs.gov/", "phoneNumber": "844-542-8201"}
