@@ -75,21 +75,6 @@
         "distance": null
     },
     {
-        "id": 53,
-        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Pfizer",
-        "address": "1 Marcus Avenue",
-        "suite": "",
-        "city": "New Hyde Park",
-        "state": "NY",
-        "zip": "11040",
-        "county": "Nassau",
-        "latitude": "40.7577",
-        "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4kEAC",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
         "id": 52,
         "name": "Nassau - New Hyde Park (1 Marcus Ave) -- J&J",
         "address": "1 Marcus Avenue",
@@ -147,6 +132,21 @@
         "longitude": "-73.8689",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfP9EAK",
         "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 37,
+        "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Moderna",
+        "address": "335 Greenwich Street",
+        "suite": "",
+        "city": "Hempstead",
+        "state": "NY",
+        "zip": "11550",
+        "county": "Nassau",
+        "latitude": "40.6991",
+        "longitude": "-73.6129",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TemTEAS",
+        "vaccine_manufacturer": "Moderna",
         "distance": null
     }
 ]
