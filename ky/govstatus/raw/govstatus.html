@@ -18001,13 +18001,13 @@ section.blue-bg .media {margin-bottom:20px}
   }
 
   function buildMap() {	   				    
-    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGVza3lnb3YiLCJhIjoiY2ttdW56aXowMDZxMjJ1cXM2Z2cyMWhhaSJ9.uDHQyIPMwq5720hRqzi_fg', {
-	    attribution: 'Map data Â© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery Â© <a href="https://www.mapbox.com/">Mapbox</a>',
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	    ttribution: 'ÃÂ© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 	    maxZoom: 18,
-	    id: 'mapbox/streets-v11',
+
 	    tileSize: 512,
 	    zoomOffset: -1,
-	    accessToken: 'pk.eyJ1IjoibGVza3lnb3YiLCJhIjoiY2ttdW56aXowMDZxMjJ1cXM2Z2cyMWhhaSJ9.uDHQyIPMwq5720hRqzi_fg'
+
 	}).addTo(mymap);
 };
 

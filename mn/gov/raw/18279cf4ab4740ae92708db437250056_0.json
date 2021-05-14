@@ -30807,57 +30807,6 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "14655 Galaxie Ave",
-                "City": "Apple Valley",
-                "County": null,
-                "EndDate": null,
-                "FridayEnd": null,
-                "FridayStart": null,
-                "MondayEnd": null,
-                "MondayStart": null,
-                "OBJECTID": 3353,
-                "Phone": "(612) 262-5533",
-                "ProviderName": "Allina Health",
-                "SaturdayEnd": null,
-                "SaturdayStart": null,
-                "SiteName": "Allina Health Apple Valley Urgent Care",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": null,
-                "SundayStart": null,
-                "TestingOptions": "Indoor vaccination",
-                "TestingRequirements": "Appointment",
-                "TestingTypes": null,
-                "ThursdayEnd": null,
-                "ThursdayStart": null,
-                "TuesdayEnd": null,
-                "TuesdayStart": null,
-                "URL": "https://www.allinahealth.org/coronavirus-covid-19/vaccines",
-                "UpdateDate": "2021-04-23 10:14:10",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": null,
-                "WednesdayStart": null,
-                "Zip": "55124",
-                "globalid": "19b7f83f-aeab-4cc8-8574-93d16819df7e",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -93.20838194024208,
-                "y": 44.73711239860259
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "204 Lewis Ave S",
                 "City": "Watertown",
                 "County": "Carver",
@@ -31159,57 +31108,6 @@
                 },
                 "x": -92.9146030232844,
                 "y": 44.94249199281563
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
-                "AddrLine1": "1212 N Franklin St",
-                "City": "New Ulm",
-                "County": "Brown",
-                "EndDate": null,
-                "FridayEnd": null,
-                "FridayStart": null,
-                "MondayEnd": null,
-                "MondayStart": null,
-                "OBJECTID": 5220,
-                "Phone": "(507) 233-6820",
-                "ProviderName": "Brown County Public Health",
-                "SaturdayEnd": null,
-                "SaturdayStart": null,
-                "SiteName": "New Ulm Civic Center",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": null,
-                "SundayStart": null,
-                "TestingOptions": "Indoor vaccination",
-                "TestingRequirements": "Appointment|Pre-registration",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "6:30pm",
-                "ThursdayStart": "4:00pm",
-                "TuesdayEnd": null,
-                "TuesdayStart": null,
-                "URL": "https://www.co.brown.mn.us/?view=article&id=476:covidvaccine&catid=24#calendar",
-                "UpdateDate": "2021-04-26 11:24:56",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": null,
-                "WednesdayStart": null,
-                "Zip": "56073",
-                "globalid": "42c6f790-c74a-40de-b99a-b9cb1b4c81ee",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.4761700250563,
-                "y": 44.32483000882195
             }
         },
         {
@@ -34474,6 +34372,57 @@
                 },
                 "x": -92.15654998652477,
                 "y": 46.748305012820424
+            }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": "Holidays are closed: Memorial Day; Fourth of July; Labor Day; Thanksgiving Day, Christmas Eve; Christmas Day; New Years Day",
+                "AddrLine1": "412 North Main Ave",
+                "City": "Warroad",
+                "County": "Roseau",
+                "EndDate": null,
+                "FridayEnd": null,
+                "FridayStart": null,
+                "MondayEnd": null,
+                "MondayStart": null,
+                "OBJECTID": 6315,
+                "Phone": "(218) 463-1365",
+                "ProviderName": "Altru Health System",
+                "SaturdayEnd": null,
+                "SaturdayStart": null,
+                "SiteName": "Warroad",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": null,
+                "SundayStart": null,
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "Appointment|Pre-screening",
+                "TestingTypes": "COVID-19 Vaccine",
+                "ThursdayEnd": "6:00pm",
+                "ThursdayStart": "10:00am",
+                "TuesdayEnd": null,
+                "TuesdayStart": null,
+                "URL": "Altru.org",
+                "UpdateDate": "2021-05-13 17:53:51",
+                "VaccinationGroups": "General Public",
+                "WednesdayEnd": null,
+                "WednesdayStart": null,
+                "Zip": "56763",
+                "globalid": "ee192041-963c-4ad9-bd33-fea090074b32",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.31823998746748,
+                "y": 48.90766362049901
             }
         }
     ],
