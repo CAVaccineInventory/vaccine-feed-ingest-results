@@ -7682,7 +7682,7 @@
         },
         {
             "attributes": {
-                "J_J": "0",
+                "J_J": "1",
                 "Moderna": "2",
                 "Pfizer": "0",
                 "addr1": "10425 Williams St",
@@ -7695,7 +7695,7 @@
                 "full_address": "10425 Williams St Wellton, AZ 85356",
                 "globalid": "efc4fad4-f86c-4c46-804f-f7af4cc224e9",
                 "layer_id": 0,
-                "loc_name": "Sunset Community Health Center",
+                "loc_name": "Sunset Community Health Center-Wellton",
                 "loc_type": "public",
                 "objectid": 3650,
                 "prereg_comments": null,
@@ -7708,7 +7708,7 @@
                 "spanish_staff_y_n": null,
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, J_J",
                 "zip": "85356"
             },
             "geometry": {
@@ -15925,46 +15925,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "3",
-                "addr1": "13779 N Fountain Hills Blvd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Fountain Hills",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "13779 N Fountain Hills Blvd Fountain Hills, AZ 85268",
-                "globalid": "20ea989d-7048-4282-8afa-22947c63ea2d",
-                "layer_id": 0,
-                "loc_name": "Safeway #129",
-                "loc_type": "public",
-                "objectid": 5993,
-                "prereg_comments": "Walk Ins and appointments are accepted.",
-                "prereg_phone": null,
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://kordinator.mhealthcoach.net/vcl/1600125003909",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "​​​​Pfizer_BioNTech,Moderna",
-                "zip": "85268"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.72784521790607,
-                "y": 33.60986581671699
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "3",
                 "addr1": "260 W Continental Rd",
                 "addr2": null,
                 "begindate": null,
@@ -23863,7 +23823,7 @@
                 "prereg_prescreen": "Yes",
                 "prereg_website": null,
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
+                "site_category": "fqhc",
                 "site_type": "pod_cty",
                 "spanish_staff_y_n": "Yes",
                 "state": "AZ",
@@ -36438,6 +36398,1286 @@
                 },
                 "x": -112.06439296345432,
                 "y": 33.49192201322499
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "3130 W Carefree Hwy",
+                "addr2": null,
+                "begindate": null,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "3130 W Carefree Hwy Phoenix, AZ 85086",
+                "globalid": "22dfbd5c-49b5-4a2b-8be3-ed19e665b588",
+                "layer_id": 0,
+                "loc_name": "Albertsons #0004",
+                "loc_type": "public",
+                "objectid": 6774,
+                "prereg_comments": "Walk Ins and appointments are accepted.",
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "albertsons.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85086"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.12696403829705,
+                "y": 33.799486981611466
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "861 E Warner Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Gilbert",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "861 E Warner Rd Gilbert, AZ 85296",
+                "globalid": "083f7690-b76a-40ae-8f44-73a08f7db8ae",
+                "layer_id": 0,
+                "loc_name": "Albertsons #0023",
+                "loc_type": "public",
+                "objectid": 6775,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "albertsons.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85296"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.77151660983054,
+                "y": 33.333746196391864
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "13733 N Fountain Hills Blvd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Fountain Hills",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "13733 N Fountain Hills Blvd Fountain Hills, AZ 85268",
+                "globalid": "ea71f840-7f43-48f8-8698-e4e7feee1cce",
+                "layer_id": 0,
+                "loc_name": "Safeway #1291",
+                "loc_type": "public",
+                "objectid": 6776,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85268"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.72788721124114,
+                "y": 33.60991346787517
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "6965 N Hayden Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Scottsdale",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "6965 N Hayden Rd Scottsdale, AZ 85250",
+                "globalid": "cfa2c81a-46aa-4ee2-8427-7c9a5aebb7b0",
+                "layer_id": 0,
+                "loc_name": "Albertsons #0966",
+                "loc_type": "public",
+                "objectid": 6777,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "albertsons.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85250"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.90689800861614,
+                "y": 33.537790008605356
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "1951 W Baseline Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Mesa",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "1951 W Baseline Rd Mesa, AZ 85202",
+                "globalid": "0e092830-a4ee-4efe-86db-d5f8d88e8855",
+                "layer_id": 0,
+                "loc_name": "Albertsons #0980",
+                "loc_type": "public",
+                "objectid": 6778,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "albertsons.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85202"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.87594699295047,
+                "y": 33.37746201240339
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "3145 S Alma School Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Chandler",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "3145 S Alma School Rd Chandler, AZ 85248",
+                "globalid": "018d6107-31e1-43f2-8fc2-fd1f83e53a1b",
+                "layer_id": 0,
+                "loc_name": "Albertsons #0981",
+                "loc_type": "public",
+                "objectid": 6779,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85248"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.85689425648071,
+                "y": 33.26074871459874
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "9243 E Baseline Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Mesa",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "9243 E Baseline Rd Mesa, AZ 85209",
+                "globalid": "56401d58-c650-40de-8c9d-f9d97c6eff8d",
+                "layer_id": 0,
+                "loc_name": "Albertsons #1002",
+                "loc_type": "public",
+                "objectid": 6780,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85209"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.63361896371173,
+                "y": 33.37776300654644
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "2935 E Riggs Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Chandler",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "2935 E Riggs Rd Chandler, AZ 85249",
+                "globalid": "0b767b14-0214-4957-8d36-5588fce0f467",
+                "layer_id": 0,
+                "loc_name": "Albertsons #1221",
+                "loc_type": "public",
+                "objectid": 6781,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "albertsons.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85249"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.79085902487434,
+                "y": 33.21765101198928
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "1515 E Elliot Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tempe",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "1515 E Elliot Rd Tempe, AZ 85284",
+                "globalid": "a131f2a4-cb5d-440b-8cf0-da6d22a8636a",
+                "layer_id": 0,
+                "loc_name": "Safeway #1535",
+                "loc_type": "public",
+                "objectid": 6782,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "safeway.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85284"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.91366295885,
+                "y": 33.3483419815769
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "4747 E Greenway Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "4747 E Greenway Rd Phoenix, AZ 85032",
+                "globalid": "eabcc4e5-0f6e-40b0-80b8-196a9c676b87",
+                "layer_id": 0,
+                "loc_name": "Safeway #2097",
+                "loc_type": "public",
+                "objectid": 6783,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "safeway.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85032"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.9790859762482,
+                "y": 33.62441199069117
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "1859 N Power Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Mesa",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "1859 N Power Rd Mesa, AZ 85207",
+                "globalid": "344aec5b-5438-4c22-8171-65a22ef1cf97",
+                "layer_id": 0,
+                "loc_name": "Safeway #2644",
+                "loc_type": "public",
+                "objectid": 6784,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "safeway.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85207"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.6839898326834,
+                "y": 33.450196119556516
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "2785 N Scottsdale Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Scottsdale",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "2785 N Scottsdale Rd Scottsdale, AZ 85257",
+                "globalid": "ff1ae82e-59b7-457d-8604-c4a1f5a886b4",
+                "layer_id": 0,
+                "loc_name": "Albertsons #2955",
+                "loc_type": "public",
+                "objectid": 6785,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "albertsons.com/covid-19",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85257"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.9260812063694,
+                "y": 33.4793119122786
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "4060 W Ray Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Chandler",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "4060 W Ray Rd Chandler, AZ 85226",
+                "globalid": "f204b462-61ac-4a84-8104-f565843d5389",
+                "layer_id": 0,
+                "loc_name": "Albertsons #2997",
+                "loc_type": "public",
+                "objectid": 6786,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://kordinator.mhealthcoach.net/vcl/1600125782431",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85226"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.91273298669267,
+                "y": 33.321980979909185
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "20440 N 27th Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "20440 N 27th Ave Phoenix, AZ 85027",
+                "globalid": "feaf5497-2d93-493c-8f11-3db82e64e619",
+                "layer_id": 0,
+                "loc_name": "NOAH-Venado Valley Health Center",
+                "loc_type": "public",
+                "objectid": 6787,
+                "prereg_comments": "NOAH will have the Pfizer vaccine for appointments starting 5/21/21.  Call or go to the website to schedule an appointment. Hours Monday – Friday: 7am – 7pm",
+                "prereg_phone": "480-882-4545",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://noahhelps.org/covid-vaccine/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "Moderna",
+                "zip": "85027"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.11775903222978,
+                "y": 33.673133018274385
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "502 W Thomas Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "502 W Thomas Rd Phoenix, AZ 85013",
+                "globalid": "82f458a8-4f40-4997-8e1f-60c70e7ab9de",
+                "layer_id": 0,
+                "loc_name": "Adelante Healthcare - Central Phoenix",
+                "loc_type": "public",
+                "objectid": 6788,
+                "prereg_comments": "Adelante is making COVID-19 vaccines available to qualifying patients through normal patient visits and with select drive-through events at our health centers. Please call or visit our website for more information.",
+                "prereg_phone": "877-809-5092",
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "Moderna",
+                "zip": "85013"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.0804774966824,
+                "y": 33.48037826470537
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "11851 N 51st Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Glendale",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "11851 N 51st Ave Glendale, AZ 85304",
+                "globalid": "75ec74d0-7c34-424c-8cd1-88aa984e8371",
+                "layer_id": 0,
+                "loc_name": "NOAH-Copperwood Health Center",
+                "loc_type": "public",
+                "objectid": 6789,
+                "prereg_comments": "Hours Monday – Friday: 7am – 7pm. NOAH has Moderna and Johnson & Johnson vaccines for NOAH patients and the general public. NOAH will have the Pfizer vaccine for appointments starting 5/21/21.",
+                "prereg_phone": "480-882-4545",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://noahhelps.org/covid-vaccine/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna",
+                "zip": "85304"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.16802698195356,
+                "y": 33.593385998901624
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "4520 N Central Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "4520 N Central Ave Phoenix, AZ 85012",
+                "globalid": "37c8d6c9-8d34-4b9f-85d5-e85e3894a440",
+                "layer_id": 0,
+                "loc_name": "NATIVE AMERICAN CONNECT-INTEG CLIN",
+                "loc_type": "public",
+                "objectid": 6790,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna",
+                "zip": "85012"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.07501300241566,
+                "y": 33.50271601858675
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "1230 S Cherrybell Stra",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tucson",
+                "county": "Pima",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "1230 S Cherrybell Stra Tucson, AZ 85713",
+                "globalid": "8d272893-8eda-4666-8376-236197930754",
+                "layer_id": 0,
+                "loc_name": "El Rio Health-Cherrybell Health Center",
+                "loc_type": "public",
+                "objectid": 6791,
+                "prereg_comments": "Registration is open to eligible El Rio Patients only and will only be providing vaccinations for those patients with appointments. If you are a current El Rio patient, please go to the website to register.",
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.elrio.org/covidvaccine/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85713"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.94845797445086,
+                "y": 32.205046993775774
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "24722 US-70 W",
+                "addr2": null,
+                "begindate": null,
+                "city": "Pima",
+                "county": "Graham",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "24722 US-70 W Pima, AZ 85543",
+                "globalid": "38ccf843-06e1-4efb-8cfc-46658911e106",
+                "layer_id": 0,
+                "loc_name": "CLARENCE WESLEY HEALTH CARE CENTER",
+                "loc_type": "public",
+                "objectid": 6792,
+                "prereg_comments": null,
+                "prereg_phone": "928-475-1400",
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna",
+                "zip": "85543"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.11445127693582,
+                "y": 33.12601840913812
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "111 Medicine Way Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Peridot",
+                "county": "Gila",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "111 Medicine Way Rd Peridot, AZ 85542",
+                "globalid": "06dc3f59-5795-4435-89f8-b3b17a6d0748",
+                "layer_id": 0,
+                "loc_name": "SAN CARLOS HEALTHCARE CORPORATION",
+                "loc_type": "public",
+                "objectid": 6793,
+                "prereg_comments": "The San Carlos Apache Healthcare Corporation COVID-18 Vaccine Clinic is open to everyone (Tribal and non-tribal members) over the age of 16. (Parent/legal guardian consent required if under 18.",
+                "prereg_phone": "928-475-1229",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.scahealth.org/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "both",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85542"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.41804419070034,
+                "y": 33.294659129717466
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "2025 W Northern Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "2025 W Northern Ave Phoenix, AZ 85021",
+                "globalid": "cd500d29-b379-4054-86be-8c31a45d38e3",
+                "layer_id": 0,
+                "loc_name": "Valleywise Community Health Center – North Phoenix",
+                "loc_type": "public",
+                "objectid": 6794,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85021"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.10284606922264,
+                "y": 33.553052736435696
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "865 N Arizola Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Casa Grande",
+                "county": "Pinal",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "865 N Arizola Rd Casa Grande, AZ 85122",
+                "globalid": "51cf14ad-983a-4baa-834c-5235373c0cf8",
+                "layer_id": 0,
+                "loc_name": "Sun Life Family Health Center-Casa Grande",
+                "loc_type": "public",
+                "objectid": 6795,
+                "prereg_comments": "Vaccine appointments are available, please call 520-836-3446 Option 1 to schedule or schedule online. Walk-Ins are also accepted.Dorothy Powell Senior Center is located in Casa Grande - 405 East 6th Street, Casa Grande, AZ.",
+                "prereg_phone": "520-836-3446 Option 1",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.slfhc.org/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85122"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.71488402956858,
+                "y": 32.88216600794446
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": null,
+                "addr2": null,
+                "begindate": null,
+                "city": "Chambers",
+                "county": "Apache",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "Chambers, AZ 86502",
+                "globalid": "e30c7424-d383-4e82-8bbc-ed7652183c14",
+                "layer_id": 0,
+                "loc_name": "NAHATA DZIIL HEALTH CENTER",
+                "loc_type": "public",
+                "objectid": 6796,
+                "prereg_comments": "Please wear a mask upon arrival. Appointments are not necessary. If you have flu-like symptoms or experiencing shortness of breathe on the weekends, please visit the Emergency Department.",
+                "prereg_phone": "928-729-8000",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.fdihb.org/covid19#anchor-point1",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86502"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -109.31710633762374,
+                "y": 35.193681777272474
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "815 E Juan Sanchez Blvd",
+                "addr2": null,
+                "begindate": null,
+                "city": "San Luis",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "815 E Juan Sanchez Blvd San Luis, AZ 85336",
+                "globalid": "6ab74877-1c51-4d76-8ba0-065ab2aa1bea",
+                "layer_id": 0,
+                "loc_name": "V22 644 PHOENIX, AZ",
+                "loc_type": "public",
+                "objectid": 6797,
+                "prereg_comments": null,
+                "prereg_phone": null,
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85336"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -114.78060099053224,
+                "y": 32.493748991980105
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "548 W Hospital Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Ajo",
+                "county": "Apache",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "548 W Hospital Rd Ajo, AZ 85321",
+                "globalid": "14301a47-45a3-450a-8b60-ca1536cf2e50",
+                "layer_id": 0,
+                "loc_name": "CHINLE COMPREHENSIVE HEALTHCARE",
+                "loc_type": "public",
+                "objectid": 6798,
+                "prereg_comments": null,
+                "prereg_phone": "928-674-7001",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.ihs.gov/navajo/healthcarefacilities/chinle/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85321"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.86460526294542,
+                "y": 32.3690168570271
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "811 S Hamilton St",
+                "addr2": null,
+                "begindate": null,
+                "city": "Chandler",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "811 S Hamilton St Chandler, AZ 85225",
+                "globalid": "b01ea8d0-bb9a-43c7-8753-a6994893ef68",
+                "layer_id": 0,
+                "loc_name": "VALLEYWISE COMM HLTH CTR - CHANDLER",
+                "loc_type": "public",
+                "objectid": 6799,
+                "prereg_comments": null,
+                "prereg_phone": "833-855-9973",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://valleywisehealth.org/locations/community-health-center-chandler/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85225"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.83298102199704,
+                "y": 33.29379201088744
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "6300 N US Highway 89",
+                "addr2": null,
+                "begindate": null,
+                "city": "Flagstaff",
+                "county": "Coconino",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "6300 N US Highway 89 Flagstaff, AZ 86004",
+                "globalid": "811577f6-a7e2-4ed8-823b-dea90bf189bc",
+                "layer_id": 0,
+                "loc_name": "SACRED PEAKS /TCRHCC IHS",
+                "loc_type": "public",
+                "objectid": 6800,
+                "prereg_comments": "Vaccine event start at 9 AM. Please arrive 30 minutes before your scheduled appointment time. Please bring your vaccine card from your 1st dose event.",
+                "prereg_phone": "928-283-1505",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://tchealth.org/coronavirus/vaccination.html",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86004"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.57174501175608,
+                "y": 35.238551001641234
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": null,
+                "addr2": null,
+                "begindate": null,
+                "city": "Tsaile",
+                "county": "Apache",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "Tsaile, AZ 86556",
+                "globalid": "2572613b-8eff-489f-843c-70bf0049acf5",
+                "layer_id": 0,
+                "loc_name": "TSAILE HEALTH CENTER",
+                "loc_type": "public",
+                "objectid": 6802,
+                "prereg_comments": null,
+                "prereg_phone": "928-724-3600",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.ihs.gov/navajo/healthcarefacilities/tsaile/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86556"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -109.22340513489613,
+                "y": 36.30091867402
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "9407 S Avenida del Yaqui",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tempe",
+                "county": "Pima",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "9407 S Avenida del Yaqui Tempe, AZ 85283",
+                "globalid": "29b1316e-c271-443f-8e39-b1cb8a2e888c",
+                "layer_id": 0,
+                "loc_name": "PASCUA YAQUI TRIBAL HEALTH",
+                "loc_type": "public",
+                "objectid": 6803,
+                "prereg_comments": null,
+                "prereg_phone": "520-879-6000",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.pascuayaqui-nsn.gov/index.php/features/health-services",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85283"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.96305127636704,
+                "y": 33.36176735315347
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "481 W Seed Farm Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Sacaton",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "481 W Seed Farm Rd Sacaton, AZ 85147",
+                "globalid": "96fdaec5-0ff2-48a8-8ec2-1def2949aa90",
+                "layer_id": 0,
+                "loc_name": "HU HU KAM MEMORIAL HOSPITAL",
+                "loc_type": "public",
+                "objectid": 6804,
+                "prereg_comments": null,
+                "prereg_phone": "602-528-1240",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "http://grhc.org/our-campus/hu-hu-kam-memorial-hospital/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85147"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.758632632181,
+                "y": 33.074051852200355
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "7227 S Central Ave",
+                "addr2": null,
+                "begindate": 1621018800000,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": 1630436400000,
+                "event_yn": "Yes",
+                "full_address": "7227 S Central Ave Phoenix, AZ 85042",
+                "globalid": "6d7813a1-a7dd-47e2-8ef1-c8088f600fcc",
+                "layer_id": 0,
+                "loc_name": "south central pharmacy",
+                "loc_type": "public",
+                "objectid": 6805,
+                "prereg_comments": null,
+                "prereg_phone": "602-441-3564",
+                "prereg_prescreen": "No",
+                "prereg_website": "southcentralpharmacy.com",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85042"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.07309002618916,
+                "y": 33.38072001625817
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "4212 N 16th St",
+                "addr2": null,
+                "begindate": null,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "4212 N 16th St Phoenix, AZ 85016",
+                "globalid": "08d425fd-bebe-46c3-8d1f-75d61708fbe9",
+                "layer_id": 0,
+                "loc_name": "phoenix indian medical center",
+                "loc_type": "public",
+                "objectid": 6806,
+                "prereg_comments": null,
+                "prereg_phone": "602-263-1200",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.ihs.gov/phoenix/healthcarefacilities/phoenix/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85016"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.04885802792796,
+                "y": 33.49717700551131
             }
         }
     ],

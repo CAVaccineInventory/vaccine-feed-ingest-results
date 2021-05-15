@@ -2373,7 +2373,7 @@
                 "phone": "907-646-3322",
                 "publicEmail": null,
                 "publicNotes": "If you need assistance scheduling/making the appointment, please leave a message at 907-646-3322, someone will call you back.",
-                "publicWebsite": "https://cw2-alaska-production.herokuapp.com/clinic/search?location=&search_radius=All&search_name=fairbanks&search_date=&vaccine_name=&commit=Search#search_results",
+                "publicWebsite": "https://www.covidsecureapp.com/capstonevax.html",
                 "service_item_id": "d92cbd6ff2524d7e92bef109f30cb366",
                 "vaccinationSite": "Carlson Activity Center",
                 "zipcode": "99701"
