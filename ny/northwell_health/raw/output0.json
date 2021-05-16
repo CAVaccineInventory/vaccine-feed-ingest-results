@@ -105,21 +105,6 @@
         "distance": null
     },
     {
-        "id": 52,
-        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- J&J",
-        "address": "1 Marcus Avenue",
-        "suite": "",
-        "city": "New Hyde Park",
-        "state": "NY",
-        "zip": "11040",
-        "county": "Nassau",
-        "latitude": "40.7577",
-        "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4uEAC",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
-        "distance": null
-    },
-    {
         "id": 51,
         "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
         "address": "1086 Lexington Avenue",
@@ -146,6 +131,21 @@
         "latitude": "40.8543",
         "longitude": "-72.9661",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3NEAS",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 44,
+        "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Pfizer",
+        "address": "335 Greenwich Street",
+        "suite": "",
+        "city": "Hempstead",
+        "state": "NY",
+        "zip": "11550",
+        "county": "Nassau",
+        "latitude": "40.6991",
+        "longitude": "-73.6129",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TgNEEA0",
         "vaccine_manufacturer": "Pfizer",
         "distance": null
     }
