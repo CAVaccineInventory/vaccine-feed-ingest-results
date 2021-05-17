@@ -15914,10 +15914,10 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Moderna first and second vaccine does available also Johnson & Johnson 1 shot vaccine is available.  Walk in's welcome and appointments available 218-744-2774...\r\nWe will not open vials late in the day but all appointments will get a vaccine.",
+                "AdditionalHoursInfo": "The week of May 17 thru May 22 we will be giving Johnson and Johnson one dose vaccine daily no appointment necessary.  We will also be giving Moderna 2 dose vaccine on Thursday May 20th both 1st and 2nd shots available appointments and walk-ins welcome.",
                 "AddrLine1": "318 Grant Ave",
-                "City": "Eveleth",
-                "County": "St. Louis",
+                "City": "Eveleth, Mn 55734",
+                "County": "st. louis",
                 "EndDate": null,
                 "FridayEnd": "5:30pm",
                 "FridayStart": "9:00am",
@@ -15941,7 +15941,7 @@
                 "TuesdayEnd": "5:30pm",
                 "TuesdayStart": "9:00am",
                 "URL": null,
-                "UpdateDate": "2021-05-11 14:04:10",
+                "UpdateDate": "2021-05-15 11:49:57",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "5:30pm",
                 "WednesdayStart": "9:00am",
