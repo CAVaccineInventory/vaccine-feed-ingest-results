@@ -32693,7 +32693,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": "PMC-COVID-Vaccination@tenethealth.com",
                 "GlobalID": "f0b62a50-cdbb-4603-80a5-cc5a7f5c29bb",
                 "Loc_ID": null,
@@ -43193,7 +43193,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6bc7fa20-bbd2-4be2-8b10-c7201dfbcf38",
                 "Loc_ID": 1352,
@@ -74798,7 +74798,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "00a1301b-22fb-4d7c-83dd-9baa76c62170",
                 "Loc_ID": null,

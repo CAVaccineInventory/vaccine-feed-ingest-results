@@ -1194,9 +1194,9 @@
                 "OBJECTID": 49,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "100 Ln Crooked Lake 101b, Angola, IN 46703-9162",
+                "Site_Address": "317 S. Wayne St. Suite 1B, Angola, IN 46703",
                 "Site_County": "Steuben",
-                "Site_Location_Info": "Steuben County Local Health Department is providing vaccinations at the Steuben County Event Center. 100 Lane 101 Crooked Lake, Angola, IN 46703",
+                "Site_Location_Info": null,
                 "Site_Name": "STEUBEN CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -1212,8 +1212,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.0497538486423,
-                "y": 41.67656025313607
+                "x": -84.99853974971191,
+                "y": 41.63205003809797
             }
         },
         {
@@ -2750,6 +2750,38 @@
                 },
                 "x": -85.01125100791265,
                 "y": 39.42555846818455
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a12eb758-92c0-4edd-ad56-4289062906e5",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Vermillion County Local Health Department",
+                "OBJECTID": 164,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "257 Walnut St, Clinton, IN 47842",
+                "Site_County": "Vermillion",
+                "Site_Location_Info": null,
+                "Site_Name": "Vermillion CO HD VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.39937592930389,
+                "y": 39.65626111926833
             }
         },
         {
@@ -11902,38 +11934,6 @@
                 },
                 "x": -86.23362921242506,
                 "y": 39.78767948259711
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "6ce7d746-f9bb-4551-8e23-d56cfb2407c1",
-                "ID": "ISDH1354",
-                "IsView": 1,
-                "Name": "Vermillion Co Fairgrounds",
-                "OBJECTID": 501,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "Fairgrounds Rd, Cayuga, IN 47928",
-                "Site_County": "Vermillion",
-                "Site_Location_Info": null,
-                "Site_Name": "Vermillion Co Fairgrounds VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.45604541878492,
-                "y": 39.94286016428688
             }
         },
         {
