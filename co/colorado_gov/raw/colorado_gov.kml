@@ -447,11 +447,11 @@
       </Placemark>
       <Placemark>
         <name>Grand Junction Convention Center: Colorado Community Vaccination Site</name>
-        <description><![CDATA[Hours of Operation: 9 a.m. - 7 p.m.<br><br>Days of Operation: Wednesday -  Saturday<br><br>Registration Link: <br>English:https://scheduling.mesacountyhealth.com/english/signup.php<br><br>Español: https://scheduling.mesacountyhealth.com/espanol/inscribirse.php<br><br>Type of Vaccine: Pfizer / Moderna/ Janssen (when available)]]></description>
+        <description><![CDATA[Hours of Operation: 9 a.m. - 7 p.m.<br><br>Days of Operation: Wednesday -  Saturday<br><br>Address: 510 29 1/2 Rd, Grand Junction, CO 81504<br>Registration Link: <br>English:https://scheduling.mesacountyhealth.com/english/signup.php<br><br>Español: https://scheduling.mesacountyhealth.com/espanol/inscribirse.php<br><br>Type of Vaccine: Pfizer / Moderna/ Janssen (when available)]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
-            -108.5699514,39.0670191,0
+            -108.5041943,39.0785219,0
           </coordinates>
         </Point>
       </Placemark>
