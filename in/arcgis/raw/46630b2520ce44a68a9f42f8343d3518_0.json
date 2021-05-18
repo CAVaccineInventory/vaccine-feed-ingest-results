@@ -3011,38 +3011,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "85129fda-e401-4e40-8f5c-9105a0e85764",
-                "ID": "ISDH1250",
-                "IsView": 1,
-                "Name": "Harrison County Local Health Department",
-                "OBJECTID": 172,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "305 Oliver St, Corydon, IN  47112",
-                "Site_County": "Harrison",
-                "Site_Location_Info": "First Capital Christian Church",
-                "Site_Name": "HARRISON CO COVID DRIVE THRU VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.1211028092398,
-                "y": 38.198582332036416
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "502ba6d2-fbeb-4452-8513-9fa4543423df",
                 "ID": "ISDH1138",
                 "IsView": 1,

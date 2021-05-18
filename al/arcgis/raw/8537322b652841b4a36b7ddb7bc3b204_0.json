@@ -374,6 +374,31 @@
                 "x": -87.71017463187124,
                 "y": 30.564533991191055
             }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": null,
+                "f2": "Autauga",
+                "f3": "Autauga County Health Department",
+                "f4": null,
+                "f5": "219N Court street Prattville, AL 36067",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Call 334-361-3743. Wednesdays in June from 8:30am - 3:45pm and Fridays 8:30am - 3:45pm. Walk-ins / No appointment necessary.",
+                "layer_id": 0,
+                "objectId": 379,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.47560591183752,
+                "y": 32.46533630163569
+            }
         }
     ],
     "fields": [

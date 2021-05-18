@@ -4058,7 +4058,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1417,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4068,7 +4068,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85028"
             },
             "geometry": {
@@ -4258,7 +4258,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1424,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4268,7 +4268,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85658"
             },
             "geometry": {
@@ -4818,7 +4818,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1445,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4828,7 +4828,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85737"
             },
             "geometry": {
@@ -5138,7 +5138,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1454,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -5148,7 +5148,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85323"
             },
             "geometry": {
@@ -5338,7 +5338,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1461,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility:  Ages 12+ Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5348,7 +5348,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85258"
             },
             "geometry": {
@@ -5818,7 +5818,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1476,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5828,7 +5828,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85338"
             },
             "geometry": {
@@ -6948,7 +6948,7 @@
                 "spanish_staff_y_n": "Yes",
                 "state": "AZ",
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85032"
             },
             "geometry": {
@@ -16698,7 +16698,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6030,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -16838,46 +16838,6 @@
                 },
                 "x": -112.16992900342213,
                 "y": 33.56871399263326
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "0",
-                "Pfizer": "3",
-                "addr1": "7050 E Golf Links Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Tucson",
-                "county": "Pima",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "7050 E Golf Links Rd Tucson, AZ 85730",
-                "globalid": "ddfed047-628b-4f20-81a1-12fd61f02785",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6034,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
-                "zip": "85730"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.84250799999997,
-                "y": 32.19024600000005
             }
         },
         {
@@ -17378,7 +17338,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6047,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+ .  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17658,7 +17618,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6054,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17898,7 +17858,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6060,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12 + .Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17908,7 +17868,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85737"
             },
             "geometry": {
@@ -18378,7 +18338,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6072,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -18388,7 +18348,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech, J_J",
                 "zip": "85234"
             },
             "geometry": {
@@ -25818,7 +25778,7 @@
                 "loc_name": "State of Arizona POD at WestWorld of Scottsdale",
                 "loc_type": "public",
                 "objectid": 6472,
-                "prereg_comments": "Mon-Sat: 9:00AM-5:00PM (Closed Sun)",
+                "prereg_comments": "Mon-Fri: 9:00AM-5:00PM; Sat 9:00AM-1:00PM",
                 "prereg_phone": null,
                 "prereg_prescreen": "Yes",
                 "prereg_website": "http://podvaccine.azdhs.gov/",
@@ -35805,86 +35765,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "448 E Southern Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "448 E Southern Ave Phoenix, AZ 85040",
-                "globalid": "1977e4b3-06ee-4f22-84b3-c9765478bfec",
-                "layer_id": 0,
-                "loc_name": "CLINICAS DEL DR. CAZARES",
-                "loc_type": "public",
-                "objectid": 6759,
-                "prereg_comments": null,
-                "prereg_phone": null,
-                "prereg_prescreen": "No",
-                "prereg_website": null,
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85040"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.06722797456534,
-                "y": 33.39259298210618
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "6717 N 59th Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Glendale",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "6717 N 59th Ave Glendale, AZ 85301",
-                "globalid": "ad20cf31-3349-4934-8f64-f762fcf765c1",
-                "layer_id": 0,
-                "loc_name": "CLINICAS DEL DR. CAZARES",
-                "loc_type": "public",
-                "objectid": 6760,
-                "prereg_comments": "CALL 623 939 1411 FOR APPOINTMENT",
-                "prereg_phone": null,
-                "prereg_prescreen": "No",
-                "prereg_website": null,
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": "AZ",
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85301"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.185702990827,
-                "y": 33.53576699436446
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "1301 E McDowell Rd",
                 "addr2": null,
                 "begindate": null,
@@ -36924,46 +36804,6 @@
             "attributes": {
                 "J_J": "1",
                 "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "4520 N Central Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "4520 N Central Ave Phoenix, AZ 85012",
-                "globalid": "37c8d6c9-8d34-4b9f-85d5-e85e3894a440",
-                "layer_id": 0,
-                "loc_name": "NATIVE AMERICAN CONNECT-INTEG CLIN",
-                "loc_type": "public",
-                "objectid": 6790,
-                "prereg_comments": null,
-                "prereg_phone": null,
-                "prereg_prescreen": "Yes",
-                "prereg_website": null,
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "ihs",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
-                "zip": "85012"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.07501300241566,
-                "y": 33.50271601858675
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
                 "Pfizer": "3",
                 "addr1": "1230 S Cherrybell Stra",
                 "addr2": null,
@@ -36998,86 +36838,6 @@
                 },
                 "x": -110.94845797445086,
                 "y": 32.205046993775774
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "24722 US-70 W",
-                "addr2": null,
-                "begindate": null,
-                "city": "Pima",
-                "county": "Graham",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "24722 US-70 W Pima, AZ 85543",
-                "globalid": "38ccf843-06e1-4efb-8cfc-46658911e106",
-                "layer_id": 0,
-                "loc_name": "CLARENCE WESLEY HEALTH CARE CENTER",
-                "loc_type": "public",
-                "objectid": 6792,
-                "prereg_comments": null,
-                "prereg_phone": "928-475-1400",
-                "prereg_prescreen": "Yes",
-                "prereg_website": null,
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "ihs",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
-                "zip": "85543"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.11445127693582,
-                "y": 33.12601840913812
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": "111 Medicine Way Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Peridot",
-                "county": "Gila",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "111 Medicine Way Rd Peridot, AZ 85542",
-                "globalid": "06dc3f59-5795-4435-89f8-b3b17a6d0748",
-                "layer_id": 0,
-                "loc_name": "SAN CARLOS HEALTHCARE CORPORATION",
-                "loc_type": "public",
-                "objectid": 6793,
-                "prereg_comments": "The San Carlos Apache Healthcare Corporation COVID-18 Vaccine Clinic is open to everyone (Tribal and non-tribal members) over the age of 16. (Parent/legal guardian consent required if under 18.",
-                "prereg_phone": "928-475-1229",
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.scahealth.org/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "ihs",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": null,
-                "transportation_access": "both",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85542"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.41804419070034,
-                "y": 33.294659129717466
             }
         },
         {
@@ -37168,206 +36928,6 @@
                 "addr1": null,
                 "addr2": null,
                 "begindate": null,
-                "city": "Chambers",
-                "county": "Apache",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "Chambers, AZ 86502",
-                "globalid": "e30c7424-d383-4e82-8bbc-ed7652183c14",
-                "layer_id": 0,
-                "loc_name": "NAHATA DZIIL HEALTH CENTER",
-                "loc_type": "public",
-                "objectid": 6796,
-                "prereg_comments": "Please wear a mask upon arrival. Appointments are not necessary. If you have flu-like symptoms or experiencing shortness of breathe on the weekends, please visit the Emergency Department.",
-                "prereg_phone": "928-729-8000",
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.fdihb.org/covid19#anchor-point1",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "ihs",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "86502"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -109.31710633762374,
-                "y": 35.193681777272474
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": "815 E Juan Sanchez Blvd",
-                "addr2": null,
-                "begindate": null,
-                "city": "San Luis",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "815 E Juan Sanchez Blvd San Luis, AZ 85336",
-                "globalid": "6ab74877-1c51-4d76-8ba0-065ab2aa1bea",
-                "layer_id": 0,
-                "loc_name": "V22 644 PHOENIX, AZ",
-                "loc_type": "public",
-                "objectid": 6797,
-                "prereg_comments": null,
-                "prereg_phone": null,
-                "prereg_prescreen": "Yes",
-                "prereg_website": null,
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "fqhc",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85336"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -114.78060099053224,
-                "y": 32.493748991980105
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": "548 W Hospital Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Ajo",
-                "county": "Apache",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "548 W Hospital Rd Ajo, AZ 85321",
-                "globalid": "14301a47-45a3-450a-8b60-ca1536cf2e50",
-                "layer_id": 0,
-                "loc_name": "CHINLE COMPREHENSIVE HEALTHCARE",
-                "loc_type": "public",
-                "objectid": 6798,
-                "prereg_comments": null,
-                "prereg_phone": "928-674-7001",
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.ihs.gov/navajo/healthcarefacilities/chinle/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "ihs",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85321"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.86460526294542,
-                "y": 32.3690168570271
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": "811 S Hamilton St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Chandler",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "811 S Hamilton St Chandler, AZ 85225",
-                "globalid": "b01ea8d0-bb9a-43c7-8753-a6994893ef68",
-                "layer_id": 0,
-                "loc_name": "VALLEYWISE COMM HLTH CTR - CHANDLER",
-                "loc_type": "public",
-                "objectid": 6799,
-                "prereg_comments": null,
-                "prereg_phone": "833-855-9973",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://valleywisehealth.org/locations/community-health-center-chandler/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "fqhc",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85225"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.83298102199704,
-                "y": 33.29379201088744
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": "6300 N US Highway 89",
-                "addr2": null,
-                "begindate": null,
-                "city": "Flagstaff",
-                "county": "Coconino",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "6300 N US Highway 89 Flagstaff, AZ 86004",
-                "globalid": "811577f6-a7e2-4ed8-823b-dea90bf189bc",
-                "layer_id": 0,
-                "loc_name": "SACRED PEAKS /TCRHCC IHS",
-                "loc_type": "public",
-                "objectid": 6800,
-                "prereg_comments": "Vaccine event start at 9 AM. Please arrive 30 minutes before your scheduled appointment time. Please bring your vaccine card from your 1st dose event.",
-                "prereg_phone": "928-283-1505",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://tchealth.org/coronavirus/vaccination.html",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "ihs",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "86004"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.57174501175608,
-                "y": 35.238551001641234
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": null,
-                "addr2": null,
-                "begindate": null,
                 "city": "Tsaile",
                 "county": "Apache",
                 "enddate": null,
@@ -37375,7 +36935,7 @@
                 "full_address": "Tsaile, AZ 86556",
                 "globalid": "2572613b-8eff-489f-843c-70bf0049acf5",
                 "layer_id": 0,
-                "loc_name": "TSAILE HEALTH CENTER",
+                "loc_name": "Tsaile Health Center",
                 "loc_type": "public",
                 "objectid": 6802,
                 "prereg_comments": null,
@@ -37405,46 +36965,6 @@
                 "J_J": "1",
                 "Moderna": "2",
                 "Pfizer": "3",
-                "addr1": "9407 S Avenida del Yaqui",
-                "addr2": null,
-                "begindate": null,
-                "city": "Tempe",
-                "county": "Pima",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "9407 S Avenida del Yaqui Tempe, AZ 85283",
-                "globalid": "29b1316e-c271-443f-8e39-b1cb8a2e888c",
-                "layer_id": 0,
-                "loc_name": "PASCUA YAQUI TRIBAL HEALTH",
-                "loc_type": "public",
-                "objectid": 6803,
-                "prereg_comments": null,
-                "prereg_phone": "520-879-6000",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.pascuayaqui-nsn.gov/index.php/features/health-services",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "ihs",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85283"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.96305127636704,
-                "y": 33.36176735315347
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "3",
                 "addr1": "481 W Seed Farm Rd",
                 "addr2": null,
                 "begindate": null,
@@ -37455,7 +36975,7 @@
                 "full_address": "481 W Seed Farm Rd Sacaton, AZ 85147",
                 "globalid": "96fdaec5-0ff2-48a8-8ec2-1def2949aa90",
                 "layer_id": 0,
-                "loc_name": "HU HU KAM MEMORIAL HOSPITAL",
+                "loc_name": "Hu Hu Kam Memorial Hospital",
                 "loc_type": "public",
                 "objectid": 6804,
                 "prereg_comments": null,
@@ -37495,13 +37015,13 @@
                 "full_address": "7227 S Central Ave Phoenix, AZ 85042",
                 "globalid": "6d7813a1-a7dd-47e2-8ef1-c8088f600fcc",
                 "layer_id": 0,
-                "loc_name": "south central pharmacy",
+                "loc_name": "South Central Pharmacy",
                 "loc_type": "public",
                 "objectid": 6805,
                 "prereg_comments": null,
                 "prereg_phone": "602-441-3564",
                 "prereg_prescreen": "No",
-                "prereg_website": "southcentralpharmacy.com",
+                "prereg_website": "https://www.southcentralpharmacy.com/",
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
                 "site_category": "other",
                 "site_type": "other",
@@ -37535,7 +37055,7 @@
                 "full_address": "4212 N 16th St Phoenix, AZ 85016",
                 "globalid": "08d425fd-bebe-46c3-8d1f-75d61708fbe9",
                 "layer_id": 0,
-                "loc_name": "phoenix indian medical center",
+                "loc_name": "Phoenix Indian Medical Center",
                 "loc_type": "public",
                 "objectid": 6806,
                 "prereg_comments": null,
@@ -37547,7 +37067,7 @@
                 "site_type": "other",
                 "spanish_staff_y_n": "Yes",
                 "state": null,
-                "transportation_access": "drive_through",
+                "transportation_access": "walk_through",
                 "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85016"
             },
@@ -37583,7 +37103,7 @@
                 "prereg_prescreen": "No",
                 "prereg_website": "https://adelantehealthcare.com/",
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
+                "site_category": "fqhc",
                 "site_type": "other",
                 "spanish_staff_y_n": "Yes",
                 "state": null,
@@ -37638,6 +37158,526 @@
                 },
                 "x": -111.82572103656165,
                 "y": 33.413699997315966
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "140 W Speedway Blvd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tucson",
+                "county": "Pima",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "140 W Speedway Blvd Tucson, AZ 85705",
+                "globalid": "b14a63fd-f76b-48e8-8ba7-b6fbbc3a12e1",
+                "layer_id": 0,
+                "loc_name": "El Rio Health - St. Elizabeth's",
+                "loc_type": "public",
+                "objectid": 6809,
+                "prereg_comments": "Go to the website to fill out the registration form to schedule a COVID 19 vaccine appointment for an established El Rio patients.  Established El Rio patients will be contacted via text message and/or email with appointment dates and times for both doses of the vaccine.  Appointments are provided Monday through Friday.",
+                "prereg_phone": "520-670-3909",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.elrio.org/covidvaccine/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85705"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.97424900670268,
+                "y": 32.23651701688603
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "Monument Valley Blvd",
+                "addr2": null,
+                "begindate": 1621364400000,
+                "city": "Kayenta",
+                "county": "Coconino",
+                "enddate": 1621450800000,
+                "event_yn": "Yes",
+                "full_address": "Monument Valley Blvd Kayenta, AZ 86033",
+                "globalid": "b71da2a4-38de-4443-84b6-3c3634b9ab31",
+                "layer_id": 0,
+                "loc_name": "Inscription House Health Center-Monument Valley High School",
+                "loc_type": "public",
+                "objectid": 6813,
+                "prereg_comments": "Drive-Thru at Monument Valley High School Nash Center Parking Lot, Kayenta, AZMay 18-19, 2021 9:00 AM – 3:00 PM. For Individuals, age 12 years and olderNo Appointment Needed",
+                "prereg_phone": "928-697-5170",
+                "prereg_prescreen": "No",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "86033"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.24577922599448,
+                "y": 36.72627802039348
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": null,
+                "addr2": null,
+                "begindate": null,
+                "city": "Kayenta",
+                "county": "Navajo",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "Kayenta, AZ 86033",
+                "globalid": "5e95e39f-0a0f-44aa-8a14-c09d4008aca0",
+                "layer_id": 0,
+                "loc_name": "Kayenta Health Center",
+                "loc_type": "public",
+                "objectid": 6814,
+                "prereg_comments": "Now vaccinating those who are ages 12 and up with the Pfizer #COVID19 vaccine. If you’re a parent or guardian who wants to protect your child, or if you’re a teenager who is interested in getting vaccinated, please call (928)697-4000 for more information.",
+                "prereg_phone": "928-697-4000",
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "86033"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.23362999999996,
+                "y": 36.70411000000007
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "AZ-264",
+                "addr2": null,
+                "begindate": null,
+                "city": "Ganado",
+                "county": "Apache",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "AZ-264 Ganado, AZ 86505",
+                "globalid": "ee5ad1f4-1c0c-4131-8d8f-561f304a6fa3",
+                "layer_id": 0,
+                "loc_name": "Sage Memorial Hospital",
+                "loc_type": "public",
+                "objectid": 6815,
+                "prereg_comments": "Offering the Pfizer COVID-19 vaccine today for individuals who are 12 years and older – those who are 12-17 years old must be accompanied by a parent or guardian.",
+                "prereg_phone": "928-755-4500",
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86505"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -109.54342999999994,
+                "y": 35.71066000000007
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "Corner of Routes N12 & N7",
+                "addr2": null,
+                "begindate": null,
+                "city": "Fort Defiance",
+                "county": "Apache",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "Corner of Routes N12 & N7 Fort Defiance, AZ 86504",
+                "globalid": "277927a7-b843-4d86-8d8c-0b05c026eccb",
+                "layer_id": 0,
+                "loc_name": "Tséhootsooí Medical Center",
+                "loc_type": "public",
+                "objectid": 6816,
+                "prereg_comments": "Pfizer: 12 years old & Older (12-17 years old with accompanying parentor legal guardian). Moderna: 18 years old and Older. All individuals must live within the communities FDIHB serves and have established Patient Medical Records at Tséhootsooí Medical Center or Nahata’Dziil Health Center. Events and clinics are subject to change. For updates and changes, please look on our Facebook or Instagram pages.",
+                "prereg_phone": "928-729-3435",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.fdihb.org/tsehootsooi",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86504"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -109.04779999999994,
+                "y": 35.75925000000006
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "500 Indiana Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Winslow",
+                "county": "Navajo",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "500 Indiana Ave Winslow, AZ 86047",
+                "globalid": "6229b635-07f4-40a9-8255-776f631a656d",
+                "layer_id": 0,
+                "loc_name": "Winslow Indian Health Center",
+                "loc_type": "public",
+                "objectid": 6817,
+                "prereg_comments": "All WIHCC patients 12 years & older now eligible. Call (928) 289-1930 to make an appointment.",
+                "prereg_phone": "928-289-1930",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.wihcc.com/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86047"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.7147423528526,
+                "y": 35.03239403668193
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "668 N 44th St",
+                "addr2": null,
+                "begindate": 1621882800000,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": 1622314800000,
+                "event_yn": "Yes",
+                "full_address": "668 N 44th St Phoenix, AZ 85008",
+                "globalid": "dbd850a6-9aeb-424e-8273-02868fdc8c2e",
+                "layer_id": 0,
+                "loc_name": "Passport Health",
+                "loc_type": "public",
+                "objectid": 6818,
+                "prereg_comments": "Vaccines available:Mondays-Thursdays 7:30am-3:30pmSaturday, May 29      8:00am-12:00pm",
+                "prereg_phone": "877-358-8648",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://covidsafeaz.com/covid-19/az/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85008"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.98772897570754,
+                "y": 33.45554300279147
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "11200 N 83rd Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Peoria",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "11200 N 83rd Ave Peoria, AZ 85345",
+                "globalid": "c365484b-74f9-4c00-8e06-d133318f9ed6",
+                "layer_id": 0,
+                "loc_name": "Peoria High School",
+                "loc_type": "public",
+                "objectid": 6819,
+                "prereg_comments": "alternating weeks        starting June 1, 2021       8am to 3pm         12pm to 7pm",
+                "prereg_phone": "602-618-3208",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://kordinator.mhealthcoach.net/vcl/1621275772918",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85345"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.238853979967,
+                "y": 33.58709600921119
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "950 E Van Buren St",
+                "addr2": null,
+                "begindate": null,
+                "city": "Avondale",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "950 E Van Buren St Avondale, AZ 85323",
+                "globalid": "4ead54d2-1f32-488e-8d27-1a79b6a72f89",
+                "layer_id": 0,
+                "loc_name": "Valleywise Community Health Center – Avondale",
+                "loc_type": "public",
+                "objectid": 6820,
+                "prereg_comments": null,
+                "prereg_phone": "833-855-9973",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.valleywisehealth.org/book-an-appointment/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85323"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.33741300755058,
+                "y": 33.45043599300572
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "13169 Cornerstone Blvd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Goodyear",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "13169 Cornerstone Blvd Goodyear, AZ 85395",
+                "globalid": "ef309a0f-5c6e-46bc-86a7-dbcbc3d19192",
+                "layer_id": 0,
+                "loc_name": "Adelante Healthcare - Goodyear",
+                "loc_type": "public",
+                "objectid": 6821,
+                "prereg_comments": "Adelante is making COVID-19 vaccines available to qualifying patients through routine patient visits and with select drive-through events at our health centers. Please call or visit our website for more information.",
+                "prereg_phone": "877-809-5092",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://adelantehealthcare.com/covid-vaccine-faq/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85395"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.34739194944328,
+                "y": 33.46072905831462
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "100 N Gila Blvd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Gila Bend",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "100 N Gila Blvd Gila Bend, AZ 85337",
+                "globalid": "48601de7-69a0-496d-8e36-a55f825e18cb",
+                "layer_id": 0,
+                "loc_name": "Adelante Healthcare - Gila Bend",
+                "loc_type": "public",
+                "objectid": 6822,
+                "prereg_comments": "Adelante is making COVID-19 vaccines available to qualifying patients through routine patient visits and with select drive-through events at our health centers. Please call or visit our website for more information.",
+                "prereg_phone": "877-809-5092",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.adelantehealthcare.com/covid-vaccine-faq/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85337"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.73596640227046,
+                "y": 32.944132118288536
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "101 W Irvington Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tucson",
+                "county": "Pima",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "101 W Irvington Rd Tucson, AZ 85714",
+                "globalid": "c4d02c0b-6999-4105-82e9-65ff82ef4b73",
+                "layer_id": 0,
+                "loc_name": "El Rio Health-El Pueblo Health Center",
+                "loc_type": "public",
+                "objectid": 6823,
+                "prereg_comments": "Go to the website to fill out the registration form to schedule a COVID 19 vaccine appointment for an established El Rio patients.  Established El Rio patients will be contacted via text message and/or email with appointment dates and times for both doses of the vaccine.  Appointments are provided Monday through Friday.",
+                "prereg_phone": "520-670-3909",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.elrio.org/covid19/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85714"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.96936986577406,
+                "y": 32.16285188885456
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "6950 E Golf links Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tucson",
+                "county": "Pima",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "6950 E Golf links Rd Tucson, AZ 85730",
+                "globalid": "5e9006f3-a3fe-443c-8ac0-b1cf93383254",
+                "layer_id": 0,
+                "loc_name": "El Rio Health - Southeast Health Center",
+                "loc_type": "public",
+                "objectid": 6824,
+                "prereg_comments": "Go to the website to fill out the registration form to schedule a COVID 19 vaccine appointment for an established El Rio patients.  Established El Rio patients will be contacted via text message and/or email with appointment dates and times for both doses of the vaccine.  Appointments are provided Monday through Friday.",
+                "prereg_phone": "520-670-3909",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://www.elrio.org/covid19/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85730"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.8448309045154,
+                "y": 32.19181775299926
             }
         }
     ],
