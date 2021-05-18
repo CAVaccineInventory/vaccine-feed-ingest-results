@@ -20244,46 +20244,6 @@
             "attributes": {
                 "J_J": "0",
                 "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": "1840 E Broadway Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1824 E Broadway Rd Phoenix, AZ 85040",
-                "globalid": "77fe28d4-c28f-48a6-8fb9-48f52de16241",
-                "layer_id": 0,
-                "loc_name": "Mountain Park Health Center PHX Clinic",
-                "loc_type": "public",
-                "objectid": 6148,
-                "prereg_comments": "1840 not 1824Moderna, Pfizer and J&JWe are offering vaccines to everyone 16 and over. Just call to schedule your appointment! 602-243-7277. Tenemos vacunas para todas las persona 16 años y mayores. Solamente llamenos para hacer su cita. 602-243-7277.",
-                "prereg_phone": "602-243-7277",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://mountainparkhealth.org/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,​​​​Moderna, Pfizer_BioNTech",
-                "zip": "85040"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.04235391697271,
-                "y": 33.406872093813575
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
                 "Pfizer": "0",
                 "addr1": "49 W Southern Ave",
                 "addr2": null,
@@ -21940,7 +21900,7 @@
                 "objectid": 6242,
                 "prereg_comments": "Vaccinating 18+",
                 "prereg_phone": "866-974-2673",
-                "prereg_prescreen": "Yes",
+                "prereg_prescreen": "No",
                 "prereg_website": "https://thecoreinstitute.com/vaccine/",
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
                 "site_category": "other",
@@ -22485,86 +22445,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "406 S 6th St",
-                "addr2": null,
-                "begindate": 1611601200000,
-                "city": "Cottonwood",
-                "county": "Yavapai",
-                "enddate": 1621105200000,
-                "event_yn": "Yes",
-                "full_address": "406 S 6th St Cottonwood, AZ 86326",
-                "globalid": "7bf8ddd3-4d90-4b3d-80a3-b2ad1f7bd864",
-                "layer_id": 0,
-                "loc_name": "Spectrum Healthcare Vaccination Station Cottonwood",
-                "loc_type": "public",
-                "objectid": 6292,
-                "prereg_comments": "Go to the link to schedule an appointment online. Walk-ins accepted as well.",
-                "prereg_phone": null,
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.spectrumhg.org/vaccine/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "86326"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.02334200591936,
-                "y": 34.7317769866119
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "3201 N Main St",
-                "addr2": null,
-                "begindate": 1611601200000,
-                "city": "Prescott Valley",
-                "county": "Yavapai",
-                "enddate": 1621018800000,
-                "event_yn": "Yes",
-                "full_address": "3001 N Main St Prescott Valley, AZ 86314",
-                "globalid": "2cc30e69-6059-479b-89c5-c4ea36d556de",
-                "layer_id": 0,
-                "loc_name": "Spectrum Health - Findlay Toyota Event Center",
-                "loc_type": "public",
-                "objectid": 6294,
-                "prereg_comments": "Appointments available by going to their links. Walk-in's are welcome during operating hours.",
-                "prereg_phone": null,
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.spectrumhg.org/vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": "AZ",
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "86314"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.33717999064233,
-                "y": 34.58643801258244
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "1500 N Hohokam Dr",
                 "addr2": null,
                 "begindate": null,
@@ -22660,7 +22540,7 @@
                 "objectid": 6301,
                 "prereg_comments": "Ages 18 and up",
                 "prereg_phone": "866-974-2673",
-                "prereg_prescreen": "Yes",
+                "prereg_prescreen": "No",
                 "prereg_website": "https://thecoreinstitute.com/vaccine/",
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
                 "site_category": "other",
@@ -25218,9 +25098,9 @@
                 "loc_name": "The Core Institute West Phoenix",
                 "loc_type": "public",
                 "objectid": 6435,
-                "prereg_comments": "Vaccinating 18+",
+                "prereg_comments": "Please call to schedule Janssen 866-974-2674",
                 "prereg_phone": "866-974-2673",
-                "prereg_prescreen": "Yes",
+                "prereg_prescreen": "No",
                 "prereg_website": "https://thecoreinstitute.com/vaccine/",
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
                 "site_category": "other",
@@ -25228,7 +25108,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,J_J",
                 "zip": "85037"
             },
             "geometry": {
@@ -37678,6 +37558,86 @@
                 },
                 "x": -112.04885802792796,
                 "y": 33.49717700551131
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "701 S 3rd Ave",
+                "addr2": null,
+                "begindate": 1621710000000,
+                "city": "Phoenix",
+                "county": "Maricopa",
+                "enddate": 1621710000000,
+                "event_yn": "Yes",
+                "full_address": "701 S 3rd Ave Phoenix, AZ 85003",
+                "globalid": "868fb6a6-bcc9-4e61-8e36-f7682cd0c23c",
+                "layer_id": 0,
+                "loc_name": "Adelante Healthcare at Grant Park",
+                "loc_type": "public",
+                "objectid": 6807,
+                "prereg_comments": "Adelante Healthcare will be at Grant Park, This Saturday May 22nd from 8AM - 2PM.FREE Vaccines to the community.",
+                "prereg_phone": "602-536-7800",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://adelantehealthcare.com/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85003"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.07671999999998,
+                "y": 33.440630000000056
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "59 S Hibbert",
+                "addr2": null,
+                "begindate": null,
+                "city": "Mesa",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "59 S Hibbert Mesa, AZ 85210",
+                "globalid": "4a9c7c72-e30f-45b9-8052-40331d9dba9d",
+                "layer_id": 0,
+                "loc_name": "Valleywise Community Health Center – Mesa",
+                "loc_type": "public",
+                "objectid": 6808,
+                "prereg_comments": null,
+                "prereg_phone": "833-855-9973",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://valleywisehealth.org/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85210"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.82572103656165,
+                "y": 33.413699997315966
             }
         }
     ],

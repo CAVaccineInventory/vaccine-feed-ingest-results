@@ -1,5 +1,20 @@
 [
     {
+        "id": 63,
+        "name": "Nassau - Hicksville Train Station (Hicksville, NY) -- J&J",
+        "address": "Hicksville Avenue",
+        "suite": "",
+        "city": "Hicksville",
+        "state": "NY",
+        "zip": "11801",
+        "county": "Nassua",
+        "latitude": "40.766",
+        "longitude": "-73.5378",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tmr0EAC",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "distance": null
+    },
+    {
         "id": 62,
         "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- J&J",
         "address": "335 Greenwich Street",
@@ -57,21 +72,6 @@
         "longitude": "-73.0926",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfOLEA0",
         "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
-        "id": 55,
-        "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- J&J",
-        "address": "5181 Sunrise Highway",
-        "suite": "",
-        "city": "Bohemia",
-        "state": "NY",
-        "zip": "11716",
-        "county": "Suffolk",
-        "latitude": "40.7648",
-        "longitude": "-73.0926",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4aEAC",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
         "distance": null
     },
     {
