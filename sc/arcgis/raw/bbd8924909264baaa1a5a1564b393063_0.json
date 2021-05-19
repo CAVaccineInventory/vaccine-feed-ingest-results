@@ -43193,7 +43193,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6bc7fa20-bbd2-4be2-8b10-c7201dfbcf38",
                 "Loc_ID": 1352,
@@ -45223,7 +45223,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "48d64e17-823e-4cf7-920a-4ece7d1a1b01",
                 "Loc_ID": null,
@@ -45258,7 +45258,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "bf7e6e02-8313-4470-8a24-2ed1ca839e37",
                 "Loc_ID": null,
@@ -58453,7 +58453,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c8f1274a-a1e9-4f5b-928b-b8b086a07705",
                 "Loc_ID": null,
@@ -58488,7 +58488,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "76839654-cd18-4634-8f61-9f1c0a8fe1da",
                 "Loc_ID": null,
@@ -65383,7 +65383,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5e862306-10b2-4da0-b0cd-615f29fc7777",
                 "Loc_ID": null,
@@ -76130,41 +76130,6 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
-                "GlobalID": "49f5bee8-a8cc-448d-92c6-a62d77f16246",
-                "Loc_ID": null,
-                "OBJECTID": 28711,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "5400 Cane Savannah Rd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Wedgefield",
-                "SitePhone": "843-727-7227",
-                "SiteState": "SC",
-                "SiteZip": "29168",
-                "URL": "http://www.musc.co/community",
-                "V_Manufacturer": "PFR",
-                "layer_id": 0,
-                "loc_name": "MUSC Health @ Delaine Community Center",
-                "loc_type1": null,
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.47918539037425,
-                "y": 33.9318204805578
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
                 "GlobalID": "2affe52a-99bc-4866-8d97-75675791c550",
                 "Loc_ID": null,
                 "OBJECTID": 28712,
@@ -76333,41 +76298,6 @@
                 },
                 "x": -80.99250020218778,
                 "y": 34.9213453415241
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": null,
-                "Appointments": null,
-                "Contact": null,
-                "GlobalID": "21a284f9-8679-44b2-b601-c74b9da10887",
-                "Loc_ID": null,
-                "OBJECTID": 29911,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": null,
-                "SiteAddressDetail": null,
-                "SiteCity": null,
-                "SitePhone": null,
-                "SiteState": null,
-                "SiteZip": null,
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": null,
-                "loc_type1": null,
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.36701187630007,
-                "y": 34.8414143293939
             }
         },
         {
@@ -76688,7 +76618,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d66d7d92-bcf8-4975-9622-83792eae329b",
                 "Loc_ID": null,
@@ -76718,6 +76648,76 @@
                 },
                 "x": -81.03582759436017,
                 "y": 34.00934737065427
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0ccf7d0e-48db-467e-8f20-7ac6e20fe5df",
+                "Loc_ID": null,
+                "OBJECTID": 30312,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "360 Fishburne St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-876-7227",
+                "SiteState": "SC",
+                "SiteZip": "29403",
+                "URL": "https://muschealth.org/vaccine-riverdogs",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "MUSC Health @ Joseph P. Riley, Jr. Park",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.96048867700642,
+                "y": 32.79051057081358
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "b101eb4d-0647-4855-ad92-9028aac43f81",
+                "Loc_ID": null,
+                "OBJECTID": 30313,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1900 Society Hill Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Darlington",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29540",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Round-O Missionary Baptist",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.83768080353639,
+                "y": 34.38206451549337
             }
         }
     ],

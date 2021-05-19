@@ -1,17 +1,17 @@
 [
     {
-        "id": 30,
-        "name": "Nassau - Elmont (2150 Hempstead Tpk) -- Pfizer",
-        "address": "2150 Hempstead Turnpike",
+        "id": 26,
+        "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Moderna",
+        "address": "284 Pulaski Road",
         "suite": "",
-        "city": "Elmont",
+        "city": "Greenlawn",
         "state": "NY",
-        "zip": "11003",
-        "county": "Nassau",
-        "latitude": "40.7095",
-        "longitude": "-73.7204",
+        "zip": "11740",
+        "county": "Suffolk",
+        "latitude": "40.8584",
+        "longitude": "-73.3884",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Pfizer",
+        "vaccine_manufacturer": "Moderna",
         "distance": null
     },
     {
