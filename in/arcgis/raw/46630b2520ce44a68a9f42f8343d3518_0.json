@@ -13250,38 +13250,6 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": "State",
-                "GlobalID": "832480a8-f65e-4e90-b3ee-23869bb71157",
-                "ID": "ISDH1539",
-                "IsView": 1,
-                "Name": "Valley Professionals Community Health Ctr Cayuga",
-                "OBJECTID": 563,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "703 W. Park St, Cayuga, IN  47928",
-                "Site_County": "Vermillion",
-                "Site_Location_Info": "Last day of clinic:  5.18.2021",
-                "Site_Name": "Valley Professionals Cayuga VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.46907237195211,
-                "y": 39.94058044060599
-            }
-        },
-        {
-            "attributes": {
                 "FQHC_Registry_Stat": null,
                 "GlobalID": "55371b62-5ee1-43cb-be7c-57073aacb2ac",
                 "ID": "ISDH1293",
