@@ -75813,7 +75813,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9d1cdc32-fa35-4421-b35a-482b0033d8b9",
                 "Loc_ID": null,
@@ -76683,6 +76683,41 @@
                 },
                 "x": -79.96439657172385,
                 "y": 32.845271297294744
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "d66d7d92-bcf8-4975-9622-83792eae329b",
+                "Loc_ID": null,
+                "OBJECTID": 30311,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "1727 Sumter St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": "1–844-579-1500",
+                "SiteState": "SC",
+                "SiteZip": "29201",
+                "URL": "http://www.healthforceus.com/",
+                "V_Manufacturer": "MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "COMET Central Transit Center",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.03582759436017,
+                "y": 34.00934737065427
             }
         }
     ],
