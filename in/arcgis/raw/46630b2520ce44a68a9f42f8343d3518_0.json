@@ -34243,38 +34243,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "a31d1508-2c33-4ba2-9065-04319f180c3e",
-                "ID": null,
-                "IsView": 1,
-                "Name": "The Center of Lacrosse VAX",
-                "OBJECTID": 1264,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "100 S Washington St, La Crosse, IN 46348",
-                "Site_County": "LaPorte",
-                "Site_Location_Info": "Mobile site 5/18 – 5/19;  9 am – 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "FEMA - The Center of La Crosse VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.89209415966394,
-                "y": 41.31625695514856
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "1dd24a72-3290-46c0-a04d-97f380356c8a",
                 "ID": null,
                 "IsView": 1,
