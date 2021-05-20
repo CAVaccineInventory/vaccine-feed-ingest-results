@@ -298,7 +298,7 @@
                 "loc_name": "Apache County Public Health Services District",
                 "loc_type": "public",
                 "objectid": 51,
-                "prereg_comments": "Call 928-337-7975 for an appointment. Open for Apache County residents 18+.",
+                "prereg_comments": "Open for Apache County residents 18+. Spanish speaking staff available",
                 "prereg_phone": "928-337-7975",
                 "prereg_prescreen": "Yes",
                 "prereg_website": null,
@@ -1918,46 +1918,6 @@
                 },
                 "x": -114.59575697528,
                 "y": 35.002462000121575
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "2446 Fort Tuthill Loop",
-                "addr2": null,
-                "begindate": null,
-                "city": "Flagstaff",
-                "county": "Coconino",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": null,
-                "globalid": "104f8f6c-a7fd-42cc-8833-fa5f7ff12880",
-                "layer_id": 0,
-                "loc_name": "Coconino County Health and Human Services Fort Tuthill Vaccination Site",
-                "loc_type": "public",
-                "objectid": 158,
-                "prereg_comments": "Any Coconino County resident over the age of 18 may receive a vaccination at Fort Tuthill. Operations ends 5/18/2021",
-                "prereg_phone": "928-679-7300",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.coconino.az.gov/covid19vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "pod_cty",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": "Arizona",
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "86005"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.69273996338654,
-                "y": 35.141270004743696
             }
         },
         {
@@ -6778,7 +6738,7 @@
                 "loc_name": "Paper Cranes Healthcare",
                 "loc_type": "public",
                 "objectid": 1558,
-                "prereg_comments": "We are vaccinating all age groups. Please visit the link to view and sign up for available appointments.  If you have any questions, please contact us at contact@papercraneshealthcare.com.",
+                "prereg_comments": "We are vaccinating Ages 12+ (Pfizer Only). Please visit the link to view and sign up for available appointments.  If you have any questions, please contact us at contact@papercraneshealthcare.com.",
                 "prereg_phone": "480-704-3474",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://orgmyrange.com/papercranescovid19/",
@@ -24698,7 +24658,7 @@
                 "loc_name": "Apache County Health Services District - RV Clinic",
                 "loc_type": "public",
                 "objectid": 6414,
-                "prereg_comments": "Services provided to Apache County Residents 18+",
+                "prereg_comments": "COVID-19 Vaccine to Apache County Residents 18+ Hours: Mon-Thurs 7:00AM-Noon and 1:00 PM-5:30 PM",
                 "prereg_phone": "928-333-2415",
                 "prereg_prescreen": "Yes",
                 "prereg_website": null,
@@ -35645,6 +35605,46 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
+                "addr1": "6717 N 59th Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Glendale",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "6717 N 59th Ave Glendale, AZ 85301",
+                "globalid": "ad20cf31-3349-4934-8f64-f762fcf765c1",
+                "layer_id": 0,
+                "loc_name": "Clinicas del Dr. Cazares",
+                "loc_type": "public",
+                "objectid": 6760,
+                "prereg_comments": "Call 623-939-1411 for an appointment.",
+                "prereg_phone": "623-939-1411",
+                "prereg_prescreen": "No",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "Moderna",
+                "zip": "85301"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.185702990827,
+                "y": 33.53576699436446
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "0",
                 "addr1": "1301 E McDowell Rd",
                 "addr2": null,
                 "begindate": null,
@@ -36724,6 +36724,86 @@
             "attributes": {
                 "J_J": "1",
                 "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "24722 US-70 W",
+                "addr2": null,
+                "begindate": null,
+                "city": "Pima",
+                "county": "Graham",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "24722 US-70 W Pima, AZ 85543",
+                "globalid": "38ccf843-06e1-4efb-8cfc-46658911e106",
+                "layer_id": 0,
+                "loc_name": "Clarence Wesley Healthcare Center",
+                "loc_type": "public",
+                "objectid": 6792,
+                "prereg_comments": null,
+                "prereg_phone": "928-475-1400",
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna",
+                "zip": "85543"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.11445127693582,
+                "y": 33.12601840913812
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "111 Medicine Way Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Peridot",
+                "county": "Gila",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "111 Medicine Way Rd Peridot, AZ 85542",
+                "globalid": "06dc3f59-5795-4435-89f8-b3b17a6d0748",
+                "layer_id": 0,
+                "loc_name": "San Carlos Healthcare Corporation",
+                "loc_type": "public",
+                "objectid": 6793,
+                "prereg_comments": "The San Carlos Apache Healthcare Corporation COVID-18 Vaccine Clinic is open to everyone (Tribal and non-tribal members) over the age of 16. (Parent/legal guardian consent required if under 18.",
+                "prereg_phone": "928-475-1229",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.scahealth.org/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "both",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85542"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.41804419070034,
+                "y": 33.294659129717466
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
                 "Pfizer": "3",
                 "addr1": "2025 W Northern Ave",
                 "addr2": null,
@@ -36798,6 +36878,206 @@
                 },
                 "x": -111.71488402956858,
                 "y": 32.88216600794446
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": null,
+                "addr2": null,
+                "begindate": null,
+                "city": "Chambers",
+                "county": "Apache",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "Chambers, AZ 86502",
+                "globalid": "e30c7424-d383-4e82-8bbc-ed7652183c14",
+                "layer_id": 0,
+                "loc_name": "Nahata Dzil Health Center",
+                "loc_type": "public",
+                "objectid": 6796,
+                "prereg_comments": "Please wear a mask upon arrival. Appointments are not necessary. If you have flu-like symptoms or experiencing shortness of breathe on the weekends, please visit the Emergency Department.",
+                "prereg_phone": "928-729-8000",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.fdihb.org/covid19#anchor-point1",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86502"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -109.31710633762374,
+                "y": 35.193681777272474
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "815 E Juan Sanchez Blvd",
+                "addr2": null,
+                "begindate": null,
+                "city": "San Luis",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "815 E Juan Sanchez Blvd San Luis, AZ 85336",
+                "globalid": "6ab74877-1c51-4d76-8ba0-065ab2aa1bea",
+                "layer_id": 0,
+                "loc_name": "Sunset Health - San Luis",
+                "loc_type": "public",
+                "objectid": 6797,
+                "prereg_comments": null,
+                "prereg_phone": "928-627-3822",
+                "prereg_prescreen": "Yes",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85336"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -114.78060099053224,
+                "y": 32.493748991980105
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "548 W Hospital Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Ajo",
+                "county": "Apache",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "548 W Hospital Rd Ajo, AZ 85321",
+                "globalid": "14301a47-45a3-450a-8b60-ca1536cf2e50",
+                "layer_id": 0,
+                "loc_name": "Chinle Comprehensive Healthcare",
+                "loc_type": "public",
+                "objectid": 6798,
+                "prereg_comments": null,
+                "prereg_phone": "928-674-7001",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.ihs.gov/navajo/healthcarefacilities/chinle/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85321"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.86460526294542,
+                "y": 32.3690168570271
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "811 S Hamilton St",
+                "addr2": null,
+                "begindate": null,
+                "city": "Chandler",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "811 S Hamilton St Chandler, AZ 85225",
+                "globalid": "b01ea8d0-bb9a-43c7-8753-a6994893ef68",
+                "layer_id": 0,
+                "loc_name": "Valleywise Community Health Center - Chandler",
+                "loc_type": "public",
+                "objectid": 6799,
+                "prereg_comments": null,
+                "prereg_phone": "833-855-9973",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://valleywisehealth.org/locations/community-health-center-chandler/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "fqhc",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "85225"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.83298102199704,
+                "y": 33.29379201088744
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "3",
+                "addr1": "6300 N US Highway 89",
+                "addr2": null,
+                "begindate": null,
+                "city": "Flagstaff",
+                "county": "Coconino",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "6300 N US Highway 89 Flagstaff, AZ 86004",
+                "globalid": "811577f6-a7e2-4ed8-823b-dea90bf189bc",
+                "layer_id": 0,
+                "loc_name": "Sacred Peaks Health Center-Tuba City Regional Health Care Corporation",
+                "loc_type": "public",
+                "objectid": 6800,
+                "prereg_comments": "Vaccine event start at 9 AM. Please arrive 30 minutes before your scheduled appointment time. Please bring your vaccine card from your 1st dose event.",
+                "prereg_phone": "928-283-1505",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://tchealth.org/coronavirus/vaccination.html",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "ihs",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "drive_through",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "zip": "86004"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.57174501175608,
+                "y": 35.238551001641234
             }
         },
         {

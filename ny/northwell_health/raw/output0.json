@@ -15,21 +15,6 @@
         "distance": null
     },
     {
-        "id": 62,
-        "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- J&J",
-        "address": "335 Greenwich Street",
-        "suite": "",
-        "city": "Hempstead",
-        "state": "NY",
-        "zip": "11550",
-        "county": "Nassau",
-        "latitude": "40.6991",
-        "longitude": "-73.6129",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TlTqEAK",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
-        "distance": null
-    },
-    {
         "id": 59,
         "name": "Suffolk - Cherry Grove Community House (180 Bayview Walk) -- J&J",
         "address": "180 Bayview Walk",
@@ -147,6 +132,21 @@
         "longitude": "-73.7204",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 26,
+        "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Moderna",
+        "address": "284 Pulaski Road",
+        "suite": "",
+        "city": "Greenlawn",
+        "state": "NY",
+        "zip": "11740",
+        "county": "Suffolk",
+        "latitude": "40.8584",
+        "longitude": "-73.3884",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
         "distance": null
     }
 ]

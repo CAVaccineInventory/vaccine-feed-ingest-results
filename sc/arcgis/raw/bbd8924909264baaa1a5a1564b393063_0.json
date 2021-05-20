@@ -7108,7 +7108,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e04c1386-7133-40f9-a312-905b999cf654",
                 "Loc_ID": 1033,
@@ -44663,7 +44663,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5590bf1f-82a2-4205-b818-2e25b45a83d3",
                 "Loc_ID": null,
@@ -58628,7 +58628,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a8240427-cb1d-4942-8041-5da69204de9f",
                 "Loc_ID": null,
@@ -61778,7 +61778,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "16bb37c0-1cb4-438c-a91c-4c0e8e8f2285",
                 "Loc_ID": null,

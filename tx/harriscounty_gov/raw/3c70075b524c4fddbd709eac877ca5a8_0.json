@@ -2162,33 +2162,6 @@
         },
         {
             "attributes": {
-                "address": "1620 Spencer Hwy, South Houston, Texas 77587",
-                "dose": "Single",
-                "globalid": "fbb16fab-af52-478e-8cf9-9910a5877fac",
-                "lat": 29.6647412994585,
-                "layer_id": 0,
-                "location": "CVU1 Education Based Housing",
-                "lon": -95.2095982846007,
-                "notes": null,
-                "objectid": 89,
-                "operatingdays1": "May 20",
-                "operatinghours1": "2:00 PM - 7:00 PM",
-                "phone": "832-927-8787",
-                "service_item_id": "3c70075b524c4fddbd709eac877ca5a8",
-                "typeofvaccine": "Johnson&Johnson",
-                "website": "https://vacstrac.hctx.net/landing"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -95.2095982846023,
-                "y": 29.664741299459
-            }
-        },
-        {
-            "attributes": {
                 "address": "NRG Park Yellow Lot (Gate 16), 9036 S. Main Street, Houston, TX 77054",
                 "dose": "Multiple",
                 "globalid": "7d5f8cfd-1036-4914-8ad5-670f68c0b724",
