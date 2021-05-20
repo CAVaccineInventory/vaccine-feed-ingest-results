@@ -50,39 +50,31 @@
 <text top="1622" left="64" width="372" height="25" font="9"><i><b>400 Reverend Abraham Woods Jr. Blvd,</b></i></text>
 <text top="1654" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35204</b></i></text>
 <text top="1685" left="251" width="5" height="25" font="10"> </text>
-<text top="1717" left="103" width="295" height="25" font="9"><i><b>Hoover Metropolitan Complex </b></i></text>
-<text top="1748" left="131" width="240" height="25" font="9"><i><b>100 Ben Chapman Drive, </b></i></text>
-<text top="1780" left="168" width="165" height="25" font="9"><i><b>Hoover, AL 35244</b></i></text>
-<text top="1812" left="251" width="5" height="25" font="10"> </text>
-<text top="1843" left="131" width="239" height="25" font="9"><i><b>UAB Hospital Highlands  </b></i></text>
-<text top="1875" left="135" width="232" height="25" font="9"><i><b>1130 12th Street South, </b></i></text>
-<text top="1906" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35205</b></i></text>
-<text top="1536" left="467" width="384" height="26" font="6"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
-<text top="1569" left="659" width="5" height="26" font="11"> </text>
-<text top="1602" left="504" width="309" height="26" font="6"><i><b>Cahaba Medical Care Fairfield </b></i></text>
-<text top="1635" left="555" width="208" height="26" font="6"><i><b>6900 Grasselli Road, </b></i></text>
-<text top="1668" left="563" width="191" height="26" font="6"><i><b>Fairfield, AL 35064 </b></i></text>
-<text top="1701" left="587" width="144" height="26" font="6"><i><b>(205) 791-5048</b></i></text>
-<text top="1733" left="659" width="5" height="26" font="11"> </text>
-<text top="1766" left="499" width="320" height="26" font="6"><i><b>Cahaba Medical Care Bessemer </b></i></text>
-<text top="1799" left="525" width="268" height="26" font="6"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
-<text top="1832" left="561" width="196" height="26" font="6"><i><b>Bessemer, AL 35022</b></i></text>
-<text top="1865" left="587" width="144" height="26" font="6"><i><b>(205) 277-2358</b></i></text>
-<text top="1898" left="659" width="5" height="26" font="11"> </text>
-<text top="1930" left="515" width="288" height="26" font="6"><i><b>Cahaba Medical Care Ensley </b></i></text>
-<text top="1963" left="547" width="224" height="26" font="6"><i><b>1925 Avenue E Ensley, </b></i></text>
-<text top="1996" left="548" width="222" height="26" font="6"><i><b>Birmingham, AL 35218</b></i></text>
-<text top="2029" left="590" width="138" height="26" font="6"><i><b>(205)788-5164</b></i></text>
-<text top="2062" left="659" width="5" height="26" font="11"> </text>
-<text top="2029" left="167" width="178" height="24" font="9"><a href="https://birminghamairport.timetap.com/#/"><i><b>bit.ly/bhamvaccine</b></i></a></text>
-<text top="2060" left="135" width="241" height="24" font="9"><i><b>5900 Messer Airport Hwy, </b></i></text>
-<text top="2090" left="153" width="205" height="24" font="9"><i><b>Birmingham, AL 35212</b></i></text>
-<text top="2121" left="256" width="5" height="24" font="10"> </text>
-<text top="1317" left="465" width="404" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>https://medspluscovidvaccineclinics.timeta</b></i></a></text>
-<text top="1347" left="625" width="84" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>p.com/#/</b></i></a></text>
-<text top="1378" left="581" width="172" height="24" font="9"><i><b>2337 Bessemer Rd,</b></i></text>
-<text top="1408" left="565" width="205" height="24" font="9"><i><b>Birmingham, AL 35208</b></i></text>
-<text top="1439" left="668" width="5" height="24" font="10"> </text>
+<text top="1717" left="131" width="239" height="25" font="9"><i><b>UAB Hospital Highlands  </b></i></text>
+<text top="1748" left="135" width="232" height="25" font="9"><i><b>1130 12th Street South, </b></i></text>
+<text top="1780" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35205</b></i></text>
+<text top="1352" left="483" width="384" height="26" font="6"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
+<text top="1385" left="675" width="5" height="26" font="11"> </text>
+<text top="1418" left="520" width="309" height="26" font="6"><i><b>Cahaba Medical Care Fairfield </b></i></text>
+<text top="1451" left="570" width="208" height="26" font="6"><i><b>6900 Grasselli Road, </b></i></text>
+<text top="1484" left="579" width="191" height="26" font="6"><i><b>Fairfield, AL 35064 </b></i></text>
+<text top="1517" left="602" width="144" height="26" font="6"><i><b>(205) 791-5048</b></i></text>
+<text top="1549" left="675" width="5" height="26" font="11"> </text>
+<text top="1582" left="514" width="320" height="26" font="6"><i><b>Cahaba Medical Care Bessemer </b></i></text>
+<text top="1615" left="541" width="268" height="26" font="6"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
+<text top="1648" left="576" width="196" height="26" font="6"><i><b>Bessemer, AL 35022</b></i></text>
+<text top="1681" left="602" width="144" height="26" font="6"><i><b>(205) 277-2358</b></i></text>
+<text top="1714" left="675" width="5" height="26" font="11"> </text>
+<text top="1746" left="531" width="288" height="26" font="6"><i><b>Cahaba Medical Care Ensley </b></i></text>
+<text top="1779" left="562" width="224" height="26" font="6"><i><b>1925 Avenue E Ensley, </b></i></text>
+<text top="1812" left="563" width="222" height="26" font="6"><i><b>Birmingham, AL 35218</b></i></text>
+<text top="1845" left="605" width="138" height="26" font="6"><i><b>(205)788-5164</b></i></text>
+<text top="1878" left="675" width="5" height="26" font="11"> </text>
+<text top="1937" left="53" width="404" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>https://medspluscovidvaccineclinics.timeta</b></i></a></text>
+<text top="1967" left="213" width="84" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>p.com/#/</b></i></a></text>
+<text top="1998" left="170" width="172" height="24" font="9"><i><b>2337 Bessemer Rd,</b></i></text>
+<text top="2028" left="153" width="205" height="24" font="9"><i><b>Birmingham, AL 35208</b></i></text>
+<text top="2058" left="256" width="5" height="24" font="10"> </text>
 <text top="1078" left="509" width="292" height="24" font="9"><a href="https://myturn.timetap.com/#/"><i><b>https://myturn.timetap.com/#/</b></i></a></text>
 <text top="1108" left="574" width="162" height="24" font="9"><i><b>4500 Katies Way, </b></i></text>
 <text top="1139" left="564" width="181" height="24" font="9"><i><b>Bessemer, AL 35022</b></i></text>
@@ -317,44 +309,36 @@
 <text top="1622" left="64" width="372" height="25" font="9"><i><b>400 Reverend Abraham Woods Jr. Blvd,</b></i></text>
 <text top="1654" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35204</b></i></text>
 <text top="1685" left="251" width="5" height="25" font="10"> </text>
-<text top="1717" left="103" width="295" height="25" font="9"><i><b>Hoover Metropolitan Complex </b></i></text>
-<text top="1748" left="131" width="240" height="25" font="9"><i><b>100 Ben Chapman Drive, </b></i></text>
-<text top="1780" left="168" width="165" height="25" font="9"><i><b>Hoover, AL 35244</b></i></text>
-<text top="1812" left="251" width="5" height="25" font="10"> </text>
-<text top="1843" left="131" width="239" height="25" font="9"><i><b>UAB Hospital Highlands  </b></i></text>
-<text top="1875" left="135" width="232" height="25" font="9"><i><b>1130 12th Street South, </b></i></text>
-<text top="1906" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35205</b></i></text>
-<text top="1536" left="467" width="384" height="26" font="6"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
-<text top="1569" left="659" width="5" height="26" font="11"> </text>
-<text top="1602" left="504" width="309" height="26" font="6"><i><b>Cahaba Medical Care Fairfield </b></i></text>
-<text top="1635" left="555" width="208" height="26" font="6"><i><b>6900 Grasselli Road, </b></i></text>
-<text top="1668" left="563" width="191" height="26" font="6"><i><b>Fairfield, AL 35064 </b></i></text>
-<text top="1701" left="587" width="144" height="26" font="6"><i><b>(205) 791-5048</b></i></text>
-<text top="1733" left="659" width="5" height="26" font="11"> </text>
-<text top="1766" left="499" width="320" height="26" font="6"><i><b>Cahaba Medical Care Bessemer </b></i></text>
-<text top="1799" left="525" width="268" height="26" font="6"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
-<text top="1832" left="561" width="196" height="26" font="6"><i><b>Bessemer, AL 35022</b></i></text>
-<text top="1865" left="587" width="144" height="26" font="6"><i><b>(205) 277-2358</b></i></text>
-<text top="1898" left="659" width="5" height="26" font="11"> </text>
-<text top="1930" left="515" width="288" height="26" font="6"><i><b>Cahaba Medical Care Ensley </b></i></text>
-<text top="1963" left="547" width="224" height="26" font="6"><i><b>1925 Avenue E Ensley, </b></i></text>
-<text top="1996" left="548" width="222" height="26" font="6"><i><b>Birmingham, AL 35218</b></i></text>
-<text top="2029" left="590" width="138" height="26" font="6"><i><b>(205)788-5164</b></i></text>
-<text top="2062" left="659" width="5" height="26" font="11"> </text>
-<text top="2029" left="167" width="178" height="24" font="9"><a href="https://birminghamairport.timetap.com/#/"><i><b>bit.ly/bhamvaccine</b></i></a></text>
-<text top="2060" left="135" width="241" height="24" font="9"><i><b>5900 Messer Airport Hwy, </b></i></text>
-<text top="2090" left="153" width="205" height="24" font="9"><i><b>Birmingham, AL 35212</b></i></text>
-<text top="2121" left="256" width="5" height="24" font="10"> </text>
+<text top="1717" left="131" width="239" height="25" font="9"><i><b>UAB Hospital Highlands  </b></i></text>
+<text top="1748" left="135" width="232" height="25" font="9"><i><b>1130 12th Street South, </b></i></text>
+<text top="1780" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35205</b></i></text>
+<text top="1352" left="483" width="384" height="26" font="6"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
+<text top="1385" left="675" width="5" height="26" font="11"> </text>
+<text top="1418" left="520" width="309" height="26" font="6"><i><b>Cahaba Medical Care Fairfield </b></i></text>
+<text top="1451" left="570" width="208" height="26" font="6"><i><b>6900 Grasselli Road, </b></i></text>
+<text top="1484" left="579" width="191" height="26" font="6"><i><b>Fairfield, AL 35064 </b></i></text>
+<text top="1517" left="602" width="144" height="26" font="6"><i><b>(205) 791-5048</b></i></text>
+<text top="1549" left="675" width="5" height="26" font="11"> </text>
+<text top="1582" left="514" width="320" height="26" font="6"><i><b>Cahaba Medical Care Bessemer </b></i></text>
+<text top="1615" left="541" width="268" height="26" font="6"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
+<text top="1648" left="576" width="196" height="26" font="6"><i><b>Bessemer, AL 35022</b></i></text>
+<text top="1681" left="602" width="144" height="26" font="6"><i><b>(205) 277-2358</b></i></text>
+<text top="1714" left="675" width="5" height="26" font="11"> </text>
+<text top="1746" left="531" width="288" height="26" font="6"><i><b>Cahaba Medical Care Ensley </b></i></text>
+<text top="1779" left="562" width="224" height="26" font="6"><i><b>1925 Avenue E Ensley, </b></i></text>
+<text top="1812" left="563" width="222" height="26" font="6"><i><b>Birmingham, AL 35218</b></i></text>
+<text top="1845" left="605" width="138" height="26" font="6"><i><b>(205)788-5164</b></i></text>
+<text top="1878" left="675" width="5" height="26" font="11"> </text>
+<text top="1937" left="53" width="404" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>https://medspluscovidvaccineclinics.timeta</b></i></a></text>
+<text top="1967" left="213" width="84" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>p.com/#/</b></i></a></text>
+<text top="1998" left="170" width="172" height="24" font="9"><i><b>2337 Bessemer Rd,</b></i></text>
+<text top="2028" left="153" width="205" height="24" font="9"><i><b>Birmingham, AL 35208</b></i></text>
+<text top="2058" left="256" width="5" height="24" font="10"> </text>
 <text top="1078" left="509" width="292" height="24" font="9"><a href="https://myturn.timetap.com/#/"><i><b>https://myturn.timetap.com/#/</b></i></a></text>
 <text top="1108" left="574" width="162" height="24" font="9"><i><b>4500 Katies Way, </b></i></text>
 <text top="1139" left="564" width="181" height="24" font="9"><i><b>Bessemer, AL 35022</b></i></text>
 <text top="1169" left="588" width="133" height="24" font="9"><i><b>(205) 858-2221</b></i></text>
 <text top="1200" left="655" width="5" height="24" font="10"> </text>
-<text top="1301" left="465" width="404" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>https://medspluscovidvaccineclinics.timeta</b></i></a></text>
-<text top="1332" left="625" width="84" height="24" font="9"><a href="https://medspluscovidvaccineclinics.timetap.com/#/"><i><b>p.com/#/</b></i></a></text>
-<text top="1362" left="581" width="172" height="24" font="9"><i><b>2337 Bessemer Rd,</b></i></text>
-<text top="1392" left="565" width="205" height="24" font="9"><i><b>Birmingham, AL 35208</b></i></text>
-<text top="1423" left="668" width="5" height="24" font="10"> </text>
 </page>
 <page number="5" position="absolute" top="0" left="0" height="2249" width="900">
 <text top="2208" left="16" width="879" height="19" font="0"><b> PREGUNTAS MÁS FRECUENTES: <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML </a></b></text>

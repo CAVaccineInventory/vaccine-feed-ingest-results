@@ -1,14 +1,12 @@
 {"page": 1, "provider": 7, "link": "http://www.jcdh.org/", "details": ["1400 Sixth Avenue South,", "Birmingham, AL 35233", "(205) 858-2221"]}
 {"page": 1, "provider": 11, "link": "https://www.uabmedicinevaccine.org/", "details": ["Cathedral of the Cross AOH Church", "1480 Center Point Parkway,", "Birmingham, AL 35215"]}
 {"page": 1, "provider": 11, "link": "https://www.uabmedicinevaccine.org/", "details": ["Parker High School", "400 Reverend Abraham Woods Jr. Blvd,", "Birmingham, AL 35204"]}
-{"page": 1, "provider": 11, "link": "https://www.uabmedicinevaccine.org/", "details": ["Hoover Metropolitan Complex", "100 Ben Chapman Drive,", "Hoover, AL 35244"]}
 {"page": 1, "provider": 11, "link": "https://www.uabmedicinevaccine.org/", "details": ["UAB Hospital Highlands", "1130 12th Street South,", "Birmingham, AL 35205"]}
 {"page": 1, "provider": 12, "link": "https://www.cahabamedicalcare.com/covid19", "details": ["Cahaba Medical Care Fairfield", "6900 Grasselli Road,", "Fairfield, AL 35064", "(205) 791-5048"]}
 {"page": 1, "provider": 12, "link": "https://www.cahabamedicalcare.com/covid19", "details": ["Cahaba Medical Care Bessemer", "975 9th Ave SW, Suite 310,", "Bessemer, AL 35022", "(205) 277-2358"]}
 {"page": 1, "provider": 12, "link": "https://www.cahabamedicalcare.com/covid19", "details": ["Cahaba Medical Care Ensley", "1925 Avenue E Ensley,", "Birmingham, AL 35218", "(205)788-5164"]}
-{"page": 1, "provider": 13, "link": "https://birminghamairport.timetap.com/#/", "details": ["5900 Messer Airport Hwy,", "Birmingham, AL 35212"]}
-{"page": 1, "provider": 14, "link": "https://medspluscovidvaccineclinics.timetap.com/#/", "details": ["2337 Bessemer Rd,", "Birmingham, AL 35208"]}
-{"page": 1, "provider": 15, "link": "https://myturn.timetap.com/#/", "details": ["4500 Katies Way,", "Bessemer, AL 35022", "(205) 858-2221"]}
+{"page": 1, "provider": 13, "link": "https://medspluscovidvaccineclinics.timetap.com/#/", "details": ["2337 Bessemer Rd,", "Birmingham, AL 35208"]}
+{"page": 1, "provider": 14, "link": "https://myturn.timetap.com/#/", "details": ["4500 Katies Way,", "Bessemer, AL 35022", "(205) 858-2221"]}
 {"page": 2, "provider": 2, "link": "https://www.walmart.com/cp/1228302", "details": ["9248 Pkwy E, Birmingham, AL 35206", "(205) 833-7676"]}
 {"page": 2, "provider": 2, "link": "https://www.walmart.com/cp/1228302", "details": ["750 Academy Dr, Bessemer, AL 35022", "(205) 424-5890"]}
 {"page": 2, "provider": 2, "link": "https://www.walmart.com/cp/1228302", "details": ["890 Odum Rd, Gardendale, AL 35071", "(205) 631-8110"]}
@@ -53,14 +51,12 @@
 {"page": 4, "provider": 6, "link": "http://www.jcdh.org/", "details": ["1400 Sixth Avenue South,", "Birmingham, AL 35233", "(205) 858-2221"]}
 {"page": 4, "provider": 7, "link": "https://www.uabmedicinevaccine.org/", "details": ["Cathedral of the Cross AOH Church", "1480 Center Point Parkway,", "Birmingham, AL 35215"]}
 {"page": 4, "provider": 7, "link": "https://www.uabmedicinevaccine.org/", "details": ["Parker High School", "400 Reverend Abraham Woods Jr. Blvd,", "Birmingham, AL 35204"]}
-{"page": 4, "provider": 7, "link": "https://www.uabmedicinevaccine.org/", "details": ["Hoover Metropolitan Complex", "100 Ben Chapman Drive,", "Hoover, AL 35244"]}
 {"page": 4, "provider": 7, "link": "https://www.uabmedicinevaccine.org/", "details": ["UAB Hospital Highlands", "1130 12th Street South,", "Birmingham, AL 35205"]}
 {"page": 4, "provider": 8, "link": "https://www.cahabamedicalcare.com/covid19", "details": ["Cahaba Medical Care Fairfield", "6900 Grasselli Road,", "Fairfield, AL 35064", "(205) 791-5048"]}
 {"page": 4, "provider": 8, "link": "https://www.cahabamedicalcare.com/covid19", "details": ["Cahaba Medical Care Bessemer", "975 9th Ave SW, Suite 310,", "Bessemer, AL 35022", "(205) 277-2358"]}
 {"page": 4, "provider": 8, "link": "https://www.cahabamedicalcare.com/covid19", "details": ["Cahaba Medical Care Ensley", "1925 Avenue E Ensley,", "Birmingham, AL 35218", "(205)788-5164"]}
-{"page": 4, "provider": 9, "link": "https://birminghamairport.timetap.com/#/", "details": ["5900 Messer Airport Hwy,", "Birmingham, AL 35212"]}
+{"page": 4, "provider": 9, "link": "https://medspluscovidvaccineclinics.timetap.com/#/", "details": ["2337 Bessemer Rd,", "Birmingham, AL 35208"]}
 {"page": 4, "provider": 10, "link": "https://myturn.timetap.com/#/", "details": ["4500 Katies Way,", "Bessemer, AL 35022", "(205) 858-2221"]}
-{"page": 4, "provider": 10, "link": "https://myturn.timetap.com/#/", "details": ["2337 Bessemer Rd,", "Birmingham, AL 35208"]}
 {"page": 5, "provider": 2, "link": "https://www.walmart.com/cp/1228302", "details": ["9248 Pkwy E, Birmingham, AL 35206", "(205) 833-7676"]}
 {"page": 5, "provider": 2, "link": "https://www.walmart.com/cp/1228302", "details": ["750 Academy Dr, Bessemer, AL 35022", "(205) 424-5890"]}
 {"page": 5, "provider": 2, "link": "https://www.walmart.com/cp/1228302", "details": ["890 Odum Rd, Gardendale, AL 35071", "(205) 631-8110"]}

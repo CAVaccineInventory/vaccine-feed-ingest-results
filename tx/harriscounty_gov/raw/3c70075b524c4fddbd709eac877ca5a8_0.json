@@ -2402,6 +2402,33 @@
                 "x": -95.05493006057218,
                 "y": 29.664909423825357
             }
+        },
+        {
+            "attributes": {
+                "address": "2700 Bay Area Blvd, Houston, TX 77058",
+                "dose": "Single",
+                "globalid": "9adab740-79a0-4eff-86a9-958bd8ccf10f",
+                "lat": 29.5780184432126,
+                "layer_id": 0,
+                "location": "University of Houston Clear Lake (Garden Room)",
+                "lon": -95.106396938653,
+                "notes": null,
+                "objectid": 99,
+                "operatingdays1": "May 21",
+                "operatinghours1": "8:00 AM - 4:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "3c70075b524c4fddbd709eac877ca5a8",
+                "typeofvaccine": "Johnson&Johnson",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.10639693865303,
+                "y": 29.578018443212574
+            }
         }
     ],
     "fields": [

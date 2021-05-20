@@ -90,21 +90,6 @@
         "distance": null
     },
     {
-        "id": 51,
-        "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
-        "address": "1086 Lexington Avenue",
-        "suite": "",
-        "city": "New York",
-        "state": "NY",
-        "zip": "10075",
-        "county": "Manhattan",
-        "latitude": "40.7733",
-        "longitude": "-73.9603",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3cEAC",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
         "id": 44,
         "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Pfizer",
         "address": "335 Greenwich Street",
@@ -147,6 +132,21 @@
         "longitude": "-73.7204",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 26,
+        "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Moderna",
+        "address": "284 Pulaski Road",
+        "suite": "",
+        "city": "Greenlawn",
+        "state": "NY",
+        "zip": "11740",
+        "county": "Suffolk",
+        "latitude": "40.8584",
+        "longitude": "-73.3884",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
         "distance": null
     }
 ]

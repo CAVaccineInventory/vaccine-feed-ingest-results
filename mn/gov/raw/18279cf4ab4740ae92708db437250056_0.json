@@ -359,7 +359,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours of operation are subject to change.  Vaccine program appointment access will expand consistent with State allocations of vaccine.  Mayo Clinic patients will be notified when they can schedule a COVID-19 vaccination appointment.  All patients are encouraged to check the Mayo Clinic website at https://www.mayoclinic.org/ for more information.",
+                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
                 "AddrLine1": "701 Hewitt Blvd",
                 "City": "Red Wing",
                 "County": "Goodhue",
@@ -373,7 +373,7 @@
                 "ProviderName": "Mayo Clinic",
                 "SaturdayEnd": "Closed",
                 "SaturdayStart": "Closed",
-                "SiteName": "Mayo Clinic Health System - Red Wing",
+                "SiteName": "Red Wing",
                 "StartDate": null,
                 "State": "MN",
                 "SundayEnd": "Closed",
@@ -386,7 +386,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-02-02 13:18:45",
+                "UpdateDate": "2021-05-20 11:34:30",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "8:00pm",
                 "WednesdayStart": "11:30am",
@@ -410,7 +410,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours of operation are subject to change.  Vaccine program appointment access will expand consistent with State allocations of vaccine.  Mayo Clinic patients will be notified when they can schedule a COVID-19 vaccination appointment.  All patients are encouraged to check the Mayo Clinic website at https://www.mayoclinic.org/ for more information.",
+                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
                 "AddrLine1": "1000 First Drive NW",
                 "City": "Austin",
                 "County": "Mower",
@@ -437,7 +437,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-02-02 13:16:11",
+                "UpdateDate": "2021-05-20 11:39:38",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "4:30pm",
                 "WednesdayStart": "8:00am",
@@ -455,8 +455,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -92.9788603239507,
-                "y": 43.67537504844671
+                "x": -92.9788384106091,
+                "y": 43.675375680818334
             }
         },
         {
@@ -563,7 +563,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours of operation are subject to change.  Vaccine program appointment access will expand consistent with State allocations of vaccine.  Mayo Clinic patients will be notified when they can schedule a COVID-19 vaccination appointment.  All patients are encouraged to check the Mayo Clinic website at https://www.mayoclinic.org/ for more information.",
+                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
                 "AddrLine1": "404 W Fountain St",
                 "City": "Albert Lea",
                 "County": "Freeborn",
@@ -590,7 +590,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-02-02 13:10:15",
+                "UpdateDate": "2021-05-20 11:38:16",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "3:30pm",
                 "WednesdayStart": "8:00am",
@@ -614,7 +614,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours of operation are subject to change.  Vaccine program appointment access will expand consistent with State allocations of vaccine.  Mayo Clinic patients will be notified when they can schedule a COVID-19 vaccination appointment.  All patients are encouraged to check the Mayo Clinic website at https://www.mayoclinic.org/ for more information.",
+                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
                 "AddrLine1": "2200 26th Street NW",
                 "City": "Owatonna",
                 "County": "Steele",
@@ -628,7 +628,7 @@
                 "ProviderName": "Mayo Clinic",
                 "SaturdayEnd": "Closed",
                 "SaturdayStart": "Closed",
-                "SiteName": "Mayo Clinic Health System - Owatonna",
+                "SiteName": "Owatonna",
                 "StartDate": null,
                 "State": "MN",
                 "SundayEnd": "Closed",
@@ -641,7 +641,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-02-02 13:22:05",
+                "UpdateDate": "2021-05-20 11:35:56",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "5:00pm",
                 "WednesdayStart": "7:00am",
@@ -29378,57 +29378,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Call or visit our website for information regarding local vaccination opportunities.",
-                "AddrLine1": "905 Forest Avenue East, Suite 127",
-                "City": "Mora",
-                "County": "Kanabec",
-                "EndDate": null,
-                "FridayEnd": null,
-                "FridayStart": null,
-                "MondayEnd": null,
-                "MondayStart": null,
-                "OBJECTID": 2432,
-                "Phone": "(320) 679-6330",
-                "ProviderName": "Kanabec County Community Health",
-                "SaturdayEnd": null,
-                "SaturdayStart": null,
-                "SiteName": "Mora",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": null,
-                "SundayStart": null,
-                "TestingOptions": null,
-                "TestingRequirements": "Appointment",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "2:00pm",
-                "ThursdayStart": "8:00am",
-                "TuesdayEnd": null,
-                "TuesdayStart": null,
-                "URL": "www.kanabeccounty.org/health",
-                "UpdateDate": "2021-05-18 14:26:13",
-                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
-                "WednesdayEnd": null,
-                "WednesdayStart": null,
-                "Zip": "55051",
-                "globalid": "d82670e7-35fc-4b08-aeaa-352b765c2829",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -93.2817982989991,
-                "y": 45.8767963396576
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": null,
                 "AddrLine1": "1411 Hwy 79 E",
                 "City": "Elbow Lake",
@@ -35494,6 +35443,108 @@
                 },
                 "x": -93.47981897810466,
                 "y": 45.064616992634086
+            }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "301 Highway 65 South",
+                "City": "Mora",
+                "County": "Kanabec",
+                "EndDate": null,
+                "FridayEnd": "5:30pm",
+                "FridayStart": "8:00am",
+                "MondayEnd": "5:30pm",
+                "MondayStart": "8:00am",
+                "OBJECTID": 6354,
+                "Phone": "(320) 679-1313",
+                "ProviderName": "Welia Health",
+                "SaturdayEnd": "12:00pm",
+                "SaturdayStart": "8:00am",
+                "SiteName": "Mora",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": null,
+                "SundayStart": null,
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "No appointment necessary",
+                "TestingTypes": null,
+                "ThursdayEnd": "5:30pm",
+                "ThursdayStart": "8:00am",
+                "TuesdayEnd": "5:30pm",
+                "TuesdayStart": "8:00am",
+                "URL": "www.weliahealth.org",
+                "UpdateDate": "2021-05-20 12:04:36",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
+                "WednesdayEnd": "5:30pm",
+                "WednesdayStart": "8:00am",
+                "Zip": "55051",
+                "globalid": "b8dc0287-a059-4a6a-afca-16d6eb205005",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -93.28980600900876,
+                "y": 45.87415670528934
+            }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "1900 CentraCare Circle",
+                "City": "Saint Cloud",
+                "County": "Stearns",
+                "EndDate": null,
+                "FridayEnd": "5:00pm",
+                "FridayStart": "8:00am",
+                "MondayEnd": "5:00pm",
+                "MondayStart": "8:00am",
+                "OBJECTID": 6355,
+                "Phone": "(320) 200-3200",
+                "ProviderName": "CentraCare",
+                "SaturdayEnd": null,
+                "SaturdayStart": null,
+                "SiteName": "Saint Cloud",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": null,
+                "SundayStart": null,
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "Appointment",
+                "TestingTypes": "COVID-19 Vaccine",
+                "ThursdayEnd": "5:00pm",
+                "ThursdayStart": "8:00am",
+                "TuesdayEnd": "5:00pm",
+                "TuesdayStart": "8:00am",
+                "URL": "https://www.centracare.com/online-appointment-scheduling/covid-19-vaccination/",
+                "UpdateDate": "2021-05-20 10:11:38",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17|Minnesotans ages 18+",
+                "WednesdayEnd": "5:00pm",
+                "WednesdayStart": "8:00am",
+                "Zip": "56303",
+                "globalid": "31800a33-f303-4668-9b17-8646f50f4519",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -94.20564216325585,
+                "y": 45.58552345645856
             }
         }
     ],
