@@ -1514,7 +1514,7 @@
                 "OBJECTID": 120,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "601 E. Main Street, Richmond, IN 47374",
+                "Site_Address": "100 S 5th Street, Richmond, IN 47374",
                 "Site_County": "Wayne",
                 "Site_Location_Info": null,
                 "Site_Name": "WAYNE CO HD COVID VAX",
@@ -1523,7 +1523,7 @@
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -1532,8 +1532,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -84.89351888655091,
-                "y": 39.82854416059906
+                "x": -84.89580949304995,
+                "y": 39.827283526101056
             }
         },
         {
@@ -31491,38 +31491,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "6d5d6c3a-cec1-4908-bbd2-bc1f2c0db45d",
-                "ID": null,
-                "IsView": 1,
-                "Name": "CVS Pharmacy - Tegler Dr",
-                "OBJECTID": 1177,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "13085 Tegler Dr, Noblesville, IN 46060",
-                "Site_County": "Hamilton",
-                "Site_Location_Info": null,
-                "Site_Name": "CVS Pharmacy - Tegler Dr",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns",
-                "Symbology": "Regular",
-                "Vaccine_Type": "FRPP",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.9325303292254,
-                "y": 39.99649675794339
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "e022e3bb-ff2d-4ed8-8e58-1f8d34c63363",
                 "ID": null,
                 "IsView": 1,
@@ -34270,6 +34238,38 @@
                 },
                 "x": -86.48828616586376,
                 "y": 41.46788138595639
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "7ee33472-c06d-44c1-9abf-fa2720e59308",
+                "ID": null,
+                "IsView": 1,
+                "Name": "IU Health NSPIRE Westfield MVAX",
+                "OBJECTID": 1267,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "18097 Sun Park Dr, Westfield, IN 46074",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": "05/22; 9 am - 3 pm",
+                "Site_Name": "IU Health NSPIRE Westfield VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.13585442415705,
+                "y": 40.04942807258218
             }
         }
     ],
