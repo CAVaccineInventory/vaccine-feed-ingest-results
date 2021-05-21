@@ -19107,6 +19107,38 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "2238817c-e668-470a-b8c2-24d54f4bf73f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "FEMA- Civil Rights Heritage Center",
+                "OBJECTID": 778,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1040 W Washington St, South Bend, IN 46601",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": "Mobile site 05/27 - 05/20; 9am - 6pm.",
+                "Site_Name": "FEMA- Civil Rights Heritage Center VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "FEMA",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.26579826206006,
+                "y": 41.67597393535236
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "53fee1f9-1bbe-46d1-897d-82b97a8f6ad4",
                 "ID": null,
                 "IsView": 1,

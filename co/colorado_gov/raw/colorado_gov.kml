@@ -7775,35 +7775,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>University Of Colorado Boulder</name>
-        <address>1900 Wardenburg Dr Rm 168, Boulder, CO</address>
-        <description><![CDATA[pin: 8903<br>unnamed (1): COV-19 (Pfizer); MDV6; 195-pack<br>county: Boulder<br>type: Hospital<br>address: 1900 Wardenburg Dr Rm 168, Boulder, CO<br>phone: (303) 492-5432<br>website: https://www.colorado.edu/covid-19]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="pin">
-            <value>8903</value>
-          </Data>
-          <Data name="unnamed (1)">
-            <value>COV-19 (Pfizer); MDV6; 195-pack</value>
-          </Data>
-          <Data name="county">
-            <value>Boulder</value>
-          </Data>
-          <Data name="type">
-            <value>Hospital</value>
-          </Data>
-          <Data name="address">
-            <value>1900 Wardenburg Dr Rm 168, Boulder, CO</value>
-          </Data>
-          <Data name="phone">
-            <value>(303) 492-5432</value>
-          </Data>
-          <Data name="website">
-            <value>https://www.colorado.edu/covid-19</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>Broomfield Family Practice</name>
         <address>1420 W Midway Blvd, Broomfield, CO</address>
         <description><![CDATA[pin: 8715<br>unnamed (1): COV-19 (Pfizer); MDV6; 195-pack<br>county: Broomfield<br>type: Private Clinic<br>address: 1420 W Midway Blvd, Broomfield, CO<br>phone: 303-466-4081<br>website: Http://Broomfieldfp.Com/]]></description>
