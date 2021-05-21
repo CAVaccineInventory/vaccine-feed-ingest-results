@@ -19428,7 +19428,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c7a7d26f-bd8b-4867-bf08-4a5ee21ea0b9",
                 "Loc_ID": 160,
@@ -31573,7 +31573,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6249b200-6d70-42ec-af1c-dabdc21a4257",
                 "Loc_ID": null,
@@ -31587,7 +31587,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29707",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #372",
                 "loc_type1": "Pharmacy - chain",
@@ -31608,7 +31608,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b704b992-fe77-49f1-ba63-6c831e64b1c3",
                 "Loc_ID": null,
@@ -31622,7 +31622,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29926",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #152",
                 "loc_type1": "Pharmacy - chain",
@@ -31643,7 +31643,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "12b049a9-a6cb-4da3-b00a-599d65033dbb",
                 "Loc_ID": null,
@@ -31657,7 +31657,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29485",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #363",
                 "loc_type1": "Pharmacy - chain",
@@ -31692,7 +31692,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29414",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #406",
                 "loc_type1": "Pharmacy - chain",
@@ -31713,7 +31713,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3c14596d-0a5c-4759-8709-8cd495ba25b9",
                 "Loc_ID": null,
@@ -31727,7 +31727,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29407",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "PFR",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #410",
                 "loc_type1": "Pharmacy - chain",
@@ -31783,7 +31783,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b8881a6e-95d1-4c97-9483-fcc85717c344",
                 "Loc_ID": null,
@@ -31797,7 +31797,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29708",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #82",
                 "loc_type1": "Pharmacy - chain",
@@ -31853,7 +31853,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ae8ee45c-db74-457c-8a4a-135d0a85f2d3",
                 "Loc_ID": null,
@@ -31867,7 +31867,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29715",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #370",
                 "loc_type1": "Pharmacy - chain",
@@ -31888,7 +31888,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c9ccaafa-ba2b-472a-996d-820a00d5a852",
                 "Loc_ID": null,
@@ -31902,7 +31902,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29708",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #475",
                 "loc_type1": "Pharmacy - chain",
@@ -31937,7 +31937,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29466",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #131",
                 "loc_type1": "Pharmacy - chain",
@@ -31958,7 +31958,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "68912f11-fbc6-4f64-a7a1-370510a1bd46",
                 "Loc_ID": null,
@@ -31972,7 +31972,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29609",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #357",
                 "loc_type1": "Pharmacy - chain",
@@ -31993,7 +31993,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "02cf9cc8-b68b-490d-9871-13428583dc27",
                 "Loc_ID": null,
@@ -32007,7 +32007,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29605",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #420",
                 "loc_type1": "Pharmacy - chain",
@@ -32028,7 +32028,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "48902a85-653c-4a59-8430-536a7bde2147",
                 "Loc_ID": null,
@@ -32042,7 +32042,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29464",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "MOD, JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #450",
                 "loc_type1": "Pharmacy - chain",
@@ -56950,41 +56950,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "2b8c1d3e-3154-4753-bb83-b63b29d9d9b7",
-                "Loc_ID": null,
-                "OBJECTID": 5200,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "2101 N Oak St",
-                "SiteAddressDetail": null,
-                "SiteCity": "Myrtle Beach",
-                "SitePhone": "(866) 365-8110",
-                "SiteState": "SC",
-                "SiteZip": "29577",
-                "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": "MOD",
-                "layer_id": 0,
-                "loc_name": "McLeod Loris Seacoast @ Myrtle Beach Convention Center",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -78.87551284528774,
-                "y": 33.70789329873679
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "a6bf52e3-0025-442c-8f26-fa0d314e1dc5",
                 "Loc_ID": null,
                 "OBJECTID": 5201,
@@ -59008,41 +58973,6 @@
                 },
                 "x": -79.9471666164626,
                 "y": 32.72737755753735
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "93bed4f4-3755-4cbd-97dd-d30a639d8b6d",
-                "Loc_ID": null,
-                "OBJECTID": 8828,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "3207 Casey St",
-                "SiteAddressDetail": null,
-                "SiteCity": "Loris",
-                "SitePhone": "(866) 365-8110",
-                "SiteState": "SC",
-                "SiteZip": "29569",
-                "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "McLeod Loris Vaccine Clinic @ Center for Health and Fitness",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -78.89927376676843,
-                "y": 34.058598081878074
             }
         },
         {
@@ -62060,111 +61990,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "47ce44a0-8a5a-4ba6-b285-d8fff5e6ca9b",
-                "Loc_ID": null,
-                "OBJECTID": 9709,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "10177 N Kings Hwy",
-                "SiteAddressDetail": null,
-                "SiteCity": "Myrtle Beach",
-                "SitePhone": "(866) 365-8110",
-                "SiteState": "SC",
-                "SiteZip": "29572",
-                "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "McLeod Health @ Myrtle Beach Mall",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -78.76711831370693,
-                "y": 33.79236719176049
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "26b634b0-ac41-406a-83a4-d3e30dcc96d4",
-                "Loc_ID": null,
-                "OBJECTID": 10099,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "126 Greene Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Cheraw",
-                "SitePhone": "(866) 365-8110",
-                "SiteState": "SC",
-                "SiteZip": "29520",
-                "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "McLeod Health @ Cheraw First Baptist Church",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.8861173852431,
-                "y": 34.69445958298684
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "d6a9a515-883a-4b3a-8dd0-b1930326bb37",
-                "Loc_ID": null,
-                "OBJECTID": 10100,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "951 Fayetteville Ave ",
-                "SiteAddressDetail": "Ext 951",
-                "SiteCity": "Bennettsville",
-                "SitePhone": "(866) 365-8110",
-                "SiteState": "SC",
-                "SiteZip": "29512",
-                "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "McLeod Health @ Marlboro County High School",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.66220011686232,
-                "y": 34.619571424310266
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "b0f16043-6309-4c6e-a71d-22b6293cefe0",
                 "Loc_ID": null,
                 "OBJECTID": 10499,
@@ -62193,41 +62018,6 @@
                 },
                 "x": -82.38394926413145,
                 "y": 34.175650645757514
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "d132a752-53c6-4920-8734-0abd23773bdf",
-                "Loc_ID": null,
-                "OBJECTID": 10500,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "1647 Commerce Dr",
-                "SiteAddressDetail": null,
-                "SiteCity": "Dillon",
-                "SitePhone": "(866) 365-8110",
-                "SiteState": "SC",
-                "SiteZip": "29536",
-                "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "McLeod Health @ Dillon Wellness Center",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.35705938069879,
-                "y": 34.441567908757236
             }
         },
         {
@@ -63493,7 +63283,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a842545c-0af8-4bbb-b940-661499efdfdf",
                 "Loc_ID": null,
@@ -65208,7 +64998,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5bf2e5cc-a54d-4cbb-80d8-9e651754da22",
                 "Loc_ID": null,
@@ -65222,7 +65012,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29412",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #28",
                 "loc_type1": "Pharmacy - chain",
@@ -65243,7 +65033,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "054be998-8370-4bc7-bf8f-1316eb2ca1f5",
                 "Loc_ID": null,
@@ -65257,7 +65047,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29464",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #87",
                 "loc_type1": "Pharmacy - chain",
@@ -65278,7 +65068,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f8d2c3d2-5b60-4bab-afb6-4509dd84a4a6",
                 "Loc_ID": null,
@@ -65292,7 +65082,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29407",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #365",
                 "loc_type1": "Pharmacy - chain",
@@ -65313,7 +65103,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b2680380-9aef-482b-bb88-d69fbd3ab583",
                 "Loc_ID": null,
@@ -65327,7 +65117,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29466",
                 "URL": "https://www.harristeeter.com/covidcare",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Harris Teeter Pharmacy #385",
                 "loc_type1": "Pharmacy - chain",

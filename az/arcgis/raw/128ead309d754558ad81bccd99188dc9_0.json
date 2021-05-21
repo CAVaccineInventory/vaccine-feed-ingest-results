@@ -3818,7 +3818,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1392,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -3828,7 +3828,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85375"
             },
             "geometry": {
@@ -3898,7 +3898,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1414,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccines location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's Food and Drug appointment scheduler:  www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -3908,7 +3908,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85367"
             },
             "geometry": {
@@ -3978,7 +3978,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1416,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler:  www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -3988,7 +3988,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85351"
             },
             "geometry": {
@@ -4098,7 +4098,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1420,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4108,7 +4108,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85119"
             },
             "geometry": {
@@ -4178,7 +4178,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1423,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4188,7 +4188,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85629"
             },
             "geometry": {
@@ -4298,7 +4298,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1433,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -4308,7 +4308,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85747"
             },
             "geometry": {
@@ -4338,7 +4338,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1434,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4348,7 +4348,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85257"
             },
             "geometry": {
@@ -4378,7 +4378,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1435,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4388,7 +4388,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85306"
             },
             "geometry": {
@@ -4418,7 +4418,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1436,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4428,7 +4428,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85711"
             },
             "geometry": {
@@ -4498,7 +4498,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1438,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4508,7 +4508,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85713"
             },
             "geometry": {
@@ -4538,7 +4538,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1439,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4548,7 +4548,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85044"
             },
             "geometry": {
@@ -4818,7 +4818,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1446,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4828,7 +4828,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85331"
             },
             "geometry": {
@@ -4858,7 +4858,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1447,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4868,7 +4868,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85286"
             },
             "geometry": {
@@ -4938,7 +4938,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1449,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -4948,7 +4948,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "86301"
             },
             "geometry": {
@@ -5058,7 +5058,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1453,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -5218,7 +5218,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1457,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5228,7 +5228,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85364"
             },
             "geometry": {
@@ -5258,7 +5258,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1458,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5268,7 +5268,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85539"
             },
             "geometry": {
@@ -5338,7 +5338,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1462,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5348,7 +5348,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, ​​​​Pfizer_BioNTech",
                 "zip": "85013"
             },
             "geometry": {
@@ -5378,7 +5378,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1463,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5388,7 +5388,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85018"
             },
             "geometry": {
@@ -5458,7 +5458,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1465,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5468,7 +5468,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, ​​​​Pfizer_BioNTech",
                 "zip": "85710"
             },
             "geometry": {
@@ -5498,7 +5498,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1466,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5508,7 +5508,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85009"
             },
             "geometry": {
@@ -5538,7 +5538,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1467,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/rx/guest/get-vaccinated",
@@ -5548,7 +5548,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85021"
             },
             "geometry": {
@@ -5738,7 +5738,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1474,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/rx/guest/get-vaccinated",
@@ -5748,7 +5748,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85379"
             },
             "geometry": {
@@ -5818,7 +5818,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1477,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5828,7 +5828,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85388"
             },
             "geometry": {
@@ -5898,7 +5898,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1480,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
@@ -5908,7 +5908,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85085"
             },
             "geometry": {
@@ -5938,7 +5938,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1482,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -5948,7 +5948,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "86326"
             },
             "geometry": {
@@ -16378,7 +16378,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6023,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -16388,7 +16388,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85122"
             },
             "geometry": {
@@ -16418,7 +16418,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6024,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -16428,7 +16428,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85139"
             },
             "geometry": {
@@ -16458,7 +16458,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6025,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -16468,7 +16468,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85016"
             },
             "geometry": {
@@ -16698,7 +16698,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6031,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -16708,7 +16708,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna, ​​​​Pfizer_BioNTech",
                 "zip": "85215"
             },
             "geometry": {
@@ -16738,7 +16738,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6032,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -16748,7 +16748,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85251"
             },
             "geometry": {
@@ -17058,7 +17058,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6041,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17068,7 +17068,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85122"
             },
             "geometry": {
@@ -17098,7 +17098,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6042,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17108,7 +17108,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85224"
             },
             "geometry": {
@@ -17138,7 +17138,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6043,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17148,7 +17148,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85206"
             },
             "geometry": {
@@ -17338,7 +17338,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6048,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17348,7 +17348,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85268"
             },
             "geometry": {
@@ -17498,7 +17498,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6052,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17508,7 +17508,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna, Pfizer_BioNTech",
                 "zip": "85086"
             },
             "geometry": {
@@ -17538,7 +17538,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6053,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17548,7 +17548,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J, Moderna, Pfizer_BioNTech",
                 "zip": "85043"
             },
             "geometry": {
@@ -17618,7 +17618,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6055,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17628,7 +17628,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J",
+                "vaccine_manufacturer": "J_J,Pfizer_BioNTech",
                 "zip": "85004"
             },
             "geometry": {
@@ -17698,7 +17698,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6057,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17708,7 +17708,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85201"
             },
             "geometry": {
@@ -17858,7 +17858,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6061,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17868,7 +17868,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85254"
             },
             "geometry": {
@@ -17938,7 +17938,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6063,
-                "prereg_comments": " Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -17948,7 +17948,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J, Moderna, Pfizer_BioNTech",
                 "zip": "85204"
             },
             "geometry": {
@@ -18058,7 +18058,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6066,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -18068,7 +18068,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85016"
             },
             "geometry": {
@@ -18178,7 +18178,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6069,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -18188,7 +18188,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85331"
             },
             "geometry": {
@@ -18338,7 +18338,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6074,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -18348,7 +18348,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J, Moderna, Pfizer_BioNTech",
                 "zip": "85032"
             },
             "geometry": {
@@ -18418,7 +18418,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6076,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -18428,7 +18428,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
                 "zip": "85048"
             },
             "geometry": {
@@ -19778,7 +19778,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6137,
-                "prereg_comments": "COVID-19 Vaccine Eligibility:  Seniors 55+, Educators and Child Care only at this time. COVID-19 vaccine is administered by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's Food and Drug appointment scheduler:  www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -19788,7 +19788,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85374"
             },
             "geometry": {
@@ -19818,7 +19818,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6138,
-                "prereg_comments": "COVID-19 Vaccine Eligibility:  Seniors 55+, Educators and Child Care only at this time. COVID-19 vaccine is administered by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's Food and Drug appointment scheduler:  www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -19828,7 +19828,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85205"
             },
             "geometry": {
@@ -28538,7 +28538,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6577,
-                "prereg_comments": null,
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -38058,7 +38058,7 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 6828,
-                "prereg_comments": "COVID-19 vaccine is administered by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's Food and Drug appointment scheduler:  www.frysfood.com/covidvaccine",
+                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -38068,7 +38068,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
+                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
                 "zip": "85140"
             },
             "geometry": {
