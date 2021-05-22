@@ -13218,38 +13218,6 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": "State",
-                "GlobalID": "a5506d2e-f20b-431f-bfa1-507f094d4b10",
-                "ID": "ISDH1537",
-                "IsView": 1,
-                "Name": "Valley Professionals Community Health Ctr. Rockville",
-                "OBJECTID": 562,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "727 N. Lincoln Rd., Rockville, IN 47872",
-                "Site_County": "Parke",
-                "Site_Location_Info": "Last day of clinic:  5.21.2021",
-                "Site_Name": "Valley Professionals Community Health Ctr. Rockville VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.23564855402181,
-                "y": 39.77025043144897
-            }
-        },
-        {
-            "attributes": {
                 "FQHC_Registry_Stat": null,
                 "GlobalID": "55371b62-5ee1-43cb-be7c-57073aacb2ac",
                 "ID": "ISDH1293",
