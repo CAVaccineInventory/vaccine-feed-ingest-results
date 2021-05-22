@@ -76579,6 +76579,41 @@
                 "x": -82.2456975664225,
                 "y": 34.397897183757095
             }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "b7de3544-4917-45be-8d89-4bcf83e953eb",
+                "Loc_ID": null,
+                "OBJECTID": 31111,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2040 Groveland Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29405",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile @ Calvary AME Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.95900103088087,
+                "y": 32.837235679110904
+            }
         }
     ],
     "fields": [
