@@ -885,126 +885,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "119 W Central Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Coolidge",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": null,
-                "globalid": "cf288c8b-f73a-4589-8129-b9721d7776d6",
-                "layer_id": 0,
-                "loc_name": "Coolidge Pinal County Public Health Clinic",
-                "loc_type": "public",
-                "objectid": 78,
-                "prereg_comments": "This site is updated daily to ensure that the public is informed when locations are booked and unable to accept appointments.",
-                "prereg_phone": null,
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.pinalcountyaz.gov/publichealth/CoronaVirus/Pages/vaccinelocations.aspx",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "pod_cty",
-                "site_type": "pod_cty",
-                "spanish_staff_y_n": "Yes",
-                "state": "AZ",
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85128"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.51661295980058,
-                "y": 32.977233008936615
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "41600 W Smith-Enke Rd",
-                "addr2": "Building 15",
-                "begindate": null,
-                "city": "Maricopa",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "41600 W Smith Enke Rd #15, Maricopa, AZ 85138",
-                "globalid": "d703556e-9996-4926-87a9-0d40cd009b26",
-                "layer_id": 0,
-                "loc_name": "Maricopa Pinal County Public Health Clinic",
-                "loc_type": "public",
-                "objectid": 80,
-                "prereg_comments": "This site is updated daily to ensure that the public is informed when locations are booked and unable to accept appointments.",
-                "prereg_phone": null,
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.pinalcountyaz.gov/publichealth/CoronaVirus/Pages/vaccinelocations.aspx",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "pod_cty",
-                "site_type": "pod_cty",
-                "spanish_staff_y_n": "Yes",
-                "state": "AZ",
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85138"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.01477762871178,
-                "y": 33.07355532565785
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "110 N Main St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Mammoth",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": null,
-                "full_address": null,
-                "globalid": "ec52efa1-1a12-4c3b-81e1-d3ef2daa8e6c",
-                "layer_id": 0,
-                "loc_name": "Mammoth Pinal County Public Health Clinic",
-                "loc_type": "public",
-                "objectid": 81,
-                "prereg_comments": "Now vaccinating 18+ age groups. Our website is updated daily to ensure that the public is informed when locations are booked and unable to accept appointments.",
-                "prereg_phone": null,
-                "prereg_prescreen": "No",
-                "prereg_website": "https://www.pinalcountyaz.gov/publichealth/CoronaVirus/Pages/vaccinelocations.aspx",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "pod_cty",
-                "site_type": null,
-                "spanish_staff_y_n": "Yes",
-                "state": "AZ",
-                "transportation_access": "both",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85618"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.6403170016782,
-                "y": 32.721775985658994
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "1729 N Trekell Rd",
                 "addr2": "Suite 120",
                 "begindate": null,
@@ -1018,8 +898,8 @@
                 "loc_name": "Casa Grande Pinal County Public Health Clinic",
                 "loc_type": "public",
                 "objectid": 82,
-                "prereg_comments": "This site is updated daily to ensure that the public is informed when locations are booked and unable to accept appointments.",
-                "prereg_phone": null,
+                "prereg_comments": "We are vaccinating with Moderna only, 18 years and older.  There are no priority groups, anyone 18 and older.  Moderna COVID-19 vaccines are offered on Fridays from 0800-1200 only.  Spanish-speaking staff are available.",
+                "prereg_phone": "1-866-960-0633",
                 "prereg_prescreen": "No",
                 "prereg_website": "https://www.pinalcountyaz.gov/publichealth/CoronaVirus/Pages/vaccinelocations.aspx",
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
@@ -1058,8 +938,8 @@
                 "loc_name": "Apache Junction Pinal County Public Health Clinic",
                 "loc_type": "public",
                 "objectid": 83,
-                "prereg_comments": "This site is updated daily to ensure that the public is informed when locations are booked and unable to accept appointments.  We are appointment-based only.",
-                "prereg_phone": null,
+                "prereg_comments": "We are vaccinating with Moderna only, 18 years and older.  There are no priority groups, anyone 18 and older.  Moderna COVID-19 vaccines are offered on Thursdays from 0800-1200 only.  Spanish-speaking staff are available.",
+                "prereg_phone": "1-866-960-0633",
                 "prereg_prescreen": "No",
                 "prereg_website": "https://www.pinalcountyaz.gov/publichealth/CoronaVirus/Pages/vaccinelocations.aspx",
                 "service_item_id": "128ead309d754558ad81bccd99188dc9",
@@ -3805,46 +3685,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "19403 N R H Johnson Blvd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Sun City West",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "19403 N R H Johnson Blvd Sun City West, AZ 85375",
-                "globalid": "96ad844e-68c4-4bde-8929-050ea2025367",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1392,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85375"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.35336625022254,
-                "y": 33.661387063315004
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "6153 W Olive Ave",
                 "addr2": null,
                 "begindate": null,
@@ -3885,126 +3725,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "11183 E South Frontage Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Yuma",
-                "county": "Yuma",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "11183 E South Frontage Rd Yuma, AZ 85367",
-                "globalid": "f116e8f1-a03e-4ac0-8201-60e6127e9120",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1414,
-                "prereg_comments": "Ages 12+  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85367"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -114.44264736033254,
-                "y": 32.66888381036817
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "950 Fair St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Prescott",
-                "county": "Yavapai",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "950 Fair St Prescott, AZ 86305",
-                "globalid": "438d7f8b-3fa6-4c56-8c1d-dd208bcbb4b0",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1415,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "86305"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.48244464226714,
-                "y": 34.55431303964553
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "10660 W Grand Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Sun City",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "10660 W Grand Ave Sun City, AZ 85351",
-                "globalid": "54ed23f1-e2e7-475f-8efb-7171fedb5c25",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1416,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85351"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.28868003575536,
-                "y": 33.60255001746236
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "4707 E Shea Blvd",
                 "addr2": null,
                 "begindate": null,
@@ -4038,166 +3758,6 @@
                 },
                 "x": -111.97901699318504,
                 "y": 33.580919007575574
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "8900 E Via Linda",
-                "addr2": null,
-                "begindate": null,
-                "city": "Scottsdale",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "8900 E Via Linda Scottsdale, AZ 85258",
-                "globalid": "77d339fc-bbcc-40a1-8382-6aff0107c812",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1419,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85258"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.8888042669579,
-                "y": 33.56887513079771
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "150 E Old West Hwy",
-                "addr2": null,
-                "begindate": null,
-                "city": "Apache Junction",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "150 E Old West Hwy Apache Junction, AZ 85119",
-                "globalid": "ef3ad7c5-cc8e-413a-8bcc-77f0ef27fbf0",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1420,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85119"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.54501302705378,
-                "y": 33.41345801177129
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "985 E Riggs Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Chandler",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "985 E Riggs Rd Chandler, AZ 85249",
-                "globalid": "1c2ced5c-f839-4c9f-8b55-11beccbaf61f",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1422,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85249"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.82543102271175,
-                "y": 33.21763998978662
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "15950 S Rancho Sahuarita Blvd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Sahuarita",
-                "county": "Pima",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "15950 S Rancho Sahuarita Blvd Sahuarita, AZ 85629",
-                "globalid": "23b46014-e16f-4f2b-8653-8609cbecc1d9",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1423,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85629"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.98563003865333,
-                "y": 31.960470016096007
             }
         },
         {
@@ -4285,166 +3845,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "8080 S Houghton Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Tucson",
-                "county": "Pima",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "8080 S Houghton Rd Tucson, AZ 85747",
-                "globalid": "45ab566c-0b91-46e2-87cd-c19343f8c59f",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1433,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
-                "zip": "85747"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.77400277101663,
-                "y": 32.105381466061964
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "7772 E McDowell Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Scottsdale",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "7772 E McDowell Rd Scottsdale, AZ 85257",
-                "globalid": "81ab7434-d6ae-4604-8310-14bfc29e592e",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1434,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
-                "zip": "85257"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.91271326229652,
-                "y": 33.465951496720166
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "5771 W Thunderbird Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Glendale",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "5771 W Thunderbird Rd Glendale, AZ 85306",
-                "globalid": "06429d48-54d6-4166-8c93-44bc6df6946b",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1435,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85306"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.18392896101992,
-                "y": 33.60941798128626
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "4146 E 22nd St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Tucson",
-                "county": "Pima",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "4146 E 22nd St Tucson, AZ 85711",
-                "globalid": "9077d4fe-9c9c-4197-85e5-2152ce5d47ee",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1436,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85711"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.9041642276959,
-                "y": 32.20518065094426
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "3001 N Main St",
                 "addr2": null,
                 "begindate": null,
@@ -4478,46 +3878,6 @@
                 },
                 "x": -112.33717999064233,
                 "y": 34.58643801258244
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "3640 S 16th Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Tucson",
-                "county": "Pima",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "3640 S 16th Ave Tucson, AZ 85713",
-                "globalid": "da5aa500-9e8e-4cb1-8138-112be6956952",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1438,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
-                "zip": "85713"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.9825099590153,
-                "y": 32.18037000027501
             }
         },
         {
@@ -4805,46 +4165,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "4815 E Carefree Hwy",
-                "addr2": null,
-                "begindate": null,
-                "city": "Cave Creek",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "4815 E Carefree Hwy Cave Creek, AZ 85331",
-                "globalid": "9c6948d4-e083-4237-8d64-7723b69bd376",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1446,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85331"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.97762501052468,
-                "y": 33.79852100918
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "2010 S Alma School Rd",
                 "addr2": null,
                 "begindate": null,
@@ -4918,46 +4238,6 @@
                 },
                 "x": -112.20157999182192,
                 "y": 33.711072990536245
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "3198 Willow Creek Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Prescott",
-                "county": "Yavapai",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "3198 Willow Creek Rd Prescott, AZ 86301",
-                "globalid": "6ed78d79-2aa1-458d-8db6-afd3250c5944",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1449,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
-                "zip": "86301"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.45606719238302,
-                "y": 34.60181276454873
             }
         },
         {
@@ -5045,46 +4325,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "5140 W Baseline Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Laveen",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "5140 W Baseline Rd Laveen, AZ 85339",
-                "globalid": "35b15883-3c76-4a73-89ba-28e0d2b39f2e",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1453,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85339"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.16996596761513,
-                "y": 33.37949898251308
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "11425 W Buckeye Rd",
                 "addr2": null,
                 "begindate": null,
@@ -5158,126 +4398,6 @@
                 },
                 "x": -111.32288999451458,
                 "y": 34.22969998057452
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "201 N Switzer Canyon Dr",
-                "addr2": null,
-                "begindate": null,
-                "city": "Flagstaff",
-                "county": "Coconino",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "201 N Switzer Canyon Dr Flagstaff, AZ 86001",
-                "globalid": "fe208665-976f-4c9d-84aa-8bfb25c04c4c",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1456,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/rx/guest/get-vaccinated",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "86001"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.63518202101588,
-                "y": 35.195164007691275
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "506 W 24th St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Yuma",
-                "county": "Yuma",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "506 W 24th St Yuma, AZ 85364",
-                "globalid": "ed39746f-99bb-4c99-88a6-0078e1adce61",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1457,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85364"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -114.62605638340165,
-                "y": 32.68399968548312
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "2115 US-60",
-                "addr2": null,
-                "begindate": null,
-                "city": "Miami",
-                "county": "Gila",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "2115 US-60 Miami, AZ 85539",
-                "globalid": "d74e2fc0-f300-4465-8f90-40f7599dedea",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1458,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85539"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.81678003576434,
-                "y": 33.419850009223374
             }
         },
         {
@@ -5485,46 +4605,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "4228 W McDowell Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "4228 W McDowell Rd Phoenix, AZ 85009",
-                "globalid": "cc548e5a-7e4d-4e59-803b-8a24365057d0",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1466,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85009"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.14999668285452,
-                "y": 33.46603873072913
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "1815 W Glendale Ave",
                 "addr2": null,
                 "begindate": null,
@@ -5598,46 +4678,6 @@
                 },
                 "x": -111.79116102484576,
                 "y": 33.37754901655836
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "6611 W Bell Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Glendale",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "6611 W Bell Rd Glendale, AZ 85308",
-                "globalid": "3584dc42-cd36-4b57-880b-a1e1c1586e08",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1469,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85308"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.20066593898952,
-                "y": 33.63678556107538
             }
         },
         {
@@ -5725,46 +4765,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "13982 W Waddell Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Surprise",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "13982 W Waddell Rd Surprise, AZ 85379",
-                "globalid": "152b6cf6-31c6-4740-882e-dad9ff85b90c",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1474,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/rx/guest/get-vaccinated",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85379"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.36146496253156,
-                "y": 33.61060800198959
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "16380 W Yuma Rd",
                 "addr2": null,
                 "begindate": null,
@@ -5805,46 +4805,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "15215 N Cotton Ln",
-                "addr2": null,
-                "begindate": null,
-                "city": "Surprise",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "15215 N Cotton Ln Surprise, AZ 85388",
-                "globalid": "1a5d4c25-40ed-45d7-86e8-1f9870cfe74d",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1477,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85388"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.42528997008937,
-                "y": 33.62254001834548
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "4003 S Arizona Ave",
                 "addr2": null,
                 "begindate": null,
@@ -5858,46 +4818,6 @@
                 "loc_name": "Fry's Pharmacy",
                 "loc_type": "public",
                 "objectid": 1478,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/i/coronavirus-update/vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85248"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.84108903782,
-                "y": 33.24749152120094
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "2800 W Dove Valley Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "2800 W Dove Valley Rd Phoenix, AZ 85085",
-                "globalid": "dc377879-47c3-4aa4-83da-5c906b3c07fe",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1480,
                 "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
@@ -5909,55 +4829,15 @@
                 "state": null,
                 "transportation_access": "walk_through",
                 "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
-                "zip": "85085"
+                "zip": "85248"
             },
             "geometry": {
                 "spatialReference": {
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -112.11554202868685,
-                "y": 33.78396897259195
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "1078 AZ-260",
-                "addr2": null,
-                "begindate": null,
-                "city": "Cottonwood",
-                "county": "Yavapai",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1078 AZ-260 Cottonwood, AZ 86326",
-                "globalid": "48d7c6d6-2bc4-426e-8c38-e43edbfa4d18",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 1482,
-                "prereg_comments": "Ages 12+  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "86326"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.00219953989183,
-                "y": 34.71948274846915
+                "x": -111.84108903782,
+                "y": 33.24749152120094
             }
         },
         {
@@ -16683,86 +15563,6 @@
         {
             "attributes": {
                 "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "5941 E McKellips Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Mesa",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "5941 E McKellips Rd Mesa, AZ 85215",
-                "globalid": "b9799961-150f-43fd-8512-d272f79b70ef",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6031,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna, ​​​​Pfizer_BioNTech",
-                "zip": "85215"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.7028580101686,
-                "y": 33.45025699746342
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "7628 E Indian School Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Scottsdale",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "7628 E Indian School Rd Scottsdale, AZ 85251",
-                "globalid": "1f742d51-4879-4bf1-8687-f5a378cf756c",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6032,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85251"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.91653773986096,
-                "y": 33.494992273250986
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
                 "Moderna": "0",
                 "Pfizer": "3",
                 "addr1": "5116 W Olive Ave",
@@ -17083,86 +15883,6 @@
         {
             "attributes": {
                 "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "1950 W Ray Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Chandler",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1950 W Ray Rd Chandler, AZ 85224",
-                "globalid": "0b1da5f6-fede-4323-81e3-07a8962fb612",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6042,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85224"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.87516303354649,
-                "y": 33.32186698602599
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "1929 S Power Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Mesa",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1929 S Power Rd Mesa, AZ 85206",
-                "globalid": "acb66ae7-06ae-44dc-8911-fd060931b84d",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6043,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85206"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.68776313760188,
-                "y": 33.38038098925624
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
                 "Moderna": "0",
                 "Pfizer": "3",
                 "addr1": "4853 S Campbell Ave",
@@ -17325,86 +16045,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "14845 E Shea Blvd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Fountain Hills",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "14845 E Shea Blvd Fountain Hills, AZ 85268",
-                "globalid": "3c0d0ca0-cd6d-4ee4-848b-3a6b2cd1e84a",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6048,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85268"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.7603949977832,
-                "y": 33.578680997518205
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "87 E Williams Field Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Gilbert",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "87 E Williams Field Rd Gilbert, AZ 85295",
-                "globalid": "429ef6a8-6082-4a71-8e13-3e1892c875b8",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6049,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
-                "zip": "85295"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.7878299727048,
-                "y": 33.30528800064012
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "8375 W Deer Valley Rd",
                 "addr2": null,
                 "begindate": null,
@@ -17483,86 +16123,6 @@
         {
             "attributes": {
                 "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "39508 N Daisy Mountain Dr",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "39508 N Daisy Mountain Dr Phoenix, AZ 85086",
-                "globalid": "6b896141-7dc3-4bd8-857c-0a46bdd4e1ea",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6052,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna, Pfizer_BioNTech",
-                "zip": "85086"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.13350996940096,
-                "y": 33.84428200956633
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "2626 S 83rd Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "2626 S 83rd Ave Phoenix, AZ 85043",
-                "globalid": "b10c338a-0c4f-4f0f-83f5-453d0c6cec47",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6053,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Moderna, Pfizer_BioNTech",
-                "zip": "85043"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.23869720185849,
-                "y": 33.42377273451911
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
                 "Moderna": "0",
                 "Pfizer": "3",
                 "addr1": "1795 W Valencia Rd",
@@ -17598,46 +16158,6 @@
                 },
                 "x": -111.00417761659789,
                 "y": 32.133692378088064
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "0",
-                "Pfizer": "0",
-                "addr1": "100 E Jefferson St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "100 E Jefferson St Phoenix, AZ 85004",
-                "globalid": "35055824-7298-46ae-8e80-389796669714",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6055,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Pfizer_BioNTech",
-                "zip": "85004"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.07248839423012,
-                "y": 33.447195632328686
             }
         },
         {
@@ -17685,46 +16205,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "1245 W Main St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Mesa",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1245 W Main St Mesa, AZ 85201",
-                "globalid": "1412a7a4-7471-4aef-87a9-91effc26dc3f",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6057,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85201"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.85809999325224,
-                "y": 33.413357009838045
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "9245 W Union Hills Dr",
                 "addr2": null,
                 "begindate": null,
@@ -17765,46 +16245,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "435 S Ellsworth Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Mesa",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "435 S Ellsworth Rd Mesa, AZ 85208",
-                "globalid": "33bbc52a-d38c-404d-8411-88e8bf95d5f0",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6059,
-                "prereg_comments": "Eligibility:  Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna",
-                "zip": "85208"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.63135300000728,
-                "y": 33.4067650201762
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "10446 N La Canada Dr",
                 "addr2": null,
                 "begindate": null,
@@ -17838,46 +16278,6 @@
                 },
                 "x": -110.99562264486212,
                 "y": 32.3961327554753
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "6321 E Greenway Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Scottsdale",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "6321 E Greenway Rd Scottsdale, AZ 85254",
-                "globalid": "c225fa6a-4b7a-4b83-8910-c5a020b33065",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6061,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85254"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.9442279878744,
-                "y": 33.62463297956838
             }
         },
         {
@@ -18163,46 +16563,6 @@
         {
             "attributes": {
                 "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "29440 N Cave Creek Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Cave Creek",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "29440 N Cave Creek Rd Cave Creek, AZ 85331",
-                "globalid": "4a3816f0-9766-4904-8ec1-69e75b5b6bc5",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6069,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna, Pfizer_BioNTech",
-                "zip": "85331"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.99262406278292,
-                "y": 33.75217518360878
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
                 "Moderna": "0",
                 "Pfizer": "3",
                 "addr1": "5100 S McClintock Dr",
@@ -18318,46 +16678,6 @@
                 },
                 "x": -111.72222267725758,
                 "y": 33.37562277782848
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "3242 E Bell Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "3242 E Bell Rd Phoenix, AZ 85032",
-                "globalid": "7878149e-acfc-4cfe-8774-3e87c976efe5",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6074,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Moderna, Pfizer_BioNTech",
-                "zip": "85032"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.01226616686698,
-                "y": 33.640781058681256
             }
         },
         {
@@ -18548,7 +16868,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85053"
             },
             "geometry": {
@@ -18588,7 +16908,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85282"
             },
             "geometry": {
@@ -18668,7 +16988,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85308"
             },
             "geometry": {
@@ -18708,7 +17028,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "86314"
             },
             "geometry": {
@@ -18748,7 +17068,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85022"
             },
             "geometry": {
@@ -18788,7 +17108,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85203"
             },
             "geometry": {
@@ -18798,46 +17118,6 @@
                 },
                 "x": -111.80295000402394,
                 "y": 33.45041700799503
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "0",
-                "Pfizer": "3",
-                "addr1": "2724 S Signal Butte Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Mesa",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "2724 S Signal Butte Rd Mesa, AZ 85209",
-                "globalid": "60f9b8ad-ab48-42b6-8d77-48edd0186b8c",
-                "layer_id": 0,
-                "loc_name": "The Little Clinic-Fry's",
-                "loc_type": "public",
-                "objectid": 6086,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
-                "zip": "85209"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.6040010059271,
-                "y": 33.36582101572575
             }
         },
         {
@@ -18868,7 +17148,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85340"
             },
             "geometry": {
@@ -18908,7 +17188,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": " Pfizer_BioNTech",
                 "zip": "85284"
             },
             "geometry": {
@@ -18948,7 +17228,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85392"
             },
             "geometry": {
@@ -18978,7 +17258,7 @@
                 "loc_name": "The Little Clinic-Fry's",
                 "loc_type": "public",
                 "objectid": 6090,
-                "prereg_comments": "Eligibility: Seniors 55+ Educators and Child Care at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
+                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
                 "prereg_phone": "1-866-211-5320",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "https://www.frysfood.com/covidvaccine",
@@ -18988,7 +17268,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85298"
             },
             "geometry": {
@@ -19028,7 +17308,7 @@
                 "spanish_staff_y_n": "No",
                 "state": null,
                 "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J, Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "zip": "85326"
             },
             "geometry": {
@@ -19758,86 +18038,6 @@
                 },
                 "x": -112.23279998276048,
                 "y": 33.643357019705405
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "15510 W Bell Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Surprise",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "15510 W Bell Rd Surprise, AZ 85374",
-                "globalid": "c6995c16-860a-46f7-8985-ae5275bc8534",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6137,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85374"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.39513003844544,
-                "y": 33.63988800143818
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "4440 E Main St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Mesa",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "4440 E Main St Mesa, AZ 85205",
-                "globalid": "3ee1371c-7d65-4a11-81ce-98e4f1ecab7a",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6138,
-                "prereg_comments": "Ages 12+.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85205"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.73492901573653,
-                "y": 33.41728200363798
             }
         },
         {
@@ -20698,7 +18898,7 @@
                 "loc_name": "Wee Care Pediatrics",
                 "loc_type": "public",
                 "objectid": 6186,
-                "prereg_comments": "Only vaccinating 18 to 65 year olds at this time.",
+                "prereg_comments": "Tuesday-Friday from 9am-4pm same day appts available upon availability.",
                 "prereg_phone": "480-244-5373",
                 "prereg_prescreen": "Yes",
                 "prereg_website": "http://www.weecare4kids.com/",
@@ -22258,7 +20458,7 @@
                 "loc_name": "San Tan Valley Pinal County Public Health Clinic",
                 "loc_type": "public",
                 "objectid": 6287,
-                "prereg_comments": "Vaccinating 18+",
+                "prereg_comments": "We are vaccinating with Moderna only, 18 years and older.  There are no priority groups, anyone 18 and older.  Please call 1-866-960-0633.  Moderna COVID-19 vaccines are offered on Thursdays from 0800-1200 only.  Spanish-speaking staff are available.",
                 "prereg_phone": "866-960-0633",
                 "prereg_prescreen": "No",
                 "prereg_website": "https://www.pinalcountyaz.gov/publichealth/CoronaVirus/Pages/vaccinelocations.aspx",
@@ -24005,46 +22205,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "3",
-                "addr1": "2350 Miracle Mile",
-                "addr2": null,
-                "begindate": null,
-                "city": "Bullhead City",
-                "county": "Mohave",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "2350 Miracle Mile Bullhead City, AZ 86442",
-                "globalid": "12d909a7-c271-40a7-8f47-0a5f251fd93f",
-                "layer_id": 0,
-                "loc_name": "CVS/Pharmacy #08826",
-                "loc_type": "public",
-                "objectid": 6397,
-                "prereg_comments": null,
-                "prereg_phone": "888-300-4419",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.cvs.com/immunizations/covid-19-vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": "AZ",
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "86442"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -114.59535003388083,
-                "y": 35.101935996255804
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "3",
                 "addr1": "325 W Apache Trl",
                 "addr2": null,
                 "begindate": null,
@@ -24238,46 +22398,6 @@
                 },
                 "x": -111.70096998647831,
                 "y": 33.43681598707886
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "3",
-                "addr1": "1026 E Dr Martin Luther King Jr Blvd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Phoenix",
-                "county": "Maricopa",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1026 E Dr Martin Luther King Jr Blvd Phoenix, AZ 85040",
-                "globalid": "0ee8ccfb-2b74-444d-83b0-a3ac88d954a0",
-                "layer_id": 0,
-                "loc_name": "CVS/Pharmacy #05477",
-                "loc_type": "public",
-                "objectid": 6403,
-                "prereg_comments": null,
-                "prereg_phone": "1-888-300-4419",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.cvs.com/immunizations/covid-19-vaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": "AZ",
-                "transportation_access": "both",
-                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85040"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -112.05737990888645,
-                "y": 33.40674004210473
             }
         },
         {
@@ -38043,46 +36163,6 @@
         {
             "attributes": {
                 "J_J": "1",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "155 W Combs Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "San Tan Valley",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "155 W Combs Rd San Tan Valley, AZ 85140",
-                "globalid": "7f8154f8-8fb3-4346-886a-0b70b37a3d0c",
-                "layer_id": 0,
-                "loc_name": "Fry's Pharmacy",
-                "loc_type": "public",
-                "objectid": 6828,
-                "prereg_comments": "Eligibility: Ages 12+ at this time, by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's appointment scheduler: www.frysfood.com/covidvaccine",
-                "prereg_phone": "1-866-211-5320",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.frysfood.com/covidvaccine",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "chain",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
-                "zip": "85140"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.5657729895626,
-                "y": 33.21804299169128
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "1",
                 "Moderna": "0",
                 "Pfizer": "0",
                 "addr1": "4119 E Foothills Dr",
@@ -38558,6 +36638,86 @@
                 },
                 "x": -110.99682197486834,
                 "y": 32.13306999864664
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "9880 S Rural Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tempe",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "9880 S Rural Rd Tempe, AZ 85284",
+                "globalid": "979f6cbb-2602-42b4-8bf5-e4b4dd6ed221",
+                "layer_id": 0,
+                "loc_name": "Fry's Pharmacy",
+                "loc_type": "public",
+                "objectid": 6845,
+                "prereg_comments": "COVID-19 Vaccine Eligibility:  Pfizer 12+ age. Moderna & JJ according to manufacturer’s guidelines. COVID-19 vaccine is administered by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's Food and Drug appointment scheduler:  www.frysfood.com/covidvaccine",
+                "prereg_phone": "1-866-211-5320",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "www.frysfood.com/covidvaccine",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85284"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.93025841438111,
+                "y": 33.32192737673124
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "2724 S Signal Butte Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Mesa",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "2724 S Signal Butte Rd Mesa, AZ 85209",
+                "globalid": "d20768db-5bb8-4e73-82b9-9556f0a6cf18",
+                "layer_id": 0,
+                "loc_name": "Fry's Pharmacy",
+                "loc_type": "public",
+                "objectid": 6846,
+                "prereg_comments": "COVID-19 Vaccine Eligibility:  Pfizer 12+ age. Moderna & JJ according to manufacturer’s guidelines. COVID-19 vaccine is administered by appointments only at this location.  Vaccine supplies are limited.  Appointments can be made using the following link to Fry's Food and Drug appointment scheduler:  www.frysfood.com/covidvaccine",
+                "prereg_phone": "1-866-211-5320",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "www.frysfood.com/covidvaccine",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "chain",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85209"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.60400100625488,
+                "y": 33.36596189960566
             }
         }
     ],

@@ -1,16 +1,31 @@
 [
     {
-        "id": 63,
-        "name": "Nassau - Hicksville Train Station (Hicksville, NY) -- J&J",
-        "address": "Hicksville Avenue",
+        "id": 64,
+        "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Moderna",
+        "address": "5181 Sunrise Highway",
         "suite": "",
-        "city": "Hicksville",
+        "city": "Bohemia",
         "state": "NY",
-        "zip": "11801",
-        "county": "Nassua",
-        "latitude": "40.766",
-        "longitude": "-73.5378",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tmr0EAC",
+        "zip": "11716",
+        "county": "Suffolk",
+        "latitude": "40.7648",
+        "longitude": "-73.0926",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
+        "distance": null
+    },
+    {
+        "id": 61,
+        "name": "Suffolk - Sunken Meadow State Park (NYS Reference Rte 908K) -- J&J",
+        "address": "1 Sunken Meadow Road",
+        "suite": "",
+        "city": "Kings Park",
+        "state": "NY",
+        "zip": "11754",
+        "county": "Suffolk",
+        "latitude": "40.9055",
+        "longitude": "-73.2593",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TlRGEA0",
         "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
         "distance": null
     },
@@ -132,21 +147,6 @@
         "longitude": "-73.7087",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
-        "id": 30,
-        "name": "Nassau - Elmont (2150 Hempstead Tpk) -- Pfizer",
-        "address": "2150 Hempstead Turnpike",
-        "suite": "",
-        "city": "Elmont",
-        "state": "NY",
-        "zip": "11003",
-        "county": "Nassau",
-        "latitude": "40.7095",
-        "longitude": "-73.7204",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Pfizer",
         "distance": null
     }
 ]
