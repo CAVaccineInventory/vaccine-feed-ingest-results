@@ -18915,38 +18915,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "b546f31a-3fe0-48af-a8f5-9d0ab4175cd2",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Goshen Highschool VAX",
-                "OBJECTID": 773,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "401 Lincolnway East, Goshen, IN 46526",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": "Mobile site 5/20 – 5/22; 9 am – 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "FEMA Goshen Highschool VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.82314122098316,
-                "y": 41.58058987642955
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "478c5617-4e03-44b1-82ad-2f6c6fc9a6ee",
                 "ID": null,
                 "IsView": 1,
@@ -21726,38 +21694,6 @@
                 },
                 "x": -85.81564985285077,
                 "y": 38.3018391158778
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "c589b5b3-e1fb-4133-954e-e19decd59959",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Second Missionary Baptist VAX",
-                "OBJECTID": 866,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "819 N Apperson Way, Kokomo, IN 46901",
-                "Site_County": "Howard",
-                "Site_Location_Info": "Mobile site 5/20 – 5/22; 9 am – 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "FEMA Second Missionary Baptist VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.12708041690428,
-                "y": 40.49338255105552
             }
         },
         {
