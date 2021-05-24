@@ -131,38 +131,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "a2f65d89-9403-499d-8840-dda7a3d362aa",
-                "ID": "ISDH947",
-                "IsView": 1,
-                "Name": "Baptist Health Floyd",
-                "OBJECTID": 5,
-                "Promote_Name": "BAPTIST HEALTH FLOYD VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47150</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1850 State St, New Albany, IN 47150",
-                "Site_County": "Floyd",
-                "Site_Location_Info": "Clinic will use old emergency department ambulance bay off of State Street, on north side of the building. ",
-                "Site_Name": "BAPTIST HEALTH FLOYD VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.83441045328028,
-                "y": 38.30050661300315
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "e2d8e4cc-cca9-414c-896c-b79f9be80a25",
                 "ID": "ISDH945",
                 "IsView": 1,
@@ -323,38 +291,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "d47f2d03-5276-4f0d-a404-bae5f4fc0975",
-                "ID": "ISDH1006",
-                "IsView": 1,
-                "Name": "Deaconess Gateway Hospital",
-                "OBJECTID": 12,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "4011 Gateway Blvd, Newburgh, IN 47630-8947",
-                "Site_County": "Warrick",
-                "Site_Location_Info": "Ortho/Neuro Hospital entrance, conference room lobby, behind main elevators.",
-                "Site_Name": "DEACONESS GATEWAY HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.44478914188666,
-                "y": 37.97553685428258
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "573cc156-9265-4e98-bc3d-8b5b70af15d9",
                 "ID": "ISDH1000",
                 "IsView": 1,
@@ -510,38 +446,6 @@
                 },
                 "x": -86.08243143687672,
                 "y": 39.648942732683196
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "2afaab50-2ba8-4b88-af9b-20b608c0e522",
-                "ID": "ISDH956",
-                "IsView": 1,
-                "Name": "Good Samaritan Hospital",
-                "OBJECTID": 19,
-                "Promote_Name": "GOOD SAMARITAN HOSPITAL VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47591</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "520 S Seventh St, Vincennes, IN 47591",
-                "Site_County": "Knox",
-                "Site_Location_Info": "Corner of 6 and Nicholas St. Enter under green Good Sam Canopy, through door marked 6 St entrance.",
-                "Site_Name": "GOOD SAMARITAN HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.53344816493527,
-                "y": 38.673797506182765
             }
         },
         {
@@ -990,38 +894,6 @@
                 },
                 "x": -87.33271114717887,
                 "y": 41.4573066990838
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "5ef3fbc6-eab0-4c23-a113-a4481584539c",
-                "ID": "ISDH983",
-                "IsView": 1,
-                "Name": "Union Hospital",
-                "OBJECTID": 43,
-                "Promote_Name": "UNION HOSP LANDSBAUM CLINIC VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47807</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1433 N 6th 1/2 St, Terre Haute, IN  47807",
-                "Site_County": "Vigo",
-                "Site_Location_Info": "Landsbaum Center for Health Education.",
-                "Site_Name": "UNION HOSP LANDSBAUM CLINIC VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.40840608828896,
-                "y": 39.48330195314065
             }
         },
         {
@@ -3742,38 +3614,6 @@
                 },
                 "x": -85.07535373016863,
                 "y": 38.74521942006366
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "d747c1de-b662-4434-b961-a0af056a34d2",
-                "ID": "ISDH978",
-                "IsView": 1,
-                "Name": "CAMERON STEUBEN CO EVENT CTR VAX",
-                "OBJECTID": 198,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "100 Lane 101 Crooked Lake, Angola, IN 46703",
-                "Site_County": "Steuben",
-                "Site_Location_Info": "Cameron is providing vaccinations at the Steuben County Event Center. 100 Lane 101 Crooked Lake, Angola, IN 46703",
-                "Site_Name": "CAMERON STEUBEN CO EVENT CTR VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.04980701213834,
-                "y": 41.67650886910995
             }
         },
         {
@@ -22499,38 +22339,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "7dd09995-6f92-4fe2-a265-3c13b9d5c14d",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Union Hospital Prof OfficeBld VAX",
-                "OBJECTID": 895,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1530 N. 7th St, Terre Haute, IN 47807",
-                "Site_County": "Vigo",
-                "Site_Location_Info": null,
-                "Site_Name": "Union Hospital Prof OfficeBld VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.40777335830339,
-                "y": 39.48441832425354
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "23b7e702-ca29-40ad-8fe7-414aa10a4055",
                 "ID": null,
                 "IsView": 1,
@@ -34206,6 +34014,38 @@
                 },
                 "x": -86.13585442415705,
                 "y": 40.04942807258218
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "58e70954-04f7-48b7-83d3-6e565c439d23",
+                "ID": null,
+                "IsView": 1,
+                "Name": "HOWARD CO HEALTH DEPT VAX",
+                "OBJECTID": 1269,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "120 E. Mulberry St., Room 206, Kokomo, IN 46901",
+                "Site_County": "Howard",
+                "Site_Location_Info": null,
+                "Site_Name": "HOWARD CO HEALTH DEPT VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appoinments are now available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": null,
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.13035550023984,
+                "y": 40.48881008131779
             }
         }
     ],
