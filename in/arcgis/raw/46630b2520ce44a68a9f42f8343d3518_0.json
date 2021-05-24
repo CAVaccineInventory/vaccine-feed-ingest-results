@@ -595,7 +595,7 @@
                 "Site_Type": "Hospital",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
+                "Vaccine_Type": "Johnson & Johnson",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -1096,8 +1096,8 @@
                 "IsView": 1,
                 "Name": "IU Health Methodist ",
                 "OBJECTID": 51,
-                "Promote_Name": "IU METHODIST NEUROSCIENCE BLDG VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46202</a>",
-                "Promote_Site": "Y",
+                "Promote_Name": null,
+                "Promote_Site": null,
                 "Site_Address": " 362 W 15th St,  Indianapolis, IN 46202-2266",
                 "Site_County": "Marion",
                 "Site_Location_Info": "IU Health Neuro Science Center, Goodman Hall - Conference Center, First Floor.",
@@ -1427,7 +1427,7 @@
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -1843,7 +1843,7 @@
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -2323,7 +2323,7 @@
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -2590,38 +2590,6 @@
                 },
                 "x": -85.9001740706651,
                 "y": 38.95561401468676
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "ae37d907-0528-4160-a9d0-4b16e91d9ff4",
-                "ID": "ISDH1099",
-                "IsView": 1,
-                "Name": "Franklin County Local Health Department",
-                "OBJECTID": 163,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1010 Franklin Avenue, Ste. 210, Brookville, IN 47012",
-                "Site_County": "Franklin",
-                "Site_Location_Info": null,
-                "Site_Name": "FRANKLIN CO HD COVID VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.01125100791265,
-                "y": 39.42555846818455
             }
         },
         {
@@ -3059,7 +3027,7 @@
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -11720,8 +11688,8 @@
                 "IsView": 1,
                 "Name": "Indianapolis Motor Speedway Vaccination Clinic",
                 "OBJECTID": 498,
-                "Promote_Name": "Indy Motor Speedway Gate2 VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46222</a>",
-                "Promote_Site": "Y",
+                "Promote_Name": null,
+                "Promote_Site": null,
                 "Site_Address": "4551 West 16th St., Indianapolis, IN  46222",
                 "Site_County": "Marion",
                 "Site_Location_Info": "Drive-through site in parking lot south of IMS gate 2. This site will be offering Pfizer vaccines on all available dates and also Johnson and Johnson vaccines on 5/10, 5/17, and 5/24. Walk-ins will also be accepted. ",
@@ -15724,7 +15692,7 @@
                 "Promote_Site": null,
                 "Site_Address": "3901 Abbott St, Ft. Wayne, IN 46806",
                 "Site_County": "Allen",
-                "Site_Location_Info": "Mobile site 5/25 – 5/29; 9 am – 6 pm. This site has Johnson & Johnson and Pfizer.",
+                "Site_Location_Info": "Mobile site 5/25 – 5/29; 9 am – 6 pm. This location will close at 3pm on 5/29.  This site has Johnson & Johnson and Pfizer.",
                 "Site_Name": "FEMA McMillen Park  VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -18892,7 +18860,7 @@
                 "Promote_Site": null,
                 "Site_Address": "1040 W Washington St, South Bend, IN 46601",
                 "Site_County": "St. Joseph",
-                "Site_Location_Info": "Mobile site 05/27 - 05/20; 9am - 6pm.",
+                "Site_Location_Info": "This site will close at 3 pm on 5/29.",
                 "Site_Name": "FEMA- Civil Rights Heritage Center VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -33964,7 +33932,7 @@
                 "Promote_Site": null,
                 "Site_Address": "406 Adams St, Walkerton, IN 46574",
                 "Site_County": "St. Joseph",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "Clinic located at Walkerton-Lincoln Twp. Public Library",
                 "Site_Name": "St Joseph Co HD Mobile VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -33982,6 +33950,38 @@
                 },
                 "x": -86.48828616586376,
                 "y": 41.46788138595639
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "12108986-d1de-43f1-a5cf-2099a1d10883",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Mooresville High School",
+                "OBJECTID": 1266,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "550 N Indiana St, Mooresville, IN 46158",
+                "Site_County": "Morgan",
+                "Site_Location_Info": "05/25 - 05/27; 9 am - 6 pm.",
+                "Site_Name": "Mooresville High School VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.37659795909013,
+                "y": 39.61885115786185
             }
         },
         {
@@ -34046,6 +34046,102 @@
                 },
                 "x": -86.13035550023984,
                 "y": 40.48881008131779
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "3a0cfd75-ac31-4bb2-88af-7584d294a53b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "IU Health PC Epler Parke VAX",
+                "OBJECTID": 1270,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5550 S East St., Suite I, Indianapolis, IN 46227",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "IU Health PC Epler Parke VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.1510048405071,
+                "y": 39.684802882700794
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d6dbb038-fde1-4c72-b969-ff6275209b8f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "IU HEALTH BLACKFORD HOSPITAL VAX",
+                "OBJECTID": 1271,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "410 Pilgrim Blvd, Hartford City,  IN 47348",
+                "Site_County": "Blackford",
+                "Site_Location_Info": null,
+                "Site_Name": "IU HEALTH BLACKFORD HOSPITAL VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.37190789177757,
+                "y": 40.46846186351317
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2030a914-a537-4f0e-8a53-d27eebbff309",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Switzerland Co HD Covid VAX",
+                "OBJECTID": 1272,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1190 W Main St, Vevay, IN 47043",
+                "Site_County": "Switzerland",
+                "Site_Location_Info": null,
+                "Site_Name": "Switzerland Co HD Covid VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.09071141527666,
+                "y": 38.73524471649548
             }
         }
     ],

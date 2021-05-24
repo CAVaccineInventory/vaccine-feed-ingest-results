@@ -6793,7 +6793,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ffadf6b7-046d-4047-bab1-9f0713413b6f",
                 "Loc_ID": 1006,
@@ -7668,7 +7668,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a10f175e-1b2b-432a-965f-8c4511f2a0f8",
                 "Loc_ID": 985,
@@ -7703,7 +7703,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "521265da-337c-4539-926f-ce99517b431e",
                 "Loc_ID": 987,
@@ -7738,7 +7738,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7e0aee65-3ac1-447a-b7aa-e16c2c3c637b",
                 "Loc_ID": 990,
@@ -7773,7 +7773,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "19574e05-df0c-4d6a-8aea-9e8ffffd3d0c",
                 "Loc_ID": 991,
@@ -7808,7 +7808,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "78064e02-d364-4290-8f91-6402b05df0b6",
                 "Loc_ID": 992,
@@ -7843,7 +7843,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1e8c93a1-dbac-4607-bf82-a9e5b3d42e70",
                 "Loc_ID": 993,
@@ -7878,7 +7878,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "439e64da-67a0-427d-bb1e-d86ab1ca879d",
                 "Loc_ID": 994,
@@ -7913,7 +7913,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b51e6f7b-d46c-41fe-9d4b-dfbece44e825",
                 "Loc_ID": 995,
@@ -7948,7 +7948,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "fc76fdda-4374-467b-b1dd-6fa00d484708",
                 "Loc_ID": 997,
@@ -7983,7 +7983,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "712f1bef-6f7f-40fb-8da9-837a70e3e806",
                 "Loc_ID": 998,
@@ -8018,7 +8018,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b77429b8-5ef6-4a44-8291-9203e233db42",
                 "Loc_ID": 1000,
@@ -8053,7 +8053,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "eac1ab42-9289-4dda-beca-208e4a947171",
                 "Loc_ID": 1001,
@@ -8088,7 +8088,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c22d5642-4bfb-4152-95bd-d025b7fba03a",
                 "Loc_ID": 1003,
@@ -8123,7 +8123,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a69a70f5-cd14-4825-b3c0-1b3c2690d4e3",
                 "Loc_ID": 1005,
@@ -44523,7 +44523,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "60ad3421-9757-4825-922a-6678d5e2f1da",
                 "Loc_ID": null,
@@ -56808,7 +56808,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "45edfd1f-80bb-42ad-bd0f-8d70021a7102",
                 "Loc_ID": null,
@@ -76599,7 +76599,7 @@
                 "URL": "https://cvas.dhec.sc.gov/",
                 "V_Manufacturer": null,
                 "layer_id": 0,
-                "loc_name": "DHEC Mobile @ Calvary AME Church",
+                "loc_name": "DHEC Mobile Clinic @ Calvary AME Church",
                 "loc_type1": "State Agency",
                 "ref_ID": null,
                 "service_item_id": "bbd8924909264baaa1a5a1564b393063",
@@ -76613,6 +76613,41 @@
                 },
                 "x": -79.95900103088087,
                 "y": 32.837235679110904
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "6f90a8ce-eb7f-4d59-8d1b-d9287910c743",
+                "Loc_ID": null,
+                "OBJECTID": 31511,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "424 Westfield Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29601",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ KROC Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.40922251268137,
+                "y": 34.84702266678039
             }
         }
     ],
