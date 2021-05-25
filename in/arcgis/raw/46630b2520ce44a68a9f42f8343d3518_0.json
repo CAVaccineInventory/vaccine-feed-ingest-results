@@ -11683,38 +11683,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "d461a56b-6977-4bae-8b42-0af75a4554d3",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Indianapolis Motor Speedway Vaccination Clinic",
-                "OBJECTID": 498,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "4551 West 16th St., Indianapolis, IN  46222",
-                "Site_County": "Marion",
-                "Site_Location_Info": "Drive-through site in parking lot south of IMS gate 2. This site will be offering Pfizer vaccines on all available dates and also Johnson and Johnson vaccines on 5/10, 5/17, and 5/24. Walk-ins will also be accepted. ",
-                "Site_Name": "INDYCAR Parking Lot 16th St. VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mass Vaccination",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov/",
-                "Symbology": "Mass",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.23362921242506,
-                "y": 39.78767948259711
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "2a8da5aa-3791-4a0b-a922-d6af7b410168",
                 "ID": "ISDH1477",
                 "IsView": 1,
