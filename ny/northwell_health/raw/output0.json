@@ -1,5 +1,20 @@
 [
     {
+        "id": 65,
+        "name": "Nassau – Chabad of Mineola (261 Willis Ave) -- J&J",
+        "address": "261 Willis Avenue",
+        "suite": "",
+        "city": "Mineola",
+        "state": "NY",
+        "zip": "11501",
+        "county": "Nassau",
+        "latitude": "40.7482",
+        "longitude": "-73.6409",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TlTlEAK",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "distance": null
+    },
+    {
         "id": 64,
         "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Moderna",
         "address": "5181 Sunrise Highway",
@@ -132,21 +147,6 @@
         "longitude": "-73.8689",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfP9EAK",
         "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
-        "id": 35,
-        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
-        "address": "1 Marcus Avenue",
-        "suite": "",
-        "city": "New Hyde Park",
-        "state": "NY",
-        "zip": "11040",
-        "county": "Nassau",
-        "latitude": "40.7577",
-        "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Moderna",
         "distance": null
     }
 ]

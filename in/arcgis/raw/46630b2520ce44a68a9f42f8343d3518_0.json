@@ -1642,7 +1642,7 @@
                 "OBJECTID": 130,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "525 W Beech St, Osgood, IN 47037",
+                "Site_Address": "102 W 1st North St., Versailles, IN 47042",
                 "Site_County": "Ripley",
                 "Site_Location_Info": null,
                 "Site_Name": "RIPLEY CO HD COVID VAX",
@@ -1660,8 +1660,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.29650460901199,
-                "y": 39.13097901615613
+                "x": -85.25161515893892,
+                "y": 39.073010367123935
             }
         },
         {
@@ -24909,7 +24909,7 @@
                 "Site_Address": "401 W 2nd St, Reynolds, IN 47980",
                 "Site_County": "White",
                 "Site_Location_Info": "Mobile site 5/25 - 5/28; 9 am - 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Reynolds Parking Lot",
+                "Site_Name": "Reynolds Parking Lot VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Mobile",
@@ -33854,38 +33854,6 @@
                 },
                 "x": -87.66225894424535,
                 "y": 37.93101784999699
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "334c3938-c345-48cb-85ba-86485913baa6",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA - Ivy Tech Marion VAX",
-                "OBJECTID": 1262,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "261 Commerce Dr, Marion, IN 46953",
-                "Site_County": "Grant",
-                "Site_Location_Info": "Mobile site 5/18 - 5/19; 9 am - 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "FEMA - Ivy Tech Marion VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.5532237213032,
-                "y": 40.54866069347715
             }
         },
         {
