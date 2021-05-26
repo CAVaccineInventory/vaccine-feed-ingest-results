@@ -381,7 +381,7 @@
                 "f1": null,
                 "f2": "Autauga",
                 "f3": "Autauga County Health Department",
-                "f4": null,
+                "f4": "Walk-In",
                 "f5": "219N Court street Prattville, AL 36067",
                 "f6": null,
                 "f7": null,
@@ -398,6 +398,231 @@
                 },
                 "x": -86.47560591183752,
                 "y": 32.46533630163569
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Bullock",
+                "f3": "Bullock County Health Department",
+                "f4": "Walk-In",
+                "f5": "674 Hicks Industrial Blvd., Union Springs, AL  36089",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Wednesday's 8:30 a.m. - 2:30 p.m.",
+                "layer_id": 0,
+                "objectId": 380,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.69743274486137,
+                "y": 32.14075767719889
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Chambers",
+                "f3": "Chambers County Health Department",
+                "f4": "Walk-In",
+                "f5": "5 North Medical Park Dr., Valley, AL  36854",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Tuesday's 8:30 a.m. - 3:00 p.m.",
+                "layer_id": 0,
+                "objectId": 381,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.16991280523636,
+                "y": 32.82848399934494
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Elmore",
+                "f3": "Elmore County Health Department",
+                "f4": "Walk-In",
+                "f5": "6501 US Highway 231, Wetumpka, AL  36092",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Thursdays 8:30 a.m. - 3:45 p.m. / Fridays 8:30 a.m. - 3:45 p.m.",
+                "layer_id": 0,
+                "objectId": 382,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.20440379973721,
+                "y": 32.53402491355104
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Lee",
+                "f3": "Lee County Health Department",
+                "f4": "Walk-In",
+                "f5": "1801 Corporate Dr., Opelika, AL  36801",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Wednesdays 8:30 a.m. - 2:30 p.m.",
+                "layer_id": 0,
+                "objectId": 383,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.40193002922548,
+                "y": 32.62689131776314
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Lowndes",
+                "f3": "Lowndes County Health Department",
+                "f4": "Walk-In",
+                "f5": "507 E Tuskeena St., Hayneville, AL  36040",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Tuesdays 9:00 a.m. - 3:00 p.m.",
+                "layer_id": 0,
+                "objectId": 384,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.57296336069945,
+                "y": 32.18539650088275
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Macon",
+                "f3": "Macon County Health Department",
+                "f4": "Walk-In",
+                "f5": "812 Hospital Rd, Tuskegee, AL 36083",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Wednesdays 8:30 a.m. - 2:30 p.m.",
+                "layer_id": 0,
+                "objectId": 385,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.69618081998519,
+                "y": 32.43108817951336
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Montgomery",
+                "f3": "Montgomery County Health Department",
+                "f4": "Walk-In",
+                "f5": "3060 Mobile Highway, Montgomery, AL  36108",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Mondays & Thursdays 8:30 a.m. - 3:45 p.m.",
+                "layer_id": 0,
+                "objectId": 386,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.33971529376679,
+                "y": 32.34934255775565
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Russell",
+                "f3": "Russell County Health Department",
+                "f4": "Walk-In",
+                "f5": "1850 Crawford Road, Phenix City, AL  36867",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Thursdays 8:30 a.m. - 3:15 p.m.",
+                "layer_id": 0,
+                "objectId": 387,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.01869448159455,
+                "y": 32.474587847569325
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Tallapoosa",
+                "f3": "Tallapoosa County Health Department",
+                "f4": "Walk-In",
+                "f5": "2078 Sportsplex Blvd., Alexander City, AL  35010",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Tuesdays 8:30 a.m. - 2:45 p.m.",
+                "layer_id": 0,
+                "objectId": 388,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.97656501739499,
+                "y": 32.9280870901646
             }
         }
     ],

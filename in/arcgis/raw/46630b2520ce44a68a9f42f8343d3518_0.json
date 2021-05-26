@@ -18828,7 +18828,7 @@
                 "Promote_Site": null,
                 "Site_Address": "1040 W Washington St, South Bend, IN 46601",
                 "Site_County": "St. Joseph",
-                "Site_Location_Info": "This site will close at 3 pm on 5/29.",
+                "Site_Location_Info": "This site will close at 3 pm on 5/29. This clinic has Pfizer and Johnson & Johnson.",
                 "Site_Name": "FEMA- Civil Rights Heritage Center VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -21374,6 +21374,38 @@
                 },
                 "x": -87.32124045847313,
                 "y": 41.475834371951535
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "6cb5433d-3b18-422a-8bbf-0c1cd9d387c1",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Delaware County Fairgrounds VAX",
+                "OBJECTID": 861,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1210 N. Wheeling Ave.  Muncie, IN  47303",
+                "Site_County": "Delaware",
+                "Site_Location_Info": "This is a one-day clinic on June 2, 9 am – 6 pm.   This clinic has Pfizer & Moderna.",
+                "Site_Name": "Delaware County Fairgrounds VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.39396592529697,
+                "y": 40.20764859532487
             }
         },
         {
@@ -33932,7 +33964,7 @@
                 "Promote_Site": null,
                 "Site_Address": "550 N Indiana St, Mooresville, IN 46158",
                 "Site_County": "Morgan",
-                "Site_Location_Info": "05/25 - 05/27; 9 am - 6 pm.",
+                "Site_Location_Info": "05/25 - 05/27; 9 am - 6 pm. This clinic has Pfizer and Johnson & Johnson.",
                 "Site_Name": "Mooresville High School VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -34238,6 +34270,102 @@
                 },
                 "x": -87.12838215141606,
                 "y": 39.523475306216596
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "079e23fe-165d-46da-a3ef-9841234a7aa9",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Butler Methodist Church VAX",
+                "OBJECTID": 1277,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "501 W. Green St, Butler, IN 46721",
+                "Site_County": "DeKalb",
+                "Site_Location_Info": "This is a mobile clinic on June 2 – 4, 9 am – 6 pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Butler Methodist Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.87669479079887,
+                "y": 41.4309128100813
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e386f94b-ea0e-40e4-856c-823e396cdc3b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Mt Pisgah Baptist Church VAX",
+                "OBJECTID": 1278,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3718 E. Blue Ridge Rd, Shelbyville, IN 46176",
+                "Site_County": "Shelby",
+                "Site_Location_Info": "This is a mobile clinic on June 2 – 5, 9 am – 6 pm.",
+                "Site_Name": "Mt Pisgah Baptist Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.7097997814594,
+                "y": 39.51996487655095
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "9781a478-0b12-4f97-a4cd-2e4778278887",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Syracuse Community Center",
+                "OBJECTID": 1279,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1013 N. Long Dr, Syracuse, IN 46567",
+                "Site_County": "Kosciusko",
+                "Site_Location_Info": "This is a mobile clinic on June 2 – 5, 9 am – 6 pm.  This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Syracuse Community Center VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.7506988344116,
+                "y": 41.43117295688145
             }
         }
     ],

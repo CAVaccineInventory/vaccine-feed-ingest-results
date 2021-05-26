@@ -29297,7 +29297,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "76d7b0d2-8aeb-4deb-b846-4306a1edc3ea",
@@ -44768,7 +44768,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a0ee0cc6-c757-4465-b04e-20a15f360a86",
                 "Loc_ID": null,
@@ -44838,7 +44838,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b3af079a-36bd-425b-91f9-841b2e6119b2",
                 "Loc_ID": null,
@@ -58802,7 +58802,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6053fef7-7a9d-466c-bbf5-40fbd3fd078c",
@@ -58838,7 +58838,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b44f9f44-5123-40c7-80e7-72f8692b45e6",
                 "Loc_ID": null,
@@ -58873,7 +58873,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5809871b-c8cf-4faa-a2b3-e05bd5665d84",
                 "Loc_ID": null,
@@ -64928,7 +64928,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "407e1fe9-443e-40b8-9833-ff90b94fc8fd",
                 "Loc_ID": null,
@@ -65452,7 +65452,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "760ace50-27f0-425a-b2dd-f606f8407606",
@@ -66188,7 +66188,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a42418ab-0670-4458-9ea3-2377dedfbfda",
                 "Loc_ID": null,
@@ -72068,7 +72068,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2abfd1bf-e07e-4e4c-8792-676e0352315c",
                 "Loc_ID": null,
@@ -76683,6 +76683,146 @@
                 },
                 "x": -82.37972571715306,
                 "y": 34.1778881927504
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "030ba3a5-52a0-4ccd-960c-91d9562b4086",
+                "Loc_ID": null,
+                "OBJECTID": 32311,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "5791 Hwy 9",
+                "SiteAddressDetail": null,
+                "SiteCity": "Nichols",
+                "SitePhone": "866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29581",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Mt. Vernon Missionary Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.03184932611498,
+                "y": 34.15812720694731
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "cfe7f132-c2b4-4ee2-90a9-65a135de366a",
+                "Loc_ID": null,
+                "OBJECTID": 32312,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "3117 Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Loris",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29569",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Loris 1st Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.89830549370907,
+                "y": 34.060529508804166
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "809c86ff-b7be-49cb-941d-2aede3e776c6",
+                "Loc_ID": null,
+                "OBJECTID": 32313,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "552 East Bill Farrow Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Darlington",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29532",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Cherry Grove Missionary Baptist",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.93733519741863,
+                "y": 34.32323598850206
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "d5a573bb-e0b0-49af-afd9-6097f20b9a0d",
+                "Loc_ID": null,
+                "OBJECTID": 32314,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "100 Woods Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Clio",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29525",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Clio East Apartments",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.536759901636,
+                "y": 34.56903516801907
             }
         }
     ],
