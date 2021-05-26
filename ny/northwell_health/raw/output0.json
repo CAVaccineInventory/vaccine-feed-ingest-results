@@ -120,21 +120,6 @@
         "distance": null
     },
     {
-        "id": 51,
-        "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
-        "address": "1086 Lexington Avenue",
-        "suite": "",
-        "city": "New York",
-        "state": "NY",
-        "zip": "10075",
-        "county": "Manhattan",
-        "latitude": "40.7733",
-        "longitude": "-73.9603",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3cEAC",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
         "id": 44,
         "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Pfizer",
         "address": "335 Greenwich Street",
@@ -146,6 +131,21 @@
         "latitude": "40.6991",
         "longitude": "-73.6129",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TgNEEA0",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 42,
+        "name": "Queens - Church of Corona (100-10 Astoria Blvd) -- Pfizer",
+        "address": "100-10 Astoria Boulevard",
+        "suite": "",
+        "city": "Queens",
+        "state": "NY",
+        "zip": "11369",
+        "county": "Queens",
+        "latitude": "40.7615",
+        "longitude": "-73.8689",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfP9EAK",
         "vaccine_manufacturer": "Pfizer",
         "distance": null
     }

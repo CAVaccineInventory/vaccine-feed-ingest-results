@@ -34207,6 +34207,38 @@
                 "x": -87.27492705869615,
                 "y": 38.04960190395205
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "96b33b69-f24c-4b68-9ae2-b523c119004d",
+                "ID": null,
+                "IsView": 1,
+                "Name": "CLAY COUNTY COVID VAX",
+                "OBJECTID": 1276,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "18 N. Walnut St., Brazil, IN 47834",
+                "Site_County": "Clay",
+                "Site_Location_Info": "This vaccination site has Moderna and Pfizer",
+                "Site_Name": "CLAY COUNTY COVID VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.12838215141606,
+                "y": 39.523475306216596
+            }
         }
     ],
     "fields": [
