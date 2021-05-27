@@ -34367,6 +34367,38 @@
                 "x": -85.7506988344116,
                 "y": 41.43117295688145
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8df4d884-c47a-407a-bb1f-9ac1fcb363d5",
+                "ID": null,
+                "IsView": 1,
+                "Name": "ALLEN COUNTY HD ANNEX",
+                "OBJECTID": 1280,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "4813 New Haven Ave, Fort Wayne, IN 46803",
+                "Site_County": "Allen",
+                "Site_Location_Info": "Register using the link below, or by calling 260-449-7504.",
+                "Site_Name": "ALLEN COUNTY HD ANNEX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available. Call for hours.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://consumer.scheduling.athena.io/?departmentId=14428-3&practitionerId=14428-39",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.0768403783819,
+                "y": 41.06915586796222
+            }
         }
     ],
     "fields": [
