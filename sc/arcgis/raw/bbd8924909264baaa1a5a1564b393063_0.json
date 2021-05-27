@@ -1437,7 +1437,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "25a0ce32-fb56-4180-baf7-7c9c804f9efd",
@@ -6022,7 +6022,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ab50fc5d-746c-4945-997a-677af15335d5",
@@ -8752,7 +8752,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f999b26a-93da-4fde-9a76-05238c278e93",
@@ -14597,7 +14597,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "748131c7-28ad-4a00-8f72-da37b2060dae",
@@ -14608,7 +14608,7 @@
                 "SiteAddress": "742 W. Liberty Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Sumter",
-                "SitePhone": "",
+                "SitePhone": "803-773-5227",
                 "SiteState": "SC",
                 "SiteZip": "29150",
                 "URL": null,
@@ -14632,7 +14632,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "32204786-43bb-4a54-93b7-0227c59b6069",
@@ -14667,7 +14667,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e3bde87e-1f66-48cf-b483-1e802be2d783",
@@ -14702,7 +14702,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f6e0bcbd-acd5-4227-8347-3ac078316a39",
@@ -14737,7 +14737,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "43adf60a-e949-41f9-9663-bcc5a09b2e75",
@@ -14772,7 +14772,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "07ca748f-6dd5-449b-819b-7064e1793242",
@@ -15402,7 +15402,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9487df27-52a5-4ba2-809d-44274915e085",
@@ -18273,7 +18273,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8caa2252-17b0-4471-912a-7b59700b5404",
                 "Loc_ID": 281,
@@ -18283,7 +18283,7 @@
                 "SiteAddress": "325 Broad Street",
                 "SiteAddressDetail": "Suite 100",
                 "SiteCity": "Sumter",
-                "SitePhone": "",
+                "SitePhone": "803-773-5227",
                 "SiteState": "SC",
                 "SiteZip": "29150",
                 "URL": null,
@@ -18308,7 +18308,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7628a9e3-fac6-4386-9426-8904e90b36c8",
                 "Loc_ID": 284,
@@ -18318,7 +18318,7 @@
                 "SiteAddress": "674 W. Liberty Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Sumter",
-                "SitePhone": "",
+                "SitePhone": "803-773-5227",
                 "SiteState": "SC",
                 "SiteZip": "29150",
                 "URL": null,
@@ -18588,7 +18588,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "kballetine@delta-rx.com",
                 "GlobalID": "dfd57e0e-6ae1-4211-b71f-900fb7cdff53",
                 "Loc_ID": 268,
@@ -18601,7 +18601,7 @@
                 "SitePhone": "843-761-5255",
                 "SiteState": "SC",
                 "SiteZip": "29461",
-                "URL": null,
+                "URL": "http://www.delta-rx.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Delta Pharmacy ",
@@ -18623,7 +18623,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "jkroll@delta-rx.com",
                 "GlobalID": "fe845d39-079d-4226-89f7-7189ed1fe60a",
                 "Loc_ID": 275,
@@ -18636,7 +18636,7 @@
                 "SitePhone": "843-937-0960",
                 "SiteState": "SC",
                 "SiteZip": "29401",
-                "URL": null,
+                "URL": "http://www.delta-rx.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Delta Pharmacy ",
@@ -18657,7 +18657,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": "nkelleher@delta-rx.com",
                 "GlobalID": "6226c938-3d90-4200-9466-bec183550e12",
@@ -18693,7 +18693,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "leahelmly@gmail.com",
                 "GlobalID": "69849f8e-70b6-493c-96e7-ba689b637363",
                 "Loc_ID": 286,
@@ -18706,7 +18706,7 @@
                 "SitePhone": "803-897-2131",
                 "SiteState": "SC",
                 "SiteZip": "29047",
-                "URL": null,
+                "URL": "http://www.delta-rx.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Delta Pharmacy Elloree",
@@ -18728,7 +18728,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "rboland@delta-rx.com",
                 "GlobalID": "907603e5-9e24-40cc-bd60-e4f172e4092b",
                 "Loc_ID": 290,
@@ -18741,7 +18741,7 @@
                 "SitePhone": "803-492-9201",
                 "SiteState": "SC",
                 "SiteZip": "29048",
-                "URL": null,
+                "URL": "http://www.delta-rx.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Delta Pharmacy Eutawville",
@@ -18763,7 +18763,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "pruney@delta-rx.com",
                 "GlobalID": "0aa4ddcd-4483-49d4-8ce8-c0b42f6c98b9",
                 "Loc_ID": 294,
@@ -18776,7 +18776,7 @@
                 "SitePhone": "843-564-5720",
                 "SiteState": "SC",
                 "SiteZip": "29449",
-                "URL": null,
+                "URL": "http://www.delta-rx.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Delta Pharmacy Hollywood ",
@@ -18798,7 +18798,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "jgandy@delta-rx.com",
                 "GlobalID": "fee804da-100f-41b8-a562-042843395e10",
                 "Loc_ID": 283,
@@ -18811,7 +18811,7 @@
                 "SitePhone": "843-885-8008",
                 "SiteState": "SC",
                 "SiteZip": "29451",
-                "URL": null,
+                "URL": "http://www.delta-rx.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Delta Pharmacy Isle of Palms",
@@ -18937,7 +18937,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0cc8cb75-c97f-4c03-a871-49b60c165b54",
@@ -18972,7 +18972,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8924aa51-a4c7-4936-b202-c3f4ec96ded8",
@@ -19007,7 +19007,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ab2db27b-2f50-4e25-899f-3dfa290b28cf",
@@ -19042,7 +19042,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4acab98b-eb7c-4d34-969f-2cf88dc05e8d",
@@ -19077,7 +19077,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a48ab8be-3b8d-452d-9aae-a8cbf7b5751b",
@@ -19112,7 +19112,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4fed4a09-4b81-45db-9f9b-69ce106b46c6",
@@ -19162,7 +19162,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29910",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Bluffton",
                 "loc_type1": "Urgent care",
@@ -19182,7 +19182,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "be7d14e4-363a-46b6-ae81-ce386332f9af",
@@ -19217,7 +19217,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "35829db9-e798-44ee-b1be-edb4d8a53645",
@@ -19252,7 +19252,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c8454c1e-73b6-44d0-900e-c83be8f05c41",
@@ -19287,7 +19287,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4172b581-e4f4-445a-bfb4-857af1ea1c49",
@@ -19322,7 +19322,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bd2799ea-d699-4311-a1ab-51e0352ce99d",
@@ -19372,7 +19372,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29650",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "DOCTORS CARE GREER",
                 "loc_type1": "Urgent care",
@@ -21332,7 +21332,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29440",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Georgetown",
                 "loc_type1": "Urgent care",
@@ -39587,7 +39587,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f207594a-5fe2-43c2-b914-328f05153318",
@@ -39622,7 +39622,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d1fdf45c-3077-48f3-90ff-2a061b0aa918",
@@ -39657,7 +39657,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bcea6907-e5e7-44da-bbff-4a98b957228b",
@@ -39692,7 +39692,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "58efcf0a-199d-40fb-b872-461c3b2ec7c4",
@@ -39727,7 +39727,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "222f586c-f231-4775-8346-15f23e7b79ef",
@@ -39762,7 +39762,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0925912f-bb47-44b8-9ffe-7bd0d73cea1a",
@@ -39797,7 +39797,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "800cd565-e9a8-4f99-a497-2d738ee96841",
@@ -39832,7 +39832,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1482957e-258b-4a8a-9f55-e8458b51f980",
@@ -39867,7 +39867,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "77469dcf-179a-49f2-8500-ffe291ab4911",
@@ -39902,7 +39902,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "497fd89f-a76d-45d6-a46c-0f01ad1572a3",
@@ -39937,7 +39937,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1eac1ab5-0774-4cd1-b27b-3dcd888ac6bc",
@@ -39972,7 +39972,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ffd5cd57-d02f-4267-b0f7-44c95f334606",
@@ -40007,7 +40007,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5ce6cff3-9a5c-4210-bdb4-d7867a5f0229",
@@ -40042,7 +40042,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a8cea6f2-1681-40fa-9f55-5813d2eb6a47",
@@ -40077,7 +40077,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2920000b-8af3-4e8e-abaf-7a2fd9b6a33d",
@@ -46482,7 +46482,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "69ee5713-359e-4d7e-b9b8-7c517cce25ad",
@@ -57438,7 +57438,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ed8ab113-2d4e-4cc9-bc74-016c4340a6b0",
                 "Loc_ID": 1499,
@@ -57448,7 +57448,7 @@
                 "SiteAddress": "1124 Little Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Camden",
-                "SitePhone": null,
+                "SitePhone": "803-773-5227",
                 "SiteState": "SC",
                 "SiteZip": "29020",
                 "URL": null,
@@ -58418,7 +58418,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c8f1274a-a1e9-4f5b-928b-b8b086a07705",
                 "Loc_ID": null,
@@ -65173,7 +65173,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5e862306-10b2-4da0-b0cd-615f29fc7777",
                 "Loc_ID": null,
@@ -65557,7 +65557,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "33718015-ce06-4a80-ac56-153db8979c93",
@@ -65568,7 +65568,7 @@
                 "SiteAddress": "742 W. Liberty St",
                 "SiteAddressDetail": null,
                 "SiteCity": "Sumter",
-                "SitePhone": null,
+                "SitePhone": "803-773-5227",
                 "SiteState": "SC",
                 "SiteZip": "29150",
                 "URL": null,
@@ -69757,7 +69757,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2e673203-e51d-41ef-81e2-6d4392d155b9",
@@ -69768,7 +69768,7 @@
                 "SiteAddress": "4700 Forest Drive",
                 "SiteAddressDetail": " ",
                 "SiteCity": "Columbia",
-                "SitePhone": null,
+                "SitePhone": "803-773-5227",
                 "SiteState": "SC",
                 "SiteZip": "29206",
                 "URL": null,
@@ -76478,7 +76478,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b101eb4d-0647-4855-ad92-9028aac43f81",
                 "Loc_ID": null,
@@ -76823,6 +76823,41 @@
                 },
                 "x": -79.536759901636,
                 "y": 34.56903516801907
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": null,
+                "Appointments": null,
+                "Contact": null,
+                "GlobalID": "e20dab7d-173a-4857-9ddd-879aa45ead0c",
+                "Loc_ID": null,
+                "OBJECTID": 32711,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": null,
+                "SiteAddressDetail": null,
+                "SiteCity": null,
+                "SitePhone": null,
+                "SiteState": null,
+                "SiteZip": null,
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": null,
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.76234559540234,
+                "y": 33.855347638906835
             }
         }
     ],
