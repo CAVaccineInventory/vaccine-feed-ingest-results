@@ -1546,10 +1546,10 @@
                 "OBJECTID": 127,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1151 W 500 N, Huntington, IN 46750",
+                "Site_Address": "1330 S. Jefferson St., Huntington, IN  46750",
                 "Site_County": "Huntington",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "HUNTINGTN CRESTVIEW MIDSCHOOL VAX",
+                "Site_Name": "HUNTINGTON CO HD VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -1564,8 +1564,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.48846827999785,
-                "y": 40.902158513452605
+                "x": -85.48294829384501,
+                "y": 40.87008711005313
             }
         },
         {
@@ -34384,7 +34384,7 @@
                 "Site_Name": "ALLEN COUNTY HD ANNEX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available. Call for hours.",
-                "Site_Type": null,
+                "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://consumer.scheduling.athena.io/?departmentId=14428-3&practitionerId=14428-39",
                 "Symbology": "Regular",
                 "Vaccine_Type": "Pfizer",
