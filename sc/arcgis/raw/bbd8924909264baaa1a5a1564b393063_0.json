@@ -76863,7 +76863,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3e29e50c-2a6f-44cc-b367-5b60a9ee8f78",
                 "Loc_ID": null,

@@ -4439,14 +4439,14 @@
       <Placemark>
         <name>Advanced Urgent Care and Occupational Medicine</name>
         <address>2801 Purcell St, Brighton, CO</address>
-        <description><![CDATA[pin: 7054<br>unnamed (1): Moderna<br>county: Adams<br>type: Private Clinic<br>address: 2801 Purcell St, Brighton, CO<br>phone: 303-558-0509<br>website: https://advurgent.com/covid-19-vaccine/]]></description>
+        <description><![CDATA[pin: 7054<br>unnamed (1): Moderna, Pfizer<br>county: Adams<br>type: Private Clinic<br>address: 2801 Purcell St, Brighton, CO<br>phone: 303-558-0509<br>website: https://advurgent.com/covid-19-vaccine/]]></description>
         <styleUrl>#icon-1899-A52714</styleUrl>
         <ExtendedData>
           <Data name="pin">
             <value>7054</value>
           </Data>
           <Data name="unnamed (1)">
-            <value>Moderna</value>
+            <value>Moderna, Pfizer</value>
           </Data>
           <Data name="county">
             <value>Adams</value>

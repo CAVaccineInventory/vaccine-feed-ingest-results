@@ -2890,7 +2890,7 @@
                 "OBJECTID": 174,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "500 Lincoln Dr, Bloomfield, IN  47424",
+                "Site_Address": "855 N 800 W, SWITZ CITY, IN 47465",
                 "Site_County": "Greene",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "GREENE CO HD COVID VAX",
@@ -2908,8 +2908,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.94099728340501,
-                "y": 39.033568677787144
+                "x": -87.0907718347964,
+                "y": 39.03600213888382
             }
         },
         {
@@ -12972,8 +12972,8 @@
                 "Promote_Site": null,
                 "Site_Address": "1319 Duncan Ave., IN  47130",
                 "Site_County": "Clark",
-                "Site_Location_Info": null,
-                "Site_Name": "Family Health Ctrs. Of Southern Indiana VAX",
+                "Site_Location_Info": "This clinic has Pfizer, Moderna, and Johnson & Johnson",
+                "Site_Name": "Family Health Center SI VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "FQHC",

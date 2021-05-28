@@ -1,5 +1,35 @@
 [
     {
+        "id": 54,
+        "name": "Westchester - Pier 1 (792 North Bedford Road) -- Pfizer",
+        "address": "792 North Bedford Road",
+        "suite": "",
+        "city": "Bedford Hills",
+        "state": "NY",
+        "zip": "10507",
+        "county": "Westchester",
+        "latitude": "41.2216",
+        "longitude": "-73.7158",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk59EAC",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 53,
+        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Pfizer",
+        "address": "1 Marcus Avenue",
+        "suite": "",
+        "city": "New Hyde Park",
+        "state": "NY",
+        "zip": "11040",
+        "county": "Nassau",
+        "latitude": "40.7577",
+        "longitude": "-73.7087",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4kEAC",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
         "id": 51,
         "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
         "address": "131 East 76th Street",
@@ -117,21 +147,6 @@
         "longitude": "-73.7204",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
-        "id": 14,
-        "name": "Manhattan - Lenox Health Greenwich Village (200 W. 13th) -- Pfizer",
-        "address": "200 West 13th Street",
-        "suite": "",
-        "city": "New York",
-        "state": "NY",
-        "zip": "10011",
-        "county": "New York",
-        "latitude": "40.7379",
-        "longitude": "-74.0008",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Pfizer",
         "distance": null
     }
 ]

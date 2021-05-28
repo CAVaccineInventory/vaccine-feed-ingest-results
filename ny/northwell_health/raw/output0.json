@@ -1,5 +1,20 @@
 [
     {
+        "id": 70,
+        "name": "Suffolk - Sunken Meadow State Park (State Highway 25A) -- J&J",
+        "address": "1 Sunken Meadow Road",
+        "suite": "",
+        "city": "Kings Park",
+        "state": "NY",
+        "zip": "11754",
+        "county": "Suffolk",
+        "latitude": "40.9055",
+        "longitude": "-73.2593",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007ToTUEA0",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "distance": null
+    },
+    {
         "id": 69,
         "name": "Nassau - Hempstead Lake State Park (1000 Lake Drive) -- J&J",
         "address": "1000 Lake Drive",
@@ -75,6 +90,21 @@
         "distance": null
     },
     {
+        "id": 61,
+        "name": "Suffolk - Sunken Meadow State Park (NYS Reference Rte 908K) -- J&J",
+        "address": "1 Sunken Meadow Road",
+        "suite": "",
+        "city": "Kings Park",
+        "state": "NY",
+        "zip": "11754",
+        "county": "Suffolk",
+        "latitude": "40.9055",
+        "longitude": "-73.2593",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TlRGEA0",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "distance": null
+    },
+    {
         "id": 59,
         "name": "Suffolk - Cherry Grove Community House (180 Bayview Walk) -- J&J",
         "address": "1701 Sunrise Highway",
@@ -116,36 +146,6 @@
         "latitude": "40.9188",
         "longitude": "-72.664",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TT2OEAW",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
-        "id": 54,
-        "name": "Westchester - Pier 1 (792 North Bedford Road) -- Pfizer",
-        "address": "792 North Bedford Road",
-        "suite": "",
-        "city": "Bedford Hills",
-        "state": "NY",
-        "zip": "10507",
-        "county": "Westchester",
-        "latitude": "41.2216",
-        "longitude": "-73.7158",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk59EAC",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
-        "id": 53,
-        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Pfizer",
-        "address": "1 Marcus Avenue",
-        "suite": "",
-        "city": "New Hyde Park",
-        "state": "NY",
-        "zip": "11040",
-        "county": "Nassau",
-        "latitude": "40.7577",
-        "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4kEAC",
         "vaccine_manufacturer": "Pfizer",
         "distance": null
     }
