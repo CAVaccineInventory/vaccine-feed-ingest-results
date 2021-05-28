@@ -24867,70 +24867,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "4e61844a-46ab-440f-9fee-de6005de51c5",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Tippecanoe Co. Amphitheater VAX",
-                "OBJECTID": 976,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "4449 IN-43, West Lafayette, IN 47906",
-                "Site_County": "Tippecanoe",
-                "Site_Location_Info": "Mobile site 5/25 – 5/27; 9 am – 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Tippecanoe Co. Amphitheater VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.87880826932981,
-                "y": 40.4797242435019
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "05c70219-c757-47f1-87a8-b993a22eeb95",
-                "ID": null,
-                "IsView": 1,
-                "Name": "First Church Wheatfield VAX",
-                "OBJECTID": 977,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "5387 IN-10, Wheatfield, IN 46392",
-                "Site_County": "Jasper",
-                "Site_Location_Info": "Mobile site 5/25 – 5/27; 9 am – 6 pm. This site has Pfizer.",
-                "Site_Name": "First Church Wheatfield VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.14891234011517,
-                "y": 41.18560253795176
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "dd967d9e-ac1e-4fe5-ad83-b53ea91462dc",
                 "ID": null,
                 "IsView": 1,
@@ -34398,6 +34334,134 @@
                 },
                 "x": -85.0768403783819,
                 "y": 41.06915586796222
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "6ad99d65-4b99-415f-a26b-59c9d6084aeb",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Marion North Central Covid VAX",
+                "OBJECTID": 1281,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1801 E 86th St Indianapolis, IN 46240",
+                "Site_County": "Marion",
+                "Site_Location_Info": "North Central High School. This is a two-day clinic with the first dose on June 2; Second on June 23.",
+                "Site_Name": "Marion North Central Covid VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.13169691092779,
+                "y": 39.9113436202065
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "04a4fd85-e3b8-4f37-924e-591891685aca",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Marion Arsenal Covid VAX",
+                "OBJECTID": 1282,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1500 E Michigan St, Indianapolis, IN 46202",
+                "Site_County": "Marion",
+                "Site_Location_Info": "Arsenal Technical High School. This is a two-day clinic with the first dose on June 12; Second on July 10.",
+                "Site_Name": "Marion Arsenal Covid VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.13486995276033,
+                "y": 39.77624517713778
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "b6e36672-6a05-474a-8f32-f085696e8da5",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Marion Warren Covid VAX",
+                "OBJECTID": 1283,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "9500 E 16th St, Indianapolis, IN 46229",
+                "Site_County": "Marion",
+                "Site_Location_Info": "Warren Central High School. This is a two-day clinic with the first dose on June 19; Second on July 17.",
+                "Site_Name": "Marion Warren Covid VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.99989580703915,
+                "y": 39.7912037269028
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5e0c2450-1218-466b-a93a-ff99508b489c",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Monroe Co PH Clinic VAX",
+                "OBJECTID": 1284,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "333 E Miller Dr, Bloomington, IN 47401",
+                "Site_County": "Monroe",
+                "Site_Location_Info": "This clinic will run Mondays only beginning June 21, through July. (CLOSED July 5.)",
+                "Site_Name": "Monroe Co PH Clinic VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.52878151310868,
+                "y": 39.147383280539046
             }
         }
     ],

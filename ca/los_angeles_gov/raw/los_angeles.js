@@ -5,7 +5,7 @@ var unfiltered = [
     "NumChildren": 0,
     "inactive": "",
     "organization": "Reported",
-    "name": "Crenshaw Clinic",
+    "name": "Crenshaw Christian Center",
     "addr1": "1261 W 79th Street",
     "addr2": "Los Angeles, CA 90044",
     "vaccines": "a",
@@ -29,7 +29,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 2,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -40,7 +40,7 @@ var unfiltered = [
     "NumChildren": 0,
     "inactive": "",
     "organization": "Reported",
-    "name": "San Fernando Clinic",
+    "name": "San Fernando Park",
     "addr1": "208 Park Ave",
     "addr2": "San Fernando, CA 91340",
     "vaccines": "a",
@@ -64,7 +64,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -75,7 +75,7 @@ var unfiltered = [
     "NumChildren": 0,
     "inactive": "",
     "organization": "Reported",
-    "name": "Lincoln Park Clinic",
+    "name": "Lincoln Park Park",
     "addr1": "3501 Valley Blvd",
     "addr2": "Los Angeles, CA 90031",
     "vaccines": "a",
@@ -99,7 +99,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -134,7 +134,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 2,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -169,7 +169,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 2,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -204,7 +204,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -239,7 +239,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 3,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -274,7 +274,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 3,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -309,7 +309,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 2,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -589,7 +589,7 @@ var unfiltered = [
     "commentsSpn": "Diariamente de 9am-4:30pm<br>No se necesitan citas hasta agotar existencias.",
     "times": [],
     "clinicFormat": 2,
-    "system": "",
+    "system": 1,
     "appointmentRequired": 2,
     "ADA": "",
     "paratransit": ""
@@ -1631,7 +1631,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "",
+    "link": "https://myturn.ca.gov/",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -1771,7 +1771,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "",
+    "link": "https://myturn.ca.gov/",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -1806,7 +1806,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "",
+    "link": "https://myturn.ca.gov/",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -1876,7 +1876,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "",
+    "link": "https://myturn.ca.gov/",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -1911,7 +1911,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "",
+    "link": "https://myturn.ca.gov/",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -1946,7 +1946,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "",
+    "link": "https://myturn.ca.gov/",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -1962,7 +1962,7 @@ var unfiltered = [
   {
     "id": 497,
     "xParent": 3,
-    "NumChildren": 4,
+    "NumChildren": 2,
     "inactive": "",
     "organization": "Reported",
     "name": "Wesley Health Centers Lynwood 2",
@@ -1989,78 +1989,8 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 3,
     "appointmentRequired": 1,
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 497,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "8am-12pm",
-    "link": "https://www.caprepmod.org//appointment/en/clinic/private_registration/ujKAApKmgabRR1i7P5VTj5gXLZ42sHLk",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 497,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "12:30-4pm",
-    "link": "https://www.caprepmod.org//appointment/en/clinic/private_registration/HfSdYPTUGkM1gxzHLEEN2rhz4fymjz2K",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
     "ADA": "",
     "paratransit": ""
   },
@@ -2137,7 +2067,7 @@ var unfiltered = [
   {
     "id": 357,
     "xParent": 3,
-    "NumChildren": 2,
+    "NumChildren": 1,
     "inactive": "",
     "organization": "Reported",
     "name": "Hawaiian Gardens",
@@ -2164,43 +2094,8 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 3,
     "appointmentRequired": 1,
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 357,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "8am-5pm",
-    "link": "https://www.caprepmod.org//appointment/en/reg/6261911064",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
     "ADA": "",
     "paratransit": ""
   },
@@ -2242,7 +2137,7 @@ var unfiltered = [
   {
     "id": 358,
     "xParent": 3,
-    "NumChildren": 4,
+    "NumChildren": 2,
     "inactive": "",
     "organization": "Reported",
     "name": "​Southeast Highschool Vaccination Center",
@@ -2269,78 +2164,8 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 3,
     "appointmentRequired": 1,
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 358,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "9am-12pm",
-    "link": "https://www.caprepmod.org//appointment/en/clinic/private_registration/xGB5NTXxJPzKzjtZvwM1HaAMKPFSw9ym",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 358,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "12:30-4pm",
-    "link": "https://www.caprepmod.org//appointment/en/clinic/private_registration/xPBf8geNwkvk7cQGH5UhhheHgsTRi6vh",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
     "ADA": "",
     "paratransit": ""
   },
@@ -2724,7 +2549,7 @@ var unfiltered = [
     "commentsSpn": "Citas para la segunda dosis solamente.",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 6,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -3039,7 +2864,7 @@ var unfiltered = [
     "commentsSpn": "<ul>\n<li> Concierte una cita en <a target=\"_blank\" href=\"https://KP.org/COVIDvaccine\">KP.org/COVIDvaccine</a> (<span class = \"text-danger\"> seleccione AV Consultorios médicos para hacer una cita </span>) o llame al 1-833-574-2273. </li>\n<li> No necesita seguro ni ser miembro de Kaiser Permanente para reservar una cita. </li>\n<li> Este sitio no es accesible desde el automóvil. Puede conducir y estacionarse, llegar a pie o venir en transporte compartido o en transporte público. Hay un autobús urbano desde uno de los cuatro lugares de recogida en Palmdale y Lancaster para personas con citas. Para obtener más información, visite <a target=\"_blank\" href=\"https://www.avta.com/avta-begins-bus-service-for-av-residents-getting-vaccines\"> AVTA </a>. </li>\n</ul>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 1,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -3222,7 +3047,7 @@ var unfiltered = [
   {
     "id": 342,
     "xParent": 3,
-    "NumChildren": 2,
+    "NumChildren": 1,
     "inactive": "",
     "organization": "Reported",
     "name": "El Proyecto Del Barrio - Arleta Clinic",
@@ -3249,43 +3074,8 @@ var unfiltered = [
     "commentsSpn": "<a target=\"_blank\" href=\"../../docs/vaccine/MapElProyectoDelBarrioArleta.pdf\"> Mapa del sitio para El Proyecto Del Bario - Arleta Clinic </a><br>Laborables: sin cita previa <br>Fines de semana: sin cita previa y en coche",
     "times": [],
     "clinicFormat": 3,
-    "system": "",
+    "system": 3,
     "appointmentRequired": 1,
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 342,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "8am-4pm",
-    "link": "https://www.caprepmod.org/reg/9210216651",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
     "ADA": "",
     "paratransit": ""
   },
@@ -4124,7 +3914,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 3,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -4264,7 +4054,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 1,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -4307,7 +4097,7 @@ var unfiltered = [
   {
     "id": 320,
     "xParent": 3,
-    "NumChildren": 4,
+    "NumChildren": 2,
     "inactive": "",
     "organization": "Reported",
     "name": "Whittier Public Health Center",
@@ -4334,78 +4124,8 @@ var unfiltered = [
     "commentsSpn": "Primera y segunda dosis, solo con cita previa",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 3,
     "appointmentRequired": 1,
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 320,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "8:30-11am",
-    "link": "https://www.caprepmod.org/appointment/en/reg/7269158089",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
-    "ADA": "",
-    "paratransit": ""
-  },
-  {
-    "id": "",
-    "xParent": 320,
-    "NumChildren": -1,
-    "inactive": "",
-    "organization": "Reported",
-    "name": "",
-    "addr1": "",
-    "addr2": "",
-    "vaccines": "",
-    "logo": "",
-    "lat-lon": "",
-    "lat": "",
-    "lon": "",
-    "mapZoom": "",
-    "notes": "",
-    "notesSpn": "",
-    "alt": "",
-    "altSpn": "",
-    "sweepstakes": "",
-    "date": "5/27/2021",
-    "time": "12:45-3:30pm",
-    "link": "https://www.caprepmod.org/appointment/en/reg/0119362891",
-    "secondDose": "",
-    "phone": "",
-    "full": "",
-    "comments": "",
-    "commentsSpn": "",
-    "times": "",
-    "clinicFormat": "",
-    "system": "",
-    "appointmentRequired": "",
     "ADA": "",
     "paratransit": ""
   },
@@ -4579,7 +4299,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 5,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5069,7 +4789,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5104,7 +4824,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5139,7 +4859,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5174,7 +4894,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5209,7 +4929,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5244,7 +4964,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5279,7 +4999,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5314,7 +5034,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5349,7 +5069,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5384,7 +5104,7 @@ var unfiltered = [
     "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 12,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5419,7 +5139,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 13,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5454,7 +5174,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 13,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5489,7 +5209,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 13,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5524,7 +5244,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 13,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5559,7 +5279,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 13,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5594,7 +5314,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5629,7 +5349,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5664,7 +5384,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5699,7 +5419,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5734,7 +5454,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5769,7 +5489,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5804,7 +5524,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5839,7 +5559,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5874,7 +5594,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5909,7 +5629,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5944,7 +5664,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -5979,7 +5699,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6014,7 +5734,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6049,7 +5769,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6084,7 +5804,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6119,7 +5839,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6154,7 +5874,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6189,7 +5909,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6224,7 +5944,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6259,7 +5979,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6294,7 +6014,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6329,7 +6049,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6364,7 +6084,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6399,7 +6119,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6434,7 +6154,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6469,7 +6189,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6504,7 +6224,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6539,7 +6259,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6574,7 +6294,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6609,7 +6329,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6644,7 +6364,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6679,7 +6399,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6714,7 +6434,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6749,7 +6469,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6784,7 +6504,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6819,7 +6539,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6854,7 +6574,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6889,7 +6609,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6924,7 +6644,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6959,7 +6679,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -6994,7 +6714,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7029,7 +6749,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7064,7 +6784,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7099,7 +6819,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7134,7 +6854,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7169,7 +6889,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7204,7 +6924,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7239,7 +6959,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7274,7 +6994,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7309,7 +7029,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7344,7 +7064,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7379,7 +7099,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7414,7 +7134,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7449,7 +7169,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7484,7 +7204,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7519,7 +7239,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7554,7 +7274,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7589,7 +7309,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7624,7 +7344,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7659,7 +7379,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7694,7 +7414,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7729,7 +7449,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7764,7 +7484,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 14,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7799,7 +7519,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7834,7 +7554,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7869,7 +7589,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7904,7 +7624,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7939,7 +7659,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -7974,7 +7694,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8009,7 +7729,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8044,7 +7764,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8079,7 +7799,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8114,7 +7834,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8149,7 +7869,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8184,7 +7904,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8219,7 +7939,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8254,7 +7974,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8289,7 +8009,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8324,7 +8044,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8359,7 +8079,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8394,7 +8114,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8429,7 +8149,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8464,7 +8184,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8499,7 +8219,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8534,7 +8254,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8569,7 +8289,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8604,7 +8324,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8639,7 +8359,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8674,7 +8394,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8709,7 +8429,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8744,7 +8464,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8779,7 +8499,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8814,7 +8534,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8849,7 +8569,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8884,7 +8604,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8919,7 +8639,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8954,7 +8674,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -8989,7 +8709,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9024,7 +8744,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9059,7 +8779,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9094,7 +8814,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9129,7 +8849,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9164,7 +8884,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9199,7 +8919,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9234,7 +8954,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9269,7 +8989,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9304,7 +9024,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9339,7 +9059,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9374,7 +9094,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9409,7 +9129,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9444,7 +9164,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9479,7 +9199,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9514,7 +9234,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9549,7 +9269,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9584,7 +9304,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9619,7 +9339,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9654,7 +9374,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9689,7 +9409,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9724,7 +9444,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9759,7 +9479,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9794,7 +9514,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9829,7 +9549,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9864,7 +9584,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9899,7 +9619,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9934,7 +9654,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -9969,7 +9689,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10004,7 +9724,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10039,7 +9759,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10074,7 +9794,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10109,7 +9829,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10144,7 +9864,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10179,7 +9899,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10214,7 +9934,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10249,7 +9969,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10284,7 +10004,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10319,7 +10039,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10354,7 +10074,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10389,7 +10109,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10424,7 +10144,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10459,7 +10179,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10494,7 +10214,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10529,7 +10249,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10564,7 +10284,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10599,7 +10319,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10634,7 +10354,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10669,7 +10389,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10704,7 +10424,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10739,7 +10459,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10774,7 +10494,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10809,7 +10529,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10844,7 +10564,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10879,7 +10599,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10914,7 +10634,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10949,7 +10669,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -10984,7 +10704,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11019,7 +10739,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11054,7 +10774,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11089,7 +10809,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11124,7 +10844,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11159,7 +10879,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11194,7 +10914,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11229,7 +10949,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11264,7 +10984,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11299,7 +11019,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11334,7 +11054,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11369,7 +11089,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11404,7 +11124,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11439,7 +11159,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11474,7 +11194,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11509,7 +11229,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11544,7 +11264,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": "",
     "clinicFormat": 1,
-    "system": "",
+    "system": 9,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11579,7 +11299,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11614,7 +11334,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11649,7 +11369,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11684,7 +11404,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11719,7 +11439,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11754,7 +11474,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11789,7 +11509,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11824,7 +11544,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11859,7 +11579,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11894,7 +11614,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11929,7 +11649,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11964,7 +11684,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -11999,7 +11719,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12034,7 +11754,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12069,7 +11789,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12104,7 +11824,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12139,7 +11859,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12174,7 +11894,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12209,7 +11929,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12244,7 +11964,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12279,7 +11999,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 11,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12314,7 +12034,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12349,7 +12069,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12384,7 +12104,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12419,7 +12139,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12454,7 +12174,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12489,7 +12209,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12524,7 +12244,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12559,7 +12279,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12594,7 +12314,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12629,7 +12349,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12664,7 +12384,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12699,7 +12419,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12734,7 +12454,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12769,7 +12489,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12804,7 +12524,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12839,7 +12559,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12874,7 +12594,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12909,7 +12629,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12944,7 +12664,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -12979,7 +12699,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13014,7 +12734,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13049,7 +12769,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13084,7 +12804,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13119,7 +12839,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13154,7 +12874,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13189,7 +12909,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13224,7 +12944,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13259,7 +12979,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13294,7 +13014,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13329,7 +13049,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13364,7 +13084,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13399,7 +13119,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13434,7 +13154,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13469,7 +13189,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13504,7 +13224,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13539,7 +13259,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13574,7 +13294,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13609,7 +13329,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13644,7 +13364,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13679,7 +13399,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13714,7 +13434,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13749,7 +13469,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13784,7 +13504,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13819,7 +13539,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13854,7 +13574,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13889,7 +13609,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13924,7 +13644,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13959,7 +13679,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -13994,7 +13714,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14029,7 +13749,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14064,7 +13784,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14099,7 +13819,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14134,7 +13854,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14169,7 +13889,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14204,7 +13924,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14239,7 +13959,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14274,7 +13994,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14309,7 +14029,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14344,7 +14064,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14379,7 +14099,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14414,7 +14134,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 10,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14449,7 +14169,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14484,7 +14204,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14519,7 +14239,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14554,7 +14274,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14589,7 +14309,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14624,7 +14344,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14659,7 +14379,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14694,7 +14414,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14729,7 +14449,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14764,7 +14484,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14799,7 +14519,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14834,7 +14554,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14869,7 +14589,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14904,7 +14624,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14939,7 +14659,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -14974,7 +14694,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15009,7 +14729,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15044,7 +14764,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15079,7 +14799,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15114,7 +14834,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15149,7 +14869,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15184,7 +14904,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15219,7 +14939,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15254,7 +14974,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15289,7 +15009,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15324,7 +15044,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15359,7 +15079,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15394,7 +15114,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15429,7 +15149,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15464,7 +15184,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15499,7 +15219,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15534,7 +15254,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15569,7 +15289,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15604,7 +15324,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15639,7 +15359,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15674,7 +15394,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15709,7 +15429,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15744,7 +15464,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15779,7 +15499,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -15814,7 +15534,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 7,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16129,7 +15849,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16164,7 +15884,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16199,7 +15919,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16234,7 +15954,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16269,7 +15989,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16304,7 +16024,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16339,7 +16059,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16374,7 +16094,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16409,7 +16129,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16444,7 +16164,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16479,7 +16199,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16514,7 +16234,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16549,7 +16269,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16584,7 +16304,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16619,7 +16339,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16654,7 +16374,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16689,7 +16409,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16724,7 +16444,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16759,7 +16479,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16794,7 +16514,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16829,7 +16549,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16864,7 +16584,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16899,7 +16619,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16934,7 +16654,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16969,7 +16689,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 15,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -16996,7 +16716,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "https://www.walmart.com/cp/1228310",
+    "link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -17004,7 +16724,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 16,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -17031,7 +16751,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "https://www.walmart.com/cp/1228311",
+    "link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -17039,7 +16759,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 16,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -17066,7 +16786,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "https://www.walmart.com/cp/1228312",
+    "link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -17074,7 +16794,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 16,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -17101,7 +16821,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "https://www.walmart.com/cp/1228313",
+    "link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -17109,7 +16829,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 16,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -17136,7 +16856,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "https://www.walmart.com/cp/1228314",
+    "link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -17144,7 +16864,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 16,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -17171,7 +16891,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "https://www.walmart.com/cp/1228315",
+    "link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "secondDose": "",
     "phone": "",
     "full": "",
@@ -17179,7 +16899,7 @@ var unfiltered = [
     "commentsSpn": "<a href=\"https://www.walmart.com/cp/4096561\" target=\"_blank\">Vea la p&aacute;gina de citas de Walmart y Sam's Club en espa&ntilde;ol.</a>",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 16,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
@@ -18859,7 +18579,7 @@ var unfiltered = [
     "commentsSpn": "",
     "times": [],
     "clinicFormat": 1,
-    "system": "",
+    "system": 8,
     "appointmentRequired": 1,
     "ADA": "",
     "paratransit": ""
