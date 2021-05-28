@@ -1472,7 +1472,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "514cc958-b3ed-4260-9187-a47bc14eb59d",
@@ -3292,7 +3292,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8f199f64-f9c5-4213-ad46-e351c5d6f117",
@@ -6057,7 +6057,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7de56c44-c04c-4636-aaeb-280ef7b8f8ac",
@@ -8787,7 +8787,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a1249154-3e67-4637-8290-3b253ae8fb94",
@@ -8872,7 +8872,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29501",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Hoffmeyer",
                 "loc_type1": "Urgent care",
@@ -9222,7 +9222,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29577",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Market Common",
                 "loc_type1": "Urgent care",
@@ -10832,7 +10832,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29577",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Strand Medical",
                 "loc_type1": "Urgent care",
@@ -10867,7 +10867,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29150",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Sumter",
                 "loc_type1": "Urgent care",
@@ -14807,7 +14807,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c18aad51-3ad3-4b81-ab21-6ab8fef46476",
@@ -14842,7 +14842,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "231da340-1485-471c-b48b-85f36403fcae",
@@ -14877,7 +14877,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ab044a28-2b9b-4e9a-a1e7-2e64e81a97b7",
@@ -19392,7 +19392,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a8c44ff9-55fa-46df-89e1-c03d7006ef09",
@@ -19427,7 +19427,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c7a7d26f-bd8b-4867-bf08-4a5ee21ea0b9",
@@ -19477,7 +19477,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29072",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Lexington West",
                 "loc_type1": "Urgent care",
@@ -19497,7 +19497,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "abbd2697-8697-4628-98d8-f44839480ef4",
@@ -19567,7 +19567,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "76e09e64-f11b-49d0-99d8-b2c0c956e4fd",
@@ -19602,7 +19602,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ddcf76c1-a2b8-4d49-a8cd-2f89b0349fbe",
@@ -19652,7 +19652,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29108",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Newberry",
                 "loc_type1": "Urgent care",
@@ -19672,7 +19672,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2cf4a732-98e7-4dbb-817c-3614ff12000b",
@@ -19722,7 +19722,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29223",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Northeast",
                 "loc_type1": "Urgent care",
@@ -19742,7 +19742,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f796f120-c87a-4c8d-8c0e-82768f9f7620",
@@ -19792,7 +19792,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29118",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "DOCTORS CARE ORANGEBURG",
                 "loc_type1": "Urgent care",
@@ -19812,7 +19812,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1ccf89d9-af92-4cc2-8cc6-0b25608f48d1",
@@ -19847,7 +19847,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "909e63f4-01a1-48e1-8f90-7473f09f93b8",
@@ -19897,7 +19897,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29732",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Rock Hill",
                 "loc_type1": "Urgent care",
@@ -19917,7 +19917,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "db92875f-0ad9-44a6-91b6-fbdd09cc3567",
@@ -19952,7 +19952,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "fd91a948-288e-4683-9764-15160501f0e2",
@@ -19987,7 +19987,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b5f0271a-7f67-4894-8b60-ba887957cecc",
@@ -20037,7 +20037,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29483",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Doctors Care Summerville ",
                 "loc_type1": "Urgent care",
@@ -20057,7 +20057,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e22082f8-d472-443f-b386-f165f8cee18c",
@@ -20107,7 +20107,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29407",
                 "URL": "https://doctorscare.com/covid19-vaccine/",
-                "V_Manufacturer": "PFR, JJ",
+                "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "Doctors Care West Ashley",
                 "loc_type1": "Urgent care",
@@ -76858,6 +76858,41 @@
                 },
                 "x": -78.76234559540234,
                 "y": 33.855347638906835
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "3e29e50c-2a6f-44cc-b367-5b60a9ee8f78",
+                "Loc_ID": null,
+                "OBJECTID": 32712,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1009 East Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Lake City",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29560",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Mt. Claire Missionary Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.73302779706796,
+                "y": 33.85711743194412
             }
         }
     ],
