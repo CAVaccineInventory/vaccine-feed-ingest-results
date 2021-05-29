@@ -45,21 +45,6 @@
         "distance": null
     },
     {
-        "id": 67,
-        "name": "Suffolk - Belmont Lake State Park (625 Belmont Ave) -- J&J",
-        "address": "625 Belmont Avenue",
-        "suite": "",
-        "city": "West Babylon",
-        "state": "NY",
-        "zip": "11704",
-        "county": "Suffolk",
-        "latitude": "40.7342",
-        "longitude": "-73.3445",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007ToRdEAK",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
-        "distance": null
-    },
-    {
         "id": 66,
         "name": "Suffolk - Heckscher State Park (1 Heckscher State Pkwy) -- J&J",
         "address": "1 Heckscher State Parkway",
@@ -107,14 +92,14 @@
     {
         "id": 59,
         "name": "Suffolk - Cherry Grove Community House (180 Bayview Walk) -- J&J",
-        "address": "1701 Sunrise Highway",
+        "address": "180 Bayview Walk",
         "suite": "",
-        "city": "Bay Shore",
+        "city": "Fire Island",
         "state": "NY",
-        "zip": "11706",
+        "zip": "11782",
         "county": "",
-        "latitude": "40.7396",
-        "longitude": "-73.2467",
+        "latitude": "40.66",
+        "longitude": "-73.0905",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TktiEAC",
         "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
         "distance": null
@@ -146,6 +131,21 @@
         "latitude": "40.9188",
         "longitude": "-72.664",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TT2OEAW",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 54,
+        "name": "Westchester - Pier 1 (792 North Bedford Road) -- Pfizer",
+        "address": "792 North Bedford Road",
+        "suite": "",
+        "city": "Bedford Hills",
+        "state": "NY",
+        "zip": "10507",
+        "county": "Westchester",
+        "latitude": "41.2216",
+        "longitude": "-73.7158",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk59EAC",
         "vaccine_manufacturer": "Pfizer",
         "distance": null
     }

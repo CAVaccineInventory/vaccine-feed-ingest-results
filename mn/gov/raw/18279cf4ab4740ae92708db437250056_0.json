@@ -35946,6 +35946,108 @@
                 "x": -92.4593559617453,
                 "y": 44.02248801385167
             }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "2428 E 117th St",
+                "City": "Burnsville",
+                "County": "Dakota",
+                "EndDate": null,
+                "FridayEnd": "4:00pm",
+                "FridayStart": "8:00am",
+                "MondayEnd": "4:00pm",
+                "MondayStart": "8:00am",
+                "OBJECTID": 6376,
+                "Phone": "(612) 444-3000",
+                "ProviderName": "Valley Pain Relief and Wellness Center PLLC",
+                "SaturdayEnd": null,
+                "SaturdayStart": "Closed",
+                "SiteName": "Burnsville",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": null,
+                "SundayStart": "Closed",
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "Appointment",
+                "TestingTypes": "Pfizer (age 12+)|COVID-19 Vaccine",
+                "ThursdayEnd": "4:00pm",
+                "ThursdayStart": "8:00am",
+                "TuesdayEnd": "4:00pm",
+                "TuesdayStart": "8:00am",
+                "URL": "valleymedical.com",
+                "UpdateDate": "2021-05-27 18:49:06",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
+                "WednesdayEnd": "4:00pm",
+                "WednesdayStart": "8:00am",
+                "Zip": "55337",
+                "globalid": "0ca751ee-5b58-4b19-aa25-3c35759b523c",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -93.2409945005742,
+                "y": 44.794768409242266
+            }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "1117 Center Street",
+                "City": "New Ulm",
+                "County": "Brown",
+                "EndDate": null,
+                "FridayEnd": "Closed",
+                "FridayStart": "Closed",
+                "MondayEnd": "Closed",
+                "MondayStart": "Closed",
+                "OBJECTID": 6377,
+                "Phone": "(507) 233-6820",
+                "ProviderName": "Brown County Public Health",
+                "SaturdayEnd": "Closed",
+                "SaturdayStart": "Closed",
+                "SiteName": "New Ulm",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": "Closed",
+                "SundayStart": "Closed",
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "Appointment|No appointment necessary",
+                "TestingTypes": "Moderna (age 18+)|COVID-19 Vaccine",
+                "ThursdayEnd": "5:30pm",
+                "ThursdayStart": "2:30pm",
+                "TuesdayEnd": "Closed",
+                "TuesdayStart": "Closed",
+                "URL": "https://PublicHealthImmunizations.as.me/ModernaVaccine",
+                "UpdateDate": "2021-05-27 14:11:46",
+                "VaccinationGroups": "Minnesotans ages 18+",
+                "WednesdayEnd": "Closed",
+                "WednesdayStart": "Closed",
+                "Zip": "56073",
+                "globalid": "f0c5d63b-ce36-445d-a356-4ed434c4e3ac",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -94.46830997917256,
+                "y": 44.30840001176503
+            }
         }
     ],
     "fields": [

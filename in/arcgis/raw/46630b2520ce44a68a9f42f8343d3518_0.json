@@ -15971,38 +15971,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "4b7ea387-f01e-4835-a69b-508c5cb4eede",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Gary Roosevelt Park",
-                "OBJECTID": 680,
-                "Promote_Name": "FEMA Gary Roosevelt Park VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46407</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "2401 Harrison St., Gary, IN 46407",
-                "Site_County": "Lake",
-                "Site_Location_Info": "9 a.m. to 7 p.m. Walk-in entrance at 730 W 25th Ave. GARY , IN 46407. This site has J & J and Pfizer.",
-                "Site_Name": "FEMA Gary Roosevelt Park VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.34503003045803,
-                "y": 41.57446771814934
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "c6f09bf5-73d7-4c5b-bcf7-c5678d24f046",
                 "ID": null,
                 "IsView": 1,
