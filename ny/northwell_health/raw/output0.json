@@ -45,21 +45,6 @@
         "distance": null
     },
     {
-        "id": 61,
-        "name": "Suffolk - Sunken Meadow State Park (NYS Reference Rte 908K) -- J&J",
-        "address": "1 Sunken Meadow Road",
-        "suite": "",
-        "city": "Kings Park",
-        "state": "NY",
-        "zip": "11754",
-        "county": "Suffolk",
-        "latitude": "40.9055",
-        "longitude": "-73.2593",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TlRGEA0",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
-        "distance": null
-    },
-    {
         "id": 58,
         "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Pfizer",
         "address": "5181 Sunrise Highway",
@@ -146,6 +131,21 @@
         "latitude": "40.6991",
         "longitude": "-73.6129",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TgNEEA0",
+        "vaccine_manufacturer": "Pfizer",
+        "distance": null
+    },
+    {
+        "id": 42,
+        "name": "Queens - Church of Corona (100-10 Astoria Blvd) -- Pfizer",
+        "address": "100-10 Astoria Boulevard",
+        "suite": "",
+        "city": "Queens",
+        "state": "NY",
+        "zip": "11369",
+        "county": "Queens",
+        "latitude": "40.7615",
+        "longitude": "-73.8689",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfP9EAK",
         "vaccine_manufacturer": "Pfizer",
         "distance": null
     }
