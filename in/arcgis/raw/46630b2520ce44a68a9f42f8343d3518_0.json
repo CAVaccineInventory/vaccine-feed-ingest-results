@@ -1514,10 +1514,10 @@
                 "OBJECTID": 126,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "12 N Miami St, Peru, IN 46970",
+                "Site_Address": "35 Court St., Peru, IN 46970",
                 "Site_County": "Miami",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "MIAMI CO OLD FIRHOUSE VAX",
+                "Site_Location_Info": "This site has Pfizer & Moderna",
+                "Site_Name": "MIAMI CO VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -1532,8 +1532,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.0711475166096,
-                "y": 40.753315188825226
+                "x": -86.06839020574253,
+                "y": 40.754436758534794
             }
         },
         {
@@ -2474,9 +2474,9 @@
                 "OBJECTID": 160,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "4201 Grantline Road, New Albany, IN 47150",
+                "Site_Address": "1917 Bono Rd, New Albany, IN 47150",
                 "Site_County": "Floyd",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "This clinic has Pfizer, Moderna and Johnson & Johnson.",
                 "Site_Name": "FLOYD CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -2492,8 +2492,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.81940739327617,
-                "y": 38.34611527959949
+                "x": -85.83251803094096,
+                "y": 38.302970314432606
             }
         },
         {
@@ -3050,10 +3050,10 @@
                 "OBJECTID": 180,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "708 South Union Street Auburn, IN 46706",
+                "Site_Address": "220 E. 7th St., Suite 110, Auburn, IN 46706",
                 "Site_County": "DeKalb",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "Fairgrnd Middaugh DeKalb Co VAX",
+                "Site_Name": "DeKalb Co VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Local Health Department",
@@ -3068,8 +3068,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.05306009693051,
-                "y": 41.363533188030075
+                "x": -85.05387548847105,
+                "y": 41.36714053315589
             }
         },
         {
@@ -18723,38 +18723,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "53fee1f9-1bbe-46d1-897d-82b97a8f6ad4",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA La Porte Rural King VAX",
-                "OBJECTID": 779,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1340 W State Road 2, La Porte , IN 46350",
-                "Site_County": "LaPorte",
-                "Site_Location_Info": null,
-                "Site_Name": "FEMA La Porte Rural King VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.73872331200124,
-                "y": 41.59945763665576
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "46402a7f-04b1-46af-970e-a49f94baa283",
                 "ID": null,
                 "IsView": 1,
@@ -34302,6 +34270,70 @@
                 },
                 "x": -86.52878151310868,
                 "y": 39.147383280539046
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "797eacc5-3ed9-4428-bf4e-a4a4bc66b6fb",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Guerin-Trinity HC VAX",
+                "OBJECTID": 1285,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "15300 N. Gray Rd, Noblesville, IN  46062",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": "This clinic has Moderna, Pfizer and Johnson & Johnson.",
+                "Site_Name": "Guerin-Trinity HC VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.08710878812636,
+                "y": 40.010166997177215
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e595d1b2-2440-4a75-9532-d357f4e69931",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Spencer Co Heritage Hills HS VAX",
+                "OBJECTID": 1286,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3644 E County Road 1600 N, Lincoln City, IN 47552",
+                "Site_County": "Spencer",
+                "Site_Location_Info": null,
+                "Site_Name": "Spencer Co Heritage Hills HS VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.98698754446497,
+                "y": 38.11923820103073
             }
         }
     ],

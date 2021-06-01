@@ -58453,7 +58453,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "76839654-cd18-4634-8f61-9f1c0a8fe1da",
                 "Loc_ID": null,
