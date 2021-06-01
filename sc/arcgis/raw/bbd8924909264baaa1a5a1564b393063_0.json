@@ -766,8 +766,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -82.70188288317502,
-                "y": 34.87159125612135
+                "x": -82.70572380648446,
+                "y": 34.880956388539175
             }
         },
         {
@@ -3852,7 +3852,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a8912a97-337d-4124-a0f5-3b6b42a293fd",
@@ -14422,7 +14422,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e4f0d8db-346b-4868-8695-1c95c813aba3",
@@ -14984,7 +14984,7 @@
             "attributes": {
                 "Activated1": "Yes",
                 "Appointments": "No",
-                "Contact": null,
+                "Contact": "Tue 9am-2pm Wed 7am-12pm",
                 "GlobalID": "0563b042-9ec9-48db-bfc7-0bf36ebc7f1f",
                 "Loc_ID": 701,
                 "OBJECTID": 430,
@@ -21597,7 +21597,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "38795767-92c3-45d3-8506-0d54d5b362fa",
@@ -36472,7 +36472,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "38227999-01c9-455f-ad76-c1a927336210",
@@ -36542,7 +36542,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "668076c0-1571-4aa5-b80f-1cf4e37260ec",
@@ -36612,7 +36612,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bc41538a-1727-4a81-93fd-6c14b50265b5",
@@ -36717,7 +36717,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f6b21571-ec08-413f-a864-7dce1d17e695",
@@ -38117,7 +38117,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "16005912-0579-4280-a368-aab6b3ad38d2",
@@ -38782,7 +38782,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a12c4633-a329-4fce-8729-959e669451e2",
@@ -44207,7 +44207,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "31ba0fce-1aa3-4195-8639-5a84bc0e1bd1",
@@ -49213,7 +49213,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "4fbd667f-408b-4d4c-ada6-83e3a27d73c8",
                 "Loc_ID": null,
@@ -49248,7 +49248,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0e620c05-ae23-4047-8159-1e20a49f7a1d",
                 "Loc_ID": null,
@@ -49283,7 +49283,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "50ab1428-08a9-48ae-a5e5-39469258dda8",
                 "Loc_ID": null,
@@ -49318,7 +49318,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "593c7206-43f1-4ba8-aa1f-c367803eac4b",
                 "Loc_ID": null,
@@ -49353,7 +49353,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e1162322-6eab-4463-941c-c6799329db94",
                 "Loc_ID": null,
@@ -49388,7 +49388,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d77c3a50-aa58-489a-bf78-ab306e888bb9",
                 "Loc_ID": null,
@@ -49458,7 +49458,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "269009cf-e6c3-4679-9ebc-b60aa54317b2",
                 "Loc_ID": null,
@@ -49493,7 +49493,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5133f936-205e-4064-b13c-55c5f54e3c8e",
                 "Loc_ID": null,
@@ -49563,7 +49563,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "922bf30f-8336-45ac-ad11-8860b2cd32ac",
                 "Loc_ID": null,
@@ -49598,7 +49598,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a5c1439f-47d8-4e8b-a9be-735f7d14c0e4",
                 "Loc_ID": null,
@@ -49633,7 +49633,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ccc696fc-9b48-4d38-b13e-3438f1682097",
                 "Loc_ID": null,
@@ -49703,7 +49703,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b625c53b-6eb1-4abe-91af-12a63535cf7e",
                 "Loc_ID": null,
@@ -49738,7 +49738,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "965cdaf5-47d9-465f-834f-d9a7b7ba316a",
                 "Loc_ID": null,
@@ -49808,7 +49808,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9ffcc085-f80a-499b-9337-418bb7cddf5f",
                 "Loc_ID": null,
@@ -49842,7 +49842,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6eb1e9c7-0b4e-49ae-adb6-c1d206edba22",
@@ -49878,7 +49878,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0c0ada46-f212-42c9-8eb5-96a98fea0de8",
                 "Loc_ID": null,
@@ -49983,7 +49983,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a61be135-4ff8-4eba-90a1-01ccdd61e8b2",
                 "Loc_ID": null,
@@ -50088,7 +50088,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7d67a108-e3a2-400f-8da8-735d7973ae58",
                 "Loc_ID": null,
@@ -50123,7 +50123,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "81a83166-6941-47fb-95d7-554ffddaa515",
                 "Loc_ID": null,
@@ -50158,7 +50158,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "df383af1-d5a3-4ee2-a877-3e5d1cbd4345",
                 "Loc_ID": null,
@@ -50193,7 +50193,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "dcc90387-13c7-4c3a-8306-f81f2a57f6a5",
                 "Loc_ID": null,
@@ -50298,7 +50298,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "87f7ee10-5ecb-4e83-9155-6cd04de49965",
                 "Loc_ID": null,
@@ -50333,7 +50333,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0748ca91-fca7-4656-8690-f6c1b9236734",
                 "Loc_ID": null,
@@ -50403,7 +50403,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e0131c6f-aa15-4369-b713-c39316221bd0",
                 "Loc_ID": null,
@@ -50473,7 +50473,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "44d35043-8e33-431c-bb43-6c1d9c41d049",
                 "Loc_ID": null,
@@ -50543,7 +50543,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "98c8de02-d61f-49b7-a690-8defda2c6d23",
                 "Loc_ID": null,
@@ -50613,7 +50613,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "eec787ca-7c9b-46d3-a902-b44abe8d09a3",
                 "Loc_ID": null,
@@ -50648,7 +50648,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "cbb11941-e0a7-4019-aab8-9f674d274a2f",
                 "Loc_ID": null,
@@ -50683,7 +50683,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f6f6ae56-f277-4010-9a17-eb4d047d2e66",
                 "Loc_ID": null,
@@ -50753,7 +50753,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "4f71e123-21fb-4efe-94c8-662c65fcf954",
                 "Loc_ID": null,
@@ -50788,7 +50788,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ec24be57-2d73-4964-afe0-7b69c1433fc9",
                 "Loc_ID": null,
@@ -50822,7 +50822,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "dc14a68e-1f6d-4af6-9edd-5a378a563c8d",
@@ -50858,7 +50858,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ceae8100-c98f-4e69-bee0-05966bce3e26",
                 "Loc_ID": null,
@@ -50928,7 +50928,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "19e22c65-58ce-4021-b9a7-108b68a7719d",
                 "Loc_ID": null,
@@ -50963,7 +50963,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5f3e1814-d5d9-4271-a1f8-fdf1a93d28db",
                 "Loc_ID": null,
@@ -51313,7 +51313,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "517b306d-638d-4bc8-9529-5d9fd1144677",
                 "Loc_ID": null,
@@ -51453,7 +51453,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "81a383ed-483e-4c97-9f18-74f743d8754f",
                 "Loc_ID": null,
@@ -51523,7 +51523,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "59cfba38-e187-4981-a054-81efafed2940",
                 "Loc_ID": null,
@@ -51838,7 +51838,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "01cfead7-68f1-44a9-bd61-41bde98329ab",
                 "Loc_ID": null,
@@ -51873,7 +51873,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "dc7a4d5a-f370-4cb3-8043-54dc498fb805",
                 "Loc_ID": null,
@@ -52083,7 +52083,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "96ea1fc4-1dab-4e85-8c43-5346070a62f1",
                 "Loc_ID": null,
@@ -52398,7 +52398,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ce6fdc20-0478-4312-927c-855788b28201",
                 "Loc_ID": null,
@@ -52433,7 +52433,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a5939537-a429-4484-947e-9b65c13c2f42",
                 "Loc_ID": null,
@@ -52538,7 +52538,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "90d451b3-65a7-4801-8dd1-219641a9aa07",
                 "Loc_ID": null,
@@ -52748,7 +52748,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "918d3d49-10b0-4dde-bb41-2650a22202f5",
                 "Loc_ID": null,
@@ -52888,7 +52888,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "016191d8-cad3-4e62-9019-c290c5271a31",
                 "Loc_ID": null,
@@ -52923,7 +52923,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "fa1c089b-9dcc-41b8-8bca-f92d87b9ff63",
                 "Loc_ID": null,
@@ -52993,7 +52993,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f22d27ff-9d58-4eeb-b273-cb64b7106234",
                 "Loc_ID": null,
@@ -53063,7 +53063,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "96663476-6a85-4a05-b784-cff4e632e6b9",
                 "Loc_ID": null,
@@ -53168,7 +53168,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8f0a12ea-6cfc-4561-8ecf-bae6cfb9a62b",
                 "Loc_ID": null,
@@ -53203,7 +53203,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c6d5a781-98b3-4f7b-bc84-84dd8654b9b9",
                 "Loc_ID": null,
@@ -53273,7 +53273,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2db684e5-24bb-43d4-814e-d3657f60085c",
                 "Loc_ID": null,
@@ -53308,7 +53308,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "dcad036f-5b8e-49cc-a16f-3cdf59cbc0dc",
                 "Loc_ID": null,
@@ -53343,7 +53343,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e19b81fc-6310-41ab-81de-8016e030c4e3",
                 "Loc_ID": null,
@@ -53378,7 +53378,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8963efa1-3d9c-4d6d-92d3-6fdbfdba36ec",
                 "Loc_ID": null,
@@ -53518,7 +53518,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1123d351-fe8d-447f-a2ec-d229540f8e3f",
                 "Loc_ID": null,
@@ -53553,7 +53553,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d370ab47-76ac-4359-ac53-9e6618deddef",
                 "Loc_ID": null,
@@ -53728,7 +53728,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "75561550-aeee-43f8-a1d4-5d32ffda84f4",
                 "Loc_ID": null,
@@ -53868,7 +53868,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "439526e1-8d84-4136-a667-62b6280a0b52",
                 "Loc_ID": null,
@@ -53903,7 +53903,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "059ec6b8-6e6a-4097-9610-0cc49eb31fef",
                 "Loc_ID": null,
@@ -54008,7 +54008,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a22a4c96-fe6f-443a-99d1-ca123eff5b8d",
                 "Loc_ID": null,
@@ -54043,7 +54043,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9bc73164-c694-460d-91fd-a5dc039d9e5b",
                 "Loc_ID": null,
@@ -54078,7 +54078,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e9ee5b2f-8b99-4017-ad4b-15153bfd946d",
                 "Loc_ID": null,
@@ -58838,7 +58838,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b44f9f44-5123-40c7-80e7-72f8692b45e6",
                 "Loc_ID": null,
@@ -66188,7 +66188,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a42418ab-0670-4458-9ea3-2377dedfbfda",
                 "Loc_ID": null,
@@ -68498,7 +68498,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "951e83be-50c6-42a5-933b-3343fc96ccfd",
                 "Loc_ID": 1590,
@@ -68508,11 +68508,11 @@
                 "SiteAddress": "735 N Main St",
                 "SiteAddressDetail": " ",
                 "SiteCity": "New Ellenton",
-                "SitePhone": null,
+                "SitePhone": "803-443-0077",
                 "SiteState": "SC",
                 "SiteZip": "29809",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://protect2.fireeye.com/v1/url?k=18940f39-470f362b-1894dac8-86b2e136ff17-695e72d8a32357dc&q=1&e=45091b58-b73c-4b6e-a2a5-8b51c445aa09&u=http%3A%2F%2Fwww.hibbittsdrug.com%2F",
+                "V_Manufacturer": "MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Hibbitts Drug Co",
                 "loc_type1": "Pharmacy – independent",
@@ -69302,7 +69302,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0ca82934-6e75-4849-9e51-3f44d329394d",
@@ -76893,6 +76893,41 @@
                 },
                 "x": -79.73302779706796,
                 "y": 33.85711743194412
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "2a0ad929-e17e-47fa-a7a6-2f1a669abd66",
+                "Loc_ID": null,
+                "OBJECTID": 33111,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "1980 Harley Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Sanders Brothers Construction",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.00903272070377,
+                "y": 32.8926509497889
             }
         }
     ],
