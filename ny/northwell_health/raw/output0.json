@@ -135,18 +135,18 @@
         "distance": null
     },
     {
-        "id": 42,
-        "name": "Queens - Church of Corona (100-10 Astoria Blvd) -- Pfizer",
-        "address": "100-10 Astoria Boulevard",
+        "id": 35,
+        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
+        "address": "1 Marcus Avenue",
         "suite": "",
-        "city": "Queens",
+        "city": "New Hyde Park",
         "state": "NY",
-        "zip": "11369",
-        "county": "Queens",
-        "latitude": "40.7615",
-        "longitude": "-73.8689",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfP9EAK",
-        "vaccine_manufacturer": "Pfizer",
+        "zip": "11040",
+        "county": "Nassau",
+        "latitude": "40.7577",
+        "longitude": "-73.7087",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
         "distance": null
     }
 ]
