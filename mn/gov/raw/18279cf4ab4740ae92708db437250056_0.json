@@ -35236,57 +35236,6 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "1 Civic Center Plaza",
-                "City": "Mankato",
-                "County": null,
-                "EndDate": "2021-06-01",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6368,
-                "Phone": "(800) 800-5698",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "Mankato - Mayo Clinic Health System Event Center",
-                "StartDate": "2021-06-01",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 18+",
-                "TestingTypes": "Covid-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "6:00pm",
-                "TuesdayStart": "2:00pm",
-                "URL": "http://vaulthealth.com/covid/start/?var_c=VACCINATION_MINNESOTA_OPEN",
-                "UpdateDate": "2021-05-26 13:59:34",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "Closed",
-                "WednesdayStart": "Closed",
-                "Zip": "56001",
-                "globalid": "b2fd9f84-9e71-421a-90a8-49d3f1e99b75",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20260
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.00432998035303,
-                "y": 44.16615999497759
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "200 South Ave",
                 "City": "Bloomington",
                 "County": null,

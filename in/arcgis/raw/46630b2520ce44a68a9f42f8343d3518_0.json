@@ -9030,20 +9030,20 @@
                 "GlobalID": "d13e2e0c-7eaf-4b61-95db-96225b8a023a",
                 "ID": "ISDH1252",
                 "IsView": 1,
-                "Name": "Mary Margaret Health – Batesville",
+                "Name": "MMH Occ Health",
                 "OBJECTID": 405,
                 "Promote_Name": "Mary Margaret Health – Batesville - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47006</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "514 S John St, Batesville, IN 47006",
+                "Promote_Site": "N",
+                "Site_Address": "1051 State Road 229, Batesville, IN 47006",
                 "Site_County": "Ripley",
-                "Site_Location_Info": "Batesville Street Department Building",
-                "Site_Name": "MMARY HLTH BATESVILLE ST DEPT VAX",
+                "Site_Location_Info": "This clinic has Pfizer and Johnson & Johnson. NO walk-ins. Online appointments coming soon. Phone appointments  Mon – Fri. at 812-932-5105.",
+                "Site_Name": "MMH Occ Health",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": null,
                 "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -9052,8 +9052,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.21390926558264,
-                "y": 39.291824208021424
+                "x": -85.21277200896027,
+                "y": 39.310238670229175
             }
         },
         {
@@ -34398,6 +34398,38 @@
                 },
                 "x": -85.92883752866213,
                 "y": 39.98673705344424
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "f7a159c5-c864-44a3-8455-a655dc3789af",
+                "ID": null,
+                "IsView": 1,
+                "Name": "ARCpoint Labs",
+                "OBJECTID": 1290,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "5035 W 71st St, Suite L, Indianapolis, IN 46268",
+                "Site_County": "Marion",
+                "Site_Location_Info": null,
+                "Site_Name": "ARCpoint Labs",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.arcpointlabs.com/indianapolis-west/covid-19-vaccine/",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.24726075947177,
+                "y": 39.880975279276335
             }
         }
     ],
