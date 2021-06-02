@@ -3274,7 +3274,7 @@
                 "OBJECTID": 189,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "451 E South Boulevard Crawfordsville, IN. 47933",
+                "Site_Address": "308 W Market Street, Crawfordsville, IN 47933",
                 "Site_County": "Montgomery",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "MONTGOMERY CO HD COVID VAX",
@@ -3292,8 +3292,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.89501164592546,
-                "y": 40.0237710642901
+                "x": -86.9057833973297,
+                "y": 40.04349459630384
             }
         },
         {
@@ -4490,16 +4490,16 @@
                 "OBJECTID": 244,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "3350 E Paulding Rd, Fort Wayne 46816",
+                "Site_Address": "3420 E Paulding Rd, Ft. Wayne, IN 46816",
                 "Site_County": "Allen",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "New Covenant Worship Center. This site has Moderna and Johnson & Johnson.",
                 "Site_Name": "NEIGHBORHOOD HC PAULDINGRD VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": null,
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -4508,8 +4508,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.09249869946606,
-                "y": 41.03240124448515
+                "x": -85.0910663998519,
+                "y": 41.032445756924865
             }
         },
         {
@@ -9032,15 +9032,15 @@
                 "IsView": 1,
                 "Name": "MMH Occ Health",
                 "OBJECTID": 405,
-                "Promote_Name": "Mary Margaret Health – Batesville - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47006</a>",
-                "Promote_Site": "N",
+                "Promote_Name": "MMH Occ Health - Call 812-932-5105 (Mon - Fri)",
+                "Promote_Site": "Y",
                 "Site_Address": "1051 State Road 229, Batesville, IN 47006",
                 "Site_County": "Ripley",
                 "Site_Location_Info": "This clinic has Pfizer and Johnson & Johnson. NO walk-ins. Online appointments coming soon. Phone appointments  Mon – Fri. at 812-932-5105.",
                 "Site_Name": "MMH Occ Health",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
-                "Site_Type": "Hospital",
+                "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Multi",
@@ -24652,14 +24652,14 @@
                 "Promote_Site": null,
                 "Site_Address": "1234 Rossville Ave, Frankfort, IN 46041",
                 "Site_County": "Clinton",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "Clinic is open Wednesday only, 9am – 3pm. Pfizer, Moderna and Johnson & Johnson are available. ",
                 "Site_Name": "CLINTON CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },

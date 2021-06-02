@@ -1,5 +1,20 @@
 [
     {
+        "id": 71,
+        "name": "Nassau - Belmont (2150 Hempstead Tpk) -- J&J",
+        "address": "2150 Hempstead Turnpike",
+        "suite": "",
+        "city": "Elmont",
+        "state": "NY",
+        "zip": "11003",
+        "county": "Nassau",
+        "latitude": "40.7095",
+        "longitude": "-73.7204",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "distance": null
+    },
+    {
         "id": 69,
         "name": "Nassau - Hempstead Lake State Park (1000 Lake Drive) -- J&J",
         "address": "1000 Lake Drive",
@@ -132,21 +147,6 @@
         "longitude": "-73.6129",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TgNEEA0",
         "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
-        "id": 35,
-        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
-        "address": "1 Marcus Avenue",
-        "suite": "",
-        "city": "New Hyde Park",
-        "state": "NY",
-        "zip": "11040",
-        "county": "Nassau",
-        "latitude": "40.7577",
-        "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Moderna",
         "distance": null
     }
 ]
