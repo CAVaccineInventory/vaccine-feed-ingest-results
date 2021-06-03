@@ -4885,46 +4885,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "1961 W Acoma Blvd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Lake Havasu City",
-                "county": "Mohave",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1961 W Acoma Blvd Lake Havasu City, AZ 86403",
-                "globalid": "053294f8-b1e7-4e9f-8f94-b743b0a8b6c9",
-                "layer_id": 0,
-                "loc_name": "Embry Health TestNow Lake Havasu City",
-                "loc_type": "public",
-                "objectid": 1499,
-                "prereg_comments": "Covid-19 Vaccines are by appointment only.",
-                "prereg_phone": "480-376-2170",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://app.backstagemedical.co/widgets/#/schedule-appointment?pId=9567&widgetType=allopen&typeId=1463&count=300",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": null,
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "86403"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -114.342251,
-                "y": 34.49635
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "12122 N Rancho Vistoso Blvd",
                 "addr2": null,
                 "begindate": null,
@@ -17325,86 +17285,6 @@
                 "J_J": "0",
                 "Moderna": "2",
                 "Pfizer": "0",
-                "addr1": "412 W Buffalo St",
-                "addr2": null,
-                "begindate": null,
-                "city": "Holbrook",
-                "county": "Navajo",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "412 W Buffalo St Holbrook, AZ 86025",
-                "globalid": "9b155cc6-81fa-4f4a-885e-a6e5337bbbb5",
-                "layer_id": 0,
-                "loc_name": "Embry Health - Holbrook",
-                "loc_type": "public",
-                "objectid": 6094,
-                "prereg_comments": null,
-                "prereg_phone": "480-376-2170",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.testnow.com/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "J_J,Moderna",
-                "zip": "86025"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.16295315739173,
-                "y": 34.90445346335688
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "N 9th Pl",
-                "addr2": null,
-                "begindate": null,
-                "city": "Show Low",
-                "county": "Navajo",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "N 9th Pl Show Low, AZ 85901",
-                "globalid": "9b252f35-470d-49d6-8a8d-6b6d7f8f5ea4",
-                "layer_id": 0,
-                "loc_name": "Embry Health - Show Low",
-                "loc_type": "public",
-                "objectid": 6095,
-                "prereg_comments": null,
-                "prereg_phone": "1-480-376-2170",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.testnow.com/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "J_J,Moderna",
-                "zip": "85901"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -110.03225581040934,
-                "y": 34.255791211511735
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
                 "addr1": "1701 E Thomas Rd",
                 "addr2": null,
                 "begindate": null,
@@ -17598,126 +17478,6 @@
                 },
                 "x": -111.54533518620366,
                 "y": 33.17363987448981
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "2511 E Germann Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "San Tan Valley",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "2511 E Germann Rd San Tan Valley, AZ 85140",
-                "globalid": "26155115-75a1-4cd5-8473-f2af5f4f145d",
-                "layer_id": 0,
-                "loc_name": "Embry Health TestNOW Combs High School",
-                "loc_type": "public",
-                "objectid": 6123,
-                "prereg_comments": "Please come prepared with a face mask, driver’s license, insurance card, and documentation of eligibility. Thank you!",
-                "prereg_phone": "480-376-2170",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.testnow.com/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85140"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.53661951378136,
-                "y": 33.27805257953518
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "8470 N Overfield Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Coolidge",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "8470 N Overfield Rd Coolidge, AZ 85128",
-                "globalid": "44164a01-0398-4328-84e0-2946507a996e",
-                "layer_id": 0,
-                "loc_name": "Embry Health TestNOW Central Arizona College- Signal Peak Campus",
-                "loc_type": "public",
-                "objectid": 6124,
-                "prereg_comments": "Please come prepared with a face mask, driver’s license, insurance card, and documentation of eligibility. Thank you!",
-                "prereg_phone": "480-376-2170",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.testnow.com/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85128"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.64877696505224,
-                "y": 32.960111001953535
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "2122 S Goldfield Rd",
-                "addr2": null,
-                "begindate": null,
-                "city": "Apache Junction",
-                "county": "Pinal",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "2122 S Goldfield Rd Apache Junction, AZ 85119",
-                "globalid": "fbd44ee5-5996-48be-8c21-323cfd861430",
-                "layer_id": 0,
-                "loc_name": "Embry Health TestNOW Mountain View Lutheran Church",
-                "loc_type": "public",
-                "objectid": 6125,
-                "prereg_comments": "Please come prepared with a face mask, driver’s license, insurance card, and documentation of eligibility. Thank you!",
-                "prereg_phone": "480-376-2170",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.testnow.com/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "drive_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85119"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.5125179810042,
-                "y": 33.394791010485406
             }
         },
         {
@@ -21958,46 +21718,6 @@
                 },
                 "x": -112.26179943309737,
                 "y": 33.47943890311014
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "1492 S 20th Ave",
-                "addr2": null,
-                "begindate": null,
-                "city": "Safford",
-                "county": "Graham",
-                "enddate": null,
-                "event_yn": "No",
-                "full_address": "1492 S 20th Ave Safford, AZ 85546",
-                "globalid": "33a29871-e96c-46ff-89e9-d0c6302c9ac1",
-                "layer_id": 0,
-                "loc_name": "Gila Health Resources",
-                "loc_type": "public",
-                "objectid": 6437,
-                "prereg_comments": "Please call 928-424-2110 to schedule an appointment. Thank you!",
-                "prereg_phone": "928-424-2110",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://gilahealth.com",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "Yes",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85546"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -109.73334998345624,
-                "y": 32.82316000797932
             }
         },
         {
@@ -42318,6 +42038,86 @@
                 },
                 "x": -111.3879459683727,
                 "y": 33.039275981969794
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "0",
+                "addr1": "126 W 5th St",
+                "addr2": null,
+                "begindate": 1623265200000,
+                "city": "Benson",
+                "county": "Cochise",
+                "enddate": 1623265200000,
+                "event_yn": "Yes",
+                "full_address": "126 W 5th St Benson, AZ 85602",
+                "globalid": "473a18c1-aea5-42b9-8af8-9c861bb6c83f",
+                "layer_id": 0,
+                "loc_name": "Cochise Health & Social Services - Benson",
+                "loc_type": "public",
+                "objectid": 7028,
+                "prereg_comments": "POP-UP Event. One day only 06.09.2021. Walk-ins welcome. Open from 10-3pm (Close for lunch from 12-1pm)",
+                "prereg_phone": "520-586-8200",
+                "prereg_prescreen": "No",
+                "prereg_website": "podvaccine.azdhs.gov",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "pod_cty",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J",
+                "zip": "85602"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.2981699771705,
+                "y": 31.967829997636304
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "599 E Wilcox Dr",
+                "addr2": null,
+                "begindate": 1622746800000,
+                "city": "Sierra Vista",
+                "county": "Cochise",
+                "enddate": 1622833200000,
+                "event_yn": "Yes",
+                "full_address": "599 E Wilcox Dr Sierra Vista, AZ 85635",
+                "globalid": "dd4a9964-0eca-4b13-8b05-63b1c5d57380",
+                "layer_id": 0,
+                "loc_name": "LCS Healthcare Group",
+                "loc_type": "public",
+                "objectid": 7029,
+                "prereg_comments": null,
+                "prereg_phone": "520-459-4604",
+                "prereg_prescreen": "No",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,Moderna",
+                "zip": "85635"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.29366001034792,
+                "y": 31.5527499800328
             }
         }
     ],
