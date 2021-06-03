@@ -15139,38 +15139,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "3c73c982-dca3-486e-8a14-9b38ae3b7eda",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA E Chicago Sch Admin VAX",
-                "OBJECTID": 645,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1401 E 144th, East Chicago, IN 46312",
-                "Site_County": "Lake",
-                "Site_Location_Info": null,
-                "Site_Name": "FEMA E Chicago Sch Admin VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.45325529414563,
-                "y": 41.63310532715728
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "084c73ad-ae2b-438b-9813-3f0dc42b5fe3",
                 "ID": null,
                 "IsView": 1,
@@ -15934,6 +15902,38 @@
                 },
                 "x": -86.94785513591252,
                 "y": 38.42529206286381
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "eb7c2898-664e-45b9-b8b3-a4c3c8cfea9f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Pentecostal Church VAX",
+                "OBJECTID": 681,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2722 Wabash St, Michigan City, IN 46360",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": "This is a mobile site June 9 – June 12, 9am – 6pm. This site has Pfizer and Johnson & Johnson",
+                "Site_Name": "Pentecostal Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.89522602861216,
+                "y": 41.69726573403683
             }
         },
         {
@@ -17059,20 +17059,20 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "261b9849-e52b-4a7c-b5d3-d3d9c4740266",
+                "GlobalID": "ad9f8df4-6300-4dfe-85f3-8af411bb9388",
                 "ID": null,
                 "IsView": 1,
-                "Name": "FEMA La Casa De Amistad VAX",
-                "OBJECTID": 722,
+                "Name": "Center Lake Pavilion VAX",
+                "OBJECTID": 720,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "3423 S Michigan St, South Bend, IN 46614",
-                "Site_County": "St. Joseph",
-                "Site_Location_Info": "Mobile site 5/25 – 5/26; 9 am – 6 pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "FEMA La Casa De Amistad VAX",
+                "Site_Address": "119 E Canal St, Warsaw, IN 46580",
+                "Site_County": "Kosciusko",
+                "Site_Location_Info": "This is a mobile site June 10 & June 11, 9am – 6pm. This  site has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Center Lake Pavilion VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
+                "Site_Type": "Mobile",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
                 "Vaccine_Type": "Multi",
@@ -17084,8 +17084,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.25047464518074,
-                "y": 41.639083813386435
+                "x": -85.8545385535015,
+                "y": 41.24291291852978
             }
         },
         {
@@ -18686,38 +18686,6 @@
                 },
                 "x": -85.7298066498529,
                 "y": 38.33393663963358
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "2238817c-e668-470a-b8c2-24d54f4bf73f",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA- Civil Rights Heritage Center",
-                "OBJECTID": 778,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1040 W Washington St, South Bend, IN 46601",
-                "Site_County": "St. Joseph",
-                "Site_Location_Info": "This site will close at 3 pm on 5/29. This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "FEMA- Civil Rights Heritage Center VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.26579826206006,
-                "y": 41.67597393535236
             }
         },
         {
@@ -21232,7 +21200,7 @@
                 "Site_Name": "Delaware County Fairgrounds VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
+                "Site_Type": "Mobile",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
                 "Vaccine_Type": "Multi",
@@ -21342,6 +21310,38 @@
                 },
                 "x": -85.81564985285077,
                 "y": 38.3018391158778
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c589b5b3-e1fb-4133-954e-e19decd59959",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Second Missionary Baptist VAX",
+                "OBJECTID": 866,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "819 N Apperson Way, Kokomo, IN 46901",
+                "Site_County": "Howard",
+                "Site_Location_Info": "This is a mobile site June 9 – June 12, 9am – 6pm. This site has Pfizer and Johnson & Johnson",
+                "Site_Name": "Second Missionary Baptist VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12708041690428,
+                "y": 40.49338255105552
             }
         },
         {
@@ -21502,38 +21502,6 @@
                 },
                 "x": -85.54217453885533,
                 "y": 39.79261111853211
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "26243640-dd91-4d28-8408-98500415923f",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Allen Temple AME Church VAX",
-                "OBJECTID": 873,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "3440 S. Washington St, Marion IN, 46953",
-                "Site_County": "Grant",
-                "Site_Location_Info": "Mobile site 6/1 – 6/3; 9 am – 6 pm. This site has Pfizer.",
-                "Site_Name": "FEMA Allen Temple AME Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.66297024492842,
-                "y": 40.52823677996857
             }
         },
         {
@@ -34398,6 +34366,134 @@
                 },
                 "x": -86.24726075947177,
                 "y": 39.880975279276335
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8245b8cb-0769-4f47-81ed-1f2f91a31d47",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Ivy Tech Anderson VAX",
+                "OBJECTID": 1291,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "815 E. 60th St, Anderson, IN 46013",
+                "Site_County": "Madison",
+                "Site_Location_Info": "This is a mobile site June 9, and June 11 – 12, 9am – 6pm. This site has Pfizer and Johnson & Johnson",
+                "Site_Name": "Ivy Tech Anderson VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.66823364827154,
+                "y": 40.05414800594217
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "06e4ffbc-e1d9-443d-8dba-f8ee0de1aba7",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Ivy Tech Connersville VAX",
+                "OBJECTID": 1292,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "717 W 21st St, Connersville, IN 47331",
+                "Site_County": "Fayette",
+                "Site_Location_Info": "This is a mobile site June 9 – June 12, 9am – 6pm.  This site has Pfizer and Johnson & Johnson",
+                "Site_Name": "Ivy Tech Connersville VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.14000667343223,
+                "y": 39.657325359844016
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a09b7705-5750-4f9e-8067-80f627487a07",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Thomas Edison Elementary VAX",
+                "OBJECTID": 1293,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "7025 Madison Ave, Hammond, IN 46324",
+                "Site_County": "Lake",
+                "Site_Location_Info": "This is a mobile site June 7 only, 10:30am – NOON.  This site has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Thomas Edison Elementary VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.50996780548815,
+                "y": 41.58576600950714
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "bbeba8aa-e340-4bf1-a944-6abc018f3206",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Harrison County Fair VAX",
+                "OBJECTID": 1294,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "341 S Capitol Ave, Corydon, IN 47112",
+                "Site_County": "Harrison",
+                "Site_Location_Info": "This is a mobile site June 11 & 12, 4pm – 10pm. This site has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Harrison County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12805465742689,
+                "y": 38.207590002677456
             }
         }
     ],
