@@ -34147,38 +34147,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "6ad99d65-4b99-415f-a26b-59c9d6084aeb",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Marion North Central Covid VAX",
-                "OBJECTID": 1281,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1801 E 86th St Indianapolis, IN 46240",
-                "Site_County": "Marion",
-                "Site_Location_Info": "North Central High School. This is a two-day clinic with the first dose on June 2; Second on June 23.",
-                "Site_Name": "Marion North Central Covid VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.13169691092779,
-                "y": 39.9113436202065
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "04a4fd85-e3b8-4f37-924e-591891685aca",
                 "ID": null,
                 "IsView": 1,
