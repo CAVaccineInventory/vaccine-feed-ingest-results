@@ -1,5 +1,20 @@
 [
     {
+        "id": 72,
+        "name": "Suffolk - Engeman Theater (250 Main St) -- J&J",
+        "address": "250 Main Street",
+        "suite": "",
+        "city": "Northport",
+        "state": "NY",
+        "zip": "11768",
+        "county": "suffolk",
+        "latitude": "40.9007",
+        "longitude": "-73.3466",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "distance": null
+    },
+    {
         "id": 71,
         "name": "Nassau - Belmont (2150 Hempstead Tpk) -- J&J",
         "address": "2150 Hempstead Turnpike",
@@ -131,21 +146,6 @@
         "latitude": "40.7733",
         "longitude": "-73.9607",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3cEAC",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
-        "id": 44,
-        "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Pfizer",
-        "address": "335 Greenwich Street",
-        "suite": "",
-        "city": "Hempstead",
-        "state": "NY",
-        "zip": "11550",
-        "county": "Nassau",
-        "latitude": "40.6991",
-        "longitude": "-73.6129",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TgNEEA0",
         "vaccine_manufacturer": "Pfizer",
         "distance": null
     }

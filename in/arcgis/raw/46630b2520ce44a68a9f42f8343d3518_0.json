@@ -3555,38 +3555,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "cc025643-fc6d-46cd-a457-2a505b542091",
-                "ID": "ISDH1142",
-                "IsView": 1,
-                "Name": "Wabash County Local Health Department",
-                "OBJECTID": 200,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "275 W Market St, Wabash, IN 46992",
-                "Site_County": "Wabash",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "HONEYWELL CTR LEGACY HALL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.8247092962009,
-                "y": 40.796274934551725
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "327dfe05-b693-4a2a-bade-07aa112bee57",
                 "ID": "ISDH1127",
                 "IsView": 1,
@@ -18531,6 +18499,38 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "b546f31a-3fe0-48af-a8f5-9d0ab4175cd2",
+                "ID": null,
+                "IsView": 1,
+                "Name": "FEMA Goshen Highschool VAX",
+                "OBJECTID": 773,
+                "Promote_Name": "FEMA Goshen Highschool VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46526</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "401 Lincolnway East, Goshen, IN 46526",
+                "Site_County": "Elkhart",
+                "Site_Location_Info": "This is a mobile clinic June 10 & 11, 9am – 6pm.  This site has Pfizer and Johnson & Johnson.",
+                "Site_Name": "FEMA Goshen Highschool VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.82314122098316,
+                "y": 41.58058987642955
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "478c5617-4e03-44b1-82ad-2f6c6fc9a6ee",
                 "ID": null,
                 "IsView": 1,
@@ -24574,6 +24574,38 @@
                 },
                 "x": -86.11526738198783,
                 "y": 39.828262507275184
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "05c70219-c757-47f1-87a8-b993a22eeb95",
+                "ID": null,
+                "IsView": 1,
+                "Name": "First Church Wheatfield VAX",
+                "OBJECTID": 977,
+                "Promote_Name": "First Church Wheatfield VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46392</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "5387 IN-10, Wheatfield, IN 46392",
+                "Site_County": "Jasper",
+                "Site_Location_Info": "This is a mobile clinic June 15 – 17, 9am – 6pm",
+                "Site_Name": "First Church Wheatfield VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.14891234011517,
+                "y": 41.18560253795176
             }
         },
         {
