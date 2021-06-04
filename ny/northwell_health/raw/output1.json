@@ -45,21 +45,6 @@
         "distance": null
     },
     {
-        "id": 30,
-        "name": "Nassau - Elmont (2150 Hempstead Tpk) -- Pfizer",
-        "address": "2150 Hempstead Turnpike",
-        "suite": "",
-        "city": "Elmont",
-        "state": "NY",
-        "zip": "11003",
-        "county": "Nassau",
-        "latitude": "40.7095",
-        "longitude": "-73.7204",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Pfizer",
-        "distance": null
-    },
-    {
         "id": 26,
         "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Moderna",
         "address": "284 Pulaski Road",
@@ -70,21 +55,6 @@
         "county": "Suffolk",
         "latitude": "40.8584",
         "longitude": "-73.3884",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Moderna",
-        "distance": null
-    },
-    {
-        "id": 23,
-        "name": "Nassau Elmont (2150 Hempstead Tpk) -- Moderna",
-        "address": "2150 Hempstead Turnpike",
-        "suite": "",
-        "city": "Elmont",
-        "state": "NY",
-        "zip": "11003",
-        "county": "Nassau",
-        "latitude": "40.7095",
-        "longitude": "-73.7204",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
         "distance": null
