@@ -21154,38 +21154,6 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "6cb5433d-3b18-422a-8bbf-0c1cd9d387c1",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Delaware County Fairgrounds VAX",
-                "OBJECTID": 861,
-                "Promote_Name": "Delaware County Fairgrounds VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47303</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "1210 N. Wheeling Ave.  Muncie, IN  47303",
-                "Site_County": "Delaware",
-                "Site_Location_Info": "This is a mobile clinic on June 2 – 4, 9 am – 6 pm.   This clinic has Pfizer & Moderna.",
-                "Site_Name": "Delaware County Fairgrounds VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.39396592529697,
-                "y": 40.20764859532487
-            }
-        },
-        {
-            "attributes": {
                 "FQHC_Registry_Stat": "State",
                 "GlobalID": "809297cd-d65f-48f3-ba21-5dea136d4903",
                 "ID": null,
@@ -33918,38 +33886,6 @@
                 },
                 "x": -87.12838215141606,
                 "y": 39.523475306216596
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "079e23fe-165d-46da-a3ef-9841234a7aa9",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Butler Methodist Church VAX",
-                "OBJECTID": 1277,
-                "Promote_Name": "Butler Methodist Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46721</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "501 W. Green St, Butler, IN 46721",
-                "Site_County": "DeKalb",
-                "Site_Location_Info": "This is a mobile clinic on June 2 – 4, 9 am – 6 pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Butler Methodist Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -84.87669479079887,
-                "y": 41.4309128100813
             }
         },
         {
