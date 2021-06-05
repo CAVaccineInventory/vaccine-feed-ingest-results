@@ -16978,7 +16978,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "carolinapharmacyotl@gmail.com",
                 "GlobalID": "0037bc61-8e91-46cf-a37e-eeb1a6a86271",
                 "Loc_ID": 33,
@@ -25203,7 +25203,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "thepreferredpharmacy@gmail.com",
                 "GlobalID": "40fd7bdc-4200-4504-8769-e2208b3d0b5e",
                 "Loc_ID": 34,
@@ -77313,6 +77313,76 @@
                 },
                 "x": -80.37234690057687,
                 "y": 33.33604369381743
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "37c44852-36ab-4104-a403-7a41470511a1",
+                "Loc_ID": null,
+                "OBJECTID": 34711,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "1316 Remount Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": null,
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ Remount Plaza",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.99477786943072,
+                "y": 32.902006446046414
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "1c4dd7b4-728f-413a-b6ef-46c70eb3894e",
+                "Loc_ID": null,
+                "OBJECTID": 34712,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3231 Ladson Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Ladson",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29456",
+                "URL": null,
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ Grace Chapel",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.09978710185243,
+                "y": 32.9873445060399
             }
         }
     ],
