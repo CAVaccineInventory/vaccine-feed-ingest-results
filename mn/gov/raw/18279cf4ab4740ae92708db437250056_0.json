@@ -35750,6 +35750,57 @@
                 "x": -93.2113740282186,
                 "y": 44.88351000700308
             }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "3605 Mayfair Avenue",
+                "City": "Hibbing",
+                "County": "St. Louis",
+                "EndDate": null,
+                "FridayEnd": null,
+                "FridayStart": null,
+                "MondayEnd": null,
+                "MondayStart": null,
+                "OBJECTID": 6425,
+                "Phone": null,
+                "ProviderName": "Fairview Health Services",
+                "SaturdayEnd": null,
+                "SaturdayStart": null,
+                "SiteName": "Fairview Mesaba Clinic",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": null,
+                "SundayStart": null,
+                "TestingOptions": null,
+                "TestingRequirements": null,
+                "TestingTypes": "COVID-19 Vaccine",
+                "ThursdayEnd": null,
+                "ThursdayStart": null,
+                "TuesdayEnd": null,
+                "TuesdayStart": null,
+                "URL": null,
+                "UpdateDate": "2021-06-07 08:16:15",
+                "VaccinationGroups": null,
+                "WednesdayEnd": null,
+                "WednesdayStart": null,
+                "Zip": "55746",
+                "globalid": "27179770-fa44-4521-bed0-26713b4fdb26",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -92.92936296804312,
+                "y": 47.40938999103818
+            }
         }
     ],
     "fields": [

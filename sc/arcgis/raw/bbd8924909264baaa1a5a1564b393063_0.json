@@ -43193,7 +43193,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6bc7fa20-bbd2-4be2-8b10-c7201dfbcf38",
                 "Loc_ID": 1352,
@@ -44117,7 +44117,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29440",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Medicine Shoppe",
                 "loc_type1": "Pharmacy – independent",
