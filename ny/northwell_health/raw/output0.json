@@ -15,21 +15,6 @@
         "distance": null
     },
     {
-        "id": 69,
-        "name": "Nassau - Hempstead Lake State Park (1000 Lake Drive) -- J&J",
-        "address": "1000 Lake Drive",
-        "suite": "",
-        "city": "West Hempstead",
-        "state": "NY",
-        "zip": "11552",
-        "county": "Nassau",
-        "latitude": "40.6766",
-        "longitude": "-73.6483",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007ToRYEA0",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
-        "distance": null
-    },
-    {
         "id": 64,
         "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Moderna",
         "address": "5181 Sunrise Highway",
@@ -145,6 +130,21 @@
         "county": "Suffolk",
         "latitude": "40.7648",
         "longitude": "-73.0926",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
+        "distance": null
+    },
+    {
+        "id": 35,
+        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
+        "address": "1 Marcus Avenue",
+        "suite": "",
+        "city": "New Hyde Park",
+        "state": "NY",
+        "zip": "11040",
+        "county": "Nassau",
+        "latitude": "40.7577",
+        "longitude": "-73.7087",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
         "distance": null
