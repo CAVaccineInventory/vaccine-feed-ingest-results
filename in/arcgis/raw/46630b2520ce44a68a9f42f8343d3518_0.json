@@ -34243,38 +34243,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "a09b7705-5750-4f9e-8067-80f627487a07",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Thomas Edison Elementary VAX",
-                "OBJECTID": 1293,
-                "Promote_Name": "Thomas Edison Elementary VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46324</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "7025 Madison Ave, Hammond, IN 46324",
-                "Site_County": "Lake",
-                "Site_Location_Info": "This is a mobile site June 7 only, 10:30am – NOON.  This site has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Thomas Edison Elementary VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.50996780548815,
-                "y": 41.58576600950714
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "bbeba8aa-e340-4bf1-a944-6abc018f3206",
                 "ID": null,
                 "IsView": 1,
