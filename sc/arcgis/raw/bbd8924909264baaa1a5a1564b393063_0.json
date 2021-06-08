@@ -21423,7 +21423,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f6993403-7942-486c-8160-999fbf99469b",
                 "Loc_ID": 203,
@@ -21433,7 +21433,7 @@
                 "SiteAddress": "1237 Ebenezer Road",
                 "SiteAddressDetail": null,
                 "SiteCity": "Rock Hill",
-                "SitePhone": "",
+                "SitePhone": "803-327-2081",
                 "SiteState": "SC",
                 "SiteZip": "29732",
                 "URL": null,
@@ -43193,7 +43193,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6bc7fa20-bbd2-4be2-8b10-c7201dfbcf38",
                 "Loc_ID": 1352,
@@ -58628,7 +58628,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2a733a03-f7bc-404a-8856-1ef0cde7f68d",
                 "Loc_ID": null,
@@ -62058,7 +62058,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9426f850-af9f-480b-9bc4-1f1e3ff6b6b1",
                 "Loc_ID": null,
@@ -67693,7 +67693,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "982cd55e-cd78-4559-9ea2-86f1fced4120",
                 "Loc_ID": null,
