@@ -24853,7 +24853,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f710df6f-25a1-4b02-9e32-356276bd1fef",
                 "Loc_ID": 88,
@@ -67273,7 +67273,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b4a980ae-1653-416b-a2c7-cc402d4cb7a4",
                 "Loc_ID": null,
@@ -70108,8 +70108,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "Audrey@mmsupplyandhealthcare.com",
                 "GlobalID": "f31c5e9f-5e34-49a5-998d-ead0e2cddeb9",
                 "Loc_ID": 1671,
                 "OBJECTID": 19434,
@@ -70118,11 +70118,11 @@
                 "SiteAddress": "640 Old Airport Rd",
                 "SiteAddressDetail": "Suite 104",
                 "SiteCity": "Aiken",
-                "SitePhone": null,
+                "SitePhone": "803-889-9070",
                 "SiteState": "SC",
                 "SiteZip": "29801",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "PZR, MOD",
                 "layer_id": 0,
                 "loc_name": "Major Medical Supply and Healthcare Services",
                 "loc_type1": "Mass Immunizers",
