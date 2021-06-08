@@ -43,3 +43,6 @@
 {"name": "Vons #1913", "address": "450 S Ventura Rd.", "city": "Oxnard", "metrolink_line": "Ventura County", "metrolink_station": "Oxnard"}
 {"name": "Vons #2825", "address": "1291 S Victoria Ave.", "city": "Oxnard", "metrolink_line": "Ventura County", "metrolink_station": "Oxnard"}
 {"name": "Palmdale Transportation Center", "address": "39000 Clock Tower Plaza Dr.", "city": "Palmdale ", "metrolink_line": "Antelope Valley", "metrolink_station": "Palmdale"}
+{"name": "Fontana Station", "address": "16777 Orange Way", "city": "Fontana", "metrolink_line": "San Bernardino", "metrolink_station": "Fontana"}
+{"name": "Upland Station", "address": "300 E. A St.", "city": "Upland", "metrolink_line": "San Bernardino", "metrolink_station": "Upland"}
+{"name": "Montclair Station", "address": "5091 Richton St.", "city": "Montclair", "metrolink_line": "San Bernardino", "metrolink_station": "Montclair"}
