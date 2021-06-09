@@ -11821,11 +11821,11 @@
                 "Site_Address": "1351 Veterans Pkwy, Clarksville, IN 47129",
                 "Site_County": "Clark",
                 "Site_Location_Info": null,
-                "Site_Name": "Sam's Club (#4851) - Veterans Pkwy VAX",
+                "Site_Name": "Sam's Club (#4851) - Veterans Pkwy",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Zotec_Link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
                 "Symbology": "Regular",
                 "Vaccine_Type": "FRPP",
                 "layer_id": 0,
@@ -17741,11 +17741,11 @@
                 "Site_Address": "6700 E. Virginia St, Evansville, IN 47715",
                 "Site_County": "Vanderburgh",
                 "Site_Location_Info": null,
-                "Site_Name": "Sam's Club (#8123)  – E. Virginia St VAX",
+                "Site_Name": "Sam's Club (#8123)  – E. Virginia St ",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
                 "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Zotec_Link": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
                 "Symbology": "Regular",
                 "Vaccine_Type": "FRPP",
                 "layer_id": 0,
@@ -24350,6 +24350,38 @@
                 },
                 "x": -86.51527918308447,
                 "y": 40.27932341677444
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5360cf66-e3af-408c-b35e-b1d2daf9ecf4",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Hobart High School VAX",
+                "OBJECTID": 969,
+                "Promote_Name": "Hobart High School VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46342</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "2211 E. 10th St, Hobart, IN 46342",
+                "Site_County": "Lake",
+                "Site_Location_Info": "This is a mobile site June 14 – 17, 9am – 6pm. This site has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Hobart High School VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.23197417207865,
+                "y": 41.51952473610122
             }
         },
         {
