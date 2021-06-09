@@ -37,7 +37,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "220d6067-6ceb-4655-93ef-b5ed05e84c49",
@@ -387,7 +387,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "dc8033c2-c433-4b4b-a632-8d026255ec3e",
@@ -1192,7 +1192,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6013881b-eacf-4c98-9f79-405ec4628ac6",
@@ -1507,7 +1507,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2bb98bd9-dd08-4fef-a197-1004d0fc9f90",
@@ -2417,7 +2417,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e6a74919-6c2f-4200-b887-c07f2ade16e1",
@@ -3222,7 +3222,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "df3168c1-fcf4-4b5e-92a1-2031959877f3",
@@ -4202,7 +4202,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "dacd478e-8bb8-4e2b-a2bc-6f81677c6b56",
@@ -4797,7 +4797,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1f188cc8-ec82-446f-9484-d13f1ede642b",
@@ -5007,7 +5007,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a0d84645-cba4-43eb-9520-0766a88aa03d",
@@ -5042,7 +5042,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "09935d02-3e51-4d1a-ad01-da582bb194d7",
@@ -5462,7 +5462,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0645c9f8-6a78-4951-abed-2b147ed47d11",
@@ -6127,7 +6127,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3f8e642c-13ff-4185-abcf-1f7cd6b47db9",
@@ -6477,7 +6477,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0e7db769-4937-4d7a-9aa6-66b0fa20c851",
@@ -7597,7 +7597,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "25cc8726-62d3-49bb-8796-242cb2dce3f1",
@@ -8437,7 +8437,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bdd3ce79-e0f5-4bda-b8c6-9dafcdd6b498",
@@ -9032,7 +9032,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "deae1e6e-dbfd-4ee3-8f4e-ab8b5967872c",
@@ -9067,7 +9067,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f94d68f4-f8ab-42e0-abe2-98840ada9236",
@@ -9137,7 +9137,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "86134e97-77e2-4263-8478-1ab44ce54ec1",
@@ -9242,7 +9242,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "df0806ec-6679-4574-91ba-5c8c82e836e2",
@@ -9697,7 +9697,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "eb4d3a45-4ba2-4c3a-bf30-49bed3cc3ade",
@@ -10292,7 +10292,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "631faa2a-eabd-40b6-af2e-622b6d923d8a",
@@ -10327,7 +10327,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "434a06c1-539c-466d-8351-083948c950a3",
@@ -10362,7 +10362,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4341c834-0b3f-4dc3-8c4a-4e7d5a4e1eaa",
@@ -10397,7 +10397,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "992d3a62-f0de-43b0-bb83-ff98040791fb",
@@ -10467,7 +10467,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8aa61a85-d3f4-49b5-8e9b-e59f68fe7995",
@@ -10572,7 +10572,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b31eddde-7219-41f7-b9b6-38b6c8a1cf0e",
@@ -11272,7 +11272,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "67e36aee-7b89-44a6-a118-91801fd70389",
@@ -11307,7 +11307,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "136c96e1-34d8-4ab8-ad4d-0c5b68c4aa8e",
@@ -11447,7 +11447,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ac978f5b-1294-4a51-9e3b-36706f35c77f",
@@ -11622,7 +11622,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "20037f95-ee5a-4cae-ab67-c6ca5ac9f69e",
@@ -12042,7 +12042,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "32cd09bb-953c-467e-85ba-6dcd5ceb5212",
@@ -12077,7 +12077,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "62b6fa8d-1a59-4afc-b67b-ebd1efec60ea",
@@ -12112,7 +12112,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "52d57e30-baac-4b02-bc80-c38e083a165e",
@@ -12147,7 +12147,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "644790f0-06b0-429f-a7d4-d5868edf46fe",
@@ -12182,7 +12182,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "158825c3-d110-4297-96b0-433268c73457",
@@ -12217,7 +12217,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8ba1e17c-4a75-4452-b1a3-99b1ba9da1cd",
@@ -12252,7 +12252,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c8f4e115-0ff6-46a4-803b-1e8f885b4364",
@@ -12287,7 +12287,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "758658ac-5076-4301-beef-6bb2216ff793",
@@ -12322,7 +12322,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "34e951c7-a4c0-4099-b6c7-be093d27d3ad",
@@ -12357,7 +12357,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "83f638e3-128f-4c31-91ca-01fa9829f4d2",
@@ -12392,7 +12392,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2c7d6943-3d89-4895-a12f-b0ae5c0c044b",
@@ -12427,7 +12427,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f1c4368c-cb99-4203-93a4-f21cb4192050",
@@ -12462,7 +12462,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1105c861-f675-46e5-b93f-9e365ec66738",
@@ -12497,7 +12497,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "554a900e-9fb0-4f99-b7ec-9a3de8dd3942",
@@ -12532,7 +12532,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c2cfc966-bf86-4c8b-85a4-876b7be7b18c",
@@ -12953,7 +12953,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "15d58192-5025-47df-94b7-212131322cb4",
                 "Loc_ID": 579,
@@ -12966,7 +12966,7 @@
                 "SitePhone": "",
                 "SiteState": "SC",
                 "SiteZip": "29730",
-                "URL": null,
+                "URL": "https://www.southendpharmacy.com/covid-19",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "South End Pharmacy",
@@ -13197,7 +13197,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d31fccdd-0a85-4afb-9680-18fffa5e2e9c",
@@ -13862,7 +13862,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7e25c7e8-1244-4f93-8834-c57343a64537",
@@ -13967,7 +13967,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e312295d-cfb9-4a00-a08e-2b5d176ae7d3",
@@ -14562,7 +14562,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0180fa14-961e-4c1a-8814-99dde6060dbb",
@@ -15262,7 +15262,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8ba77111-abd3-41a3-bfa5-01bdc6e4d316",
@@ -15857,7 +15857,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b59aee26-0e7f-4f50-8c83-07234eb2ff70",
@@ -16522,7 +16522,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "54e140e9-71cd-4f2c-877e-2a0a5e971d90",
@@ -17467,7 +17467,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "00c8b0d5-7563-45ee-b59a-c15cfd0172e9",
@@ -17782,7 +17782,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "46a4a2cc-1604-477d-921d-1e57b1e834f1",
@@ -18832,7 +18832,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a8879788-1c9b-48c8-8d39-cc1f2ee8b1f9",
@@ -20127,7 +20127,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5ebf84e1-4948-446c-bea4-50c570642b9d",
@@ -20512,7 +20512,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4d3dae92-4058-4111-9ac3-b85806b7b76b",
@@ -20862,7 +20862,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e7f4698e-be99-4353-8516-8c476639ea6b",
@@ -21247,7 +21247,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ebc568cf-9a26-442a-94ec-15afec6c46bc",
@@ -21982,7 +21982,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8c0b2843-9c14-4f88-a7fd-37858d6b2339",
@@ -22017,7 +22017,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2f06fed6-e74d-4cca-852b-29748b46c1c0",
@@ -22052,7 +22052,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9f3dcaa5-f357-4b3b-bb0f-646d6a7ba251",
@@ -22087,7 +22087,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0489afdc-7c7c-4e18-8c6f-a5139d863fe7",
@@ -23173,7 +23173,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidinfo@mcleskeytodd.com",
                 "GlobalID": "9296ac73-d529-4259-a8cb-f641b4cede6d",
                 "Loc_ID": 168,
@@ -23186,7 +23186,7 @@
                 "SitePhone": "864-877-0753",
                 "SiteState": "SC",
                 "SiteZip": "29650",
-                "URL": "https://protect2.fireeye.com/v1/url?k=2aa8cf8a-7533f698-2aa81a7b-86b2e136ff17-821f498f09ccb37b&q=1&e=9238ac6c-d606-4c0a-82f4-bb64eabb550f&u=http%3A%2F%2Fwww.mcleskeytodd.com%2F",
+                "URL": "http://www.mcleskeytodd.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "McLeskey Todd Pharmacy",
@@ -24607,7 +24607,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4d4503ca-be21-473f-a17d-9101a2dcc155",
@@ -25657,7 +25657,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6f770eaf-0361-4236-8e28-c1be9d99fc99",
@@ -26112,7 +26112,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "797b41f8-8360-4114-96ee-ef05c002cc74",
@@ -26147,7 +26147,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1722f361-3561-4b0e-88b7-ed20538907cd",
@@ -26988,7 +26988,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e2a28e67-98ef-4a20-b68e-d90ddbdf2d52",
                 "Loc_ID": 610,
@@ -27757,7 +27757,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b8837aeb-2df6-425b-be55-fefa08db96d6",
@@ -28002,7 +28002,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5c50f893-ef37-40d4-bb7d-e63c6fe08b7a",
@@ -28842,7 +28842,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "363cda72-9ee5-4f58-ab1e-73f12b5304e3",
@@ -29052,7 +29052,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1684cf26-6a98-459f-965f-68000b564650",
@@ -33462,7 +33462,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": "hwfpcovid@yahoo.com",
                 "GlobalID": "f8af9467-bf15-4a98-a51a-9334bb47e8b1",
@@ -34022,7 +34022,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "539bbbb0-092c-4b32-8f02-0a10f4f77a0f",
@@ -34477,7 +34477,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "54cdc9b2-a2d0-46d2-a884-155435d88613",
@@ -35142,7 +35142,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1c1af3ed-cc05-4fd6-9115-2f44473e66d1",
@@ -35177,7 +35177,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "79b85be0-0d04-4b6e-b25d-5e90c26cbb56",
@@ -35247,7 +35247,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f5abd533-2f08-4c90-b0b3-0506ecfc18a5",
@@ -35282,7 +35282,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "be242ebc-32fe-4497-98bd-78357e8a058e",
@@ -35317,7 +35317,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6f895a88-8c3f-4bac-b55c-88adec798c5a",
@@ -35842,7 +35842,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3cf16db2-4c72-45c2-a9da-946dc22f5506",
@@ -36122,7 +36122,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9b847aa9-4555-492b-841b-fa6b14f85b51",
@@ -36297,7 +36297,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8faefc2f-6ba9-4fe6-861d-9395ba3d2a15",
@@ -36402,7 +36402,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "45fa3e3a-2c25-4de0-ba9b-3c45739fb4de",
@@ -36752,7 +36752,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "048162ca-495e-4e61-b3dc-bdc4ec146be1",
@@ -37802,7 +37802,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "775be091-d8dc-46c7-a502-3dd620cb8f3f",
@@ -38887,7 +38887,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b85696dd-275a-4c57-8dcf-e57a41f137cd",
@@ -40287,7 +40287,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2b537311-bf1f-469a-befb-4eb911a4904d",
@@ -41022,7 +41022,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "734f6f1d-ee9f-4ecc-bf1e-f4fd61bdb0e2",
@@ -41127,7 +41127,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3fb1c312-42da-4418-9f71-6e21962087f5",
@@ -42492,7 +42492,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7c26a3c7-961d-400b-bfb0-0e555fa6e9c7",
@@ -42667,7 +42667,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "76f957cb-f9c2-44a1-9e39-d1aef49ca2e2",
@@ -42772,7 +42772,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2a56d35c-2db1-4b4f-a64b-69f6ef363638",
@@ -43997,7 +43997,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bb706ddd-2101-417f-b781-86cc7aca4857",
@@ -44173,7 +44173,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2cfe3418-5c7c-4e01-9f2c-fb08dbfc7ec4",
                 "Loc_ID": 1381,
@@ -44183,11 +44183,11 @@
                 "SiteAddress": "101 Professional Park",
                 "SiteAddressDetail": "",
                 "SiteCity": "Gaffney",
-                "SitePhone": null,
+                "SitePhone": "864-489-1446",
                 "SiteState": "SC",
                 "SiteZip": "29340",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "Kai.mmispa@gmail.com",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Gaffney Family Physicians",
                 "loc_type1": "Medical practice – family medicine",
@@ -44417,7 +44417,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6e484d59-eed6-47f9-9005-c62c4ef37601",
@@ -45293,7 +45293,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c3b70f8e-7da3-4b94-9e17-214928146b81",
                 "Loc_ID": null,
@@ -46587,7 +46587,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cb0c65c6-eb48-4de2-9065-3303fb50a9df",
@@ -47742,7 +47742,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b32b6a4f-3c0a-4608-a090-20a0e0b21778",
@@ -47777,7 +47777,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8ccc0134-557c-4d1e-86a1-9eef11715b77",
@@ -48687,7 +48687,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "555ffb5e-3145-4bdb-988f-e133270e9389",
@@ -56808,7 +56808,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "45edfd1f-80bb-42ad-bd0f-8d70021a7102",
                 "Loc_ID": null,
@@ -56843,7 +56843,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ac5d6f61-da52-43d0-816a-e600c0ce43ce",
                 "Loc_ID": null,
@@ -58732,7 +58732,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "88468e1f-36a8-4875-b4cf-a13eb3ed19e4",
@@ -62198,7 +62198,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7b2f8537-91ea-4667-a537-34330b6e02a2",
                 "Loc_ID": null,
@@ -63283,7 +63283,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a842545c-0af8-4bbb-b940-661499efdfdf",
                 "Loc_ID": null,
@@ -63738,7 +63738,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a097f66d-8506-454d-8a0e-082c44ec0ad8",
                 "Loc_ID": 1569,
@@ -63748,11 +63748,11 @@
                 "SiteAddress": "6323B North Main Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Columbia",
-                "SitePhone": null,
+                "SitePhone": "803-766-6075",
                 "SiteState": "SC",
                 "SiteZip": "29203",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "Vistara Pharmacy",
                 "loc_type1": "Pharmacy – independent",
@@ -67273,7 +67273,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b4a980ae-1653-416b-a2c7-cc402d4cb7a4",
                 "Loc_ID": null,
@@ -67728,7 +67728,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "74fdfb25-094d-45b9-a951-9e062df0cc4f",
                 "Loc_ID": null,
@@ -68427,7 +68427,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "83dd0bca-be4b-4ddc-9cb6-35585eca0cc7",
@@ -69512,7 +69512,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0a70ca99-66b3-4818-a964-352363ea895b",
@@ -70177,7 +70177,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9136dc9e-6b4a-4509-aff0-0e8f894e34a5",
@@ -70387,7 +70387,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c576baf6-63cc-4bdf-8a2e-8b3fa1487367",
@@ -70878,7 +70878,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5f84d6c8-58df-4c07-91c9-bd51b1a0580e",
                 "Loc_ID": null,
@@ -71752,7 +71752,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "177b3046-9475-4a81-b623-29d61c9dcb9f",
@@ -73888,7 +73888,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a320f7d4-c5f6-4c4d-8777-d9e6dff507bb",
                 "Loc_ID": null,
@@ -73902,7 +73902,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29506",
                 "URL": "https://cvas.dhec.sc.gov/",
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "DHEC Mobile Clinic @ Church Hill Apts",
                 "loc_type1": "State Agency",
@@ -75267,7 +75267,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29118",
                 "URL": "http://www.jamisonconsultants.com/",
-                "V_Manufacturer": null,
+                "V_Manufacturer": "PZR, MOD",
                 "layer_id": 0,
                 "loc_name": "Jamison Consultants & Pediatric Express Care",
                 "loc_type1": "Medical practice - family medicine",
@@ -75287,7 +75287,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "68ac0dbc-9e20-4fd3-b699-67ea0e9617d4",
@@ -77453,6 +77453,216 @@
                 },
                 "x": -81.11673953063615,
                 "y": 33.95345360678368
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0b90d1bf-f465-4752-891b-8606219860cf",
+                "Loc_ID": null,
+                "OBJECTID": 35511,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "100 Clay St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Easley",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29642",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Brushy Creek Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.58484363512565,
+                "y": 34.81380981744849
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "b3e8e4e2-52fd-496f-af24-159fc16ca295",
+                "Loc_ID": null,
+                "OBJECTID": 35512,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "300 E South St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Union",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29379",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Union Library",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.62060313933551,
+                "y": 34.71322306878966
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0086ee3e-6e96-478d-98c0-e75d816760b4",
+                "Loc_ID": null,
+                "OBJECTID": 35513,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "230 Hwy 261 S",
+                "SiteAddressDetail": null,
+                "SiteCity": "Wedgefield",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29168",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ South Forge Apartments (Sumter County)",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.5206693711321,
+                "y": 33.94013897468653
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "d94307e0-f474-41c2-89fc-f9607e83e411",
+                "Loc_ID": null,
+                "OBJECTID": 35514,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1333 Penderboro Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Marion",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29571",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Pleasant Grove Missionary Baptist Church (Marion County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.36238355904925,
+                "y": 34.15282918754974
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "491b21c0-07b3-4dd6-b8ca-e702652deaea",
+                "Loc_ID": null,
+                "OBJECTID": 35515,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "542 Cypress Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Murrells Inlet",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29576",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ St. Michael's Catholic Church (Horry County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.00304550258579,
+                "y": 33.58904590453898
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "54ca1259-49da-4b84-8903-295af55e2f18",
+                "Loc_ID": null,
+                "OBJECTID": 35516,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "2519 W Palmetto St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29501",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Local Motive Brewing (Florence County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.8220430858039,
+                "y": 34.18126778769545
             }
         }
     ],
