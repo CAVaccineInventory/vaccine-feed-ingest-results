@@ -3971,38 +3971,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "b9ed846f-6124-40f3-bdd5-ee3b53024969",
-                "ID": "ISDH1150",
-                "IsView": 1,
-                "Name": "Pulaski Memorial Hospital",
-                "OBJECTID": 225,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "616 East 13th St,  Winamac, IN 46996",
-                "Site_County": "Pulaski",
-                "Site_Location_Info": "Park on south side of Emergency Department Entrance & enter in side door.",
-                "Site_Name": "PULASKI MEMORIAL HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.59613299902762,
-                "y": 41.05683184161313
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "b56668c5-a6ca-4483-a8e0-cd6b731afb88",
                 "ID": "ISDH1236",
                 "IsView": 1,

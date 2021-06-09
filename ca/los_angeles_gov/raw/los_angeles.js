@@ -1,4 +1,4 @@
-var unfiltered = [
+var unfiltered =[
   {
     "id": 25,
     "xParent": 15,
@@ -3567,7 +3567,7 @@ var unfiltered = [
     "id": 371,
     "xParent": 3,
     "NumChildren": 0,
-    "inactive": "",
+    "inactive": "TRUE",
     "organization": "Reported",
     "name": "Helen Keller Park",
     "addr1": "12521 Vermont Ave",

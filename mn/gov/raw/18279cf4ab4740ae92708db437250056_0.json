@@ -31775,57 +31775,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": null,
-                "AddrLine1": "1680 Como Ave",
-                "City": "Falcon Heights",
-                "County": null,
-                "EndDate": "2021-06-08",
-                "FridayEnd": "8:00pm",
-                "FridayStart": "12:00pm",
-                "MondayEnd": "8:00pm",
-                "MondayStart": "12:00pm",
-                "OBJECTID": 6276,
-                "Phone": "(855) 612-0677",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "8:00pm",
-                "SaturdayStart": "12:00pm",
-                "SiteName": "St. Paul - Minnesota State Fair Grounds",
-                "StartDate": "2021-05-26",
-                "State": "MN",
-                "SundayEnd": "8:00pm",
-                "SundayStart": "12:00pm",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Pre-registration",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "8:00pm",
-                "ThursdayStart": "12:00pm",
-                "TuesdayEnd": "8:00pm",
-                "TuesdayStart": "12:00pm",
-                "URL": "https://mn.gov/covid19/vaccine/find-vaccine/statefairvaccine/index.jsp",
-                "UpdateDate": "2021-05-06 20:47:00",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "8:00pm",
-                "WednesdayStart": "12:00pm",
-                "Zip": "55108",
-                "globalid": "982adb8b-f7fd-485a-8895-a01bff19b2ee",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20147
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -93.17136699530148,
-                "y": 44.977259932013226
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": "One day mass vaccination clinic at Prairies Edge Casino with the Pfizer Vaccine on Thursday, May 13th from 08:00 AM  to 3:00 PM.",
                 "AddrLine1": "5616 Prairies Edge Lane",
                 "City": "Granite Falls",
@@ -34933,57 +34882,6 @@
                 },
                 "x": -92.4593559617453,
                 "y": 44.02248801385167
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
-                "AddrLine1": "1 Civic Center Plaza",
-                "City": "Mankato",
-                "County": null,
-                "EndDate": "2021-06-08",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6403,
-                "Phone": "(800) 800-5698",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "Mankato - Mayo Clinic Health System Event Center",
-                "StartDate": "2021-06-08",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 18+",
-                "TestingTypes": "Covid-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "6:00pm",
-                "TuesdayStart": "2:00pm",
-                "URL": "http://vaulthealth.com/covid/start/?var_c=VACCINATION_MINNESOTA_OPEN",
-                "UpdateDate": "2021-06-02 14:49:52",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "Closed",
-                "WednesdayStart": "Closed",
-                "Zip": "56001",
-                "globalid": "4ebc775d-3c86-4886-85d7-a190507f7a66",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20279
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.00432998035303,
-                "y": 44.16615999497759
             }
         },
         {
