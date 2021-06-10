@@ -7139,38 +7139,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "60e3ac9a-f8c4-42bd-ab11-f080a0083795",
-                "ID": "ISDH1309",
-                "IsView": 1,
-                "Name": "DEACONESS GIBSON HOSPITAL VAX",
-                "OBJECTID": 337,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1808 Sherman Drive, Princeton, IN 47670",
-                "Site_County": "Gibson",
-                "Site_Location_Info": null,
-                "Site_Name": "DEACONESS GIBSON HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.58985281754758,
-                "y": 38.36091125269447
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "6f680bba-3a8e-464b-9c98-a5ce92099c6a",
                 "ID": "ISDH1310",
                 "IsView": 1,
@@ -33886,6 +33854,38 @@
                 },
                 "x": -87.12838215141606,
                 "y": 39.523475306216596
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e386f94b-ea0e-40e4-856c-823e396cdc3b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Mt Pisgah Baptist Church VAX",
+                "OBJECTID": 1278,
+                "Promote_Name": "Mt Pisgah Baptist Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46176</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "3718 E. Blue Ridge Rd, Shelbyville, IN 46176",
+                "Site_County": "Shelby",
+                "Site_Location_Info": "This is a mobile site June 23 – 25.",
+                "Site_Name": "Mt Pisgah Baptist Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.7097997814594,
+                "y": 39.51996487655095
             }
         },
         {

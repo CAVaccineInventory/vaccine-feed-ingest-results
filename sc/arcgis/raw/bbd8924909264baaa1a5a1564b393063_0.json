@@ -18483,7 +18483,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0c4536de-2d91-4362-a08d-fee23522e3b2",
                 "Loc_ID": 135,
@@ -18493,7 +18493,7 @@
                 "SiteAddress": "300 Woodhaven Dr",
                 "SiteAddressDetail": null,
                 "SiteCity": "Hilton Head Island",
-                "SitePhone": "",
+                "SitePhone": "843-681-2622",
                 "SiteState": "SC",
                 "SiteZip": "29928",
                 "URL": null,
@@ -26989,7 +26989,7 @@
             "attributes": {
                 "Activated1": "Yes",
                 "Appointments": "Yes",
-                "Contact": null,
+                "Contact": "Email-Ttyer@uspi.com",
                 "GlobalID": "e2a28e67-98ef-4a20-b68e-d90ddbdf2d52",
                 "Loc_ID": 610,
                 "OBJECTID": 778,
@@ -27002,7 +27002,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29464",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "Southeastern Spine Institute Ambulatory Surgery Center",
                 "loc_type1": "Ambulatory Surgery Center",
@@ -39517,7 +39517,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e48ce78a-00c5-4504-9824-7dfc68e393f3",
