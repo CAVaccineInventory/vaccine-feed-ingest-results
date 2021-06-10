@@ -1,5 +1,72 @@
 [
     {
+        "id": 51,
+        "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
+        "address": "131 East 76th Street",
+        "suite": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10021",
+        "county": "New York County",
+        "latitude": "40.7733",
+        "longitude": "-73.9607",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3cEAC",
+        "vaccine_manufacturer": "Pfizer",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "10:45am",
+                "time_closed": "3:15pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
         "id": 44,
         "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Pfizer",
         "address": "335 Greenwich Street",
@@ -12,6 +79,58 @@
         "longitude": "-73.6129",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TgNEEA0",
         "vaccine_manufacturer": "Pfizer",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "9:00am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "9:00am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "9:30am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
         "distance": null
     },
     {
@@ -27,6 +146,58 @@
         "longitude": "-73.0926",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "9:00am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "9:00am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "3:15pm",
+                "time_closed": "8:15pm"
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
         "distance": null
     },
     {
@@ -42,6 +213,58 @@
         "longitude": "-73.7087",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "10:00am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "wednesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "11:30am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "saturday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "1:15pm",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
         "distance": null
     },
     {
@@ -57,6 +280,58 @@
         "longitude": "-72.664",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TS3zEAG",
         "vaccine_manufacturer": "Moderna",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "9:15am",
+                "time_closed": "5:45pm"
+            },
+            {
+                "day": "wednesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "thursday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "3:15pm",
+                "time_closed": "8:15pm"
+            },
+            {
+                "day": "friday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "saturday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
         "distance": null
     },
     {
@@ -72,6 +347,58 @@
         "longitude": "-73.3884",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "1:00pm",
+                "time_closed": "1:00pm"
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
         "distance": null
     },
     {
@@ -87,6 +414,58 @@
         "longitude": "-74.0008",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Pfizer",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
         "distance": null
     }
 ]

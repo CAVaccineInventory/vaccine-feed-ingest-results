@@ -1091,38 +1091,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "22a89a2a-7194-4001-a2d8-ad887059480a",
-                "ID": "ISDH968",
-                "IsView": 1,
-                "Name": "IU Health Methodist ",
-                "OBJECTID": 51,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": " 362 W 15th St,  Indianapolis, IN 46202-2266",
-                "Site_County": "Marion",
-                "Site_Location_Info": "IU Health Neuro Science Center, Goodman Hall - Conference Center, First Floor.",
-                "Site_Name": "IU METHODIST NEUROSCIENCE BLDG VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.16542000010286,
-                "y": 39.787410000172606
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "ad2361df-d825-4bfb-9cef-f09d383ef6f2",
                 "ID": "ISDH935",
                 "IsView": 1,
@@ -2186,7 +2154,7 @@
                 "OBJECTID": 150,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "709 N Embree Street, Princeton, IN 47670",
+                "Site_Address": "203 S. Prince St, Princeton, IN 47670",
                 "Site_County": "Gibson",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "GIBSON CO HD COVID VAX",
@@ -2204,8 +2172,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -87.57792187717307,
-                "y": 38.36143574102079
+                "x": -87.56654931094961,
+                "y": 38.35366207923786
             }
         },
         {
@@ -14956,14 +14924,14 @@
                 "Promote_Site": null,
                 "Site_Address": "7860 Burr St, Schererville, IN 46375",
                 "Site_County": "Lake",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "This clinic has Moderna and Johnson & Johnson",
                 "Site_Name": "Schererville Care First VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": null,
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
