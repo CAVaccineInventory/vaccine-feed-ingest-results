@@ -38188,7 +38188,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "cfd7ed1f-cde6-4e8d-a31a-66aa97368323",
                 "Loc_ID": 1372,
@@ -38198,11 +38198,11 @@
                 "SiteAddress": "4036 River Oaks Dr ",
                 "SiteAddressDetail": "Unit B-1",
                 "SiteCity": "Myrtle Beach ",
-                "SitePhone": null,
+                "SitePhone": "843-236-6500",
                 "SiteState": "SC",
                 "SiteZip": "29579",
-                "URL": null,
-                "V_Manufacturer": "JJ",
+                "URL": "https://www.carolinaforestpharmacy.com/covid-19",
+                "V_Manufacturer": "PFR, JJ",
                 "layer_id": 0,
                 "loc_name": "Carolina health pharmacy LLC ",
                 "loc_type1": "Pharmacy – independent",
@@ -45223,7 +45223,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "48d64e17-823e-4cf7-920a-4ece7d1a1b01",
                 "Loc_ID": null,
@@ -62093,7 +62093,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a29babf0-4e66-49a8-90f5-4a6b1e4f4285",
                 "Loc_ID": null,
@@ -67763,7 +67763,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7b91d817-9466-446a-9410-a4218558d1b3",
                 "Loc_ID": null,
