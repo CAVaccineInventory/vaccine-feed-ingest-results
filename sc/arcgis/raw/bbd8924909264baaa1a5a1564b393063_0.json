@@ -1508,8 +1508,8 @@
         {
             "attributes": {
                 "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "2bb98bd9-dd08-4fef-a197-1004d0fc9f90",
                 "Loc_ID": 586,
                 "OBJECTID": 44,
@@ -2347,7 +2347,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2673a8e6-41d1-444d-8aaa-4c6aa68384ea",
@@ -2452,7 +2452,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4c3ccb5d-389c-4ed7-914b-e8cc0ed7940d",
@@ -2872,7 +2872,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0134f2a9-972e-47ad-b924-8a5533b3e501",
@@ -2942,7 +2942,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "57b8faa6-ae07-412a-84ec-4193c8d8a62b",
@@ -3887,7 +3887,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d3d79085-b618-4442-8620-4c45b330580b",
@@ -3992,7 +3992,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "863f6540-6558-4626-9d35-81865d1830a2",
@@ -4027,7 +4027,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5aa5d285-a29b-41cf-a474-06fb5f8061eb",
@@ -4447,7 +4447,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d08b3179-9be9-430e-a37b-32dde97a6c4b",
@@ -4727,7 +4727,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0ffc0456-46ed-498c-8366-5f1319c323e1",
@@ -5917,7 +5917,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8b5217d5-0c51-4764-a3e6-78d56ca1e94e",
@@ -5987,7 +5987,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "15d30ea9-755a-477c-895e-f021dd9fa0a0",
@@ -6162,7 +6162,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "170acbdb-0ff1-483e-bc41-4acd240aa03f",
@@ -6197,7 +6197,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "33d3cdb6-f96c-4bee-92d5-0f37484b1167",
@@ -6232,7 +6232,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ffae50c0-630b-4dbc-88d0-fc57a84d6aa9",
@@ -6267,7 +6267,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c9f610ef-da18-44e1-a40a-d21bc9656ed4",
@@ -6337,7 +6337,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2030f0a4-74c5-417d-afd7-565e9e2a78b6",
@@ -6372,7 +6372,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "211ac82e-d9f9-467b-b685-6ee154251225",
@@ -6407,7 +6407,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "fd89ad45-000e-49d9-8c1b-f7d2782a2744",
@@ -6442,7 +6442,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8054a665-d475-4eaf-b776-77ee9fa23fb1",
@@ -6617,7 +6617,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ed473b9c-1b5e-45f1-9b24-a0ff7b3a3e21",
@@ -6687,7 +6687,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c8c51b0b-556d-4b77-84ae-3491392e6b7e",
@@ -7597,9 +7597,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "25cc8726-62d3-49bb-8796-242cb2dce3f1",
                 "Loc_ID": 616,
                 "OBJECTID": 219,
@@ -8367,7 +8367,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9169fd54-55ad-4c17-936a-080bdaf1c946",
@@ -8682,7 +8682,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3295e3db-df9d-4dc4-b1ce-88aaaa592663",
@@ -8962,7 +8962,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2e137773-ff70-4e7a-ad07-f687414067b3",
@@ -9032,9 +9032,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "deae1e6e-dbfd-4ee3-8f4e-ab8b5967872c",
                 "Loc_ID": 540,
                 "OBJECTID": 260,
@@ -9067,9 +9067,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "f94d68f4-f8ab-42e0-abe2-98840ada9236",
                 "Loc_ID": 624,
                 "OBJECTID": 261,
@@ -9102,7 +9102,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e9afc1dd-3452-473e-a18e-0112365be576",
@@ -9137,9 +9137,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "86134e97-77e2-4263-8478-1ab44ce54ec1",
                 "Loc_ID": 513,
                 "OBJECTID": 263,
@@ -9172,7 +9172,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cb549713-e9a4-409d-9f14-bd5c03c9c389",
@@ -9767,7 +9767,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3a49adbc-6b72-491e-8945-140e6c496f66",
@@ -10607,7 +10607,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ab9bd6f1-3483-4bba-b842-42b6f7344240",
@@ -10712,7 +10712,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1278bccd-9312-49d5-85cc-004ec2743fdc",
@@ -10747,7 +10747,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "93287b06-3cce-4a8d-bbb9-c3447e9d3956",
@@ -11412,7 +11412,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e75ec3f0-a9c5-46db-8b9a-6604daa97336",
@@ -11482,7 +11482,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6bc1f088-0839-4c69-8bcd-4be45737fcbc",
@@ -11517,7 +11517,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f5209016-0b9a-4581-a38c-b8b0e84774eb",
@@ -11552,7 +11552,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "681ca4dd-769f-48bb-a454-57470889c2e6",
@@ -11587,7 +11587,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5592fb73-8c03-4d63-865c-b57641d4ac64",
@@ -11657,7 +11657,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9d17cfdb-578f-4b97-81ab-fc6e82ca7635",
@@ -12042,9 +12042,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "32cd09bb-953c-467e-85ba-6dcd5ceb5212",
                 "Loc_ID": 531,
                 "OBJECTID": 346,
@@ -12077,9 +12077,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "62b6fa8d-1a59-4afc-b67b-ebd1efec60ea",
                 "Loc_ID": 589,
                 "OBJECTID": 347,
@@ -12112,9 +12112,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "52d57e30-baac-4b02-bc80-c38e083a165e",
                 "Loc_ID": 570,
                 "OBJECTID": 348,
@@ -12147,9 +12147,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "644790f0-06b0-429f-a7d4-d5868edf46fe",
                 "Loc_ID": 573,
                 "OBJECTID": 349,
@@ -12182,9 +12182,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "158825c3-d110-4297-96b0-433268c73457",
                 "Loc_ID": 519,
                 "OBJECTID": 350,
@@ -12217,9 +12217,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "8ba1e17c-4a75-4452-b1a3-99b1ba9da1cd",
                 "Loc_ID": 520,
                 "OBJECTID": 351,
@@ -12252,9 +12252,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "c8f4e115-0ff6-46a4-803b-1e8f885b4364",
                 "Loc_ID": 575,
                 "OBJECTID": 352,
@@ -12287,9 +12287,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "758658ac-5076-4301-beef-6bb2216ff793",
                 "Loc_ID": 517,
                 "OBJECTID": 353,
@@ -12322,9 +12322,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "34e951c7-a4c0-4099-b6c7-be093d27d3ad",
                 "Loc_ID": 529,
                 "OBJECTID": 354,
@@ -12357,9 +12357,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "83f638e3-128f-4c31-91ca-01fa9829f4d2",
                 "Loc_ID": 494,
                 "OBJECTID": 355,
@@ -12392,9 +12392,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "2c7d6943-3d89-4895-a12f-b0ae5c0c044b",
                 "Loc_ID": 611,
                 "OBJECTID": 356,
@@ -12427,9 +12427,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "f1c4368c-cb99-4203-93a4-f21cb4192050",
                 "Loc_ID": 526,
                 "OBJECTID": 357,
@@ -12462,9 +12462,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "1105c861-f675-46e5-b93f-9e365ec66738",
                 "Loc_ID": 635,
                 "OBJECTID": 358,
@@ -12497,9 +12497,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "554a900e-9fb0-4f99-b7ec-9a3de8dd3942",
                 "Loc_ID": 528,
                 "OBJECTID": 359,
@@ -12533,8 +12533,8 @@
         {
             "attributes": {
                 "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "c2cfc966-bf86-4c8b-85a4-876b7be7b18c",
                 "Loc_ID": 604,
                 "OBJECTID": 360,
@@ -13617,7 +13617,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "25da2fdd-79f6-45cd-8c48-c59cdd447e85",
@@ -15787,7 +15787,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "05ae445d-1a49-4912-a467-29ee01225683",
@@ -16277,7 +16277,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1545d6e4-73aa-4415-94fc-45ffa1ee156a",
@@ -17292,7 +17292,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0be1120b-e6b4-4481-9fbc-98330548459e",
@@ -17712,7 +17712,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9e2246a3-4e62-43b3-918f-8ee0e2dea9bf",
@@ -17922,7 +17922,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "68e9d894-2be2-4916-82f8-75d5a09e1c37",
@@ -17992,7 +17992,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "219fdcf0-9484-4147-a10a-3912c3939b38",
@@ -18097,7 +18097,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "69b7ffa3-fb63-45ae-bcd1-37fcd36f5448",
@@ -20127,8 +20127,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5ebf84e1-4948-446c-bea4-50c570642b9d",
                 "Loc_ID": 48,
@@ -20932,7 +20932,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "133e773e-937a-4526-9340-027decab3514",
@@ -20967,7 +20967,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3fd2d1b8-940f-4a42-86de-cddb672fec70",
@@ -21002,7 +21002,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "eb6b3b4c-5522-41e8-855b-4f27cad5e240",
@@ -21072,7 +21072,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e911442f-afc0-49c2-a055-dead443ef76f",
@@ -21282,7 +21282,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "750bae01-1e38-4791-8d82-8a1fb3e7d1d5",
@@ -21982,9 +21982,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "8c0b2843-9c14-4f88-a7fd-37858d6b2339",
                 "Loc_ID": 578,
                 "OBJECTID": 631,
@@ -22017,9 +22017,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "2f06fed6-e74d-4cca-852b-29748b46c1c0",
                 "Loc_ID": 496,
                 "OBJECTID": 632,
@@ -22052,9 +22052,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "9f3dcaa5-f357-4b3b-bb0f-646d6a7ba251",
                 "Loc_ID": 507,
                 "OBJECTID": 633,
@@ -22087,9 +22087,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "0489afdc-7c7c-4e18-8c6f-a5139d863fe7",
                 "Loc_ID": 530,
                 "OBJECTID": 634,
@@ -25727,7 +25727,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "77f53940-b5b7-43b8-8a56-86fa14a8c334",
@@ -26952,7 +26952,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "510c8f3b-cb92-4c99-a6cb-aec2ea77d431",
@@ -27127,7 +27127,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c220175c-8624-47c3-81ca-3cd90d05c71e",
@@ -28282,7 +28282,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "35d6f31f-0c34-4af8-b723-edb8cd71bc05",
@@ -28737,7 +28737,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3deb4aa1-0a51-4eca-80bd-c02ab2165081",
@@ -33357,7 +33357,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8544174b-d325-49c8-bf0f-53650554bb91",
@@ -35807,7 +35807,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7b963d5c-11fc-4be0-8158-6c11b0c58ce8",
@@ -36332,7 +36332,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7cc84dc3-a29d-4979-a0d4-e088b43bb40d",
@@ -36507,7 +36507,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0394657f-e1bb-4787-99d2-cac0f4a897ac",
@@ -36577,7 +36577,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "37711dd4-c658-46b0-8786-e56e5579a7ad",
@@ -36682,7 +36682,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "dfdd247c-3f62-45c3-8dc6-c3b198a7dced",
@@ -36788,7 +36788,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2c41e533-7d3e-4759-9490-5c23e5c76a16",
                 "Loc_ID": 964,
@@ -37417,7 +37417,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9ce73b74-c2ad-48a7-852d-92583c119964",
@@ -37487,7 +37487,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "fd4d8918-f851-48e2-bbc4-f506aecc5ac3",
@@ -37872,7 +37872,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7d6ec695-acc5-4d73-b218-8ebd5036a47c",
@@ -38537,7 +38537,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7ae8a456-fd44-490e-ad98-9135889c22b4",
@@ -39482,7 +39482,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1996927c-9d6d-4ef4-97fc-bd8af7e4bc64",
@@ -41477,7 +41477,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e07dc953-2182-45c0-9f7c-7c5096f4da57",
@@ -41547,7 +41547,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bc266ea9-2d0d-4236-97d6-09d912b5bb61",
@@ -43472,7 +43472,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0cbdadf1-5f20-40e0-b958-81b825a6dd4a",
@@ -43822,7 +43822,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "df856b42-3e57-4d01-9314-76de611259f9",
@@ -44417,9 +44417,9 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
-                "Contact": null,
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
                 "GlobalID": "6e484d59-eed6-47f9-9005-c62c4ef37601",
                 "Loc_ID": 590,
                 "OBJECTID": 1291,
@@ -45258,7 +45258,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bf7e6e02-8313-4470-8a24-2ed1ca839e37",
                 "Loc_ID": null,
@@ -46447,7 +46447,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "775d945b-ca4c-4467-9cfd-23a7f3ebc9c3",
@@ -46797,7 +46797,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "491dca6e-389f-48f0-877a-bd701ae33529",
@@ -47357,7 +47357,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2ea4ffe0-232d-4104-b746-c02f842893c5",
@@ -47392,8 +47392,8 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Activated1": "No",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e59cc106-562d-4990-bd86-2428d9f0d394",
                 "Loc_ID": 1317,
@@ -57122,7 +57122,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4ab73fad-5962-4958-b9e3-551ddaf505b7",
@@ -57157,7 +57157,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3ef131ba-c885-4dd3-8a51-a715c599ad9a",
@@ -57332,7 +57332,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9e328712-7cd4-42c9-b7d1-49499d90319d",
@@ -63703,8 +63703,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "Peakpharmacy@yahoo.com",
                 "GlobalID": "9b826c52-d2ff-4e17-ba92-fb9c06e7847d",
                 "Loc_ID": 1572,
                 "OBJECTID": 12925,
@@ -64542,7 +64542,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "eb19595d-d7c8-405c-8e1a-0b29d474be2c",
@@ -68077,7 +68077,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0098e4bd-a6d7-4b2b-bf0f-9a4a272299f2",
@@ -68252,7 +68252,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cca5ba04-8020-4d2d-8d52-65648fb6fed6",
@@ -68812,7 +68812,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a45c1a8e-016c-4317-9a70-11957834554c",
@@ -69408,8 +69408,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "nursecfm9690@gmail.com",
                 "GlobalID": "938261d3-f043-41f8-87c1-ba97f2c64ea1",
                 "Loc_ID": 1629,
                 "OBJECTID": 19414,
@@ -69422,7 +69422,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29325",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Carolina Family Medicine",
                 "loc_type1": "Medical practice – family medicine",
@@ -70247,7 +70247,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "574228f6-37b6-4333-867f-9cc325485fcb",
@@ -71507,7 +71507,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a66b8378-620d-4e28-b939-586a07617c6a",
@@ -75042,7 +75042,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "55ce62d2-0b0f-458c-862b-ad7cc2b73b86",
@@ -75112,7 +75112,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4730e5e5-4192-4923-82bc-a2955e9b7354",
@@ -77003,7 +77003,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8e580be9-2e29-4840-b2be-cfc83590cf65",
                 "Loc_ID": null,
@@ -77733,6 +77733,41 @@
                 },
                 "x": -80.11065332224166,
                 "y": 32.96356715918756
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "333585be-c325-4830-9637-2c168ac9dafb",
+                "Loc_ID": null,
+                "OBJECTID": 36311,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "225 S Limestone St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Gaffney",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29340",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Cherokee Chamber of Commerce",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.65108049365278,
+                "y": 35.070452206990126
             }
         }
     ],

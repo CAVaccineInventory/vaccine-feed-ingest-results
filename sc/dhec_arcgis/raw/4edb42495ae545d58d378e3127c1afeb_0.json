@@ -1685,41 +1685,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "2673a8e6-41d1-444d-8aaa-4c6aa68384ea",
-                "Loc_ID": 1225,
-                "OBJECTID": 68,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "1007 Pendleton Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Greenville ",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29601",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Professional Healthcare Services LLC",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1021,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA523021",
-                "vtrcks_ID": 40118052
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.41968879590291,
-                "y": 34.843854718777095
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "c7a24c22-f416-4a24-a7e1-f586998e9438",
                 "Loc_ID": 1167,
                 "OBJECTID": 69,
@@ -1748,41 +1713,6 @@
                 },
                 "x": -80.040489074339,
                 "y": 32.93802471015067
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "4c3ccb5d-389c-4ed7-914b-e8cc0ed7940d",
-                "Loc_ID": 1126,
-                "OBJECTID": 71,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2999 Sunset Blvd",
-                "SiteAddressDetail": "Ste 102",
-                "SiteCity": "West Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29169",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Capital City Medicine, Inc",
-                "loc_type1": "Medical practice – internal medicine",
-                "ref_ID": 1024,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932029",
-                "vtrcks_ID": 40222779
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.12320026661189,
-                "y": 34.00646858400967
             }
         },
         {
@@ -2175,41 +2105,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "0134f2a9-972e-47ad-b924-8a5533b3e501",
-                "Loc_ID": 591,
-                "OBJECTID": 83,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "1051 South 4th Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Hartsville",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29550",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Hartsville Home",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1036,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA916007",
-                "vtrcks_ID": 40222788
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.06221688123759,
-                "y": 34.36103098715654
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "43530400-45ac-45db-908a-2de398aba431",
                 "Loc_ID": 1154,
                 "OBJECTID": 84,
@@ -2238,41 +2133,6 @@
                 },
                 "x": -80.93940128716821,
                 "y": 32.290305859185935
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "57b8faa6-ae07-412a-84ec-4193c8d8a62b",
-                "Loc_ID": 1155,
-                "OBJECTID": 85,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "2717 West 5th North Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Summerville",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29483",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Dorchester County Board of Disabilities and Special Needs",
-                "loc_type1": "Consumers with disabilities in residential facilities ",
-                "ref_ID": 1038,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA518003",
-                "vtrcks_ID": 40118002
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.22788563042576,
-                "y": 33.04956570227523
             }
         },
         {
@@ -2945,41 +2805,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "d3d79085-b618-4442-8620-4c45b330580b",
-                "Loc_ID": 950,
-                "OBJECTID": 112,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "2881 Tricom street, suite A",
-                "SiteAddressDetail": null,
-                "SiteCity": "Charleston",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29506",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Endocrine Associates",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1065,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910044",
-                "vtrcks_ID": 40220288
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.07081464604204,
-                "y": 32.97419977615277
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "859c57f1-65f5-43ab-bfa6-64b84d7052bd",
                 "Loc_ID": 965,
                 "OBJECTID": 114,
@@ -3008,76 +2833,6 @@
                 },
                 "x": -80.80151370170933,
                 "y": 33.67289598222766
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "863f6540-6558-4626-9d35-81865d1830a2",
-                "Loc_ID": 968,
-                "OBJECTID": 115,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "110 Pepper Hill Way",
-                "SiteAddressDetail": null,
-                "SiteCity": "Aiken",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29801",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Ambulatory Surgery Center",
-                "loc_type1": "Ambulatory Surgery Center",
-                "ref_ID": 1068,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA902009",
-                "vtrcks_ID": 40220292
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.7623052408893,
-                "y": 33.56429735589853
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "5aa5d285-a29b-41cf-a474-06fb5f8061eb",
-                "Loc_ID": 969,
-                "OBJECTID": 116,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1410 Blanding Street",
-                "SiteAddressDetail": "Suite 200",
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29201",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Eye Consultants, LLC",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1069,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940034",
-                "vtrcks_ID": 40220293
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.03254498038939,
-                "y": 34.00895552993563
             }
         },
         {
@@ -3400,41 +3155,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "d08b3179-9be9-430e-a37b-32dde97a6c4b",
-                "Loc_ID": 773,
-                "OBJECTID": 128,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "7900 Park Place Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "York",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29745",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Maxabilities of York County",
-                "loc_type1": "Long-term care – combination (e.g., assisted living and nursing home in same facility)",
-                "ref_ID": 1081,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA946015",
-                "vtrcks_ID": 40220058
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.18434319361864,
-                "y": 34.964993978797565
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "5d0c893c-e46a-4bd9-b287-f338bbaf79a0",
                 "Loc_ID": 714,
                 "OBJECTID": 135,
@@ -3463,41 +3183,6 @@
                 },
                 "x": -79.75205798225267,
                 "y": 34.16009186863772
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "0ffc0456-46ed-498c-8366-5f1319c323e1",
-                "Loc_ID": 752,
-                "OBJECTID": 137,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2850 KINARD STREET",
-                "SiteAddressDetail": null,
-                "SiteCity": "NEWBERRY",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29108",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - NEWBERRY",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1090,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA936007",
-                "vtrcks_ID": 40220060
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.60193187884119,
-                "y": 34.29306487988953
             }
         },
         {
@@ -4378,41 +4063,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "8b5217d5-0c51-4764-a3e6-78d56ca1e94e",
-                "Loc_ID": 417,
-                "OBJECTID": 171,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "200 Church St",
-                "SiteAddressDetail": null,
-                "SiteCity": "Honea Path",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29654",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Kidney Care - Honea Path",
-                "loc_type1": "ESRD Dialysis Facility",
-                "ref_ID": 1124,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA904018",
-                "vtrcks_ID": 40217207
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.38955939020678,
-                "y": 34.44161076408113
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "91ee1353-be5d-46ec-b2eb-c475b3ebe6b8",
@@ -4450,41 +4100,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "15d30ea9-755a-477c-895e-f021dd9fa0a0",
-                "Loc_ID": 407,
-                "OBJECTID": 173,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "908 S. Mechanic St.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Pendleton",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29621",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Bio-Medical Applications of South Carolina, Inc., d/b/a Fresenius Kidney Care Pendleton",
-                "loc_type1": "ESRD Dialysis Facility",
-                "ref_ID": 1126,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA904019",
-                "vtrcks_ID": 40217215
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.7828007730775,
-                "y": 34.637179013973366
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "881725e6-bc5c-4ab8-b838-04f983bacb50",
                 "Loc_ID": 193,
                 "OBJECTID": 176,
@@ -4513,286 +4128,6 @@
                 },
                 "x": -80.99505024366141,
                 "y": 33.99778749173703
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "170acbdb-0ff1-483e-bc41-4acd240aa03f",
-                "Loc_ID": 382,
-                "OBJECTID": 178,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1126 US HWY 321 Bus S A",
-                "SiteAddressDetail": null,
-                "SiteCity": "Winnsboror",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29180",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Fairfield",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1131,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA920001",
-                "vtrcks_ID": 40217204
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.08628820232997,
-                "y": 34.349975845220456
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "33d3cdb6-f96c-4bee-92d5-0f37484b1167",
-                "Loc_ID": 412,
-                "OBJECTID": 179,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "5301 HWY 321",
-                "SiteAddressDetail": null,
-                "SiteCity": "Gaston",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29053",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Gaston",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1132,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932025",
-                "vtrcks_ID": 40217209
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.09190290012953,
-                "y": 33.833300785307586
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "ffae50c0-630b-4dbc-88d0-fc57a84d6aa9",
-                "Loc_ID": 376,
-                "OBJECTID": 180,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1840 Pineview Dr",
-                "SiteAddressDetail": null,
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29209",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - COLUMBIA",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1133,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940029",
-                "vtrcks_ID": 40217210
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.92970394223511,
-                "y": 33.95011306276285
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "c9f610ef-da18-44e1-a40a-d21bc9656ed4",
-                "Loc_ID": 392,
-                "OBJECTID": 181,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "7631 Wilson Blvd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29203",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Meadowlake",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1134,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940030",
-                "vtrcks_ID": 40217203
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.99753754842732,
-                "y": 34.08014635292909
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "2030f0a4-74c5-417d-afd7-565e9e2a78b6",
-                "Loc_ID": 393,
-                "OBJECTID": 183,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "105 Sum-Mor Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "West Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29169",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - West Columbia",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1136,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932027",
-                "vtrcks_ID": 40217206
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.10885898829116,
-                "y": 34.0084181103594
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "211ac82e-d9f9-467b-b685-6ee154251225",
-                "Loc_ID": 472,
-                "OBJECTID": 184,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "1018 S. Governor Williams Highway",
-                "SiteAddressDetail": null,
-                "SiteCity": "darlington",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29532",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care Darlington",
-                "loc_type1": "Outpatient dialysis center ",
-                "ref_ID": 1137,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA916006",
-                "vtrcks_ID": 40217217
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.85678018334193,
-                "y": 34.28249782787583
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "fd89ad45-000e-49d9-8c1b-f7d2782a2744",
-                "Loc_ID": 448,
-                "OBJECTID": 185,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "435 N Cashua Dr.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Florence",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29501",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - CASHUA DR FLORENCE",
-                "loc_type1": "Outpatient dialysis center ",
-                "ref_ID": 1138,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA921018",
-                "vtrcks_ID": 40217211
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.80077853928498,
-                "y": 34.20293763992271
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "8054a665-d475-4eaf-b776-77ee9fa23fb1",
-                "Loc_ID": 469,
-                "OBJECTID": 186,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1980 N MAIN ST ",
-                "SiteAddressDetail": null,
-                "SiteCity": "Summerville",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29486",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS MEDICAL CARE GOOSE CREEK HOME DIALYSIS, LLC",
-                "loc_type1": "ESRD Dialysis Facility",
-                "ref_ID": 1139,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA908010",
-                "vtrcks_ID": 40217205
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.1196373846413,
-                "y": 33.0448281952585
             }
         },
         {
@@ -4905,41 +4240,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "ed473b9c-1b5e-45f1-9b24-a0ff7b3a3e21",
-                "Loc_ID": 986,
-                "OBJECTID": 191,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "2085 Henry Tecklenburg Drive",
-                "SiteAddressDetail": "Second Floor",
-                "SiteCity": "Charleston",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29414",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Charleston Oncology, PA",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1144,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910039",
-                "vtrcks_ID": 40216131
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.04134579403222,
-                "y": 32.80955287868403
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "0eaf6491-99c6-448d-9b05-9ec105ba6126",
                 "Loc_ID": 1004,
                 "OBJECTID": 192,
@@ -4968,41 +4268,6 @@
                 },
                 "x": -80.35052147076897,
                 "y": 33.60824992278873
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "c8c51b0b-556d-4b77-84ae-3491392e6b7e",
-                "Loc_ID": 1012,
-                "OBJECTID": 193,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "125 KINARD ST ",
-                "SiteAddressDetail": null,
-                "SiteCity": "Orangeburg",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29118",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE ORANGEBURG",
-                "loc_type1": "ESRD Dialysis Facility",
-                "ref_ID": 1146,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA938008",
-                "vtrcks_ID": 40216039
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.82318017972506,
-                "y": 33.537640882226924
             }
         },
         {
@@ -5883,6 +5148,41 @@
         {
             "attributes": {
                 "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "25cc8726-62d3-49bb-8796-242cb2dce3f1",
+                "Loc_ID": 616,
+                "OBJECTID": 219,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "10903 Anderson Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Piedmont",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29673",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #73",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1172,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA923031",
+                "vtrcks_ID": 40211672
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.48640273294205,
+                "y": 34.783379816330466
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "530e3b2d-af9d-4d47-b55a-bee58ffc28c8",
@@ -6548,41 +5848,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "9169fd54-55ad-4c17-936a-080bdaf1c946",
-                "Loc_ID": 399,
-                "OBJECTID": 241,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "303 Village Square Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "Leesville",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29070",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Batesburg-Leesville",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1194,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932023",
-                "vtrcks_ID": 40208319
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.51950937910988,
-                "y": 33.91434575005252
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "feb20467-aa5f-4375-9440-0bc4d55bfa92",
@@ -6795,41 +6060,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "3295e3db-df9d-4dc4-b1ce-88aaaa592663",
-                "Loc_ID": 515,
-                "OBJECTID": 250,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "448 LakeShore Parkway, Suite 205",
-                "SiteAddressDetail": null,
-                "SiteCity": "Rock Hill",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29730",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Catawba Community Mental Health Center",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1203,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA946012",
-                "vtrcks_ID": 40203547
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.99808020362258,
-                "y": 34.93279730792398
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "10bcdb14-7ae1-457f-8808-ae0dc9c23422",
                 "Loc_ID": 450,
                 "OBJECTID": 251,
@@ -6968,106 +6198,106 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "2e137773-ff70-4e7a-ad07-f687414067b3",
-                "Loc_ID": 371,
-                "OBJECTID": 258,
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "deae1e6e-dbfd-4ee3-8f4e-ab8b5967872c",
+                "Loc_ID": 540,
+                "OBJECTID": 260,
                 "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "360 North Irby Street",
+                "Region": "Upstate",
+                "SiteAddress": "5251 Calhoun Memorial Hwy",
                 "SiteAddressDetail": null,
-                "SiteCity": "Florence",
+                "SiteCity": "Easley",
                 "SitePhone": "",
                 "SiteState": "SC",
-                "SiteZip": "29501",
-                "URL": null,
+                "SiteZip": "29642",
+                "URL": "http://www.ingles-markets.com/",
                 "V_Manufacturer": "MOD",
                 "layer_id": 0,
-                "loc_name": "HopeHealth",
-                "loc_type1": "Public health provider – Federally Qualified Health Center",
-                "ref_ID": 1211,
+                "loc_name": "Ingles Pharmacy #51",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1213,
                 "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA121061",
-                "vtrcks_ID": 40110880
+                "vfc_text": "SCA939009",
+                "vtrcks_ID": 40208138
             },
             "geometry": {
                 "spatialReference": {
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -79.76745487894868,
-                "y": 34.20202833084352
+                "x": -82.56072853376133,
+                "y": 34.824056389296175
             }
         },
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "e9afc1dd-3452-473e-a18e-0112365be576",
-                "Loc_ID": 761,
-                "OBJECTID": 262,
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "f94d68f4-f8ab-42e0-abe2-98840ada9236",
+                "Loc_ID": 624,
+                "OBJECTID": 261,
                 "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "214 DAWSON ROAD",
+                "Region": "Upstate",
+                "SiteAddress": "211 Ingles Place",
                 "SiteAddressDetail": null,
-                "SiteCity": "COLUMBIA ",
+                "SiteCity": "Seneca",
                 "SitePhone": "",
                 "SiteState": "SC",
-                "SiteZip": "29223",
-                "URL": null,
-                "V_Manufacturer": null,
+                "SiteZip": "29678",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - LAKES",
-                "loc_type1": "ESRD DIALYSIS FACILITY",
-                "ref_ID": 1215,
+                "loc_name": "Ingles Pharmacy #94",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1214,
                 "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940023",
-                "vtrcks_ID": 40208716
+                "vfc_text": "SCA937004",
+                "vtrcks_ID": 40208721
             },
             "geometry": {
                 "spatialReference": {
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -80.94013249784314,
-                "y": 34.07443076979041
+                "x": -82.93700721956463,
+                "y": 34.700568630318855
             }
         },
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "cb549713-e9a4-409d-9f14-bd5c03c9c389",
-                "Loc_ID": 758,
-                "OBJECTID": 264,
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "86134e97-77e2-4263-8478-1ab44ce54ec1",
+                "Loc_ID": 513,
+                "OBJECTID": 263,
                 "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "909 CAROLINA DR",
+                "Region": "Upstate",
+                "SiteAddress": "8650 Asheville Hwy",
                 "SiteAddressDetail": null,
-                "SiteCity": "LUGOFF",
+                "SiteCity": "Spartanburg",
                 "SitePhone": "",
                 "SiteState": "SC",
-                "SiteZip": "29078",
-                "URL": null,
-                "V_Manufacturer": null,
+                "SiteZip": "29303",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - LUGOFF",
-                "loc_type1": "ESRD DIALYSIS FACILITY",
-                "ref_ID": 1217,
+                "loc_name": "Ingles Pharmacy #37",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1216,
                 "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA928003",
-                "vtrcks_ID": 40208711
+                "vfc_text": "SCA942024",
+                "vtrcks_ID": 40208720
             },
             "geometry": {
                 "spatialReference": {
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -80.69873848940392,
-                "y": 34.21833411906874
+                "x": -81.96676494815,
+                "y": 34.98505897372928
             }
         },
         {
@@ -7523,41 +6753,6 @@
                 },
                 "x": -79.94437741030106,
                 "y": 32.78368591717066
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "3a49adbc-6b72-491e-8945-140e6c496f66",
-                "Loc_ID": 755,
-                "OBJECTID": 281,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2139 ADAMS GROVE ROAD",
-                "SiteAddressDetail": null,
-                "SiteCity": "COLUMBIA",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29203",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - SOUTH COLUMBIA",
-                "loc_type1": "ESRD DIALYSIS FACILITY",
-                "ref_ID": 1234,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940015",
-                "vtrcks_ID": 40206867
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.0253262768698,
-                "y": 34.02681513811109
             }
         },
         {
@@ -8020,41 +7215,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "ab9bd6f1-3483-4bba-b842-42b6f7344240",
-                "Loc_ID": 759,
-                "OBJECTID": 305,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "7 HAILE STREET",
-                "SiteAddressDetail": null,
-                "SiteCity": "CAMDEN",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29020",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - KERSHAW",
-                "loc_type1": "ESRD DIALYSIS FACILITY",
-                "ref_ID": 1258,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA528003",
-                "vtrcks_ID": 40118118
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.59682001296147,
-                "y": 34.2498123580433
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "ad2d40f6-df47-4af4-ae2a-7fbbdfc54470",
                 "Loc_ID": 824,
                 "OBJECTID": 306,
@@ -8118,76 +7278,6 @@
                 },
                 "x": -81.76832316457205,
                 "y": 33.52975371410031
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "1278bccd-9312-49d5-85cc-004ec2743fdc",
-                "Loc_ID": 277,
-                "OBJECTID": 308,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "124 A PROFESSIONAL PARK DR",
-                "SiteAddressDetail": null,
-                "SiteCity": "CONWAY",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29526",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "CMC PEDIATRICS -CONWAY",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": 1261,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA126158",
-                "vtrcks_ID": 40151834
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.00976483474403,
-                "y": 33.781999661996
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "93287b06-3cce-4a8d-bbb9-c3447e9d3956",
-                "Loc_ID": 754,
-                "OBJECTID": 309,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2125 ADAMS GROVE ROAD",
-                "SiteAddressDetail": null,
-                "SiteCity": "COLUMBIA",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29203",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRESENIUS KIDNEY CARE - COLUMBIA JV",
-                "loc_type1": "ESRD DIALYSIS FACILITY",
-                "ref_ID": 1262,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940014",
-                "vtrcks_ID": 40205593
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.02595906093575,
-                "y": 34.02702618032555
             }
         },
         {
@@ -8685,216 +7775,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "e75ec3f0-a9c5-46db-8b9a-6604daa97336",
-                "Loc_ID": 445,
-                "OBJECTID": 328,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "181-B E. Evans ST.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Florence",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29501",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Kidney Care Florence Medical Mile",
-                "loc_type1": "Outpatient dialysis clinic",
-                "ref_ID": 1281,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA921014",
-                "vtrcks_ID": 40205479
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.76774940329273,
-                "y": 34.197281885158645
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "6bc1f088-0839-4c69-8bcd-4be45737fcbc",
-                "Loc_ID": 394,
-                "OBJECTID": 330,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "131 Whispering Winds Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "Lexington",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29072",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Lexington",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1283,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932021",
-                "vtrcks_ID": 40208155
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.2143341761161,
-                "y": 33.97598358372886
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "f5209016-0b9a-4581-a38c-b8b0e84774eb",
-                "Loc_ID": 429,
-                "OBJECTID": 331,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "904 N JEFFERIES BLVD ",
-                "SiteAddressDetail": null,
-                "SiteCity": "Walterboro",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29488",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Walterboro",
-                "loc_type1": "ESRD Dialysis Facility",
-                "ref_ID": 1284,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA915003",
-                "vtrcks_ID": 40208164
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.66713698390902,
-                "y": 32.91518565765858
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "681ca4dd-769f-48bb-a454-57470889c2e6",
-                "Loc_ID": 454,
-                "OBJECTID": 332,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "406 S. Church Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Florence",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29506",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care Church Street",
-                "loc_type1": "Outpatient dialysis center ",
-                "ref_ID": 1285,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA921015",
-                "vtrcks_ID": 40205594
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.76115907580578,
-                "y": 34.19153106816805
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "5592fb73-8c03-4d63-865c-b57641d4ac64",
-                "Loc_ID": 465,
-                "OBJECTID": 333,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "1304 Hwy 301 South",
-                "SiteAddressDetail": null,
-                "SiteCity": "Dillon",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29536",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care Dillon",
-                "loc_type1": "Outpatient dialysis center ",
-                "ref_ID": 1286,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA917005",
-                "vtrcks_ID": 40205572
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.37768039659346,
-                "y": 34.40415775365216
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "9d17cfdb-578f-4b97-81ab-fc6e82ca7635",
-                "Loc_ID": 452,
-                "OBJECTID": 335,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "109 Merritt Court",
-                "SiteAddressDetail": null,
-                "SiteCity": "marion",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29571",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care Marion",
-                "loc_type1": "Outpatient dialysis center ",
-                "ref_ID": 1288,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA934003",
-                "vtrcks_ID": 40205592
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.36888970870018,
-                "y": 34.1825805800039
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "c41908ad-1918-4f7a-9c83-c3430a3bbe5b",
                 "Loc_ID": 404,
                 "OBJECTID": 338,
@@ -9098,6 +7978,496 @@
                 },
                 "x": -80.13540784305337,
                 "y": 33.040490754354096
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "32cd09bb-953c-467e-85ba-6dcd5ceb5212",
+                "Loc_ID": 531,
+                "OBJECTID": 346,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "8004 Warren H Abernathy Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29301",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #204",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1299,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA942018",
+                "vtrcks_ID": 40207139
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.00453757601616,
+                "y": 34.93640389879579
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "62b6fa8d-1a59-4afc-b67b-ebd1efec60ea",
+                "Loc_ID": 589,
+                "OBJECTID": 347,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "901 E Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Laurens",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29360",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #044",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1300,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA930004",
+                "vtrcks_ID": 40207145
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.98413819416663,
+                "y": 34.49491290820714
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "52d57e30-baac-4b02-bc80-c38e083a165e",
+                "Loc_ID": 570,
+                "OBJECTID": 348,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "426 S. Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Belton",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29627",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #16",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1301,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA904010",
+                "vtrcks_ID": 40207135
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.4841078212587,
+                "y": 34.51604956385211
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "644790f0-06b0-429f-a7d4-d5868edf46fe",
+                "Loc_ID": 573,
+                "OBJECTID": 349,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "502A Ann St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Pickens",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29671",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #17",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1302,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA939006",
+                "vtrcks_ID": 40207136
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.71037919764137,
+                "y": 34.89290907402267
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "158825c3-d110-4297-96b0-433268c73457",
+                "Loc_ID": 519,
+                "OBJECTID": 350,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "2120 Boiling Springs Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29316",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #201",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1303,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA942019",
+                "vtrcks_ID": 40207137
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.96324243832527,
+                "y": 35.021975561109684
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "8ba1e17c-4a75-4452-b1a3-99b1ba9da1cd",
+                "Loc_ID": 520,
+                "OBJECTID": 351,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "2375 Chesnee Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29303",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #202",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1304,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA942020",
+                "vtrcks_ID": 40207138
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.89728573435838,
+                "y": 35.0265249307912
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "c8f4e115-0ff6-46a4-803b-1e8f885b4364",
+                "Loc_ID": 575,
+                "OBJECTID": 352,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "1851 Hwy 14 E",
+                "SiteAddressDetail": null,
+                "SiteCity": "Landrum",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29356",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #205",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1305,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA942021",
+                "vtrcks_ID": 40207140
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.16140000393045,
+                "y": 35.18298204003423
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "758658ac-5076-4301-beef-6bb2216ff793",
+                "Loc_ID": 517,
+                "OBJECTID": 353,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "1524 Locust Hill Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greer",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29651",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #208",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1306,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA923021",
+                "vtrcks_ID": 40207141
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.2724997189207,
+                "y": 34.94817985270487
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "34e951c7-a4c0-4099-b6c7-be093d27d3ad",
+                "Loc_ID": 529,
+                "OBJECTID": 354,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "1900 North Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Anderson",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29621",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #239",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1307,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA904011",
+                "vtrcks_ID": 40207142
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.65413497072848,
+                "y": 34.52116027390622
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "83f638e3-128f-4c31-91ca-01fa9829f4d2",
+                "Loc_ID": 494,
+                "OBJECTID": 355,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "2404 N Highway 81",
+                "SiteAddressDetail": null,
+                "SiteCity": "Anderson",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29621",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #240",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1308,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA904012",
+                "vtrcks_ID": 40207143
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.62718716330835,
+                "y": 34.560249121968184
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "2c7d6943-3d89-4895-a12f-b0ae5c0c044b",
+                "Loc_ID": 611,
+                "OBJECTID": 356,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "410 Pelzer Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Easley",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29642",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #251",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1309,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA939007",
+                "vtrcks_ID": 40207144
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.60177669763124,
+                "y": 34.8026580378712
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "f1c4368c-cb99-4203-93a4-f21cb4192050",
+                "Loc_ID": 526,
+                "OBJECTID": 357,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "429 East Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Liberty",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29657",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #253",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1310,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA939008",
+                "vtrcks_ID": 40207272
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.69023610424387,
+                "y": 34.791110528888396
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "1105c861-f675-46e5-b93f-9e365ec66738",
+                "Loc_ID": 635,
+                "OBJECTID": 358,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "1335 Stallings Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29609",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #32",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1311,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA923023",
+                "vtrcks_ID": 40207273
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.34881303511952,
+                "y": 34.90406207589956
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "554a900e-9fb0-4f99-b7ec-9a3de8dd3942",
+                "Loc_ID": 528,
+                "OBJECTID": 359,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "4396 Hwy. 24",
+                "SiteAddressDetail": null,
+                "SiteCity": "Anderson",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29626",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #39",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1312,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA904013",
+                "vtrcks_ID": 40207274
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.75823583678005,
+                "y": 34.510933660697674
             }
         },
         {
@@ -10008,41 +9378,6 @@
                 },
                 "x": -80.95171003193724,
                 "y": 34.29867450678
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "25da2fdd-79f6-45cd-8c48-c59cdd447e85",
-                "Loc_ID": 784,
-                "OBJECTID": 391,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "1530 McClure Court",
-                "SiteAddressDetail": null,
-                "SiteCity": "Florence",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29505",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Eastern Carolina Pediatric Associates",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": 1345,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA121115",
-                "vtrcks_ID": 40056771
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.75128393810837,
-                "y": 34.16205810989197
             }
         },
         {
@@ -11450,41 +10785,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "05ae445d-1a49-4912-a467-29ee01225683",
-                "Loc_ID": 751,
-                "OBJECTID": 453,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1706 St. Julian Place",
-                "SiteAddressDetail": null,
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29204",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolinas Dermatology and Plastic Surgery",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1407,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940012",
-                "vtrcks_ID": 40203548
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.0014075310956,
-                "y": 34.016333694069885
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "9ae673f7-6bc6-4916-bbb8-3260b8f43e9d",
                 "Loc_ID": 474,
                 "OBJECTID": 454,
@@ -11863,41 +11163,6 @@
                 },
                 "x": -78.8932129658167,
                 "y": 34.057757448803955
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "1545d6e4-73aa-4415-94fc-45ffa1ee156a",
-                "Loc_ID": 509,
-                "OBJECTID": 467,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1885 Rifle Range Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Mt. Pleasant",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29464",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "FRANKE HEALTH CARE CENTER",
-                "loc_type1": "Hospice",
-                "ref_ID": 1421,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910019",
-                "vtrcks_ID": 40203350
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.8233499378972,
-                "y": 32.82051685884335
             }
         },
         {
@@ -12603,41 +11868,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "0be1120b-e6b4-4481-9fbc-98330548459e",
-                "Loc_ID": 117,
-                "OBJECTID": 496,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "457-B HWY 123 BYPASS",
-                "SiteAddressDetail": null,
-                "SiteCity": "Seneca",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29678",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Blue Ridge Pediatrics LLC",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": 1450,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA137106",
-                "vtrcks_ID": 40056990
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.94052594209222,
-                "y": 34.66739398116823
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5a109b40-af78-4a31-b5b8-a48ef87c511d",
@@ -12955,41 +12185,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "9e2246a3-4e62-43b3-918f-8ee0e2dea9bf",
-                "Loc_ID": 409,
-                "OBJECTID": 508,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "201 Button Hall Ave",
-                "SiteAddressDetail": null,
-                "SiteCity": "Goose Creek",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29445",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "City of Goose Creek Fire Department",
-                "loc_type1": "Fire Department",
-                "ref_ID": 1462,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA908008",
-                "vtrcks_ID": 40199869
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.03542773066965,
-                "y": 33.00399606123699
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "f44a342b-cf01-47a6-aa6b-65cc0a6d077a",
                 "Loc_ID": 791,
                 "OBJECTID": 509,
@@ -13130,41 +12325,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "68e9d894-2be2-4916-82f8-75d5a09e1c37",
-                "Loc_ID": 302,
-                "OBJECTID": 514,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "51 11th Avenue",
-                "SiteAddressDetail": null,
-                "SiteCity": "Aynor",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29511",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "CMC Primary Care (CPG Family Medicine)",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 1468,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA126147",
-                "vtrcks_ID": 40106976
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.20041136257817,
-                "y": 33.99242995030204
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "1feeb0a6-fad7-4ff3-94e2-ddeea0b2d5a5",
                 "Loc_ID": 303,
                 "OBJECTID": 515,
@@ -13193,41 +12353,6 @@
                 },
                 "x": -78.96165909098039,
                 "y": 33.7619326787181
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "219fdcf0-9484-4147-a10a-3912c3939b38",
-                "Loc_ID": 285,
-                "OBJECTID": 516,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "4022 Postal Way",
-                "SiteAddressDetail": null,
-                "SiteCity": "Myrtle Beach",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29579",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "CMC Primary Care Carolina Forest",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 1470,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA126138",
-                "vtrcks_ID": 40056885
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -78.96130886480057,
-                "y": 33.76122250123865
             }
         },
         {
@@ -13298,41 +12423,6 @@
                 },
                 "x": -79.00564518061401,
                 "y": 33.67698879020446
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "69b7ffa3-fb63-45ae-bcd1-37fcd36f5448",
-                "Loc_ID": 322,
-                "OBJECTID": 519,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "2376 Cypress Circle",
-                "SiteAddressDetail": "Suite 200",
-                "SiteCity": "Conway",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29526",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "CMC Women's Health - Conway",
-                "loc_type1": "Medical practice – OB/GYN",
-                "ref_ID": 1473,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA926001",
-                "vtrcks_ID": 40187657
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.00236854956398,
-                "y": 33.78453205621162
             }
         },
         {
@@ -14318,6 +13408,41 @@
         {
             "attributes": {
                 "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5ebf84e1-4948-446c-bea4-50c570642b9d",
+                "Loc_ID": 48,
+                "OBJECTID": 578,
+                "Phone_Sec": null,
+                "Region": "Lowcountry",
+                "SiteAddress": "2000 Hospital Drive",
+                "SiteAddressDetail": null,
+                "SiteCity": "Mt. Pleasant",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29464",
+                "URL": "https://www.eastcoopermedctr.com/our-response-to-covid-19/covid-19-vaccine-request",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "East Cooper Medical Center (East Cooper Community Hospital)",
+                "loc_type1": "Hospital",
+                "ref_ID": 1532,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA910010",
+                "vtrcks_ID": 40189572
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.85078447319938,
+                "y": 32.8211816309406
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d2e9da5f-68ed-4e56-97bb-f688682449ab",
@@ -14808,181 +13933,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "133e773e-937a-4526-9340-027decab3514",
-                "Loc_ID": 630,
-                "OBJECTID": 601,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "5707 Willowbrook Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Fort Lawn",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29714",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care",
-                "loc_type1": "Dialysis Provider",
-                "ref_ID": 1555,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA912001",
-                "vtrcks_ID": 40192691
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.8975557642791,
-                "y": 34.7006885232546
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "3fd2d1b8-940f-4a42-86de-cddb672fec70",
-                "Loc_ID": 395,
-                "OBJECTID": 602,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "416 E. Calhoun St.",
-                "SiteAddressDetail": "Suite A",
-                "SiteCity": "Anderson",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29621",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care Anderson, LLC d/b/a Fresenius Kidney Care Anderson",
-                "loc_type1": "ESRD Dialysis Facility",
-                "ref_ID": 1556,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA504005",
-                "vtrcks_ID": 40117866
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.64559433787764,
-                "y": 34.50907803194019
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "eb6b3b4c-5522-41e8-855b-4f27cad5e240",
-                "Loc_ID": 627,
-                "OBJECTID": 603,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "535 River Crossing Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "Fort Mill",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29745",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care Fort Mill",
-                "loc_type1": "Dialysis Provider",
-                "ref_ID": 1557,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA946009",
-                "vtrcks_ID": 40195375
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.97310366824513,
-                "y": 34.998165524751016
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "e911442f-afc0-49c2-a055-dead443ef76f",
-                "Loc_ID": 389,
-                "OBJECTID": 605,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "25 Hospital Center Blvd",
-                "SiteAddressDetail": "Medical Pavilion Ste 108",
-                "SiteCity": "Hilton Head Island",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29926",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care Hilton Head",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1559,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA107115",
-                "vtrcks_ID": 40117807
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.71422706366627,
-                "y": 32.22336107306512
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "750bae01-1e38-4791-8d82-8a1fb3e7d1d5",
-                "Loc_ID": 628,
-                "OBJECTID": 611,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1440 East Alexander  Love Highway",
-                "SiteAddressDetail": null,
-                "SiteCity": "York",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29745",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care York County",
-                "loc_type1": "Dialysis Provider",
-                "ref_ID": 1565,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA946008",
-                "vtrcks_ID": 40192678
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.20517303467767,
-                "y": 34.99026049503999
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "74c04ce9-c7df-449a-af6a-ebf645c4c988",
@@ -15433,6 +14383,146 @@
                 },
                 "x": -82.8353457376503,
                 "y": 34.68720605330344
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "8c0b2843-9c14-4f88-a7fd-37858d6b2339",
+                "Loc_ID": 578,
+                "OBJECTID": 631,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "4600 HWY 9",
+                "SiteAddressDetail": null,
+                "SiteCity": "Inman",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29349",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #200",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1585,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA942004",
+                "vtrcks_ID": 40190985
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.99859145736912,
+                "y": 35.06450371965451
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "2f06fed6-e74d-4cca-852b-29748b46c1c0",
+                "Loc_ID": 496,
+                "OBJECTID": 632,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "2000 South Pine St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29302",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #45",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1586,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA942008",
+                "vtrcks_ID": 40192672
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.89344478793504,
+                "y": 34.93347983692013
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "9f3dcaa5-f357-4b3b-bb0f-646d6a7ba251",
+                "Loc_ID": 507,
+                "OBJECTID": 633,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "1500 Geer Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Travelers Rest",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29690",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #206",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1587,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA923013",
+                "vtrcks_ID": 40192671
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.46804271633175,
+                "y": 34.992933486005086
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "0489afdc-7c7c-4e18-8c6f-a5139d863fe7",
+                "Loc_ID": 530,
+                "OBJECTID": 634,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "2120 East Main ST",
+                "SiteAddressDetail": null,
+                "SiteCity": "Duncan",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29334",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #93",
+                "loc_type1": "Pharmacy – chain",
+                "ref_ID": 1588,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA942009",
+                "vtrcks_ID": 40192673
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.0712631543231,
+                "y": 34.88682692076128
             }
         },
         {
@@ -18275,41 +17365,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "77f53940-b5b7-43b8-8a56-86fa14a8c334",
-                "Loc_ID": 316,
-                "OBJECTID": 742,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "805 Pamplico Highway",
-                "SiteAddressDetail": "3rd Floor South Tower",
-                "SiteCity": "Florence",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29505",
-                "URL": null,
-                "V_Manufacturer": "PFR",
-                "layer_id": 0,
-                "loc_name": "Regency Hospital of Florence",
-                "loc_type1": "Hospital",
-                "ref_ID": 1696,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA521016",
-                "vtrcks_ID": 40118023
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.75205798225267,
-                "y": 34.16009186863772
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "a4eb9160-3d6f-4872-a1cf-2e9e1afa98e1",
                 "Loc_ID": 93,
                 "OBJECTID": 743,
@@ -19288,41 +18343,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "510c8f3b-cb92-4c99-a6cb-aec2ea77d431",
-                "Loc_ID": 148,
-                "OBJECTID": 777,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "166 Stoneridge Dr.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29210",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "South Carolina Oncology Associates",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1731,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940004",
-                "vtrcks_ID": 40186969
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.07297973505763,
-                "y": 34.01442893675335
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": "Email-Ttyer@uspi.com",
                 "GlobalID": "e2a28e67-98ef-4a20-b68e-d90ddbdf2d52",
@@ -19458,41 +18478,6 @@
                 },
                 "x": -81.52757342605798,
                 "y": 33.91762624529866
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "c220175c-8624-47c3-81ca-3cd90d05c71e",
-                "Loc_ID": 114,
-                "OBJECTID": 782,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "206 Centre South Blvd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Aiken",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29803",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Southside Pediatrics of Aiken, LLC",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": 1736,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA102101",
-                "vtrcks_ID": 40056532
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.73823142433741,
-                "y": 33.512997119630995
             }
         },
         {
@@ -20410,41 +19395,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "35d6f31f-0c34-4af8-b723-edb8cd71bc05",
-                "Loc_ID": 441,
-                "OBJECTID": 815,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "910 Cook Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Orangeburg",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29118",
-                "URL": "http:\\\\www.tccada.com\\",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Tri-County Commission on Alcohol and Drug Abuse",
-                "loc_type1": "Hospital",
-                "ref_ID": 1769,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA254073",
-                "vtrcks_ID": 40153054
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.82213721681558,
-                "y": 33.53597000488929
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "0cfe0af4-adb8-4508-a785-dddf6f72b03f",
                 "Loc_ID": 569,
                 "OBJECTID": 816,
@@ -20823,41 +19773,6 @@
                 },
                 "x": -80.70664529704135,
                 "y": 32.217754093719236
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "3deb4aa1-0a51-4eca-80bd-c02ab2165081",
-                "Loc_ID": 49,
-                "OBJECTID": 828,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1124 Sam Rittenberg Blvd.",
-                "SiteAddressDetail": "Ste 1",
-                "SiteCity": "Charleston",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29407",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "W.M. Woodward, M.D., P.A. dba Charleston Pain and Rehabilitation Center",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 1782,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA510079",
-                "vtrcks_ID": 40117981
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.99317244575519,
-                "y": 32.82036860611362
             }
         },
         {
@@ -25275,41 +24190,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "8544174b-d325-49c8-bf0f-53650554bb91",
-                "Loc_ID": 1160,
-                "OBJECTID": 975,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1795 Dr. Frank Gaston Blvd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Rock Hill",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29732",
-                "URL": null,
-                "V_Manufacturer": "MOD",
-                "layer_id": 0,
-                "loc_name": "Encompass Health Rehab of RockHill",
-                "loc_type1": "Health center",
-                "ref_ID": 1931,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA546014",
-                "vtrcks_ID": 40118280
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.05244758220897,
-                "y": 34.95871022874712
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "5822a458-e585-4fe6-87a9-68639bb8a38d",
                 "Loc_ID": 1267,
                 "OBJECTID": 976,
@@ -27130,41 +26010,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "7b963d5c-11fc-4be0-8158-6c11b0c58ce8",
-                "Loc_ID": 1329,
-                "OBJECTID": 1045,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1311 Roberts St",
-                "SiteAddressDetail": "",
-                "SiteCity": "Camden ",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29020",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Kershaw Health Karesh LTC",
-                "loc_type1": "Long-term care – nursing home, skilled nursing facility, federally certified",
-                "ref_ID": 2001,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA928005",
-                "vtrcks_ID": 40234163
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.58996195787552,
-                "y": 34.252874807729654
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "c1b871cb-ce52-4471-b8e4-106d1a1af4f9",
                 "Loc_ID": 927,
                 "OBJECTID": 1048,
@@ -27340,41 +26185,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "7cc84dc3-a29d-4979-a0d4-e088b43bb40d",
-                "Loc_ID": 1051,
-                "OBJECTID": 1060,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "955 West Wade Hampton Blvd",
-                "SiteAddressDetail": "Suite 3A",
-                "SiteCity": "Greer",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29650",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Wren Hospice",
-                "loc_type1": "Hospice",
-                "ref_ID": 2016,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA923043",
-                "vtrcks_ID": 40231082
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.25017220392499,
-                "y": 34.94404041622806
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "6751a141-d8b5-49d5-99cb-e006c3a7436c",
                 "Loc_ID": 921,
                 "OBJECTID": 1061,
@@ -27443,112 +26253,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "0394657f-e1bb-4787-99d2-cac0f4a897ac",
-                "Loc_ID": 1258,
-                "OBJECTID": 1065,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "103 AB Jacks Road",
-                "SiteAddressDetail": "",
-                "SiteCity": "Clinton ",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29365",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Clinton Dialysis ",
-                "loc_type1": "Dialysis ",
-                "ref_ID": 2021,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA930008",
-                "vtrcks_ID": 40234171
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.90824894656231,
-                "y": 34.46874250991141
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "37711dd4-c658-46b0-8786-e56e5579a7ad",
-                "Loc_ID": 1235,
-                "OBJECTID": 1067,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "537 US 123",
-                "SiteAddressDetail": "",
-                "SiteCity": "Seneca",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29678",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Keowee Dialysis Center ",
-                "loc_type1": "Dialysis",
-                "ref_ID": 2023,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA937008",
-                "vtrcks_ID": 40231451
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.9541685494126,
-                "y": 34.69733758920097
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "dfdd247c-3f62-45c3-8dc6-c3b198a7dced",
-                "Loc_ID": 943,
-                "OBJECTID": 1070,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "7001 St. Andrews Rd",
-                "SiteAddressDetail": "A11",
-                "SiteCity": "Columbia",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29212",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Physicians Weight Loss Center",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 2026,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932036",
-                "vtrcks_ID": 40232611
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.17840639229769,
-                "y": 34.07555670714072
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2c41e533-7d3e-4759-9490-5c23e5c76a16",
                 "Loc_ID": 964,
@@ -28003,76 +26708,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "9ce73b74-c2ad-48a7-852d-92583c119964",
-                "Loc_ID": 1176,
-                "OBJECTID": 1091,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "250 Northgrove Medical Park Drive",
-                "SiteAddressDetail": "",
-                "SiteCity": "Spartanburg",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29303",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Spartanburg and Pelham OB-GYN",
-                "loc_type1": "Medical practice – OB/GYN",
-                "ref_ID": 2047,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA542017",
-                "vtrcks_ID": 40118255
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.96676494815,
-                "y": 34.98505897372928
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "fd4d8918-f851-48e2-bbc4-f506aecc5ac3",
-                "Loc_ID": 1255,
-                "OBJECTID": 1093,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "2030 North Church Street Place",
-                "SiteAddressDetail": "",
-                "SiteCity": "Spartanburg",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29303",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Lung and Chest Medical Associates",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2049,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA542005",
-                "vtrcks_ID": 40118245
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.94351486695075,
-                "y": 34.974642056720654
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3528b5d0-813a-45f2-a301-1e42c806c033",
@@ -28313,41 +26948,6 @@
                 },
                 "x": -81.17668554360677,
                 "y": 34.05573201878366
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "7d6ec695-acc5-4d73-b218-8ebd5036a47c",
-                "Loc_ID": 1343,
-                "OBJECTID": 1104,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "5600 Virginia Ave.",
-                "SiteAddressDetail": "",
-                "SiteCity": "North Charleston",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29406",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Cerner at WestRock",
-                "loc_type1": "Health center – occupational",
-                "ref_ID": 2060,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910063",
-                "vtrcks_ID": 40233213
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.97106905593137,
-                "y": 32.898894374764836
             }
         },
         {
@@ -28670,41 +27270,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "7ae8a456-fd44-490e-ad98-9135889c22b4",
-                "Loc_ID": 1349,
-                "OBJECTID": 1123,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1053 Center Street",
-                "SiteAddressDetail": "",
-                "SiteCity": "West Columbia ",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29169",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "SC House Calls ",
-                "loc_type1": "Commercial vaccination service provider",
-                "ref_ID": 2079,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932045",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.07081686404291,
-                "y": 33.98865691030744
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "cc6b7cf7-57d3-407a-a6c1-1eb6aeda49c8",
                 "Loc_ID": 929,
                 "OBJECTID": 1124,
@@ -28943,41 +27508,6 @@
                 },
                 "x": -80.85493605171848,
                 "y": 34.956908341896735
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "1996927c-9d6d-4ef4-97fc-bd8af7e4bc64",
-                "Loc_ID": 500,
-                "OBJECTID": 1150,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "100 Finley Road",
-                "SiteAddressDetail": "",
-                "SiteCity": "Columbia",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29203",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Rice Estates",
-                "loc_type1": "Long-term care – combination (e.g., assisted living and nursing home in same facility)",
-                "ref_ID": 2106,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940059",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.9648067043135,
-                "y": 34.107031541960055
             }
         },
         {
@@ -29685,41 +28215,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "e07dc953-2182-45c0-9f7c-7c5096f4da57",
-                "Loc_ID": 983,
-                "OBJECTID": 1207,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2008 Hawkins Street",
-                "SiteAddressDetail": "",
-                "SiteCity": "Newberry",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29108",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Newberry County Disabilities and Special Needs Board",
-                "loc_type1": "Long-term care – intellectual or developmental disability",
-                "ref_ID": 2163,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA936009",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.59949841819503,
-                "y": 34.260924103827904
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "44b8585f-f6b4-4e94-a1e3-37769254eba6",
                 "Loc_ID": 1256,
                 "OBJECTID": 1208,
@@ -29748,41 +28243,6 @@
                 },
                 "x": -82.40476741701275,
                 "y": 34.83932076673574
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "bc266ea9-2d0d-4236-97d6-09d912b5bb61",
-                "Loc_ID": 1356,
-                "OBJECTID": 1209,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "10263 Atomic Road",
-                "SiteAddressDetail": "",
-                "SiteCity": "North Augusta",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29841",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "North Augusta Dialysis Center, LLC",
-                "loc_type1": "Dialysis",
-                "ref_ID": 2165,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.95171918672872,
-                "y": 33.49428365778158
             }
         },
         {
@@ -30840,41 +29300,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "0cbdadf1-5f20-40e0-b958-81b825a6dd4a",
-                "Loc_ID": 1396,
-                "OBJECTID": 1264,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1470 Ben Sawyer Blvd, Suite 8",
-                "SiteAddressDetail": "",
-                "SiteCity": "Mt. Pleasant",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29464",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Mobile Diagnostics LLC",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2220,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910078",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.85233452790033,
-                "y": 32.79020054174589
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "e16b588f-7b5a-4f3c-8cd4-9cf54a82e850",
                 "Loc_ID": 1378,
                 "OBJECTID": 1266,
@@ -31043,41 +29468,6 @@
                 },
                 "x": -82.35641080972289,
                 "y": 34.83803317994443
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "df856b42-3e57-4d01-9314-76de611259f9",
-                "Loc_ID": 1404,
-                "OBJECTID": 1274,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "2099 S. Pine St",
-                "SiteAddressDetail": "Suite E",
-                "SiteCity": "Spartanburg",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29302",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "The Upstate Center for Addiction Treatment",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2230,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA942035",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.89172344876403,
-                "y": 34.932684205166765
             }
         },
         {
@@ -31498,6 +29888,41 @@
                 },
                 "x": -79.80928304727001,
                 "y": 33.65621875275275
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "also accept walk-ins at all locations",
+                "GlobalID": "6e484d59-eed6-47f9-9005-c62c4ef37601",
+                "Loc_ID": 590,
+                "OBJECTID": 1291,
+                "Phone_Sec": null,
+                "Region": "Upstate",
+                "SiteAddress": "180 Scenic Plaza Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "West Union",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29696",
+                "URL": "http://www.ingles-markets.com/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "Ingles Pharmacy #49",
+                "loc_type1": "Pharmacy - chain",
+                "ref_ID": 2248,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA937002",
+                "vtrcks_ID": 40207275
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -83.04602064202481,
+                "y": 34.754758116909784
             }
         },
         {
@@ -32308,7 +30733,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bf7e6e02-8313-4470-8a24-2ed1ca839e37",
                 "Loc_ID": null,
@@ -33500,41 +31925,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "775d945b-ca4c-4467-9cfd-23a7f3ebc9c3",
-                "Loc_ID": 1302,
-                "OBJECTID": 3307,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "500 Pamplico Hwy",
-                "SiteAddressDetail": "Suite D",
-                "SiteCity": "Florence",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29505",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Amedisys Hospice of Florence",
-                "loc_type1": "Home health care provider",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA921025",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.75908347699965,
-                "y": 34.16126770900058
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "b6c47ceb-1e11-4d74-b513-fe9edafeedb8",
                 "Loc_ID": 1441,
                 "OBJECTID": 3309,
@@ -33773,41 +32163,6 @@
                 },
                 "x": -82.11047727299967,
                 "y": 34.86400113600047
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "491dca6e-389f-48f0-877a-bd701ae33529",
-                "Loc_ID": 467,
-                "OBJECTID": 3317,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "1104 Frank Evans Way",
-                "SiteAddressDetail": null,
-                "SiteCity": "Bennettsville",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29512",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Bennettsville",
-                "loc_type1": "Outpatient Dialysis Center",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA935005",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.70062800199958,
-                "y": 34.63458656300054
             }
         },
         {
@@ -34298,76 +32653,6 @@
                 },
                 "x": -79.88612815799968,
                 "y": 33.66809011600054
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "2ea4ffe0-232d-4104-b746-c02f842893c5",
-                "Loc_ID": 1451,
-                "OBJECTID": 3333,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "105 Central Ave ",
-                "SiteAddressDetail": "Suite 200 A",
-                "SiteCity": "Goose Creek",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29445",
-                "URL": null,
-                "V_Manufacturer": "JJ",
-                "layer_id": 0,
-                "loc_name": "Universal Primary Care & Aesthetics ",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA908021",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.04240159099959,
-                "y": 33.00874055200046
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "e59cc106-562d-4990-bd86-2428d9f0d394",
-                "Loc_ID": 1317,
-                "OBJECTID": 3334,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "4731 Highway 17 Bypass South",
-                "SiteAddressDetail": null,
-                "SiteCity": "Murrells Inlet",
-                "SitePhone": "843-357-0369",
-                "SiteState": "SC",
-                "SiteZip": "29576",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "SC Pain and Spine Specialists, LLC",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA922017",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.02041890899966,
-                "y": 33.60127272700049
             }
         },
         {
@@ -43300,76 +41585,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "4ab73fad-5962-4958-b9e3-551ddaf505b7",
-                "Loc_ID": 647,
-                "OBJECTID": 5603,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "501 Healthway Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "Chester",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29706",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Chester",
-                "loc_type1": "Dialysis Provider",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA912007",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.20833572326967,
-                "y": 34.68947790054284
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "3ef131ba-c885-4dd3-8a51-a715c599ad9a",
-                "Loc_ID": 631,
-                "OBJECTID": 5604,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1560 Healthcare Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "Rock Hill",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29730",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Rock Hill",
-                "loc_type1": "Dialysis Provider",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA946030",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.04900794120175,
-                "y": 34.95087335496254
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "621218ff-0c47-4f0b-afa6-048d537b56c7",
                 "Loc_ID": 1500,
                 "OBJECTID": 5605,
@@ -43503,41 +41718,6 @@
                 },
                 "x": -81.04224617194569,
                 "y": 34.95027742034159
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "9e328712-7cd4-42c9-b7d1-49499d90319d",
-                "Loc_ID": 1521,
-                "OBJECTID": 5609,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "1515 Hwy 246 south ",
-                "SiteAddressDetail": null,
-                "SiteCity": "Greenwood",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29646",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Ascend Performance Materials",
-                "loc_type1": "Health center – occupational",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.05412135914207,
-                "y": 34.23125917217334
             }
         },
         {
@@ -49423,8 +47603,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "Peakpharmacy@yahoo.com",
                 "GlobalID": "9b826c52-d2ff-4e17-ba92-fb9c06e7847d",
                 "Loc_ID": 1572,
                 "OBJECTID": 12925,
@@ -50258,41 +48438,6 @@
                 },
                 "x": -81.03421287299955,
                 "y": 34.00326125800058
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "eb19595d-d7c8-405c-8e1a-0b29d474be2c",
-                "Loc_ID": 1561,
-                "OBJECTID": 12949,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "105 Industrial Way",
-                "SiteAddressDetail": null,
-                "SiteCity": "Darlington",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29532",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Eastern Carolina Pediatric Associates- Darlington",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA116100",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.92862663299962,
-                "y": 34.298778672000424
             }
         },
         {
@@ -53695,41 +51840,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "0098e4bd-a6d7-4b2b-bf0f-9a4a272299f2",
-                "Loc_ID": 1578,
-                "OBJECTID": 19376,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "1075 North Frasier Street",
-                "SiteAddressDetail": " ",
-                "SiteCity": "Georgetown",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29440",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Georgetown Physician Associates, LLC",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA122104",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.28919669577073,
-                "y": 33.387081003085996
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "3e4185d2-9b5f-4210-a684-ca16337492fb",
                 "Loc_ID": 1577,
                 "OBJECTID": 19378,
@@ -53828,41 +51938,6 @@
                 },
                 "x": -79.92383283491722,
                 "y": 33.40750312916617
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "cca5ba04-8020-4d2d-8d52-65648fb6fed6",
-                "Loc_ID": 1583,
-                "OBJECTID": 19381,
-                "Phone_Sec": null,
-                "Region": "Low Country",
-                "SiteAddress": "1470 Tobias Gadson Blvd.",
-                "SiteAddressDetail": "Suite 100 A",
-                "SiteCity": "Charleston",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29407",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Koniver Wellness, LLC",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910093",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.02963597911707,
-                "y": 32.80956284764744
             }
         },
         {
@@ -54360,41 +52435,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "a45c1a8e-016c-4317-9a70-11957834554c",
-                "Loc_ID": 1600,
-                "OBJECTID": 19397,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "4320 Holmestown Road",
-                "SiteAddressDetail": " ",
-                "SiteCity": "Myrtle Beach",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29588",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Tidleands Health Family Medicine Holmestown Road",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA126156",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.02720649498372,
-                "y": 33.6306557899328
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "755a4d3f-1dd9-43f0-9837-9c12ff3101a4",
                 "Loc_ID": 1601,
                 "OBJECTID": 19398,
@@ -54813,8 +52853,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "nursecfm9690@gmail.com",
                 "GlobalID": "938261d3-f043-41f8-87c1-ba97f2c64ea1",
                 "Loc_ID": 1629,
                 "OBJECTID": 19414,
@@ -54827,7 +52867,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29325",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Carolina Family Medicine",
                 "loc_type1": "Medical practice – family medicine",
@@ -55403,41 +53443,6 @@
                 },
                 "x": -80.96170539318933,
                 "y": 34.06598367630562
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "574228f6-37b6-4333-867f-9cc325485fcb",
-                "Loc_ID": 416,
-                "OBJECTID": 19438,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "215 N BROOKS ST",
-                "SiteAddressDetail": " ",
-                "SiteCity": "Kingstree",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29556",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Fresenius Medical Care - Kingstree",
-                "loc_type1": "ESRD Dialysis Facility",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA945007",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.82458413684833,
-                "y": 33.66756108797398
             }
         },
         {
@@ -56523,41 +54528,6 @@
                 },
                 "x": -82.40356662399955,
                 "y": 34.83971474300051
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "a66b8378-620d-4e28-b939-586a07617c6a",
-                "Loc_ID": 1606,
-                "OBJECTID": 23446,
-                "Phone_Sec": null,
-                "Region": null,
-                "SiteAddress": "4421 Highway 81 North",
-                "SiteAddressDetail": null,
-                "SiteCity": "Anderson",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29621",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Robert Bosch, LLC",
-                "loc_type1": "Health center - occupational",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA904032",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.60724258399966,
-                "y": 34.62572549600054
             }
         },
         {
@@ -59890,41 +57860,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "55ce62d2-0b0f-458c-862b-ad7cc2b73b86",
-                "Loc_ID": 1686,
-                "OBJECTID": 27501,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "139 Lila Doyle Dr. ",
-                "SiteAddressDetail": null,
-                "SiteCity": "Seneca",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29672",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Prisma Health Center for Family Medicine - Oconee",
-                "loc_type1": "Medical practice - family medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA137118",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.98547815299958,
-                "y": 34.69452756800058
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "fd922642-cc07-4162-82ab-c56a6feb7fb0",
                 "Loc_ID": 1687,
                 "OBJECTID": 27502,
@@ -59953,41 +57888,6 @@
                 },
                 "x": -82.25108652699959,
                 "y": 34.72037492800047
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "4730e5e5-4192-4923-82bc-a2955e9b7354",
-                "Loc_ID": 1689,
-                "OBJECTID": 27503,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "325 Medical Pkwy, Suite 200",
-                "SiteAddressDetail": null,
-                "SiteCity": "Greer",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29650",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Prisma Health Cypress Internal Medicine - Greer",
-                "loc_type1": "Medical practice - family medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA923088",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.2433211329996,
-                "y": 34.91993747600054
             }
         },
         {
@@ -61778,7 +59678,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8e580be9-2e29-4840-b2be-cfc83590cf65",
                 "Loc_ID": null,
@@ -62508,6 +60408,41 @@
                 },
                 "x": -80.11065332224166,
                 "y": 32.96356715918756
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "333585be-c325-4830-9637-2c168ac9dafb",
+                "Loc_ID": null,
+                "OBJECTID": 36311,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "225 S Limestone St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Gaffney",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29340",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Cherokee Chamber of Commerce",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.65108049365278,
+                "y": 35.070452206990126
             }
         }
     ],

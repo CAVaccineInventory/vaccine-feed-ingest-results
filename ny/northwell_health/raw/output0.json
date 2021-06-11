@@ -1,5 +1,22 @@
 [
     {
+        "id": 78,
+        "name": "Suffolk - Strawberry Fields (716 NY-25A) -- J&J",
+        "address": "716 New York 25A",
+        "suite": "",
+        "city": "Rocky Point",
+        "state": "NY",
+        "zip": "11778",
+        "county": "Strawberry Fields",
+        "latitude": "40.9471",
+        "longitude": "-72.9168",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "is_walk_in": false,
+        "hours": [],
+        "distance": null
+    },
+    {
         "id": 77,
         "name": "Nassau - Grace Cathedral International (886 Jerusalem Ave.) -- Pfizer",
         "address": "886 Jerusalem Avenue",
@@ -18,7 +35,7 @@
     },
     {
         "id": 76,
-        "name": "Staten Island - College of Staten Isle (2800 Victory Blvd) -- Pfizer",
+        "name": "Staten Island - CUNY College of SI (2800 Victory Blvd) -- Pfizer",
         "address": "2800 Victory Boulevard",
         "suite": "",
         "city": "Staten Island",
@@ -34,49 +51,49 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "10:00am",
                 "time_closed": "2:45pm"
             },
             {
                 "day": "sunday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "10:00am",
                 "time_closed": "2:45pm"
             }
@@ -220,7 +237,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "1:45pm"
             },
@@ -273,7 +290,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -287,7 +304,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -340,21 +357,21 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
-                "time_open": "3:00pm",
+                "current_status": "open",
+                "time_open": "3:15pm",
                 "time_closed": "8:15pm"
             },
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -393,8 +410,8 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
-                "time_open": "12:15pm",
+                "current_status": "open",
+                "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
@@ -407,9 +424,9 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "8:00am",
-                "time_closed": "2:30pm"
+                "time_closed": "2:00pm"
             },
             {
                 "day": "friday",
@@ -428,9 +445,9 @@
             {
                 "day": "sunday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "8:00am",
-                "time_closed": "2:30pm"
+                "time_closed": "2:45pm"
             }
         ],
         "distance": null
@@ -461,7 +478,7 @@
                 "day": "tuesday",
                 "general_status": "open",
                 "current_status": "open",
-                "time_open": "10:00am",
+                "time_open": "10:15am",
                 "time_closed": "7:45pm"
             },
             {
@@ -488,76 +505,9 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:45am",
+                "current_status": "closed",
+                "time_open": "9:00am",
                 "time_closed": "3:45pm"
-            },
-            {
-                "day": "sunday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            }
-        ],
-        "distance": null
-    },
-    {
-        "id": 51,
-        "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
-        "address": "131 East 76th Street",
-        "suite": "",
-        "city": "New York",
-        "state": "NY",
-        "zip": "10021",
-        "county": "New York County",
-        "latitude": "40.7733",
-        "longitude": "-73.9607",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3cEAC",
-        "vaccine_manufacturer": "Pfizer",
-        "is_walk_in": false,
-        "hours": [
-            {
-                "day": "monday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "tuesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "wednesday",
-                "general_status": "open",
-                "current_status": "closed",
-                "time_open": "11:15am",
-                "time_closed": "3:15pm"
-            },
-            {
-                "day": "thursday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "friday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "saturday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
             },
             {
                 "day": "sunday",

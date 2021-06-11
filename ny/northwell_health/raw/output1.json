@@ -1,5 +1,139 @@
 [
     {
+        "id": 52,
+        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- J&J",
+        "address": "1 Marcus Avenue",
+        "suite": "",
+        "city": "New Hyde Park",
+        "state": "NY",
+        "zip": "11040",
+        "county": "Nassau",
+        "latitude": "40.7577",
+        "longitude": "-73.7087",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4uEAC",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "10:15am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "wednesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "9:30am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "saturday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
+        "id": 51,
+        "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
+        "address": "131 East 76th Street",
+        "suite": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10021",
+        "county": "New York County",
+        "latitude": "40.7733",
+        "longitude": "-73.9607",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3cEAC",
+        "vaccine_manufacturer": "Pfizer",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "10:45am",
+                "time_closed": "3:15pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
         "id": 44,
         "name": "Nassau - Kennedy Memorial Park (335 Greenwich St) -- Pfizer",
         "address": "335 Greenwich Street",
@@ -105,7 +239,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -119,7 +253,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -159,7 +293,7 @@
                 "day": "tuesday",
                 "general_status": "open",
                 "current_status": "open",
-                "time_open": "10:00am",
+                "time_open": "10:15am",
                 "time_closed": "7:45pm"
             },
             {
@@ -186,8 +320,8 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:45am",
+                "current_status": "closed",
+                "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
             {
@@ -239,21 +373,21 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
-                "time_open": "3:00pm",
+                "current_status": "open",
+                "time_open": "3:15pm",
                 "time_closed": "8:15pm"
             },
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -314,7 +448,7 @@
                 "day": "friday",
                 "general_status": "open",
                 "current_status": "closed",
-                "time_open": "11:15am",
+                "time_open": "10:30am",
                 "time_closed": "1:00pm"
             },
             {
@@ -359,14 +493,14 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },

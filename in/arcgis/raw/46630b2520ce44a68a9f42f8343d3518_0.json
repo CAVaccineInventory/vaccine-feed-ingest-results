@@ -2378,7 +2378,7 @@
                 "OBJECTID": 157,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "715 Locust St, Evansville, IN 47708",
+                "Site_Address": "420 Mulberry Street. Evansville, IN 47713",
                 "Site_County": "Vanderburgh",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "VANDERBURGH CO HD COVID VAX",
@@ -2396,8 +2396,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -87.56601278350955,
-                "y": 37.97230549737502
+                "x": -87.56691400573858,
+                "y": 37.96677399899721
             }
         },
         {
