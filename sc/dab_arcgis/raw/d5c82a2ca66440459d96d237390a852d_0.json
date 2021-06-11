@@ -50437,41 +50437,6 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
-                "Contact": null,
-                "GlobalID": "81fbdb0c-cc04-4551-85d3-60a7c97c1c37",
-                "Loc_ID": null,
-                "OBJECTID": 12954,
-                "Phone_Sec": null,
-                "Region": "PEE DEE",
-                "SiteAddress": "1610 Hawkins St.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Georgetown",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29440",
-                "URL": "https://www.tidelandshealth.org/vaccine/",
-                "V_Manufacturer": "PFR",
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "Tidelands Health @ Georgetown County Regional Vaccination Site",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": null,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.29849401245781,
-                "y": 33.367320803789994
-            }
-        },
-        {
-            "attributes": {
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "69d0c1d2-378a-4f2a-b0e6-eeef66d5e2a3",

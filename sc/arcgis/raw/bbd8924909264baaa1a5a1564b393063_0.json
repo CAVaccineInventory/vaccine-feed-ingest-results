@@ -64717,8 +64717,8 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Activated1": "No",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "81fbdb0c-cc04-4551-85d3-60a7c97c1c37",
                 "Loc_ID": null,
