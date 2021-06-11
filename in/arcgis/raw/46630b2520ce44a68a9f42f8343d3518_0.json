@@ -34399,6 +34399,70 @@
                 "x": -85.8224000940438,
                 "y": 40.79846230064767
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "ff299c4b-06b3-49dc-a3f5-e21f6396fa3f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Jennings County",
+                "OBJECTID": 1300,
+                "Promote_Name": "Jennings County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47265</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "4920 N State Highway 3, NORTH VERNON, IN 47265",
+                "Site_County": "Jennings",
+                "Site_Location_Info": "This is a mobile clinic June 16 – 19, 4pm to 9pm. This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Jennings County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov/",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.6399129254066,
+                "y": 39.05687097701668
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "14e26d67-62ee-49b2-9885-b82d960ee041",
+                "ID": null,
+                "IsView": 1,
+                "Name": "MONROE COUNTY",
+                "OBJECTID": 1301,
+                "Promote_Name": "Harrodsburg Community Center VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47403</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "1002 W. Popcorn Road, Bloomington, IN  47403",
+                "Site_County": "Monroe",
+                "Site_Location_Info": "This is a mobile clinic June 23 – 25, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Harrodsburg Community Center VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov/",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.54838412054059,
+                "y": 39.01223701482807
+            }
         }
     ],
     "fields": [
