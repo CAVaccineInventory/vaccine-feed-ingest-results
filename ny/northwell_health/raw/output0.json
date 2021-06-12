@@ -86,14 +86,14 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "10:00am",
                 "time_closed": "2:45pm"
             },
             {
                 "day": "sunday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "10:00am",
                 "time_closed": "2:45pm"
             }
@@ -170,7 +170,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "1:45pm"
             },
@@ -202,7 +202,7 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -216,7 +216,7 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -237,7 +237,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -276,7 +276,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "5:45pm"
             },
@@ -297,14 +297,14 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -357,7 +357,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "8:00am",
                 "time_closed": "2:45pm"
             },
@@ -378,7 +378,7 @@
             {
                 "day": "sunday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "8:00am",
                 "time_closed": "2:45pm"
             }
@@ -410,7 +410,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -438,7 +438,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -477,7 +477,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -505,7 +505,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
