@@ -16803,38 +16803,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "ad9f8df4-6300-4dfe-85f3-8af411bb9388",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Center Lake Pavilion VAX",
-                "OBJECTID": 720,
-                "Promote_Name": "Center Lake Pavilion VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46580</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "119 E Canal St, Warsaw, IN 46580",
-                "Site_County": "Kosciusko",
-                "Site_Location_Info": "This is a mobile site June 10 & June 11, 9am – 6pm. This  site has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Center Lake Pavilion VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.8545385535015,
-                "y": 41.24291291852978
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "8ae4b1dc-600b-47c0-bf80-2f4ea915d1ac",
                 "ID": null,
                 "IsView": 1,
@@ -18302,38 +18270,6 @@
                 },
                 "x": -86.21349818220261,
                 "y": 39.95740489607246
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "b546f31a-3fe0-48af-a8f5-9d0ab4175cd2",
-                "ID": null,
-                "IsView": 1,
-                "Name": "FEMA Goshen Highschool VAX",
-                "OBJECTID": 773,
-                "Promote_Name": "FEMA Goshen Highschool VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46526</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "401 Lincolnway East, Goshen, IN 46526",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": "This is a mobile clinic June 10 & 11, 9am – 6pm.  This site has Pfizer and Johnson & Johnson.",
-                "Site_Name": "FEMA Goshen Highschool VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.82314122098316,
-                "y": 41.58058987642955
             }
         },
         {
