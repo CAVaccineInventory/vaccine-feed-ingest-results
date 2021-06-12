@@ -387,38 +387,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "f8ab7b23-1815-4bea-9704-207e727c40b0",
-                "ID": "ISDH960",
-                "IsView": 1,
-                "Name": "Franciscan Health Hammond",
-                "OBJECTID": 17,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "5454 Hohman Ave, Hammond, IN 46320",
-                "Site_County": "Lake",
-                "Site_Location_Info": null,
-                "Site_Name": "FRANCISCAN HEALTH HAMMOND VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.52248128760498,
-                "y": 41.614996709719215
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "2b260eee-81af-40a4-9c6e-35ee2b358edb",
                 "ID": "ISDH967",
                 "IsView": 1,
@@ -574,38 +542,6 @@
                 },
                 "x": -85.41421511222741,
                 "y": 40.196208893993116
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "a2310dcc-1578-45b8-a3f4-0d1b2ab41f64",
-                "ID": "ISDH972",
-                "IsView": 1,
-                "Name": "IU Health Bloomington Hospital",
-                "OBJECTID": 24,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "619 W 1st St, Bloomington, IN 47403-2307",
-                "Site_County": "Monroe",
-                "Site_Location_Info": "Medical Arts Building, 1st Floor.  Door to the clinic faces East.",
-                "Site_Name": "IU HLTH BLMNGTN MED ART BLDG VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.54004950391047,
-                "y": 39.15936986765372
             }
         },
         {
@@ -894,38 +830,6 @@
                 },
                 "x": -87.33271114717887,
                 "y": 41.4573066990838
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "1a64040f-b04f-4b5a-b227-c468bc5919f3",
-                "ID": "ISDH937",
-                "IsView": 1,
-                "Name": "Witham Health Services*",
-                "OBJECTID": 44,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2705 Lebanon St, Lebanon, IN 46052",
-                "Site_County": "Boone",
-                "Site_Location_Info": "Pavilion Pointe Outpatient Pharmacy 1st Flr",
-                "Site_Name": "WITHAM HEALTH SERV LEBANON ST VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.47470238861052,
-                "y": 40.07648498079198
             }
         },
         {
@@ -21886,38 +21790,6 @@
                 },
                 "x": -87.41229856962472,
                 "y": 37.976005197925645
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "7dd09995-6f92-4fe2-a265-3c13b9d5c14d",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Union Hospital Prof OfficeBld VAX",
-                "OBJECTID": 895,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1530 N. 7th St, Terre Haute, IN 47807",
-                "Site_County": "Vigo",
-                "Site_Location_Info": null,
-                "Site_Name": "Union Hospital Prof OfficeBld VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.40777335830339,
-                "y": 39.48441832425354
             }
         },
         {

@@ -807,7 +807,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d7fc84ce-3611-4887-b033-1c5394ae0c50",
@@ -2102,7 +2102,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "021e8d08-d6ec-4def-a2bc-8620d5ff63ba",
@@ -2767,7 +2767,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "08f14884-7aa7-4b70-aec4-74ca66f22128",
@@ -4132,7 +4132,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a74b0805-e151-4aee-9c0a-af49cf79fdf7",
@@ -4167,7 +4167,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2a69503e-0280-49a7-8cb7-1ed134b3f1c7",
@@ -8332,7 +8332,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ca1221c1-8ee6-4532-836c-e835a6c26c95",
@@ -10957,7 +10957,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2b6bcc06-96f2-4e5e-9ae2-9e85db665604",
@@ -14492,7 +14492,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e7a35d28-7408-4e6c-b451-e3246f468e4d",
@@ -18202,7 +18202,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "43a59584-59e8-4e20-8c2e-e7f0e54c6318",
@@ -22297,7 +22297,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4a7cb7b4-8397-4971-92ee-f04d4ab83c4d",
@@ -24782,7 +24782,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a98d05f7-9c67-4d2f-bf10-6a3ed5e781e6",
@@ -34337,7 +34337,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "27e540fb-d312-4318-801b-57e52155c2c5",
@@ -36789,7 +36789,7 @@
             "attributes": {
                 "Activated1": "Yes",
                 "Appointments": "Yes",
-                "Contact": null,
+                "Contact": "pipharmacy@sc.rr.com",
                 "GlobalID": "2c41e533-7d3e-4759-9490-5c23e5c76a16",
                 "Loc_ID": 964,
                 "OBJECTID": 1073,
@@ -36798,10 +36798,10 @@
                 "SiteAddress": "9710 OCEAN HWY 17 UNIT 1",
                 "SiteAddressDetail": "",
                 "SiteCity": "PAWLEYS ISLAND",
-                "SitePhone": null,
+                "SitePhone": "843-235-4666",
                 "SiteState": "SC",
                 "SiteZip": "29585",
-                "URL": null,
+                "URL": "http://www.pawleysislandpharmacy.com/",
                 "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "PAWLEYS ISLAND PHARMACY LLC",
@@ -37067,7 +37067,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4f98e9f6-0706-4f92-a76b-26d728e2463a",
@@ -37557,7 +37557,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "12556a92-2c02-4f84-89d3-31350e1b87db",
@@ -40742,7 +40742,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7c2598e4-d193-4ed2-b8b0-381ddf458956",
@@ -46377,7 +46377,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "107b3a6a-738f-42ec-90b1-659e9e6ae46b",
@@ -48582,7 +48582,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "35e295a7-677d-40b7-838b-33e18de5da2b",
@@ -63708,12 +63708,12 @@
                 "GlobalID": "9b826c52-d2ff-4e17-ba92-fb9c06e7847d",
                 "Loc_ID": 1572,
                 "OBJECTID": 12925,
-                "Phone_Sec": null,
+                "Phone_Sec": "803-945-7923",
                 "Region": "Midlands",
                 "SiteAddress": "22 River Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Peak",
-                "SitePhone": null,
+                "SitePhone": "803-345-1707",
                 "SiteState": "SC",
                 "SiteZip": "29122",
                 "URL": null,
@@ -64297,7 +64297,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "4677dd4f-d6ad-4935-92d6-f359c888b500",
