@@ -51,28 +51,28 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -86,14 +86,14 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "10:00am",
                 "time_closed": "2:45pm"
             },
             {
                 "day": "sunday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "10:00am",
                 "time_closed": "2:45pm"
             }
@@ -115,73 +115,6 @@
         "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
         "is_walk_in": false,
         "hours": [],
-        "distance": null
-    },
-    {
-        "id": 72,
-        "name": "Suffolk - Engeman Theater (250 Main St) -- J&J",
-        "address": "250 Main Street",
-        "suite": "",
-        "city": "Northport",
-        "state": "NY",
-        "zip": "11768",
-        "county": "suffolk",
-        "latitude": "40.9007",
-        "longitude": "-73.3466",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
-        "is_walk_in": false,
-        "hours": [
-            {
-                "day": "monday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "tuesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "wednesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "thursday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "friday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "saturday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:00am",
-                "time_closed": "1:45pm"
-            },
-            {
-                "day": "sunday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            }
-        ],
         "distance": null
     },
     {
@@ -223,7 +156,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -237,7 +170,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -290,21 +223,21 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -343,7 +276,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -357,7 +290,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "8:00am",
                 "time_closed": "2:45pm"
             },
@@ -378,7 +311,7 @@
             {
                 "day": "sunday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "8:00am",
                 "time_closed": "2:45pm"
             }
@@ -431,14 +364,14 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -498,16 +431,83 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
+        "id": 51,
+        "name": "Manhattan - LHH Hearth Room (1086 Lexington Ave) -- Pfizer",
+        "address": "131 East 76th Street",
+        "suite": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10021",
+        "county": "New York County",
+        "latitude": "40.7733",
+        "longitude": "-73.9607",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk3cEAC",
+        "vaccine_manufacturer": "Pfizer",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:45am",
+                "time_closed": "3:30pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "sunday",
