@@ -419,38 +419,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "3205af31-2ce2-4cd1-afe6-ed521e09f63b",
-                "ID": "ISDH946",
-                "IsView": 1,
-                "Name": "Goshen Hospital",
-                "OBJECTID": 20,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2120 S. Main St., Goshen, IN 46526",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": "Go to east door",
-                "Site_Name": "GOSHEN HEALTH VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.82809432906933,
-                "y": 41.55846453013686
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "4ee74bfd-477f-4e84-9621-d5981c8259cd",
                 "ID": "ISDH952",
                 "IsView": 1,
@@ -3852,14 +3820,14 @@
                 "Promote_Site": null,
                 "Site_Address": "4117 S 240 W, Morocco, IN  47978",
                 "Site_County": "Newton",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": null,
                 "Site_Name": "NEWTON CO LHD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
+                "Vaccine_Type": "Moderna",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },

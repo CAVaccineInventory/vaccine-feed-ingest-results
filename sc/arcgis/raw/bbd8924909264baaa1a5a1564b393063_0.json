@@ -1122,7 +1122,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7131391b-a9a0-4e22-b6fa-4817cbe61320",
@@ -2802,7 +2802,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cb9d1706-77d7-413d-bdae-5b339f8eeb1e",
@@ -3573,7 +3573,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "79bb6ed7-c4c2-4fb1-961a-87d0b254bc45",
                 "Loc_ID": 816,
@@ -3583,11 +3583,11 @@
                 "SiteAddress": "2450 India Hook Rd.",
                 "SiteAddressDetail": "Suite B",
                 "SiteCity": "Rock Hill",
-                "SitePhone": "",
+                "SitePhone": "803.366.7443",
                 "SiteState": "SC",
                 "SiteZip": "29732",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Riverview Family Medicine and Urgent Care",
                 "loc_type1": "Urgent care",
@@ -3957,7 +3957,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "859c57f1-65f5-43ab-bfa6-64b84d7052bd",
@@ -10642,7 +10642,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ad2d40f6-df47-4af4-ae2a-7fbbdfc54470",
@@ -11762,7 +11762,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c41908ad-1918-4f7a-9c83-c3430a3bbe5b",
@@ -11867,7 +11867,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5f78f580-34a9-4ec5-bf98-b355bf1a47ad",
@@ -12847,7 +12847,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9cb2a199-b7a2-48ca-b6f5-0ccc124f158b",
@@ -13723,7 +13723,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7762373c-7d97-4c74-8d5a-99b04500f9ef",
                 "Loc_ID": 828,
@@ -13733,7 +13733,7 @@
                 "SiteAddress": "40 Okatie Center Boulevard, South",
                 "SiteAddressDetail": "Suite 125",
                 "SiteCity": "Okatie",
-                "SitePhone": "",
+                "SitePhone": "843-705-8823",
                 "SiteState": "SC",
                 "SiteZip": "29909",
                 "URL": null,
@@ -14352,7 +14352,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6c3e374f-f8b2-40ba-9d1d-9e83baf1d358",
@@ -15367,7 +15367,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c5712eef-d175-40b6-b657-efca1a479645",
@@ -16627,7 +16627,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "f50a2dd3-5191-4bf2-a0db-ed3c64231262",
@@ -16698,7 +16698,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccine@anmedhealth.org",
                 "GlobalID": "dfc86848-f512-4ed6-96b1-50a10d599232",
                 "Loc_ID": 396,
@@ -16708,10 +16708,10 @@
                 "SiteAddress": "123 W.G. Acker Drive",
                 "SiteAddressDetail": null,
                 "SiteCity": "Pickens",
-                "SitePhone": "",
+                "SitePhone": "(864) 512-2897",
                 "SiteState": "SC",
                 "SiteZip": "29671",
-                "URL": null,
+                "URL": "https://anmedhealth.org/covid-19-vaccine",
                 "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "AnMed Health Cannon (Cannon Memorial Hospital)",
@@ -16733,7 +16733,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccine@anmedhealth.org",
                 "GlobalID": "26f8a297-70b8-4e57-89df-5963807940e6",
                 "Loc_ID": 366,
@@ -16743,10 +16743,10 @@
                 "SiteAddress": "800 N. Fant Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Anderson",
-                "SitePhone": "",
+                "SitePhone": "(864) 512-2897",
                 "SiteState": "SC",
                 "SiteZip": "29621",
-                "URL": null,
+                "URL": "https://anmedhealth.org/covid-19-vaccine",
                 "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "AnMed Health Medical Center",
@@ -21703,7 +21703,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "vaccinerequest@hamptonregional.org",
                 "GlobalID": "5a93e6db-f6c4-4fb6-96e2-cdea0c12ca2d",
                 "Loc_ID": 584,
@@ -22524,7 +22524,7 @@
                 "URL": null,
                 "V_Manufacturer": "MOD",
                 "layer_id": 0,
-                "loc_name": "Lexington Medical Center- West Columbia",
+                "loc_name": "Lexington Medical Center- West Columbia @ Summerplace Dr.",
                 "loc_type1": "Health center – community (non-Federally Qualified Health Center/non-Rural Health Clinic)",
                 "ref_ID": 1600,
                 "service_item_id": "bbd8924909264baaa1a5a1564b393063",
@@ -28773,7 +28773,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0f10e0cb-b384-4c1c-8c11-31344717b83f",
                 "Loc_ID": 142,
@@ -29017,7 +29017,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "edd26efc-e707-4abc-9123-03e787c09eed",
@@ -33708,7 +33708,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "870e75d9-89fc-4152-b07a-96b100fa4d4f",
                 "Loc_ID": 804,
@@ -33718,7 +33718,7 @@
                 "SiteAddress": "137 Commons Way",
                 "SiteAddressDetail": "",
                 "SiteCity": "Greenville",
-                "SitePhone": null,
+                "SitePhone": "864-979-0846",
                 "SiteState": "SC",
                 "SiteZip": "29611",
                 "URL": null,
@@ -35387,7 +35387,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8b2201d2-e234-44a7-a6bb-4be58fd87845",
@@ -38048,7 +38048,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b8203060-680d-4646-8872-f6a7fac0be20",
                 "Loc_ID": 1358,
@@ -38058,11 +38058,11 @@
                 "SiteAddress": "419 S MILL ST",
                 "SiteAddressDetail": "",
                 "SiteCity": "MANNING",
-                "SitePhone": null,
+                "SitePhone": "803-433-2212",
                 "SiteState": "SC",
                 "SiteZip": "29102",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "ANDERSON PHARMACY",
                 "loc_type1": "Pharmacy – independent",
@@ -38397,7 +38397,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "400e1165-8902-4401-a435-e1c65c02e554",
@@ -39097,7 +39097,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5544f925-c40d-44aa-a942-b6c1cc74530f",
@@ -40917,7 +40917,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "35b715cf-1a3a-47a7-93e9-bf2bba9511f0",
@@ -41862,7 +41862,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ffdcbc8d-7519-4041-ae30-4898a5bb326d",
@@ -41897,7 +41897,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b3c7a969-5b54-4d9e-8bc1-54308add8c87",
@@ -41932,7 +41932,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1be9c4e5-a53a-4dfa-9009-83a51886cc69",
@@ -41967,7 +41967,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "6ab1609a-445e-47e5-81a0-ec8835a64d7d",
@@ -42002,7 +42002,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3c8b2f96-df87-4fe8-8a68-5f29ec517949",
@@ -42037,7 +42037,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d720129f-af0a-45ac-80f3-3c40b239b44c",
@@ -43157,7 +43157,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7282c1bb-d7b6-4964-86e2-d777c5c58094",
@@ -43542,7 +43542,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "e16b588f-7b5a-4f3c-8cd4-9cf54a82e850",
@@ -43577,7 +43577,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "290ffc5a-3efa-4bd0-ae20-4317f133ca79",
@@ -44312,8 +44312,8 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Activated1": "No",
+                "Appointments": "No",
                 "Contact": "Cv19vaxreg@rsfh.com",
                 "GlobalID": "95f8bcf1-4208-480b-9666-7790e2c6be56",
                 "Loc_ID": null,
@@ -46342,7 +46342,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5ed6f7b6-895e-44d2-82c9-c912de991c63",
@@ -46517,7 +46517,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b6c47ceb-1e11-4d74-b513-fe9edafeedb8",
@@ -46552,7 +46552,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7513aab5-296f-4322-8a0a-6b8614f4e082",
@@ -49002,7 +49002,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "61067129-1175-44cb-84ab-8c193261627a",
@@ -49037,7 +49037,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9b774c50-7ad7-4009-9d4b-97874c70df2a",
@@ -68462,7 +68462,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cd1fd077-5483-472c-a057-e7ca6049f19e",
@@ -68532,7 +68532,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "9dd7987e-c271-4cbf-bbb3-33799a295cfb",
@@ -68567,7 +68567,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ef0825c5-14ea-4e07-a826-8eaf3c1fa553",
@@ -68602,7 +68602,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bc675bf7-4e54-4af0-99da-a4550191ede9",
@@ -70422,7 +70422,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "99f0f0bf-c922-4cb6-9daa-3c1fab0a5c6a",
@@ -70492,7 +70492,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "04d020d3-af68-43ef-9590-40e73149301a",
@@ -71962,7 +71962,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "50bf4f5c-5ee7-452f-a338-bc5f615826a8",
@@ -76898,7 +76898,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "77499492-8daf-43a1-9afa-4fb1c45da5ff",
                 "Loc_ID": null,
@@ -77213,7 +77213,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "981db4d5-1ddd-435f-b48b-1c337af48756",
                 "Loc_ID": null,
@@ -77768,6 +77768,251 @@
                 },
                 "x": -81.65108049365278,
                 "y": 35.070452206990126
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "dce3a714-e2f5-448d-9c28-2354a00bb8e4",
+                "Loc_ID": null,
+                "OBJECTID": 36711,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "9565 Highway 78",
+                "SiteAddressDetail": "Building 800",
+                "SiteCity": "Ladson",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29456",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC @ Association for the Blind and Visually Impaired South Carolina (ABVI)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.09546606805895,
+                "y": 32.98534422148521
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "a08aa30e-c9d6-4f8b-9eb7-2846c2964770",
+                "Loc_ID": null,
+                "OBJECTID": 36712,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "1690 Old Highway 6",
+                "SiteAddressDetail": null,
+                "SiteCity": "Cross",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29436",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Divine Health Education",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.19246539109963,
+                "y": 33.364235675251734
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "db890460-cb15-4aa8-9129-1c83b70a7d6a",
+                "Loc_ID": null,
+                "OBJECTID": 36713,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3885 W Ashley Cir",
+                "SiteAddressDetail": "#600",
+                "SiteCity": "Charleston",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29414",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care - West Ashley at Bees Ferry",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.08368991319253,
+                "y": 32.82528754992444
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "daee57a9-45cb-441e-b164-bea8b0781221",
+                "Loc_ID": null,
+                "OBJECTID": 36714,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "319 Folly Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29412",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care – James Island",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.97539823873683,
+                "y": 32.76126656478186
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "609ce890-419e-4b31-9564-58ee63d9ebf8",
+                "Loc_ID": null,
+                "OBJECTID": 36715,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "4278 Ladson Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Summerville",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29485",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care – Ladson",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.15366099917912,
+                "y": 32.96352686792443
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "f51da73b-9a49-4571-b0c8-a982077d0230",
+                "Loc_ID": null,
+                "OBJECTID": 36716,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "1114 N Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Summerville",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29483",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care- Summerville",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.16152082949941,
+                "y": 33.03426072595215
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "b83a5c90-b146-4cd5-8bac-e5942e5cf872",
+                "Loc_ID": null,
+                "OBJECTID": 36717,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "8901 University Blvd",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care- North Charleston",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.05577088336247,
+                "y": 32.97313265367245
             }
         }
     ],

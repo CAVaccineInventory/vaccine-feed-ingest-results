@@ -775,41 +775,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "7131391b-a9a0-4e22-b6fa-4817cbe61320",
-                "Loc_ID": 1215,
-                "OBJECTID": 33,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1094 Ribaut Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Beaufort",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29902",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Ribaut Medical Partners, LLC",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 986,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA907023",
-                "vtrcks_ID": 40224976
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.68658947317726,
-                "y": 32.409947151946255
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "71afb696-99e8-441a-a865-b53b7e521f06",
                 "Loc_ID": 1233,
                 "OBJECTID": 34,
@@ -1930,41 +1895,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "cb9d1706-77d7-413d-bdae-5b339f8eeb1e",
-                "Loc_ID": 1133,
-                "OBJECTID": 81,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "7901 Farrow Rd",
-                "SiteAddressDetail": "Attn: Pharmacy",
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29203",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Columbia Care Center",
-                "loc_type1": "Hospital",
-                "ref_ID": 1034,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA254414",
-                "vtrcks_ID": 40153654
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.97888640579998,
-                "y": 34.078577730047925
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "143cc938-ddb9-4962-b1ec-837b953289e7",
                 "Loc_ID": 889,
                 "OBJECTID": 82,
@@ -2453,7 +2383,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "79bb6ed7-c4c2-4fb1-961a-87d0b254bc45",
                 "Loc_ID": 816,
@@ -2463,11 +2393,11 @@
                 "SiteAddress": "2450 India Hook Rd.",
                 "SiteAddressDetail": "Suite B",
                 "SiteCity": "Rock Hill",
-                "SitePhone": "",
+                "SitePhone": "803.366.7443",
                 "SiteState": "SC",
                 "SiteZip": "29732",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Riverview Family Medicine and Urgent Care",
                 "loc_type1": "Urgent care",
@@ -2693,41 +2623,6 @@
                 },
                 "x": -81.08493799403374,
                 "y": 34.03118158996773
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "859c57f1-65f5-43ab-bfa6-64b84d7052bd",
-                "Loc_ID": 965,
-                "OBJECTID": 114,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "78 Doodle Hill Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "St. Matthews",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29135",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Calhoun County DSN Board",
-                "loc_type1": "Long-term care – intellectual or developmental disability",
-                "ref_ID": 1067,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA909001",
-                "vtrcks_ID": 40220291
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.80151370170933,
-                "y": 33.67289598222766
             }
         },
         {
@@ -7005,41 +6900,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "ad2d40f6-df47-4af4-ae2a-7fbbdfc54470",
-                "Loc_ID": 824,
-                "OBJECTID": 306,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "649 W Wesmark Blvd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Sumter",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29150",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Diabetes & Kidney Center",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1259,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA943011",
-                "vtrcks_ID": 40208134
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.39840569088182,
-                "y": 33.95138367516893
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "8b5d3314-39f6-408e-9a12-6edd9033deb7",
                 "Loc_ID": 814,
                 "OBJECTID": 307,
@@ -7523,76 +7383,6 @@
                 },
                 "x": -81.0402720513083,
                 "y": 34.02938607283579
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "c41908ad-1918-4f7a-9c83-c3430a3bbe5b",
-                "Loc_ID": 404,
-                "OBJECTID": 338,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "10 Johnny Morall Circle",
-                "SiteAddressDetail": "2 Professional Drive",
-                "SiteCity": "Port Royal",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29935",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "LOW COUNTRY DIALYSIS",
-                "loc_type1": "Dialysis",
-                "ref_ID": 1291,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA907016",
-                "vtrcks_ID": 40208153
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.68450073473304,
-                "y": 32.40051327911169
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "5f78f580-34a9-4ec5-bf98-b355bf1a47ad",
-                "Loc_ID": 552,
-                "OBJECTID": 341,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "200 Elm St. E",
-                "SiteAddressDetail": null,
-                "SiteCity": "Hampton",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29924",
-                "URL": null,
-                "V_Manufacturer": "MOD",
-                "layer_id": 0,
-                "loc_name": "Hampton Medical Center",
-                "loc_type1": "Public health provider – Federally Qualified Health Center",
-                "ref_ID": 1294,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA925004",
-                "vtrcks_ID": 40208170
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.10749338197263,
-                "y": 32.86562790134036
             }
         },
         {
@@ -8510,41 +8300,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "9cb2a199-b7a2-48ca-b6f5-0ccc124f158b",
-                "Loc_ID": 572,
-                "OBJECTID": 369,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "2403 Allison road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Beaufort",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29902",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Sea Island Pediatrics",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": 1323,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA107116",
-                "vtrcks_ID": 40056581
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.69026629470318,
-                "y": 32.414571298892895
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "edafe769-ed88-48fb-a8b1-7387613e8004",
                 "Loc_ID": 606,
                 "OBJECTID": 370,
@@ -9173,7 +8928,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7762373c-7d97-4c74-8d5a-99b04500f9ef",
                 "Loc_ID": 828,
@@ -9183,7 +8938,7 @@
                 "SiteAddress": "40 Okatie Center Boulevard, South",
                 "SiteAddressDetail": "Suite 125",
                 "SiteCity": "Okatie",
-                "SitePhone": "",
+                "SitePhone": "843-705-8823",
                 "SiteState": "SC",
                 "SiteZip": "29909",
                 "URL": null,
@@ -9665,41 +9420,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "6c3e374f-f8b2-40ba-9d1d-9e83baf1d358",
-                "Loc_ID": 518,
-                "OBJECTID": 412,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "407 North Brown Street ",
-                "SiteAddressDetail": null,
-                "SiteCity": "West Columbia ",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29169",
-                "URL": null,
-                "V_Manufacturer": "MOD, JJ",
-                "layer_id": 0,
-                "loc_name": "Cayce / West Columbia Primary Care Center",
-                "loc_type1": "Public health provider – Federally Qualified Health Center",
-                "ref_ID": 1366,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA132147",
-                "vtrcks_ID": 40151277
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.0812017839861,
-                "y": 33.98988874335993
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "09b09b15-6a9a-47e6-a0fe-112ec3ac7e25",
                 "Loc_ID": 350,
                 "OBJECTID": 415,
@@ -10113,41 +9833,6 @@
                 },
                 "x": -80.02080660917153,
                 "y": 32.7871406348188
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "c5712eef-d175-40b6-b657-efca1a479645",
-                "Loc_ID": 532,
-                "OBJECTID": 441,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1320 Ribaut Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Port Royal",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29935",
-                "URL": null,
-                "V_Manufacturer": "MOD",
-                "layer_id": 0,
-                "loc_name": "Port Royal Medical Center (Port Royal Pharmacy)",
-                "loc_type1": "Public health provider – Federally Qualified Health Center",
-                "ref_ID": 1395,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA907010",
-                "vtrcks_ID": 40204231
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.68521072989603,
-                "y": 32.39976504469047
             }
         },
         {
@@ -11065,41 +10750,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "f50a2dd3-5191-4bf2-a0db-ed3c64231262",
-                "Loc_ID": 362,
-                "OBJECTID": 477,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "200 McGee Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Anderson",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29625",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Anderson-Oconee-Pickens Mental Health Center",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 1431,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA904003",
-                "vtrcks_ID": 40189578
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.6844175499603,
-                "y": 34.53098670291661
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "7735be75-aacc-4a30-94a1-8b12e6e62d62",
                 "Loc_ID": 251,
                 "OBJECTID": 478,
@@ -11133,7 +10783,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccine@anmedhealth.org",
                 "GlobalID": "dfc86848-f512-4ed6-96b1-50a10d599232",
                 "Loc_ID": 396,
@@ -11143,10 +10793,10 @@
                 "SiteAddress": "123 W.G. Acker Drive",
                 "SiteAddressDetail": null,
                 "SiteCity": "Pickens",
-                "SitePhone": "",
+                "SitePhone": "(864) 512-2897",
                 "SiteState": "SC",
                 "SiteZip": "29671",
-                "URL": null,
+                "URL": "https://anmedhealth.org/covid-19-vaccine",
                 "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "AnMed Health Cannon (Cannon Memorial Hospital)",
@@ -11168,7 +10818,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccine@anmedhealth.org",
                 "GlobalID": "26f8a297-70b8-4e57-89df-5963807940e6",
                 "Loc_ID": 366,
@@ -11178,10 +10828,10 @@
                 "SiteAddress": "800 N. Fant Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Anderson",
-                "SitePhone": "",
+                "SitePhone": "(864) 512-2897",
                 "SiteState": "SC",
                 "SiteZip": "29621",
-                "URL": null,
+                "URL": "https://anmedhealth.org/covid-19-vaccine",
                 "V_Manufacturer": "PFR",
                 "layer_id": 0,
                 "loc_name": "AnMed Health Medical Center",
@@ -13793,7 +13443,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "vaccinerequest@hamptonregional.org",
                 "GlobalID": "5a93e6db-f6c4-4fb6-96e2-cdea0c12ca2d",
                 "Loc_ID": 584,
@@ -14544,7 +14194,7 @@
                 "URL": null,
                 "V_Manufacturer": "MOD",
                 "layer_id": 0,
-                "loc_name": "Lexington Medical Center- West Columbia",
+                "loc_name": "Lexington Medical Center- West Columbia @ Summerplace Dr.",
                 "loc_type1": "Health center – community (non-Federally Qualified Health Center/non-Rural Health Clinic)",
                 "ref_ID": 1600,
                 "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
@@ -19393,7 +19043,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0f10e0cb-b384-4c1c-8c11-31344717b83f",
                 "Loc_ID": 142,
@@ -19598,41 +19248,6 @@
                 },
                 "x": -79.76806010988827,
                 "y": 34.188207876862805
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "edd26efc-e707-4abc-9123-03e787c09eed",
-                "Loc_ID": 120,
-                "OBJECTID": 836,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "1241 Boiling Springs Rd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Spartanburg",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29303",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Wellness Family Medicine",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 1790,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA142142",
-                "vtrcks_ID": 40057097
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.94561763168974,
-                "y": 34.98404177392911
             }
         },
         {
@@ -24083,7 +23698,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "870e75d9-89fc-4152-b07a-96b100fa4d4f",
                 "Loc_ID": 804,
@@ -24093,7 +23708,7 @@
                 "SiteAddress": "137 Commons Way",
                 "SiteAddressDetail": "",
                 "SiteCity": "Greenville",
-                "SitePhone": null,
+                "SitePhone": "864-979-0846",
                 "SiteState": "SC",
                 "SiteZip": "29611",
                 "URL": null,
@@ -25268,41 +24883,6 @@
                 },
                 "x": -81.19302102616274,
                 "y": 34.6930113040616
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "8b2201d2-e234-44a7-a6bb-4be58fd87845",
-                "Loc_ID": 522,
-                "OBJECTID": 1033,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1368 Penshell Place",
-                "SiteAddressDetail": "",
-                "SiteCity": "Mt Pleasant",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29464",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "HouseCalls-MD - Mt Pleasant",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 1989,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910057",
-                "vtrcks_ID": 40226899
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.84373898103621,
-                "y": 32.808847302941444
             }
         },
         {
@@ -26568,7 +26148,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b8203060-680d-4646-8872-f6a7fac0be20",
                 "Loc_ID": 1358,
@@ -26578,11 +26158,11 @@
                 "SiteAddress": "419 S MILL ST",
                 "SiteAddressDetail": "",
                 "SiteCity": "MANNING",
-                "SitePhone": null,
+                "SitePhone": "803-433-2212",
                 "SiteState": "SC",
                 "SiteZip": "29102",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "ANDERSON PHARMACY",
                 "loc_type1": "Pharmacy – independent",
@@ -26703,41 +26283,6 @@
                 },
                 "x": -81.04369379620925,
                 "y": 34.04583446935328
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "400e1165-8902-4401-a435-e1c65c02e554",
-                "Loc_ID": 1376,
-                "OBJECTID": 1119,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "845 S. Buncombe Rd Suite B",
-                "SiteAddressDetail": "",
-                "SiteCity": "Greer",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29650",
-                "URL": null,
-                "V_Manufacturer": "JJ",
-                "layer_id": 0,
-                "loc_name": "Upstate Pharmacy Greer",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": 2075,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA923064",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.2404655802934,
-                "y": 34.9179306430309
             }
         },
         {
@@ -26878,41 +26423,6 @@
                 },
                 "x": -81.29062967962102,
                 "y": 34.00269793096578
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "5544f925-c40d-44aa-a942-b6c1cc74530f",
-                "Loc_ID": 1399,
-                "OBJECTID": 1139,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "1307 N Logan St",
-                "SiteAddressDetail": "",
-                "SiteCity": "Gaffney",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29341",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Cherokee Community Care, LLC",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 2095,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA111102",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.63954021113022,
-                "y": 35.08850530092508
             }
         },
         {
@@ -27445,41 +26955,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "35b715cf-1a3a-47a7-93e9-bf2bba9511f0",
-                "Loc_ID": 989,
-                "OBJECTID": 1191,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "821 W 5th North Street",
-                "SiteAddressDetail": "",
-                "SiteCity": "Summerville",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29483",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Dorchester County /Dorchester County EMS",
-                "loc_type1": "County Government EMS Agency",
-                "ref_ID": 2147,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA918014",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.18263128939265,
-                "y": 33.033431053728975
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "03c13783-6315-4418-bf89-0220b5520fbe",
                 "Loc_ID": 795,
                 "OBJECTID": 1192,
@@ -27823,216 +27298,6 @@
                 },
                 "x": -81.00464697189278,
                 "y": 34.015783977236595
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "ffdcbc8d-7519-4041-ae30-4898a5bb326d",
-                "Loc_ID": 1319,
-                "OBJECTID": 1218,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "302 RUBY ST",
-                "SiteAddressDetail": "",
-                "SiteCity": "WALTERBORO",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29488",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "DAVITA - WALTERBORO DIALYSIS",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2174,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA915006",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.67219623809694,
-                "y": 32.924050783787266
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "b3c7a969-5b54-4d9e-8bc1-54308add8c87",
-                "Loc_ID": 1320,
-                "OBJECTID": 1219,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "1520 FLAG DR",
-                "SiteAddressDetail": "",
-                "SiteCity": "FLORENCE",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29505",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "DAVITA - PAMPLICO DIALYSIS",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2175,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA921022",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.75764803028079,
-                "y": 34.16339745027955
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "1be9c4e5-a53a-4dfa-9009-83a51886cc69",
-                "Loc_ID": 1321,
-                "OBJECTID": 1220,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "5552 PLATT SPRINGS RD",
-                "SiteAddressDetail": "",
-                "SiteCity": "LEXINGTON",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29073",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "DAVITA - RED BANK MILLS DIALYSIS",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2176,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA932038",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.22781491780205,
-                "y": 33.907722933638865
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "6ab1609a-445e-47e5-81a0-ec8835a64d7d",
-                "Loc_ID": 1322,
-                "OBJECTID": 1221,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "14152 E WADE HAMPTON BLVD",
-                "SiteAddressDetail": "",
-                "SiteCity": "GREER",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29651",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "DAVITA - GREER KIDNEY CENTER",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2177,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA923052",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.21147339233954,
-                "y": 34.948720438293265
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "3c8b2f96-df87-4fe8-8a68-5f29ec517949",
-                "Loc_ID": 1323,
-                "OBJECTID": 1222,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "904 W GREENWOOD ST",
-                "SiteAddressDetail": "",
-                "SiteCity": "ABBEVILLE",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29620",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "DAVITA - ABBEVILLE DIALYSIS",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2178,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA901001",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.38460501702326,
-                "y": 34.16059418917507
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "d720129f-af0a-45ac-80f3-3c40b239b44c",
-                "Loc_ID": 1324,
-                "OBJECTID": 1223,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "1964 ASHLEY RIVER RD",
-                "SiteAddressDetail": "STE D-3",
-                "SiteCity": "CHARLESTON",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29407",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "DAVITA - CHARLES TOWNE DIALYSIS",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": 2179,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910075",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.02439689868106,
-                "y": 32.80824107825839
             }
         },
         {
@@ -28493,41 +27758,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "7282c1bb-d7b6-4964-86e2-d777c5c58094",
-                "Loc_ID": 1344,
-                "OBJECTID": 1255,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "107 Sunset Drive",
-                "SiteAddressDetail": "",
-                "SiteCity": "Manning",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29102",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Clarendon Health and Wellness",
-                "loc_type1": "Health center – community (non-Federally Qualified Health Center/non-Rural Health Clinic)",
-                "ref_ID": 2211,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA914007",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.21457030092301,
-                "y": 33.69063887882726
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "6bc7fa20-bbd2-4be2-8b10-c7201dfbcf38",
@@ -28768,76 +27998,6 @@
                 },
                 "x": -81.24159218438024,
                 "y": 33.987924980850835
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "e16b588f-7b5a-4f3c-8cd4-9cf54a82e850",
-                "Loc_ID": 1378,
-                "OBJECTID": 1266,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "500 N 12th St",
-                "SiteAddressDetail": "",
-                "SiteCity": "West Columbia",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29169",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Brookland Community Pediatrics",
-                "loc_type1": "Public health provider – Federally Qualified Health Center",
-                "ref_ID": 2222,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA132051",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.07418965974404,
-                "y": 33.993688346800695
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "290ffc5a-3efa-4bd0-ae20-4317f133ca79",
-                "Loc_ID": 1354,
-                "OBJECTID": 1267,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "522 College Avenue",
-                "SiteAddressDetail": "Suite 1",
-                "SiteCity": "Clemson",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29631",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Family Medicine Associates",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 2223,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA139110",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.83384540380206,
-                "y": 34.689815431252896
             }
         },
         {
@@ -29258,41 +28418,6 @@
                 },
                 "x": -81.94031034636356,
                 "y": 33.57442723682885
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
-                "Contact": "Cv19vaxreg@rsfh.com",
-                "GlobalID": "95f8bcf1-4208-480b-9666-7790e2c6be56",
-                "Loc_ID": null,
-                "OBJECTID": 1288,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "5001 Coliseum Dr",
-                "SiteAddressDetail": null,
-                "SiteCity": "North Charleston",
-                "SitePhone": " 843-727-3627",
-                "SiteState": "SC",
-                "SiteZip": "29418",
-                "URL": "https://www.rsfh.com/coronavirus",
-                "V_Manufacturer": "PFR",
-                "layer_id": 0,
-                "loc_name": "Roper St. Francis Hospital @ The Coliseum",
-                "loc_type1": "Hospital - popup",
-                "ref_ID": 2244,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.02217716002656,
-                "y": 32.86564275010403
             }
         },
         {
@@ -31295,41 +30420,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "5ed6f7b6-895e-44d2-82c9-c912de991c63",
-                "Loc_ID": 1477,
-                "OBJECTID": 3304,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "300 Garlington Road",
-                "SiteAddressDetail": "Attn: Medical Clinic,",
-                "SiteCity": "Greenville",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29615",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Harness Health Partners- GE",
-                "loc_type1": "Health center – occupational",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA923061",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.28599486799965,
-                "y": 34.83291536700051
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "a1a405f0-1434-4844-bf6f-42bb479080d4",
                 "Loc_ID": 1473,
                 "OBJECTID": 3306,
@@ -31358,76 +30448,6 @@
                 },
                 "x": -81.80922203499966,
                 "y": 33.821984409000606
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "b6c47ceb-1e11-4d74-b513-fe9edafeedb8",
-                "Loc_ID": 1441,
-                "OBJECTID": 3309,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1583 Healthcare Drive",
-                "SiteAddressDetail": null,
-                "SiteCity": "Rock Hill",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29732",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Blood and Cancer Care Associates",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA946027",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.04975428699964,
-                "y": 34.95109886100056
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "7513aab5-296f-4322-8a0a-6b8614f4e082",
-                "Loc_ID": 1475,
-                "OBJECTID": 3310,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "4794 A HIGHWAY 162",
-                "SiteAddressDetail": null,
-                "SiteCity": "HOLLYWOOD",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29449",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "PREFERRED CARE PHARMACEUTICAL SERVICES",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910084",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.16451681899963,
-                "y": 32.76142200500044
             }
         },
         {
@@ -33038,76 +32058,6 @@
                 },
                 "x": -82.02235241399961,
                 "y": 34.98722608100047
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "61067129-1175-44cb-84ab-8c193261627a",
-                "Loc_ID": 1480,
-                "OBJECTID": 3380,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "477 Mathis Ferry Rd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Mt. Pleasant",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29464",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Chabad of Charleston, Inc.",
-                "loc_type1": "Commercial vaccination service provider",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA910085",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.88523991399961,
-                "y": 32.8107543590005
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "9b774c50-7ad7-4009-9d4b-97874c70df2a",
-                "Loc_ID": 1495,
-                "OBJECTID": 3381,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "109 Carter Park Dr",
-                "SiteAddressDetail": "suite 3a",
-                "SiteCity": "seneca",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29678",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Keowee Primary Care and Internal Medicine",
-                "loc_type1": "Medical practice – internal medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA937010",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.98737855199954,
-                "y": 34.684102595000525
             }
         },
         {
@@ -51418,41 +50368,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "cd1fd077-5483-472c-a057-e7ca6049f19e",
-                "Loc_ID": 1589,
-                "OBJECTID": 19387,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "751 Hwy 9 ByPass",
-                "SiteAddressDetail": " ",
-                "SiteCity": "Lancaster",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29720",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Pharmacy",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA929009",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.78215159452031,
-                "y": 34.73524252352371
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "951e83be-50c6-42a5-933b-3343fc96ccfd",
@@ -51483,111 +50398,6 @@
                 },
                 "x": -81.68654840338604,
                 "y": 33.431789625890644
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "9dd7987e-c271-4cbf-bbb3-33799a295cfb",
-                "Loc_ID": 1591,
-                "OBJECTID": 19389,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1228 Colonial Commons Ct.",
-                "SiteAddressDetail": " ",
-                "SiteCity": "Lancaster",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29720",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Pharmacy",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA929007",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.79557689885468,
-                "y": 34.71562255133972
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "ef0825c5-14ea-4e07-a826-8eaf3c1fa553",
-                "Loc_ID": 1592,
-                "OBJECTID": 19390,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "1755 Airport Rd.",
-                "SiteAddressDetail": "Suite 100",
-                "SiteCity": "Lancaster",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29720",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Pharmacy",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA929008",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.78453915156058,
-                "y": 34.6904784458236
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "bc675bf7-4e54-4af0-99da-a4550191ede9",
-                "Loc_ID": 1593,
-                "OBJECTID": 19391,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "725 Cherry Rd",
-                "SiteAddressDetail": "Suite 103",
-                "SiteCity": "Rock Hill",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29732",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Carolina Pharamcy",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA946035",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.02891090501419,
-                "y": 34.945154712220244
             }
         },
         {
@@ -52848,76 +51658,6 @@
                 },
                 "x": -80.96236714492773,
                 "y": 35.02673493277109
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "99f0f0bf-c922-4cb6-9daa-3c1fab0a5c6a",
-                "Loc_ID": 1645,
-                "OBJECTID": 19443,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "2 Digital Place",
-                "SiteAddressDetail": " ",
-                "SiteCity": "Simpsonville",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29681",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Matrix Medical Network Charter-Simpsonville",
-                "loc_type1": "Commercial vaccination service provider",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA923082",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.2788742218678,
-                "y": 34.795274143387076
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "04d020d3-af68-43ef-9590-40e73149301a",
-                "Loc_ID": 1631,
-                "OBJECTID": 19445,
-                "Phone_Sec": null,
-                "Region": "LOWCOUNTRY",
-                "SiteAddress": "1534 Ellis Ave",
-                "SiteAddressDetail": null,
-                "SiteCity": "Orangeburg",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29115",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Orangeburg County Detention Center",
-                "loc_type1": "Other",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA938019",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.85250599275082,
-                "y": 33.512887758052216
             }
         },
         {
@@ -54213,41 +52953,6 @@
                 },
                 "x": -81.59823644354708,
                 "y": 33.85237307162123
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "50bf4f5c-5ee7-452f-a338-bc5f615826a8",
-                "Loc_ID": null,
-                "OBJECTID": 23470,
-                "Phone_Sec": null,
-                "Region": "MIDLANDS",
-                "SiteAddress": "1066 Sunset Blvd",
-                "SiteAddressDetail": null,
-                "SiteCity": "West Columbia",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29169",
-                "URL": "https://www.lexmed.com/coronavirus/covid19-vaccine",
-                "V_Manufacturer": "PZR, MOD",
-                "layer_id": 0,
-                "loc_name": "Lexington Medical Center @ Brookland Baptist Church",
-                "loc_type1": null,
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.07354548809747,
-                "y": 33.99824570709109
             }
         },
         {
@@ -58908,7 +57613,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "77499492-8daf-43a1-9afa-4fb1c45da5ff",
                 "Loc_ID": null,
@@ -59223,7 +57928,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "981db4d5-1ddd-435f-b48b-1c337af48756",
                 "Loc_ID": null,
@@ -59778,6 +58483,251 @@
                 },
                 "x": -81.65108049365278,
                 "y": 35.070452206990126
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "dce3a714-e2f5-448d-9c28-2354a00bb8e4",
+                "Loc_ID": null,
+                "OBJECTID": 36711,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "9565 Highway 78",
+                "SiteAddressDetail": "Building 800",
+                "SiteCity": "Ladson",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29456",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC @ Association for the Blind and Visually Impaired South Carolina (ABVI)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.09546606805895,
+                "y": 32.98534422148521
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "a08aa30e-c9d6-4f8b-9eb7-2846c2964770",
+                "Loc_ID": null,
+                "OBJECTID": 36712,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "1690 Old Highway 6",
+                "SiteAddressDetail": null,
+                "SiteCity": "Cross",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29436",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Divine Health Education",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.19246539109963,
+                "y": 33.364235675251734
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "db890460-cb15-4aa8-9129-1c83b70a7d6a",
+                "Loc_ID": null,
+                "OBJECTID": 36713,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3885 W Ashley Cir",
+                "SiteAddressDetail": "#600",
+                "SiteCity": "Charleston",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29414",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care - West Ashley at Bees Ferry",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.08368991319253,
+                "y": 32.82528754992444
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "daee57a9-45cb-441e-b164-bea8b0781221",
+                "Loc_ID": null,
+                "OBJECTID": 36714,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "319 Folly Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29412",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care – James Island",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.97539823873683,
+                "y": 32.76126656478186
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "609ce890-419e-4b31-9564-58ee63d9ebf8",
+                "Loc_ID": null,
+                "OBJECTID": 36715,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "4278 Ladson Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Summerville",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29485",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care – Ladson",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.15366099917912,
+                "y": 32.96352686792443
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "f51da73b-9a49-4571-b0c8-a982077d0230",
+                "Loc_ID": null,
+                "OBJECTID": 36716,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "1114 N Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Summerville",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29483",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care- Summerville",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.16152082949941,
+                "y": 33.03426072595215
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "b83a5c90-b146-4cd5-8bac-e5942e5cf872",
+                "Loc_ID": null,
+                "OBJECTID": 36717,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "8901 University Blvd",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "843-727-3627",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Roper Saint Francis Express Care- North Charleston",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.05577088336247,
+                "y": 32.97313265367245
             }
         }
     ],
