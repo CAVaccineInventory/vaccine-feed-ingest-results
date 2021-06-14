@@ -14528,7 +14528,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3af9181e-3530-41c5-80df-596d72a1e1b0",
                 "Loc_ID": 325,
@@ -54253,7 +54253,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "50bf4f5c-5ee7-452f-a338-bc5f615826a8",
                 "Loc_ID": null,
