@@ -51243,41 +51243,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "bddb36e6-621a-4e71-b6a5-23f4b7ec4daa",
-                "Loc_ID": 1580,
-                "OBJECTID": 19379,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "2200 Crow Lane",
-                "SiteAddressDetail": "Suite 301",
-                "SiteCity": "Myrtle Beach",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29577",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Tidelands Health at The Market Common Multi Specialty",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": null,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA926056",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -78.95675366165204,
-                "y": 33.68112757237975
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "daa11d0b-f8e4-4dee-baf8-50899d8900d3",
@@ -54078,21 +54043,21 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5ce0b5de-0918-43a1-a705-b87a82739587",
                 "Loc_ID": 1667,
                 "OBJECTID": 23452,
                 "Phone_Sec": null,
-                "Region": null,
+                "Region": "MIDLANDS",
                 "SiteAddress": "169 Medical Circle",
                 "SiteAddressDetail": "Suite C",
                 "SiteCity": "West Columbia",
-                "SitePhone": null,
+                "SitePhone": "803-888-9020",
                 "SiteState": "SC",
                 "SiteZip": "29169",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Plante Internal Medicine",
                 "loc_type1": "Medical practice - internal medicine",
