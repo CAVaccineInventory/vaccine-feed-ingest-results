@@ -2602,10 +2602,10 @@
                 "OBJECTID": 170,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "3104 N Walnut St. Hartford City, IN. 47348",
+                "Site_Address": "506 E. Van Cleve St., Hartford City, IN  47348",
                 "Site_County": "Blackford",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "BLACKFRD ELKS LODGE 625 COVID VAX",
+                "Site_Name": "BLACKFORD CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -2620,8 +2620,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.36921333792367,
-                "y": 40.47800260846578
+                "x": -85.3624595356244,
+                "y": 40.456266493321635
             }
         },
         {
@@ -21475,38 +21475,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "e1da7ad5-2d62-4349-95ab-fa7df3ee1f5d",
-                "ID": null,
-                "IsView": 1,
-                "Name": "MILLERSBURG ELEMENTARY SCHOOL VAX",
-                "OBJECTID": 889,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "203 E. Main St, Millersburg, IN 46543",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": null,
-                "Site_Name": "MILLERSBURG ELEMENTARY SCHOOL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.69718610192827,
-                "y": 41.525791763694905
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "e3f678d4-f992-4378-b7bc-a099e25d6bd9",
                 "ID": null,
                 "IsView": 1,
@@ -33548,7 +33516,7 @@
                 "Promote_Site": "Y",
                 "Site_Address": "3718 E. Blue Ridge Rd, Shelbyville, IN 46176",
                 "Site_County": "Shelby",
-                "Site_Location_Info": "This is a mobile site June 23 – 25.",
+                "Site_Location_Info": "This is a mobile site June 23 – 25, 9am – 6pm.",
                 "Site_Name": "Mt Pisgah Baptist Church VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -33996,7 +33964,7 @@
                 "Promote_Site": "Y",
                 "Site_Address": "1002 W. Popcorn Road, Bloomington, IN  47403",
                 "Site_County": "Monroe",
-                "Site_Location_Info": "This is a mobile clinic June 23 – 25, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Location_Info": "This is a mobile clinic June 23 – 25 and July 14 – 16, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson.",
                 "Site_Name": "Harrodsburg Community Center VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",

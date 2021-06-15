@@ -2873,6 +2873,146 @@
         {
             "attributes": {
                 "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "d41daf59-3cfa-416c-81ec-15c156212ea7",
+                "Loc_ID": 716,
+                "OBJECTID": 131,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "148 Sauls St",
+                "SiteAddressDetail": "Suite E",
+                "SiteCity": "Lake City",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29560",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Express Care - Lake City",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1084,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA921019",
+                "vtrcks_ID": 40220092
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.7526635123312,
+                "y": 33.87350965997365
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "12e0f6db-12d6-405c-96de-a2c6cd5cdafd",
+                "Loc_ID": 712,
+                "OBJECTID": 132,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1205 N. Main St.",
+                "SiteAddressDetail": null,
+                "SiteCity": "Marion",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29571",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Marion",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1085,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA934004",
+                "vtrcks_ID": 40220093
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.39836320410171,
+                "y": 34.19189680883193
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "4b7e929a-e520-40e6-9647-1de843a709fc",
+                "Loc_ID": 713,
+                "OBJECTID": 133,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "2835 E. Highway 76   ",
+                "SiteAddressDetail": "Med Park 1 Suite 7     ",
+                "SiteCity": "Mullins",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29574",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Marion Medical Park   ",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1086,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA934005",
+                "vtrcks_ID": 40220094
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.32457965782908,
+                "y": 34.1872588110852
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "654e059a-48c8-47a0-900a-93934e4b690f",
+                "Loc_ID": 717,
+                "OBJECTID": 134,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "511 S. Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Mullins",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29574",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Mullins",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1087,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA934006",
+                "vtrcks_ID": 40220098
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.25269973506812,
+                "y": 34.199445038788554
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "5d0c893c-e46a-4bd9-b287-f338bbaf79a0",
@@ -2903,6 +3043,41 @@
                 },
                 "x": -79.75205798225267,
                 "y": 34.16009186863772
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "aaa62b60-f106-4030-91df-341432498b75",
+                "Loc_ID": 772,
+                "OBJECTID": 136,
+                "Phone_Sec": null,
+                "Region": "Lowcountry",
+                "SiteAddress": "1600 Midtown Avenue",
+                "SiteAddressDetail": null,
+                "SiteCity": "Mount Pleasant",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29464",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health East Campus",
+                "loc_type1": "Medical practice – internal medicine",
+                "ref_ID": 1089,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA910041",
+                "vtrcks_ID": 40220096
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.8405151799081,
+                "y": 32.81768998524535
             }
         },
         {
@@ -6373,7 +6548,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b92e9ec8-cec4-49f8-a56d-ea23f0f7831b",
                 "Loc_ID": 679,
@@ -8158,7 +8333,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "84c52fba-02ea-4406-afb1-948c7b2e4775",
                 "Loc_ID": 415,
@@ -8168,7 +8343,7 @@
                 "SiteAddress": "4633 savannah hwy",
                 "SiteAddressDetail": null,
                 "SiteCity": "North",
-                "SitePhone": "",
+                "SitePhone": "803-247-2133",
                 "SiteState": "SC",
                 "SiteZip": "29112",
                 "URL": null,
@@ -9518,6 +9693,76 @@
                 },
                 "x": -79.87061008041587,
                 "y": 32.84326927875554
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "1f06458c-99de-4a75-85a5-cc5d2d700478",
+                "Loc_ID": 706,
+                "OBJECTID": 429,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1925 Hoffmeyer Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29501",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Express Care - Florence",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1383,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA921011",
+                "vtrcks_ID": 40203549
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.80522748795045,
+                "y": 34.19051962328729
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "Tue 9am-2pm Wed 7am-12pm",
+                "GlobalID": "0563b042-9ec9-48db-bfc7-0bf36ebc7f1f",
+                "Loc_ID": 701,
+                "OBJECTID": 430,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1594 Freedom Blvd",
+                "SiteAddressDetail": "Medical Pavilion C Suite 202",
+                "SiteCity": "Florence",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29505",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Pee Dee Primary Care - Florence Medical Pavilion",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1384,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA921012",
+                "vtrcks_ID": 40203550
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.75263103913198,
+                "y": 34.160810279032546
             }
         },
         {
@@ -13863,41 +14108,6 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "b5ee2e28-1faa-42fb-b534-5c0997d1e75b",
-                "Loc_ID": 107,
-                "OBJECTID": 637,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "15740 N Highway 11 Ste 2B",
-                "SiteAddressDetail": null,
-                "SiteCity": "Salem",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29676",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Keowee Family Pharmacy",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": 1591,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA937001",
-                "vtrcks_ID": 40192244
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.92370709225145,
-                "y": 34.91370516764158
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "abeaba4a-5f34-4439-a4a1-886f01e01e93",
@@ -15055,6 +15265,286 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
+                "GlobalID": "04e56ba7-97ba-40d1-8367-2010c184e695",
+                "Loc_ID": 715,
+                "OBJECTID": 673,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "805 Pamplico Highway",
+                "SiteAddressDetail": "Medical Pavillion A Suite 315",
+                "SiteCity": "Florence",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29505",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Hematology & Oncology - Florence Medical Pavilion",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1627,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA921007",
+                "vtrcks_ID": 40195461
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.75205798225267,
+                "y": 34.16009186863772
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "e4a7d8d5-0bcd-4602-a132-64de407c4626",
+                "Loc_ID": 718,
+                "OBJECTID": 674,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "805 Pamplico Highway",
+                "SiteAddressDetail": "Medical Pavillion B Suite 300",
+                "SiteCity": "Florence",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29505",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Infectious Diseases - Florence Medical Pavilion",
+                "loc_type1": "Medical practice – other specialty",
+                "ref_ID": 1628,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA921006",
+                "vtrcks_ID": 40195377
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.75205798225267,
+                "y": 34.16009186863772
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "9675dbc0-990f-4523-aa06-f7e7b3fa7ba9",
+                "Loc_ID": 709,
+                "OBJECTID": 675,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "301 Pearl St.",
+                "SiteAddressDetail": "Darlington",
+                "SiteCity": "Darlington",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29532",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Darlington",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1629,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA916002",
+                "vtrcks_ID": 40195374
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.87398514795632,
+                "y": 34.300974016284044
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "a628f5a7-8158-4597-b4cf-b24d2a86314f",
+                "Loc_ID": 708,
+                "OBJECTID": 676,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1925 Hoffmeyer Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29501",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Hoffmeyer    ",
+                "loc_type1": "Medical practice – other specialty",
+                "ref_ID": 1630,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA121124",
+                "vtrcks_ID": 40056778
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.80522748795045,
+                "y": 34.19051962328729
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "637811d1-2dca-4668-8608-54d8ebddd112",
+                "Loc_ID": 707,
+                "OBJECTID": 677,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "342 West Main Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Kingstree",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29556",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Kingstree",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1631,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA945001",
+                "vtrcks_ID": 40195379
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.83594929125394,
+                "y": 33.66286461570496
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "13adfde9-1ac3-4ff0-89fd-84053cd919a6",
+                "Loc_ID": 710,
+                "OBJECTID": 678,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "148 Sauls Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Lake City",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29560",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Lake City",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1632,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA121130",
+                "vtrcks_ID": 40103521
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.7526635123312,
+                "y": 33.87350965997365
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "efd687de-95fd-4ea3-b4fa-40453ebdcda4",
+                "Loc_ID": 711,
+                "OBJECTID": 679,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "953 S. Pamplico Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Pamplico",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29583",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Pamplico",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1633,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA921005",
+                "vtrcks_ID": 40195380
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.5670122121615,
+                "y": 33.98406219029977
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "07ded5ce-0091-403c-9151-46ad74c2f55b",
+                "Loc_ID": 704,
+                "OBJECTID": 680,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "2501 S Vance Drive",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "",
+                "SiteState": "SC",
+                "SiteZip": "29505",
+                "URL": "muschealth.org/vaccine",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "MUSC Health - Primary Care - Vance ",
+                "loc_type1": "Medical practice – family medicine",
+                "ref_ID": 1634,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA921004",
+                "vtrcks_ID": 40195378
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.7495728864439,
+                "y": 34.160063275676634
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
                 "GlobalID": "fcc63bff-7226-4823-b512-df99e8b49073",
                 "Loc_ID": 683,
                 "OBJECTID": 681,
@@ -15193,7 +15683,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "MUSCRehabCOVIDVaccine@encompasshealth.com",
                 "GlobalID": "b1b5169d-c0c8-47ef-9025-d5e6e5b071e9",
                 "Loc_ID": 367,
@@ -15228,7 +15718,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccinerequest@musc.edu",
                 "GlobalID": "89df5f0e-fed6-43a8-9e3e-b360baad6a9c",
                 "Loc_ID": 695,
@@ -15263,7 +15753,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccinerequest@musc.edu",
                 "GlobalID": "da4b06a0-94a4-47ce-85a0-d348d36c9610",
                 "Loc_ID": 681,
@@ -17538,7 +18028,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3af62a37-3981-4577-b1ba-8154f4f63826",
                 "Loc_ID": 668,
@@ -26500,41 +26990,6 @@
                 "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "a7cb0a2e-c723-4efa-b6d9-dc4195305d9d",
-                "Loc_ID": 498,
-                "OBJECTID": 1152,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2101 Dutch Fork Road",
-                "SiteAddressDetail": "",
-                "SiteCity": "Chapin",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29036",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "The Heritage at Lowman",
-                "loc_type1": "Long-term care – combination (e.g., assisted living and nursing home in same facility)",
-                "ref_ID": 2108,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA940060",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.27520873143169,
-                "y": 34.14420194312561
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "8a185be7-a0fb-4caa-ad52-796ac24120fa",
                 "Loc_ID": 489,
                 "OBJECTID": 1171,
@@ -29333,7 +29788,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c3b70f8e-7da3-4b94-9e17-214928146b81",
                 "Loc_ID": null,
@@ -41023,7 +41478,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2a733a03-f7bc-404a-8856-1ef0cde7f68d",
                 "Loc_ID": null,
@@ -44558,7 +45013,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "75ae24c7-f20a-4246-bcaa-0aca32539f6d",
                 "Loc_ID": null,
@@ -51103,8 +51558,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "parkerroaddrugstore.com",
                 "GlobalID": "a06fe465-4274-41a3-9aff-78b0b0218f95",
                 "Loc_ID": 1643,
                 "OBJECTID": 19421,
@@ -51113,14 +51568,14 @@
                 "SiteAddress": "1319 Woodside Ave",
                 "SiteAddressDetail": " ",
                 "SiteCity": "GREENVILLE",
-                "SitePhone": null,
+                "SitePhone": "864.232.4662",
                 "SiteState": "SC",
                 "SiteZip": "29611",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "PARKER ROAD DRUG STORE",
-                "loc_type1": "Pharmacy – independent",
+                "loc_type1": "Pharmacy - independent",
                 "ref_ID": null,
                 "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
                 "vfc_text": "SCA923081",
@@ -52848,6 +53303,41 @@
                 },
                 "x": -80.25523171199967,
                 "y": 33.05451637400046
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "2cd86e1c-4303-498e-abed-f319c938c975",
+                "Loc_ID": null,
+                "OBJECTID": 23461,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "1320 Clemson Rd",
+                "SiteAddressDetail": "North Springs Park",
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29229",
+                "URL": "https://mychart.musc.edu/mychart/openscheduling/SignupAndSchedule/EmbeddedSchedule?vt=11353&id=39983",
+                "V_Manufacturer": "Pfizer",
+                "layer_id": 0,
+                "loc_name": "MUSC Health Community Vaccination Event - North Springs Park",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.88994031999965,
+                "y": 34.140844330000505
             }
         },
         {
@@ -56248,7 +56738,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bb18c5da-1384-4087-8526-daa3bc6984a5",
                 "Loc_ID": null,
@@ -57718,7 +58208,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0d8837bf-d656-4dfd-9380-8dd3d27d2c1e",
                 "Loc_ID": null,
@@ -57753,7 +58243,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "54025e50-dbe9-4548-8a06-dde06f577728",
                 "Loc_ID": null,
@@ -58693,6 +59183,76 @@
                 },
                 "x": -80.05577088336247,
                 "y": 32.97313265367245
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "1d559a11-d18a-44ac-8048-83fbab783bb7",
+                "Loc_ID": null,
+                "OBJECTID": 37111,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "635 Business Park Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Seneca",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29678",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @Golden Corner Food Pantry",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.98056324151361,
+                "y": 34.67458187086646
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "023ccb09-9bb9-4bdc-a77e-285d8fa31345",
+                "Loc_ID": null,
+                "OBJECTID": 37112,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "119 Church St W",
+                "SiteAddressDetail": null,
+                "SiteCity": "Troy",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29848",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @Troy Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.30024568698622,
+                "y": 33.98733636994206
             }
         }
     ],

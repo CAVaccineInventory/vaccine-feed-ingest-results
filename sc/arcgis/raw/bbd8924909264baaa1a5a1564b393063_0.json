@@ -4517,8 +4517,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d41daf59-3cfa-416c-81ec-15c156212ea7",
                 "Loc_ID": 716,
@@ -4552,8 +4552,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "12e0f6db-12d6-405c-96de-a2c6cd5cdafd",
                 "Loc_ID": 712,
@@ -4587,8 +4587,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "4b7e929a-e520-40e6-9647-1de843a709fc",
                 "Loc_ID": 713,
@@ -4622,8 +4622,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "654e059a-48c8-47a0-900a-93934e4b690f",
                 "Loc_ID": 717,
@@ -4692,8 +4692,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "aaa62b60-f106-4030-91df-341432498b75",
                 "Loc_ID": 772,
@@ -9628,7 +9628,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b92e9ec8-cec4-49f8-a56d-ea23f0f7831b",
                 "Loc_ID": 679,
@@ -12708,7 +12708,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "84c52fba-02ea-4406-afb1-948c7b2e4775",
                 "Loc_ID": 415,
@@ -12718,7 +12718,7 @@
                 "SiteAddress": "4633 savannah hwy",
                 "SiteAddressDetail": null,
                 "SiteCity": "North",
-                "SitePhone": "",
+                "SitePhone": "803-247-2133",
                 "SiteState": "SC",
                 "SiteZip": "29112",
                 "URL": null,
@@ -14947,8 +14947,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1f06458c-99de-4a75-85a5-cc5d2d700478",
                 "Loc_ID": 706,
@@ -14982,8 +14982,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": "Tue 9am-2pm Wed 7am-12pm",
                 "GlobalID": "0563b042-9ec9-48db-bfc7-0bf36ebc7f1f",
                 "Loc_ID": 701,
@@ -22192,7 +22192,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b5ee2e28-1faa-42fb-b534-5c0997d1e75b",
@@ -23417,7 +23417,7 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
+                "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "04e56ba7-97ba-40d1-8367-2010c184e695",
@@ -23452,8 +23452,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e4a7d8d5-0bcd-4602-a132-64de407c4626",
                 "Loc_ID": 718,
@@ -23487,8 +23487,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "9675dbc0-990f-4523-aa06-f7e7b3fa7ba9",
                 "Loc_ID": 709,
@@ -23522,8 +23522,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a628f5a7-8158-4597-b4cf-b24d2a86314f",
                 "Loc_ID": 708,
@@ -23557,8 +23557,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "637811d1-2dca-4668-8608-54d8ebddd112",
                 "Loc_ID": 707,
@@ -23592,8 +23592,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "13adfde9-1ac3-4ff0-89fd-84053cd919a6",
                 "Loc_ID": 710,
@@ -23627,8 +23627,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "efd687de-95fd-4ea3-b4fa-40453ebdcda4",
                 "Loc_ID": 711,
@@ -23662,8 +23662,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "07ded5ce-0091-403c-9151-46ad74c2f55b",
                 "Loc_ID": 704,
@@ -23838,7 +23838,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "MUSCRehabCOVIDVaccine@encompasshealth.com",
                 "GlobalID": "b1b5169d-c0c8-47ef-9025-d5e6e5b071e9",
                 "Loc_ID": 367,
@@ -23873,7 +23873,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccinerequest@musc.edu",
                 "GlobalID": "89df5f0e-fed6-43a8-9e3e-b360baad6a9c",
                 "Loc_ID": 695,
@@ -23908,7 +23908,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "covidvaccinerequest@musc.edu",
                 "GlobalID": "da4b06a0-94a4-47ce-85a0-d348d36c9610",
                 "Loc_ID": 681,
@@ -26918,7 +26918,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3af62a37-3981-4577-b1ba-8154f4f63826",
                 "Loc_ID": 668,
@@ -39552,7 +39552,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a7cb0a2e-c723-4efa-b6d9-dc4195305d9d",
@@ -45293,7 +45293,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c3b70f8e-7da3-4b94-9e17-214928146b81",
                 "Loc_ID": null,
@@ -58628,7 +58628,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2a733a03-f7bc-404a-8856-1ef0cde7f68d",
                 "Loc_ID": null,
@@ -62233,7 +62233,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "75ae24c7-f20a-4246-bcaa-0aca32539f6d",
                 "Loc_ID": null,
@@ -69653,8 +69653,8 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
-                "Contact": null,
+                "Appointments": "Yes",
+                "Contact": "parkerroaddrugstore.com",
                 "GlobalID": "a06fe465-4274-41a3-9aff-78b0b0218f95",
                 "Loc_ID": 1643,
                 "OBJECTID": 19421,
@@ -69663,14 +69663,14 @@
                 "SiteAddress": "1319 Woodside Ave",
                 "SiteAddressDetail": " ",
                 "SiteCity": "GREENVILLE",
-                "SitePhone": null,
+                "SitePhone": "864.232.4662",
                 "SiteState": "SC",
                 "SiteZip": "29611",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "PARKER ROAD DRUG STORE",
-                "loc_type1": "Pharmacy – independent",
+                "loc_type1": "Pharmacy - independent",
                 "ref_ID": null,
                 "service_item_id": "bbd8924909264baaa1a5a1564b393063",
                 "vfc_text": "SCA923081",
@@ -71857,8 +71857,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2cd86e1c-4303-498e-abed-f319c938c975",
                 "Loc_ID": null,
@@ -75568,7 +75568,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bb18c5da-1384-4087-8526-daa3bc6984a5",
                 "Loc_ID": null,
@@ -77038,7 +77038,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0d8837bf-d656-4dfd-9380-8dd3d27d2c1e",
                 "Loc_ID": null,
@@ -77073,7 +77073,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "54025e50-dbe9-4548-8a06-dde06f577728",
                 "Loc_ID": null,
@@ -78013,6 +78013,76 @@
                 },
                 "x": -80.05577088336247,
                 "y": 32.97313265367245
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "1d559a11-d18a-44ac-8048-83fbab783bb7",
+                "Loc_ID": null,
+                "OBJECTID": 37111,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "635 Business Park Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Seneca",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29678",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @Golden Corner Food Pantry",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.98056324151361,
+                "y": 34.67458187086646
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "023ccb09-9bb9-4bdc-a77e-285d8fa31345",
+                "Loc_ID": null,
+                "OBJECTID": 37112,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "119 Church St W",
+                "SiteAddressDetail": null,
+                "SiteCity": "Troy",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29848",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @Troy Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.30024568698622,
+                "y": 33.98733636994206
             }
         }
     ],
