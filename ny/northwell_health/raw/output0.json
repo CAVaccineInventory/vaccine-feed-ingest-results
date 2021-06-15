@@ -83,10 +83,10 @@
         "hours": [
             {
                 "day": "monday",
-                "general_status": "open",
+                "general_status": "closed",
                 "current_status": "closed",
-                "time_open": "12:00pm",
-                "time_closed": "6:45pm"
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "tuesday",
