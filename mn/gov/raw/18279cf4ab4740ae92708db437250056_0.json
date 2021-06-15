@@ -36209,6 +36209,57 @@
                 "x": -92.55102598692804,
                 "y": 47.53106199089953
             }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "612 S Sibley Ave, NA",
+                "City": "Litchfield",
+                "County": "Meeker",
+                "EndDate": null,
+                "FridayEnd": "5:00pm",
+                "FridayStart": "8:00am",
+                "MondayEnd": "5:00pm",
+                "MondayStart": "8:00am",
+                "OBJECTID": 6450,
+                "Phone": "(320) 693-3233",
+                "ProviderName": "Meeker Memorial Hospital & Clinics",
+                "SaturdayEnd": "12:00pm",
+                "SaturdayStart": "8:00am",
+                "SiteName": "Meeker Memorial Hospital & Clinics - Litchfield (East Building)",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": "Closed",
+                "SundayStart": "Closed",
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "Appointment|No appointment necessary",
+                "TestingTypes": "Moderna (age 18+)|Pfizer (age 12+)|COVID-19 Vaccine",
+                "ThursdayEnd": "5:00pm",
+                "ThursdayStart": "8:00am",
+                "TuesdayEnd": "5:00pm",
+                "TuesdayStart": "8:00am",
+                "URL": "https://www.meekermemorial.org",
+                "UpdateDate": "2021-06-14 15:33:21",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
+                "WednesdayEnd": "5:00pm",
+                "WednesdayStart": "8:00am",
+                "Zip": "55355",
+                "globalid": "75ca0ff7-837d-4542-b1f9-d166963d9234",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -94.52816003678748,
+                "y": 45.11949000187195
+            }
         }
     ],
     "fields": [

@@ -446,32 +446,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Mesa County Public Health Department Site</name>
-        <description><![CDATA[Hours of Operation: <br>Wednesday through Friday 3 p.m. to 7 p.m.<br>Saturday 9 a.m. - 1 p.m.<br><br>Days of Operation: Wednesday -  Saturday<br><br>Address: 510 29 1/2 Rd, Grand Junction, CO 81504<br>Registration Link: <br>English:https://scheduling.mesacountyhealth.com/english/signup.php<br><br>Español: https://scheduling.mesacountyhealth.com/espanol/inscribirse.php<br><br>Type of Vaccine: Pfizer / Moderna/ Janssen (when available)]]></description>
-        <styleUrl>#icon-1502-4E342E</styleUrl>
-        <Point>
-          <coordinates>
-            -108.5041943,39.0785219,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Dick’s Sporting Goods Park: Community Vaccination Site </name>
         <description><![CDATA[Hours of Operation: 9 a.m. - 5 p.m.<br><br>Days of Operation: Sunday through Thursday<br><br>Registration Link: <br>www.Centura.org/vaccine<br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer <br><br>Registration Required. ]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
             -104.8918168,39.8056202,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Colorado State Fairgrounds: Community Vaccination Site</name>
-        <description><![CDATA[Hours of Operation:  10 a.m. to 6 p.m. <br><br>Days of Operation: Monday through Saturday:<br>Sunday: Closed<br><br>Registration Link:<br>www.Centura.org/vaccine<br><br>Same Day and Walk/Drive Up Appointments Available<br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer ]]></description>
-        <styleUrl>#icon-1502-4E342E</styleUrl>
-        <Point>
-          <coordinates>
-            -104.6428985,38.2485466,0
           </coordinates>
         </Point>
       </Placemark>

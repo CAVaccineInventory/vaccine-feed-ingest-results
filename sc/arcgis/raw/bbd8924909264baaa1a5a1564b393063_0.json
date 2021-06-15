@@ -13737,7 +13737,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29909",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Bluffton Okatie Surgery Center",
                 "loc_type1": "Ambulatory Surgery Center",
@@ -20267,7 +20267,7 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
+                "Activated1": "No",
                 "Appointments": "No",
                 "Contact": "covidvaccineinfo@selfregional.org",
                 "GlobalID": "5ebd9b77-f436-46c2-82d4-3db1d9bd898d",

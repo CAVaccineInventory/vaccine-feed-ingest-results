@@ -8941,7 +8941,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29909",
                 "URL": null,
-                "V_Manufacturer": null,
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "Bluffton Okatie Surgery Center",
@@ -12878,41 +12878,6 @@
                 },
                 "x": -81.778172216092,
                 "y": 34.00283719599378
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": "covidvaccineinfo@selfregional.org",
-                "GlobalID": "5ebd9b77-f436-46c2-82d4-3db1d9bd898d",
-                "Loc_ID": 516,
-                "OBJECTID": 582,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "300 Ridge Medical Plaza Rd.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Edgefield",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29824",
-                "URL": "https://www.selfregional.org/covid-vaccine-info/",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "Edgefield County Hospital",
-                "loc_type1": "Hospital",
-                "ref_ID": 1536,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA519001",
-                "vtrcks_ID": 40118005
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.92963363924304,
-                "y": 33.77847078494574
             }
         },
         {

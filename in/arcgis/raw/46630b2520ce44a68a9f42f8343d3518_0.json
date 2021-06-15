@@ -3718,14 +3718,14 @@
                 "GlobalID": "ab38efbb-6f53-4813-8729-41c8e0221f36",
                 "ID": null,
                 "IsView": 1,
-                "Name": "Vigo Co 696 South 1st Street VAX",
+                "Name": "Vigo Co HD Covid VAX",
                 "OBJECTID": 219,
                 "Promote_Name": null,
                 "Promote_Site": null,
                 "Site_Address": "696 S. 1st St.  Terre Haute, IN 47807",
                 "Site_County": "Vigo",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "Vigo Co 696 South 1st Street VAX",
+                "Site_Location_Info": "This vaccine site has Moderns, Pfizer and Johnson & Johnson.",
+                "Site_Name": "Vigo Co HD Covid VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -34014,6 +34014,38 @@
                 },
                 "x": -86.54838412054059,
                 "y": 39.01223701482807
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "b7dca7d4-cbfd-4e63-bb87-9395d6fa4501",
+                "ID": "ISDH2087",
+                "IsView": 1,
+                "Name": "Spencer County 4-H Fair VAX",
+                "OBJECTID": 1302,
+                "Promote_Name": "Spencer County 4-H Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47611</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "1101 E County Road 800 N, CHRISNEY,  IN 47611",
+                "Site_County": "Spencer",
+                "Site_Location_Info": "This is a mobile clinic ONE day only, June 26, noon – 6pm.   This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Spencer County 4-H Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.03457085914356,
+                "y": 38.002819788550184
             }
         }
     ],
