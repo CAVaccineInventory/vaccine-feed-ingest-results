@@ -9733,7 +9733,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d41c15cf-3938-4637-9a4a-dd2a01747019",
                 "Loc_ID": 662,
@@ -16558,7 +16558,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "beckyr@achospital.org",
                 "GlobalID": "f23d46cb-4f9e-493c-9b56-1faf00d02e12",
                 "Loc_ID": 331,
@@ -17188,7 +17188,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "72fa150e-869d-4bff-803c-57293838d7c6",
                 "Loc_ID": 390,
@@ -17223,7 +17223,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7e737e32-8aae-416b-9fc9-5c56df73ac74",
                 "Loc_ID": 373,
@@ -18132,8 +18132,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": "HHRH_COVID_VACCINE_INFORMATION@tenethealth.com ",
                 "GlobalID": "66e87f05-4334-4537-b1bc-13b047429a72",
                 "Loc_ID": 381,
@@ -22473,7 +22473,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f53a9e25-8790-4867-a950-e59b1cd2642b",
                 "Loc_ID": 323,
@@ -23313,7 +23313,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "654903ad-7c0f-42f0-8e65-3a6c61f88412",
                 "Loc_ID": 378,
@@ -24993,7 +24993,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "PMC-COVID-Vaccination@tenethealth.com",
                 "GlobalID": "ea1d2bec-d62d-43ea-ac7d-69f685625994",
                 "Loc_ID": 276,
@@ -26253,7 +26253,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1a9a9f93-0343-4d0e-9a35-c9f3a92c2ead",
                 "Loc_ID": 368,
@@ -34093,7 +34093,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "22b651c5-d686-4505-b559-d9c4c9be86a6",
                 "Loc_ID": 1387,
@@ -44593,7 +44593,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e1fdab58-1712-4cde-865c-e24d479fdd4a",
                 "Loc_ID": null,
@@ -71962,8 +71962,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "50bf4f5c-5ee7-452f-a338-bc5f615826a8",
                 "Loc_ID": null,

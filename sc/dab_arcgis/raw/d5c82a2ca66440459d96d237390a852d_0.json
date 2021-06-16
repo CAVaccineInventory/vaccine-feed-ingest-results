@@ -6582,7 +6582,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "d41c15cf-3938-4637-9a4a-dd2a01747019",
                 "Loc_ID": 662,
@@ -10922,7 +10922,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "beckyr@achospital.org",
                 "GlobalID": "f23d46cb-4f9e-493c-9b56-1faf00d02e12",
                 "Loc_ID": 331,
@@ -11377,7 +11377,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "72fa150e-869d-4bff-803c-57293838d7c6",
                 "Loc_ID": 390,
@@ -11412,7 +11412,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7e737e32-8aae-416b-9fc9-5c56df73ac74",
                 "Loc_ID": 373,
@@ -12038,6 +12038,41 @@
                 },
                 "x": -79.00564518061401,
                 "y": 33.67698879020446
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": "HHRH_COVID_VACCINE_INFORMATION@tenethealth.com ",
+                "GlobalID": "66e87f05-4334-4537-b1bc-13b047429a72",
+                "Loc_ID": 381,
+                "OBJECTID": 520,
+                "Phone_Sec": null,
+                "Region": "Lowcountry",
+                "SiteAddress": "1000 Medical Center Drive",
+                "SiteAddressDetail": null,
+                "SiteCity": "Hardeeville",
+                "SitePhone": "843-689-7282",
+                "SiteState": "SC",
+                "SiteZip": "29927",
+                "URL": "https://www.hiltonheadregional.com/our-response-to-covid-19/contact-us",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "Coastal Carolina Hospital",
+                "loc_type1": "Hospital",
+                "ref_ID": 1474,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": "SCA527001",
+                "vtrcks_ID": 40118114
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.05658441841547,
+                "y": 32.317718745338084
             }
         },
         {
@@ -14317,7 +14352,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "f53a9e25-8790-4867-a950-e59b1cd2642b",
                 "Loc_ID": 323,
@@ -15157,7 +15192,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "654903ad-7c0f-42f0-8e65-3a6c61f88412",
                 "Loc_ID": 378,
@@ -16592,7 +16627,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": "PMC-COVID-Vaccination@tenethealth.com",
                 "GlobalID": "ea1d2bec-d62d-43ea-ac7d-69f685625994",
                 "Loc_ID": 276,
@@ -17467,7 +17502,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1a9a9f93-0343-4d0e-9a35-c9f3a92c2ead",
                 "Loc_ID": 368,
@@ -24467,7 +24502,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "22b651c5-d686-4505-b559-d9c4c9be86a6",
                 "Loc_ID": 1387,
@@ -29087,7 +29122,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e1fdab58-1712-4cde-865c-e24d479fdd4a",
                 "Loc_ID": null,
@@ -53408,6 +53443,41 @@
                 },
                 "x": -81.59823644354708,
                 "y": 33.85237307162123
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "50bf4f5c-5ee7-452f-a338-bc5f615826a8",
+                "Loc_ID": null,
+                "OBJECTID": 23470,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "1066 Sunset Blvd",
+                "SiteAddressDetail": null,
+                "SiteCity": "West Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29169",
+                "URL": "https://www.lexmed.com/coronavirus/covid19-vaccine",
+                "V_Manufacturer": "PZR, MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "Lexington Medical Center @ Brookland Baptist Church",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.07354548809747,
+                "y": 33.99824570709109
             }
         },
         {

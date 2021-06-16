@@ -1418,9 +1418,9 @@
                 "OBJECTID": 128,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1145 W 5th Ave, Gary, IN 46402",
+                "Site_Address": "640 Tyler Street. Gary, IN  46402",
                 "Site_County": "Lake",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This clinic is located at the Tyler Street address on Mon, Wed, Thurs.  The clinic operates at 1145 W 5th Ave, Gary, IN 46402 on Saturdays.  This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "GARY CITY HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -1436,8 +1436,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -87.35143501831006,
-                "y": 41.60195672434299
+                "x": -87.34852750373784,
+                "y": 41.599369332421375
             }
         },
         {
@@ -34014,6 +34014,38 @@
                 },
                 "x": -87.03457085914356,
                 "y": 38.002819788550184
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "6ea25247-a9b9-4d44-b490-77a769dc5dfd",
+                "ID": "ISDH2088",
+                "IsView": 1,
+                "Name": "Minority Health Fair VAX",
+                "OBJECTID": 1303,
+                "Promote_Name": "Minority Health Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46225</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "Indiana Convention Center – Hall J, 100 S. Capital Ave, Indianapolis, IN  46225",
+                "Site_County": "Marion",
+                "Site_Location_Info": "This is a mobile clinic on July 16 & 17, 10am – 7pm and July 18 noon – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Minority Health Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-ins accepted",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.16215479672941,
+                "y": 39.76485518701416
             }
         }
     ],

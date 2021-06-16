@@ -154,7 +154,7 @@ ga('send', 'pageview');
                             <select id="options" onchange="lookingGlass()" class="custom-select">
                               <option value="">Find A Vaccine</option>
                               <option value="vaccine-finder">VaccineFinder.org</option>
-                              <option value="events">State Supported Events</option>
+                              <!-- <option value="events">State Supported Events</option> -->
                               <option value="navigator">Missouri's Vaccine Navigator</option>
                               <!-- <option value="map">Missouri's Local Vaccinators</option> -->
                             </select>
@@ -218,391 +218,7 @@ ga('send', 'pageview');
       </div>
       <!-- End of VaccineFinder -->
 
-      <!-- Start of Events -->
-      <div id="display_mve">
-        <div class="container">
-          <h2 class="dark centered">State Supported Events</h2><hr>
-          <ul class="h-w-pipes text-center" style="margin-top:25px;">
-              <li class="">
-                  <a href="#region_a">Region A</a>
-              </li>
-              <li class="">
-                  <a href="#region_b">Region B</a>
-              </li>
-              <li class="">
-                  <a href="#region_c">Region C</a>
-              </li>
-              <li class="">
-                  <a href="#region_d">Region D</a>
-              </li>
-              <li class="">
-                  <a href="#region_e">Region E</a>
-              </li>
-              <li class="">
-                  <a href="#region_f">Region F</a>
-              </li>
-              <li class="">
-                  <a href="#region_g">Region G</a>
-              </li>
-              <li class="">
-                  <a href="#region_h">Region H</a>
-              </li>
-              <li class="">
-                  <a href="#region_i">Region I</a>
-              </li>
 
-          </ul>
-          <div class="alert alert-custom-info white-text centered mt-4">
-            Click a county below to find events in your region, choose the event that works for you and then click the button to learn more from that local vaccination site.
-          </div>
-          <div class="row ">
-                  <div class="legend col-md-2 offset-md-3 d-none d-sm-block d-sm-none d-md-block" style="margin-top:7%">
-                    <h2 class="dark">Regions</h2>
-
-                    <p class="dark"><span style="background-color:#7c4ba4">&nbsp;&nbsp;&nbsp;&nbsp;</span> A<br>
-                    <span style="background-color:#bd4b35">&nbsp;&nbsp;&nbsp;&nbsp;</span> B<br>
-                    <span style="background-color:#1d5ecd">&nbsp;&nbsp;&nbsp;&nbsp;</span> C<br>
-                    <span style="background-color:#47235c">&nbsp;&nbsp;&nbsp;&nbsp;</span> D<br>
-                    <span style="background-color:#2b4b8a">&nbsp;&nbsp;&nbsp;&nbsp;</span> E<br>
-                    <span style="background-color:#f7bf13">&nbsp;&nbsp;&nbsp;&nbsp;</span> F<br>
-                    <span style="background-color:#7e661c">&nbsp;&nbsp;&nbsp;&nbsp;</span> G<br>
-                    <span style="background-color:#fa6043">&nbsp;&nbsp;&nbsp;&nbsp;</span> H<br>
-                    <span style="background-color:#c69b13">&nbsp;&nbsp;&nbsp;&nbsp;</span> I</p>
-                  </div>
-                  <div class="col-md-6  d-none d-sm-block d-sm-none d-md-block">
-                    <svg width="500" height="600" style="margin-top:0%;" class="float-left" ></svg>
-                  </div>
-                  <div class="col-md-6  d-block d-sm-block d-md-none d-lg-none d-xl-none">
-                    <img class="img-fluid" src="/img/events-map.png">
-                  </div>
-          </div>
-        </div>
-        <script>
-
-          var RGB = {
-          h:'#fa6043',
-          b:'#bd4b35',
-          a:'#7c4ba4',
-          f:'#f7bf13',
-          c:'#1d5ecd',
-          d:'#47235c',
-          i:'#c69b13',
-          g:'#7e661c',
-          e:'#2b4b8a',
-        };
-
-
-          /*----------------------Start of Heat Map marquee-------------------------*/
-          /*D3 select element "svg"....sets var width and height to the specified height and width that is on tag*/
-          var svg = d3.select('svg');
-
-          //.map() creates an array
-          var Project = d3.map();
-          //https://github.com/d3/d3-geo/blob/master/README.md#geoPath....create a new geographic path generator
-          var path = d3.geoPath();
-
-          //https://github.com/d3/d3-geo/blob/master/README.md#scaleLinear.....Create a quantitative linear/straight scale
-          //.domain... Create the input domain
-          //.rangeRound... set the output range and enable rounding
-
-          var x = d3.scaleLinear()
-                    .domain([1, 2])
-                    .rangeRound([839, 860]);
-
-          //https://github.com/d3/d3-scale/blob/master/README.md#scaleThreshold.....create an arbitrary quantizing linear scale.
-          //d3.schemeBlues[9].... different shade of blue
-          var color = d3.scaleThreshold().domain(d3.range(0, 4)).range(RGB);
-
-          //append all "g" tags in the svg tag then giv a class of "key" and transform to translate(0,40) (rotation)
-          var g = svg.append('g').attr('class', 'key').attr('transform', 'translate(-600,40)');
-
-
-          d3.queue()
-            .defer(d3.json, '/inc/Missouri.json')
-
-            .await(ready);
-
-
-
-          function ready(error, missouri) {
-
-            if (error) {
-              throw error;
-            }
-            var x = 0;
-            // var cincr = 0;
-            svg.append('g')
-               .attr('class', 'counties')
-               .selectAll('path')
-               .data(topojson.feature(missouri, missouri.objects.counties).features)
-               .enter()
-               .append('path')
-               .attr('transform', 'translate(-1970,-900) scale(4)')
-
-               .attr('fill', function(d) {
-                    // return RGB[Math.floor(Math.random()*4)];
-                    return RGB[d.id];
-                  })
-
-               .attr('d', path)
-               .attr('id',function(d){return d.id;})
-               .attr('style', 'stroke:white; stroke-width:.3px')
-               .attr('onclick',function(d){return "window.location.assign('/find/#region_"+d.id+"')";})
-              .append('title').text(function(d){return "Region "+d.id.toUpperCase();})
-          /*--------------------End of Heat Map ------------------------- */
-        }
-        </script>
-
-    <div class="container">
-
-      <div class="alert alert-custom-info white-text">
-          <!-- <h2 class="centered">Events scheduled Feb. 20 - Feb. 27, 2021</h2> -->
-          <p>The purpose of the state supported events is to provide an additional vaccination source
-             for Missourians who may have otherwise have a hard time receiving a vaccine. View other
-             options for getting your vaccine by using the drop-down menu above. </p>
-
-      </div>
-
-        <div class="row">
-            <div class="col-md-12">
-                <div class="card bg-light dark mt-4" id="region_a">
-                    <div class="card-body">
-                        <h4 class="card-title">Region A</h4>
-                        <hr>
-                        <p class="italic">Greater Kansas City Area</p>
-                        <hr>
-                        <p class="card-text">
-
-                                                       <div class="row">
-                             <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Clay<hr>Pfizer (Prime & Booster) and Moderna (Booster)</div><hr>May. 27 from 7:00 am – 7:00 pm<br/><br/>Ameristar Casino<br>3200 North Ameristar Dr<br>Kansas City MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Clay</div><hr>May. 28 from 9:00 am – 7:00 pm<br/><br/>Harvest Church (Worlds of Fun Booster)<br>4300 N Corrington Ave<br>Kansas City MO<br><br><br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-full w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 25 from 9:00 am – 5:00 pm<br/><br/>Bruce R. Watkins<br>3700 Blue Parkway<br>Kansas City MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 26 from 9:00 am – 5:00 pm<br/><br/>Bruce R. Watkins<br>3700 Blue Parkway<br>Kansas City MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 27 from 9:00 am – 5:00 pm<br/><br/>Bruce R. Watkins<br>3700 Blue Parkway<br>Kansas City MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 28 from 9:00 am – 5:00 pm<br/><br/>Bruce R. Watkins<br>3700 Blue Parkway<br>Kansas City MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 26 from 10:30 am – 6:30 pm<br/><br/>Independence Center Mall (Macy's)<br>18801 East 39th Street<br>Independence MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-full w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 27 from 10:30 am – 6:30 pm<br/><br/>Independence Center Mall (Macy's)<br>18801 East 39th Street<br>Independence MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-full w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 26 from 10:00 am – 6:00 pm<br/><br/>Parking Garage Beside Big Biscuit<br>4039 Mill Street<br>Kansas City MO<br><br>Accessibility: Drive-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-full w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jackson</div><hr>May. 25 from 1:30 pm – 3:00 pm<br/><br/>Watco Manufacturing Company<br>1220 South Powell Rd<br>Independence MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div>                              </div>
-                                     </p>
-            </div>
-          </div>
-        </div>
-        </div>
-        <!-- end of Region A -->
-
-        <div class="row">
-          <div class="col-md-12">
-            <div class="card bg-light dark mt-4" id="region_b">
-               <div class="card-body">
-                 <h4 class="card-title">Region B</h4><hr><p class="italic">Northeast Missouri</p><hr>
-            <p class="card-text">
-                               <div class="alert alert-custom-info white-text">No state supported vaccination events are currently scheduled in this region.
-                    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a> or
-                     register on <a href="/find/#navigator" class="white-link">Missouri Vaccine Navigator</a>. </div>
-              
-          </p>
-
-          </div>
-            </div>
-          </div>
-        </div>
-          <!-- end of Region B -->
-          <!-- end of Region B -->
-    <div class="row">
-          <div class="col-md-12">
-            <div class="card bg-light dark mt-4" id="region_c">
-               <div class="card-body">
-                 <h4 class="card-title">Region C</h4><hr><p class="italic">Greater St. Louis Area</p><hr>
-            <p class="card-text">
-              <div class="row">
-
-                       <!-- <div class="col-md-4 dark mb-3">
-                           <div class="card h-100">
-                               <div class="card-body">
-                                   <div class="card-title">City of St. Louis<hr>Pfizer and Johnson & Johnson<hr></div>
-                                   Daily vaccinations starting <br>Apr. 7 <br>
-                                   (Additional days and times will become available for scheduling as supplies are confirmed)
-                                   <br><br>
-                                   8 a.m. – 6 p.m.
-                                   <br><br>
-                                   FEMA Community Vaccination Center
-                                   <br>
-                                   Dome at America's Center, Entrance C (corner of Cole & Broadway)<br>
-                                   600 Cole St.,<br>
-                                   St. Louis, MO 63101
-                                   <br><br>
-                                   Accessibility: Walk-thru <br>
-                                   (walk-ins welcome)<br><br>
-                                   <div class="alert alert-custom-info white-text"><strong>Note:</strong> Arrangements are being made to provide free parking nearby. The site is ADA compliant.</div>
-                               </div>
-                               <div class="card-footer">
-                                   <div class="centered">
-                                       <a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br/><sub>(must be registered in Vaccine Navigator)</sub></a>
-                                       <hr>
-                                       <sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt">click here</a></sub>
-                                   </div>
-                               </div>
-                           </div>
-                       </div> -->
-
-                       <div class="col-md-4 dark mb-3">
-                           <div class="card h-100">
-                               <div class="card-body">
-                                   <div class="card-title">City of St. Louis<hr>Pfizer, Moderna and Johnson & Johnson<hr></div>
-                                   Monday - Friday<br>
-                                   11 a.m. –  7 p.m.
-                                   <br><br>
-                                   St. Louis Community College at Forest Park<br>
-                                   5600 Oakland Avenue<br>
-                                   St. Louis, MO 63110
-                                   <br><br>
-                                   Accessibility: Drive-thru available for those with mobility issues. Daily clinics are primarily walk-thru events.
-                                   <br><br>
-                                   <div class="alert alert-custom-info white-text"><strong>Note:</strong> Walk-ins accepted all day.</div>
-                               </div>
-                               <div class="card-footer">
-                                   <div class="centered">
-                                       <a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br/><sub>(must be registered in Vaccine Navigator)</sub></a>
-                                       <hr>
-                                       <sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt">click here</a></sub>
-                                   </div>
-                               </div>
-                           </div>
-                       </div>
-
-                       <div class="col-md-4 dark mb-3">
-                           <div class="card h-100">
-                               <div class="card-body">
-                                   <div class="card-title">St. Louis County<hr>Pfizer, Moderna and Johnson & Johnson<hr></div>
-                                   Monday – Friday<br>
-                                  11  a.m. – 7 p.m.
-                                   <br><br>
-                                   Dellwood Recreation Center<br>
-                                   10266 West Florissant Ave.<br>
-                                   St. Louis, MO 63136
-                                   <br><br>
-                                   Accessibility: Walk-thru<br><br>
-                                   <div class="alert alert-custom-info white-text"><strong>Note:</strong> Walk-ins accepted all day.</div>
-                               </div>
-                               <div class="card-footer">
-                                   <div class="centered">
-                                       <a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br/><sub>(must be registered in Vaccine Navigator)</sub></a>
-                                       <hr>
-                                       <sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt">click here</a></sub>
-                                   </div>
-                               </div>
-                           </div>
-                       </div>
-
-
-
-                <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">St. Francois</div><hr>May. 21 from 9:00 am – 4:00 pm<br/><br/>St. Francois County Department of Public Health<br>1025 N. Main<br>Park Hills MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div>
-       </div>
-          </p>
-            </div>
-          </div>
-        </div>
-    </div>
-    <!-- End of Region c -->
-        <div class="row">
-          <div class="col-md-12">
-            <div class="card bg-light dark mt-4" id="region_d">
-               <div class="card-body">
-                 <h4 class="card-title">Region D</h4><hr><p class="italic">Southwest Missouri</p><hr>
-            <p class="card-text">
-                                   <div class="row">
-                   <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Greene</div><hr>May. 26 from 8:00 am – 12:00 pm<br/><br/>Jordan Valley<br>1720 W Grand St<br>Springfield MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Greene</div><hr>May. 27 from 8:00 am – 12:00 pm<br/><br/>Jordan Valley<br>1720 W Grand St<br>Springfield MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-full w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Greene</div><hr>May. 28 from 8:00 am – 12:00 pm<br/><br/>Jordan Valley<br>1720 W Grand St<br>Springfield MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Greene</div><hr>May. 23 from 1:30 pm – 4:30 pm<br/><br/>Springfield Cardinals Clinic<br>955 E Trafficway St<br>Springfield MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Jasper</div><hr>May. 27 from 9:00 am – 1:00 pm<br/><br/>Missouri Southern State University<br>3350 Newman Rd<br>Joplin MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Webster</div><hr>May. 27 from 8:30 am – 11:30 am<br/><br/>4 Rivers Church<br>317 Pleasant Prarie Rd<br>Marshfield MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Webster</div><hr>May. 26 from 8:30 am – 11:30 am<br/><br/>Seymour Ozarks Family YMCA<br>315 E. Center Ave<br>Seymour MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div>                    </div>
-                 
-          </p>
-
-            </div>
-          </div>
-        </div>
-        </div>
-        <!-- end of region D -->
-
-        <div class="row">
-        <div class="col-md-12">
-          <div class="card bg-light dark mt-4" id="region_e" >
-             <div class="card-body">
-               <h4 class="card-title">Region E</h4><hr><p class="italic">Southeast Missouri</p><hr>
-          <p class="card-text">
-                               <div class="alert alert-custom-info white-text">No state supported vaccination events are currently scheduled in this region.
-                    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a> or
-                     register on <a href="/find/#navigator" class="white-link">Missouri Vaccine Navigator</a>. </div>
-                      </p>
-
-          </div>
-        </div>
-      </div>
-    </div>
-
-      <!-- end of Region E -->
-        <div class="row">
-      <div class="col-md-12">
-        <div class="card bg-light dark mt-4" id="region_f">
-           <div class="card-body">
-             <h4 class="card-title">Region F</h4><hr><p class="italic">Mid-Missouri</p><hr>
-        <p class="card-text">
-
-                       <div class="row">
-             <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Audrain<hr>Moderna</div><hr>May. 26 from 8:00 am – 4:00 pm<br/><br/>Farber Fire Department<br>114 West Highway 54<br>Farber MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Cole<hr>Pfizer</div><hr>May. 24 from 9:00 am – 6:00 pm<br/><br/>Cole County Central Vaccination Site / Capital Mall<br>3600 Country Club Drive<br>Jefferson City MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Cole<hr>Pfizer</div><hr>May. 27 from 9:00 am – 6:00 pm<br/><br/>Cole County Central Vaccination Site / Capital Mall<br>3600 Country Club Drive<br>Jefferson City MO<br><br>Accessibility: Walk-thru <br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div>              </div>
-                 </p>
-
-        </div>
-      </div>
-    </div>
-        </div>
-    <!-- end of Region F -->
-
-
-        <div class="row">
-          <div class="col-md-12">
-            <div class="card bg-light dark mt-4" id="region_g">
-               <div class="card-body">
-                 <h4 class="card-title">Region G</h4><hr><p class="italic">South Central Missouri</p><hr>
-                 <p class="card-text">
-                                       <div class="alert alert-custom-info white-text">No state supported vaccination events are currently scheduled in this region.
-                        To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a> or
-                         register on <a href="/find/#navigator" class="white-link">Missouri Vaccine Navigator</a>. </div>
-                                 </p>
-
-            </div>
-          </div>
-        </div>
-        </div>
-
-        <!-- end of region G -->
-        <div class="row">
-        <div class="col-md-12">
-          <div class="card bg-light dark mt-4" id="region_h">
-             <div class="card-body">
-               <h4 class="card-title">Region H</h4><hr><p class="italic">Northwest Missouri</p><hr>
-               <p class="card-text">
-
-                                     <div class="alert alert-custom-info white-text">No state supported vaccination events are currently scheduled in this region.
-                       To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a> or
-                        register on <a href="/find/#navigator" class="white-link">Missouri Vaccine Navigator</a>. </div>
-                              </p>
-
-          </div>
-        </div>
-      </div>
-        </div>
-      <!-- End of region H -->
-
-        <div class="row">
-      <div class="col-md-12">
-        <div class="card bg-light dark mt-4" id="region_i">
-           <div class="card-body">
-             <h4 class="card-title">Region I</h4><hr><p class="italic">South Central Missouri</p><hr>
-             <p class="card-text">
-
-               <div class="row">
-                 <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Crawford<hr>Pfizer, Moderna and Johnson & Johnson</div><hr>May. 27 from 12:00 pm – 5:00 pm<br/><br/>Crawford Electric Cooperative<br>10301 N. Service Rd<br>Bourbon MO<br><br>Accessibility: Walk-thru and drive-thru<br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Dent<hr>Pfizer, Moderna and Johnson & Johnson</div><hr>May. 26 from 12:00 pm – 5:00 pm<br/><br/>Dent County Fire Protection District<br>2 S. Main St<br>Salem MO<br><br>Accessibility: Walk-thru and drive-thru<br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Laclede<hr>Pfizer, Moderna and Johnson & Johnson</div><hr>May. 25 from 12:00 pm – 5:00 pm<br/><br/>Cowan Civic Center<br>500 E. Elm St<br>Lebanon MO<br><br>Accessibility: Walk-thru and drive-thru<br/></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa">Make an Appointment<br><sub>(must be registered in Vaccine Navigator)</sub></a><hr><sub>If you still need to register as a patient in Vaccine Navigator, <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">click here</a></sub></div></div></div></div>
-               </div>
-           </p>
-
-        </div>
-      </div>
-    </div>
-    </div>
-    <!-- end of region I -->
-        </div>
-      </div>
-      <!-- End of Events -->
 
       <!-- Start of Navigator -->
       <div id="display_mvn">
@@ -902,20 +518,20 @@ ga('send', 'pageview');
       </div> -->
       <!-- End of Local Vaccinators(was /map) -->
       <!-- Start of More info -->
-      <div class="centered"><h3 class="dark">There are three ways to get the vaccine. It’s your choice.<br>
+      <div class="centered"><h3 class="dark">There are two ways to get the vaccine. It’s your choice.<br>
       Have more questions? Call us at 877-435-8411.</h3></div>
       <!-- <h2 class="dark centered" id="moinfo">More Information</h2><hr> -->
 
-      <div class="row col-md-12 mt-4 mb-4">
-        <div class="col-md-4">
+      <div class="row centered col-md-12 mt-4 mb-4">
+        <!-- <div class="col-md-4">
           <figure class="figure">
             <img src="/img/album-mve.png" class="figure-img img-fluid rounded" alt="">
             <figcaption class="figure-caption text-center pl-1 pr-1">More events are now taking walk-ins. Find an event, big or small, here.
                <br><a class="btn btn-gray" onclick="refresh('events')">Find a Vaccine</a></figcaption>
           </figure>
-        </div>
+        </div> -->
 
-        <div class="col-md-4">
+        <div class="col-md-4 offset-md-2">
           <figure class="figure">
             <img src="/img/album-mvn.png" class="figure-img img-fluid rounded" alt="">
             <figcaption class="figure-caption text-center pl-1 pr-1">Register on the Navigator and we will reach out to you with available appointments.<br><br>
@@ -1237,7 +853,9 @@ ga('send', 'pageview');
       hash= "#"+hash;
     }
     hash = hash.toLowerCase();
-    if(hash == '#events' || hash == '#navigator' || hash == '#map' || hash == '#vaccine-finder'){
+    if(hash == '#navigator' || hash == '#map' || hash == '#vaccine-finder'){
+      // below was for if events come back
+    // if(hash == '#events' || hash == '#navigator' || hash == '#map' || hash == '#vaccine-finder'){
       window.location.assign('/find/'+hash);
       location.reload();
       $('#backToTopButton').click();
@@ -1260,7 +878,7 @@ ga('send', 'pageview');
     }
   $(document).ready(function(){
     $('#display_vf').hide();
-    $('#display_mve').hide();
+    // $('#display_mve').hide();
     $('#display_mvn').hide();
     $('#display_mlv').hide();
     var anchor;
@@ -1270,9 +888,9 @@ ga('send', 'pageview');
     }else if(anchor == "#vaccine-finder"){
         $('#options>option:eq(1)').prop('selected', true);
         $('#display_vf').show();
-    }else if(anchor == '#events'){
-      $('#options>option:eq(2)').prop('selected', true);
-      $('#display_mve').show();
+    // }else if(anchor == '#events'){
+    //   $('#options>option:eq(2)').prop('selected', true);
+    //   $('#display_mve').show();
     }else if(anchor == '#navigator'){
       $('#options>option:eq(3)').prop('selected', true);
       $('#display_mvn').show();
@@ -1365,6 +983,6 @@ ga('send', 'pageview');
     }
 
 </script>
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=738814460"></script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=497380039"></script>
 </body>
 </html>
