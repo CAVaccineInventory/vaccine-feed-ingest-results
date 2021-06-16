@@ -1098,9 +1098,9 @@
                 "OBJECTID": 116,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "415 E Hendricks Street Shelbyville, IN 46176",
+                "Site_Address": "Occasions Banquet Hall, 415 E Hendricks Street Shelbyville, IN 46176",
                 "Site_County": "Shelby",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This vaccine site has Moderna, Pfizer and Johnson & Johnson.",
                 "Site_Name": "SHELBY CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -3891,7 +3891,7 @@
                 "Site_Type": "FQHC",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
+                "Vaccine_Type": "Moderna",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -34046,6 +34046,70 @@
                 },
                 "x": -86.16215479672941,
                 "y": 39.76485518701416
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e085c184-1c89-490a-849d-3cc5f15bbe94",
+                "ID": "ISDH1945",
+                "IsView": 1,
+                "Name": "Allen Temple AME Church VAX",
+                "OBJECTID": 1304,
+                "Promote_Name": "IDOH Allen Temple AME Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46953</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "3440 S. Washington S., Marion, IN 46953",
+                "Site_County": "Grant",
+                "Site_Location_Info": "This is a mobile site June 23 & 24, 9am – 6pm. This clinic has Pfizer.",
+                "Site_Name": "Allen Temple AME Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.66300180557691,
+                "y": 40.52830201862512
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a9b2ed01-0e3b-47b8-9131-4b9978898034",
+                "ID": "ISDH2062",
+                "IsView": 1,
+                "Name": "PARKVIEW NEW VISION VAX",
+                "OBJECTID": 1305,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "3718 New Vision Dr.  Ft. Wayne, IN  46845",
+                "Site_County": "Allen",
+                "Site_Location_Info": null,
+                "Site_Name": "PARKVIEW NEW VISION VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.0971029805271,
+                "y": 41.185791000638346
             }
         }
     ],
