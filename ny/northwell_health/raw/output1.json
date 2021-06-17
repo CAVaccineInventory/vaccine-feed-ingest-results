@@ -17,7 +17,7 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -31,14 +31,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -91,7 +91,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -112,7 +112,7 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -158,7 +158,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "5:45pm"
             },
@@ -172,7 +172,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },

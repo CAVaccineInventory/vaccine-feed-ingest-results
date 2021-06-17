@@ -3047,41 +3047,6 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "c0b5d57b-0703-42e1-b7ff-ee5678fd4322",
-                "Loc_ID": 1013,
-                "OBJECTID": 194,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "738 West Liberty Street",
-                "SiteAddressDetail": "Suite B",
-                "SiteCity": "Sumter",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29150",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "The Integrated Wellness Center, LLC",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 1147,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA943014",
-                "vtrcks_ID": 40216038
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.36398485790204,
-                "y": 33.919660106281015
-            }
-        },
-        {
-            "attributes": {
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "707ebb5e-dcc4-402d-8c62-65019217f23f",
@@ -13619,41 +13584,6 @@
             "attributes": {
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "2a6edc46-373c-4fb2-b4f8-ef1d4ac698f4",
-                "Loc_ID": 796,
-                "OBJECTID": 703,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "601 Clemson Rd",
-                "SiteAddressDetail": null,
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29229",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "PALMETTO PED & ADOLESCENT CLINIC - COLA",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": 1657,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA140136",
-                "vtrcks_ID": 40057054
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.85243101870037,
-                "y": 34.115133071033256
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "248acaed-8215-4c4a-8120-d648583364be",
                 "Loc_ID": 141,
                 "OBJECTID": 708,
@@ -14527,41 +14457,6 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "60c8831d-a57f-4c60-a0f5-70343837bec3",
-                "Loc_ID": 621,
-                "OBJECTID": 749,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "750 S. Church Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Spartanburg",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29306",
-                "URL": "https://www.myrhc.org/covid19",
-                "V_Manufacturer": "MOD",
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "REGENESIS HEALTHCARE",
-                "loc_type1": "Public health provider – Federally Qualified Health Center",
-                "ref_ID": 1703,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA142051",
-                "vtrcks_ID": 40057080
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.93165707196272,
-                "y": 34.933058083802905
-            }
-        },
-        {
-            "attributes": {
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "555bd6f0-ff35-4365-8fde-fdbf8109b4b5",
@@ -15054,41 +14949,6 @@
             "attributes": {
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "0290e246-20a0-4358-8598-b922528b5a14",
-                "Loc_ID": 768,
-                "OBJECTID": 768,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "110 Summit Center Dr",
-                "SiteAddressDetail": null,
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29229",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "SANDHILLS PEDIATRICS - NORTHEAST",
-                "loc_type1": "Medical practice – pediatrics",
-                "ref_ID": 1722,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA140169",
-                "vtrcks_ID": 40109868
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.88301454163724,
-                "y": 34.14046894881926
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "9199ce98-1542-424d-8a82-109fde0869a1",
                 "Loc_ID": 76,
                 "OBJECTID": 770,
@@ -15118,41 +14978,6 @@
                 },
                 "x": -80.8063475371514,
                 "y": 33.919646209027746
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "f553dec0-3fb2-48a0-ac2c-b5740e6c6dd7",
-                "Loc_ID": 58,
-                "OBJECTID": 771,
-                "Phone_Sec": null,
-                "Region": "Midlands",
-                "SiteAddress": "2200 Harden Street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Columbia",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29203",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "SCDMH CM Tucker Nursing Care Center",
-                "loc_type1": "Long-term care – nursing home, skilled nursing facility, federally certified",
-                "ref_ID": 1725,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA940007",
-                "vtrcks_ID": 40188014
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.02478334589188,
-                "y": 34.02213583226006
             }
         },
         {
@@ -15678,41 +15503,6 @@
                 },
                 "x": -82.42153344142315,
                 "y": 34.84029561974171
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "d401b2b4-3441-4c8c-88ad-61d75c7159ee",
-                "Loc_ID": 334,
-                "OBJECTID": 792,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "125 Commonwealth Dr.",
-                "SiteAddressDetail": null,
-                "SiteCity": "Greenville",
-                "SitePhone": "",
-                "SiteState": "SC",
-                "SiteZip": "29615",
-                "URL": null,
-                "V_Manufacturer": "PFR",
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "St. Francis Eastside",
-                "loc_type1": "Hospital",
-                "ref_ID": 1746,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA923005",
-                "vtrcks_ID": 40189568
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.32326324613177,
-                "y": 34.85164303621326
             }
         },
         {
@@ -22612,41 +22402,6 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "6b940716-121a-4585-b440-9da53099d5af",
-                "Loc_ID": 1243,
-                "OBJECTID": 1098,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "101 N. Pine Street",
-                "SiteAddressDetail": "Suite 200",
-                "SiteCity": "Spartanburg",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29302",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "Piedmont Care, Inc.",
-                "loc_type1": "Medical practice – family medicine",
-                "ref_ID": 2054,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA942032",
-                "vtrcks_ID": 40234175
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.92068345996273,
-                "y": 34.95220310412361
-            }
-        },
-        {
-            "attributes": {
                 "Appointments": "Yes",
                 "Contact": "gracemedcoles@hotmail.com",
                 "GlobalID": "d27b0849-1f88-492e-a20c-4eba0b5af396",
@@ -23063,41 +22818,6 @@
                 },
                 "x": -80.85493605171848,
                 "y": 34.956908341896735
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "8a185be7-a0fb-4caa-ad52-796ac24120fa",
-                "Loc_ID": 489,
-                "OBJECTID": 1171,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "9 Hammond Ave",
-                "SiteAddressDetail": "The Citadel Infirmary",
-                "SiteCity": "Charleston",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29409",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "The Citadel Infirmary",
-                "loc_type1": "Health center – student",
-                "ref_ID": 2127,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA110143",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.96168840576348,
-                "y": 32.795124341016276
             }
         },
         {
@@ -23868,41 +23588,6 @@
                 },
                 "x": -81.24159218438024,
                 "y": 33.987924980850835
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "10716a42-02a9-42ea-9551-7d06c4b1894f",
-                "Loc_ID": 1316,
-                "OBJECTID": 1269,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "2777 Speissegger Drive",
-                "SiteAddressDetail": "",
-                "SiteCity": "Charleston",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29405",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "Palmetto Lowcountry Behavioral Health",
-                "loc_type1": "Hospital",
-                "ref_ID": 2225,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA510027",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -79.97432574887358,
-                "y": 32.83924306172645
             }
         },
         {
@@ -25062,7 +24747,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "bf7e6e02-8313-4470-8a24-2ed1ca839e37",
                 "Loc_ID": null,
@@ -26598,41 +26283,6 @@
                 },
                 "x": -81.43422987299965,
                 "y": 33.40353655600046
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
-                "GlobalID": "e4051186-5dd3-4d01-bda0-0c9f362cf947",
-                "Loc_ID": 1443,
-                "OBJECTID": 3337,
-                "Phone_Sec": null,
-                "Region": "Lowcountry",
-                "SiteAddress": "115 15th street",
-                "SiteAddressDetail": null,
-                "SiteCity": "Gaston",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29053",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "Zeus Columbia Healthstat Clinic",
-                "loc_type1": "Medical practice – other specialty",
-                "ref_ID": null,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA932048",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -81.02666422499954,
-                "y": 33.86471061500049
             }
         },
         {
@@ -41374,41 +41024,6 @@
             "attributes": {
                 "Appointments": "No",
                 "Contact": null,
-                "GlobalID": "504b4640-651b-43d3-9d0a-0ac25177ff4b",
-                "Loc_ID": 1538,
-                "OBJECTID": 12944,
-                "Phone_Sec": null,
-                "Region": "Low Country",
-                "SiteAddress": "2461 Sidneys Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Walterboro",
-                "SitePhone": null,
-                "SiteState": "SC",
-                "SiteZip": "29488",
-                "URL": null,
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "Veterans Victory House Pharmacy",
-                "loc_type1": "Pharmacy – independent",
-                "ref_ID": null,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": "SCA515005",
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.61402406799965,
-                "y": 32.95030579000047
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "No",
-                "Contact": null,
                 "GlobalID": "3c1218e4-9bd9-482b-8f10-5b0000f706c2",
                 "Loc_ID": 1527,
                 "OBJECTID": 12945,
@@ -45218,6 +44833,41 @@
                 },
                 "x": -79.02597424481547,
                 "y": 33.58819993647808
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "3aa1b3b3-3502-4452-91cc-ad637cc48ce2",
+                "Loc_ID": 1596,
+                "OBJECTID": 19394,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "835 Sparkleberry Lane",
+                "SiteAddressDetail": " ",
+                "SiteCity": "Columbia",
+                "SitePhone": "803.567.3107",
+                "SiteState": "SC",
+                "SiteZip": "29229",
+                "URL": null,
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "Landy's Pharmacy",
+                "loc_type1": "Pharmacy – independent",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": "SCA940072",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.85630016572003,
+                "y": 34.10060125014763
             }
         },
         {
@@ -51522,7 +51172,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b101eb4d-0647-4855-ad92-9028aac43f81",
                 "Loc_ID": null,
@@ -53132,7 +52782,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1f86ee2d-1d77-4e34-83b9-5d530c9c4687",
                 "Loc_ID": null,
@@ -53167,7 +52817,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2d41be93-404c-48e5-b04b-abed1a75575f",
                 "Loc_ID": null,
@@ -53202,7 +52852,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8ee7ebef-505b-4de2-91ae-eadccc7f5cfe",
                 "Loc_ID": null,
@@ -53237,7 +52887,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "3600c1ae-490a-41b7-af3e-b22397c51c63",
                 "Loc_ID": null,
@@ -53272,7 +52922,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "2e0940e5-427d-4139-b786-8b30259770da",
                 "Loc_ID": null,
@@ -53307,7 +52957,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "60ff9739-8ead-4287-a487-8079306ad3a3",
                 "Loc_ID": null,
@@ -53342,7 +52992,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "e61ff3bc-5f4e-45c4-af7d-84a52941f3fb",
                 "Loc_ID": null,
@@ -53377,7 +53027,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "cbe8b51a-64c6-4618-850b-2d684b296dec",
                 "Loc_ID": null,
@@ -53412,7 +53062,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ba44e12a-87e3-411f-a42f-0ffe8a0112f6",
                 "Loc_ID": null,
@@ -53447,7 +53097,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "ab9b13c6-1f7b-4bde-90d5-6ce89d776a05",
                 "Loc_ID": null,

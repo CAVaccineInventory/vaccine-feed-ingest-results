@@ -15619,6 +15619,38 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "eb7c2898-664e-45b9-b8b3-a4c3c8cfea9f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Pentecostal Church VAX",
+                "OBJECTID": 681,
+                "Promote_Name": "Pentecostal Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46360</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "2722 Wabash St, Michigan City, IN 46360",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": "This is a mobile clinic June 30 – July 3, 9am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Pentecostal Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.89522602861216,
+                "y": 41.69726573403683
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "c6f09bf5-73d7-4c5b-bcf7-c5678d24f046",
                 "ID": null,
                 "IsView": 1,
@@ -20926,6 +20958,38 @@
                 },
                 "x": -85.81564985285077,
                 "y": 38.3018391158778
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c589b5b3-e1fb-4133-954e-e19decd59959",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Second Missionary Baptist VAX",
+                "OBJECTID": 866,
+                "Promote_Name": "Second Missionary Baptist VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46901</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "819 N Apperson Way, Kokomo, IN 46901",
+                "Site_County": "Howard",
+                "Site_Location_Info": "This is a mobile clinic June 30 – July 3, 9am – 6pm. This clinic has Pfizer and Johnson & Johnson",
+                "Site_Name": "Second Missionary Baptist VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.12708041690428,
+                "y": 40.49338255105552
             }
         },
         {
@@ -33795,6 +33859,70 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "8245b8cb-0769-4f47-81ed-1f2f91a31d47",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Ivy Tech Anderson VAX",
+                "OBJECTID": 1291,
+                "Promote_Name": "Ivy Tech Anderson VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46013</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "815 E. 60th St, Anderson, IN 46013",
+                "Site_County": "Madison",
+                "Site_Location_Info": "This is a mobile clinic June 30 – July 2, 9am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Ivy Tech Anderson VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.66823364827154,
+                "y": 40.05414800594217
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "06e4ffbc-e1d9-443d-8dba-f8ee0de1aba7",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Ivy Tech Connersville VAX",
+                "OBJECTID": 1292,
+                "Promote_Name": "Ivy Tech Connersville VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47331</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "717 W 21st St, Connersville, IN 47331",
+                "Site_County": "Fayette",
+                "Site_Location_Info": "This is a mobile clinic June 30 – July 3, 9am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Ivy Tech Connersville VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.14000667343223,
+                "y": 39.657325359844016
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "dedb4ce3-8b6f-4b47-9f5f-afae56390cbd",
                 "ID": null,
                 "IsView": 1,
@@ -34056,7 +34184,7 @@
                 "IsView": 1,
                 "Name": "Allen Temple AME Church VAX",
                 "OBJECTID": 1304,
-                "Promote_Name": "IDOH Allen Temple AME Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46953</a>",
+                "Promote_Name": "Allen Temple AME Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46953</a>",
                 "Promote_Site": "Y",
                 "Site_Address": "3440 S. Washington S., Marion, IN 46953",
                 "Site_County": "Grant",
@@ -34110,6 +34238,38 @@
                 },
                 "x": -85.0971029805271,
                 "y": 41.185791000638346
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "80f00d0e-ace1-4315-ad4e-b621d25b812e",
+                "ID": "ISDH2090",
+                "IsView": 1,
+                "Name": "Crawford County Fair VAX",
+                "OBJECTID": 1306,
+                "Promote_Name": "Crawford County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47140</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "1095 IN-66 Marengo, IN  47140",
+                "Site_County": "Crawford",
+                "Site_Location_Info": "This is a mobile site June 24 & 25 4pm – 8pm and June 26 10am – 4pm. This site has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Crawford County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.35799911752152,
+                "y": 38.32011996480992
             }
         }
     ],
