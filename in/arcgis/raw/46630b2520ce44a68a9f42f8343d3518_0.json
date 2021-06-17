@@ -33283,38 +33283,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "12108986-d1de-43f1-a5cf-2099a1d10883",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Mooresville High School",
-                "OBJECTID": 1266,
-                "Promote_Name": "Mooresville High School VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46158</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "550 N Indiana St, Mooresville, IN 46158",
-                "Site_County": "Morgan",
-                "Site_Location_Info": "This is a mobile clinic June 15 – 16, 10am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Mooresville High School VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.37659795909013,
-                "y": 39.61885115786185
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "7ee33472-c06d-44c1-9abf-fa2720e59308",
                 "ID": null,
                 "IsView": 1,

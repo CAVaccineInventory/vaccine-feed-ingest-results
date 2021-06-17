@@ -35346,57 +35346,6 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "10 4th Ave South",
-                "City": "St. Cloud",
-                "County": null,
-                "EndDate": "2021-06-16",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6432,
-                "Phone": "(800) 800-5698",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "St. Cloud - River's Edge Convention Center",
-                "StartDate": "2021-06-16",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 18+",
-                "TestingTypes": "Covid-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "http://vaulthealth.com/covid/start/?var_c=VACCINATION_MINNESOTA_OPEN",
-                "UpdateDate": "2021-06-08 20:12:48",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "6:00pm",
-                "WednesdayStart": "2:00pm",
-                "Zip": "56301",
-                "globalid": "f5ce64e3-3d50-4ccf-95f6-66b94a23665b",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20295
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.15633001092652,
-                "y": 45.561820005793976
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "199 West Kellogg Boulevard",
                 "City": "Saint Paul",
                 "County": null,
