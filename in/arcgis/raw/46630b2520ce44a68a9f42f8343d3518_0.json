@@ -33539,6 +33539,38 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "079e23fe-165d-46da-a3ef-9841234a7aa9",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Butler Methodist Church VAX",
+                "OBJECTID": 1277,
+                "Promote_Name": "Butler Methodist Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46721</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "501 W. Green St, Butler, IN 46721",
+                "Site_County": "DeKalb",
+                "Site_Location_Info": "This is a mobile clinic June 23 – 25, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Butler Methodist Church VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.87669479079887,
+                "y": 41.4309128100813
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "e386f94b-ea0e-40e4-856c-823e396cdc3b",
                 "ID": null,
                 "IsView": 1,
@@ -33566,6 +33598,38 @@
                 },
                 "x": -85.7097997814594,
                 "y": 39.51996487655095
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "9781a478-0b12-4f97-a4cd-2e4778278887",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Syracuse Community Center",
+                "OBJECTID": 1279,
+                "Promote_Name": "Syracuse Community Center VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46567</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "1013 N. Long Dr, Syracuse, IN 46567",
+                "Site_County": "Kosciusko",
+                "Site_Location_Info": "This is a mobile clinic June 23 – 26, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson",
+                "Site_Name": "Syracuse Community Center VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.7506988344116,
+                "y": 41.43117295688145
             }
         },
         {
@@ -34238,6 +34302,70 @@
                 },
                 "x": -86.35799911752152,
                 "y": 38.32011996480992
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c3ca4761-ed25-4b10-a996-e99d31b403a9",
+                "ID": "ISDH2091",
+                "IsView": 1,
+                "Name": "Marshall Co Mobile Rentown VAX",
+                "OBJECTID": 1307,
+                "Promote_Name": "Marshall Co Mobile Rentown VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46506</a> ",
+                "Promote_Site": "Y",
+                "Site_Address": "1530 3rd Rd.  Bremen, IN  46506",
+                "Site_County": "Marshall",
+                "Site_Location_Info": "This is a mobile clinic June 18, July 9, and July 23. Hours are 10am – 2pm for all 3 days. This clinic has Pfizer, Moderna and Johnson & Johnson.",
+                "Site_Name": "Marshall Co Mobile Rentown VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.08824525279383,
+                "y": 41.43311852135582
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "58f08aa5-d795-476c-9f39-2aa18c13a923",
+                "ID": "ISDH2092",
+                "IsView": 1,
+                "Name": "Marshall Co Mobile Auto VAX",
+                "OBJECTID": 1308,
+                "Promote_Name": "Marshall Co Mobile Auto VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46563</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "1707 N. Michigan St.  Plymouth, IN  46563",
+                "Site_County": "Marshall",
+                "Site_Location_Info": "This is a mobile clinic June 17, July 8, and July 15. Hours are 3pm – 6pm for all 3 days. This clinic has Pfizer, Moderna, and Johnson & Johnson.",
+                "Site_Name": "Marshall Co Mobile Auto VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.3111889779692,
+                "y": 41.35481410560028
             }
         }
     ],
