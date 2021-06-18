@@ -1539,38 +1539,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "1e8d8960-93f9-4bd0-ab0e-8d2fc823bc52",
-                "ID": "ISDH1084",
-                "IsView": 1,
-                "Name": "Allen County Local Health Department",
-                "OBJECTID": 132,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "4000 Parnell Avenue, Expo IV Fort Wayne, IN 46805",
-                "Site_County": "Allen",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "ALLEN CO HD MEMORIAL COLISEUM VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.12549637149968,
-                "y": 41.11541065328803
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "3ea20d67-00c7-46d3-9947-d8ffecc43315",
                 "ID": "ISDH1107",
                 "IsView": 1,
@@ -24227,70 +24195,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "4e61844a-46ab-440f-9fee-de6005de51c5",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Tippecanoe Co. Amphitheater VAX",
-                "OBJECTID": 976,
-                "Promote_Name": "Tippecanoe Co. Amphitheater VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47906</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "4449 IN-43, West Lafayette, IN 47906",
-                "Site_County": "Tippecanoe",
-                "Site_Location_Info": "This is a mobile clinic June 15 – 17, 9am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Tippecanoe Co. Amphitheater VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.87880826932981,
-                "y": 40.4797242435019
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "05c70219-c757-47f1-87a8-b993a22eeb95",
-                "ID": null,
-                "IsView": 1,
-                "Name": "First Church Wheatfield VAX",
-                "OBJECTID": 977,
-                "Promote_Name": "First Church Wheatfield VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46392</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "5387 IN-10, Wheatfield, IN 46392",
-                "Site_County": "Jasper",
-                "Site_Location_Info": "This is a mobile clinic June 15 – 17, 9am – 6pm",
-                "Site_Name": "First Church Wheatfield VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.14891234011517,
-                "y": 41.18560253795176
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "dd967d9e-ac1e-4fe5-ad83-b53ea91462dc",
                 "ID": null,
                 "IsView": 1,
@@ -24318,38 +24222,6 @@
                 },
                 "x": -85.11647029282496,
                 "y": 41.10864127274118
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "0105c81f-f3bf-45bf-acba-68d48a257d4b",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Reynolds Parking Lot",
-                "OBJECTID": 981,
-                "Promote_Name": "Reynolds Parking Lot VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47980</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "401 W 2nd St, Reynolds, IN 47980",
-                "Site_County": "White",
-                "Site_Location_Info": "This is a mobile clinic June 15 – 17, 9am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Reynolds Parking Lot VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.88004893479045,
-                "y": 40.74970249761603
             }
         },
         {
