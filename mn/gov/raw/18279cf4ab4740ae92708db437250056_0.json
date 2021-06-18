@@ -359,7 +359,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
+                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.\r\n\r\nNote: All Mayo Clinic Rochester and Mayo Clinic Health System vaccination clinics will be closed on July 4 and July 5, 2021.",
                 "AddrLine1": "701 Hewitt Blvd",
                 "City": "Red Wing",
                 "County": "Goodhue",
@@ -386,7 +386,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-05-20 11:34:30",
+                "UpdateDate": "2021-06-18 11:27:08",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "8:00pm",
                 "WednesdayStart": "11:30am",
@@ -410,7 +410,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
+                "AdditionalHoursInfo": "All Mayo Clinic Rochester and Mayo Clinic Health System vaccination clinics will be closed on July 4 and July 5.\r\n\r\nFor non-holiday visits, please call to schedule an appointment.",
                 "AddrLine1": "1000 First Drive NW",
                 "City": "Austin",
                 "County": "Mower",
@@ -437,7 +437,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-05-20 11:39:38",
+                "UpdateDate": "2021-06-18 11:23:51",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "4:30pm",
                 "WednesdayStart": "8:00am",
@@ -563,7 +563,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
+                "AdditionalHoursInfo": "All Mayo Clinic Rochester and Mayo Clinic Health System vaccination clinics will be closed on July 4 and July 5.\r\n\r\nFor non-holiday hours, please call for an appointment.",
                 "AddrLine1": "404 W Fountain St",
                 "City": "Albert Lea",
                 "County": "Freeborn",
@@ -590,7 +590,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-05-20 11:38:16",
+                "UpdateDate": "2021-06-18 11:21:34",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "3:30pm",
                 "WednesdayStart": "8:00am",
@@ -614,7 +614,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.",
+                "AdditionalHoursInfo": "Hours vary. Please call to schedule an appointment.\r\n\r\nNote: All Mayo Clinic Rochester and Mayo Clinic Health System vaccination clinics will be closed on July 4 and July 5, 2021.",
                 "AddrLine1": "2200 26th Street NW",
                 "City": "Owatonna",
                 "County": "Steele",
@@ -641,7 +641,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-05-20 11:35:56",
+                "UpdateDate": "2021-06-18 11:25:49",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "5:00pm",
                 "WednesdayStart": "7:00am",
@@ -5051,7 +5051,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Contact for hours of operation\r\nBy appointment only",
+                "AdditionalHoursInfo": "All Mayo Clinic Rochester and Mayo Clinic Health System vaccination clinics will be closed on July 4 and July 5.\r\n\r\nHours may vary. Please call for an appointment.",
                 "AddrLine1": "4111 W FRONTAGE HIGHWAY 52 RD NW",
                 "City": "Rochester",
                 "County": "Olmsted",
@@ -5078,7 +5078,7 @@
                 "TuesdayEnd": null,
                 "TuesdayStart": null,
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-02-02 15:54:51",
+                "UpdateDate": "2021-06-18 11:13:22",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": null,
                 "WednesdayStart": null,
@@ -5096,8 +5096,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -92.50443098717577,
-                "y": 44.06601498558467
+                "x": -92.50440902658944,
+                "y": 44.066028019444104
             }
         },
         {
@@ -34788,7 +34788,7 @@
                 "AddrLine1": "4300 Glumack Drive",
                 "City": "St. Paul",
                 "County": null,
-                "EndDate": "2021-06-23",
+                "EndDate": "2021-06-30",
                 "FridayEnd": "7:00pm",
                 "FridayStart": "7:00am",
                 "MondayEnd": "7:00pm",
@@ -34811,7 +34811,7 @@
                 "TuesdayEnd": "7:00pm",
                 "TuesdayStart": "7:00am",
                 "URL": "https://my.primary.health/r/vaxmn-msp?registration_type=default",
-                "UpdateDate": "2021-06-07 19:24:44",
+                "UpdateDate": "2021-06-18 14:26:12",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "7:00pm",
                 "WednesdayStart": "7:00am",
@@ -35400,7 +35400,7 @@
                 "AddrLine1": "7150 Humphrey Drive",
                 "City": "Minneapolis",
                 "County": null,
-                "EndDate": "2021-06-23",
+                "EndDate": "2021-06-30",
                 "FridayEnd": "2:00pm",
                 "FridayStart": "6:00am",
                 "MondayEnd": "2:00pm",
@@ -35423,7 +35423,7 @@
                 "TuesdayEnd": "2:00pm",
                 "TuesdayStart": "6:00am",
                 "URL": "https://my.primary.health/r/vaxmn-msp?registration_type=default",
-                "UpdateDate": "2021-06-09 16:43:19",
+                "UpdateDate": "2021-06-18 14:26:12",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "2:00pm",
                 "WednesdayStart": "6:00am",
