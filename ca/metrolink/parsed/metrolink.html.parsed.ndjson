@@ -49,4 +49,4 @@
 {"name": "Rialto Station", "address": "261 S. Palm Ave.", "city": "Rialto", "metrolink_line": "San Bernardino", "metrolink_station": "Rialto"}
 {"name": "San Bernardino Downtown Station", "address": "174 South E Street", "city": "San Bernardino", "metrolink_line": "San Bernardino", "metrolink_station": "San Bernardino Downtown"}
 {"name": "San Bernardino Depot", "address": "1170 W. 3rd St.", "city": "San Bernardino", "metrolink_line": "San Bernardino", "metrolink_station": "San Bernardino Depot"}
-{"name": "Chino Transit Center", "address": "13242 6th Street", "city": "Chino", "metrolink_line": "San Bernardino", "metrolink_station": "Pomona - Downtown"}
+{"name": "Chino Transit Center", "address": "13242 6th Street", "city": "Chino", "metrolink_line": "San Bernardino", "metrolink_station": "Montclair"}
