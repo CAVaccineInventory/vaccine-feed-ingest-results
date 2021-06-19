@@ -7201,35 +7201,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>North Vista Medical Center</name>
-        <address>4943 52 Hwy Ste 240, Dacono, CO</address>
-        <description><![CDATA[pin: 7042<br>unnamed (1): Moderna<br>county: Weld<br>type: Community Health Center<br>address: 4943 52 Hwy Ste 240, Dacono, CO<br>phone: (303) 501-2600<br>website: northvistamedical.com]]></description>
-        <styleUrl>#icon-1899-0F9D58</styleUrl>
-        <ExtendedData>
-          <Data name="pin">
-            <value>7042</value>
-          </Data>
-          <Data name="unnamed (1)">
-            <value>Moderna</value>
-          </Data>
-          <Data name="county">
-            <value>Weld</value>
-          </Data>
-          <Data name="type">
-            <value>Community Health Center</value>
-          </Data>
-          <Data name="address">
-            <value>4943 52 Hwy Ste 240, Dacono, CO</value>
-          </Data>
-          <Data name="phone">
-            <value>(303) 501-2600</value>
-          </Data>
-          <Data name="website">
-            <value>northvistamedical.com</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>Safeway Pharmacy 1828</name>
         <address>8134 Colorado Blvd, Firestone, CO</address>
         <description><![CDATA[pin: 6687<br>unnamed (1): Moderna<br>county: Weld<br>type: Pharmacy<br>address: 8134 Colorado Blvd, Firestone, CO<br>phone: (303) 833-2813<br>website: https://www.safeway.com/pharmacy/covid-19.html]]></description>

@@ -19708,7 +19708,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "426f0b2f-dbfc-4345-ae15-d637ca89b520",
                 "Loc_ID": 524,
@@ -34408,7 +34408,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ac5d6f61-da52-43d0-816a-e600c0ce43ce",
                 "Loc_ID": null,
@@ -40078,7 +40078,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a842545c-0af8-4bbb-b940-661499efdfdf",
                 "Loc_ID": null,
@@ -45155,6 +45155,41 @@
                 "Activated1": "Yes",
                 "Appointments": "Yes",
                 "Contact": null,
+                "GlobalID": "19e0a825-0a72-43e7-aecc-ac63cfe532d0",
+                "Loc_ID": 1607,
+                "OBJECTID": 19404,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1600 Tenth Avenue",
+                "SiteAddressDetail": " ",
+                "SiteCity": "Conway",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29526",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": "Nye’s Pharmacy of Conway Incorporated",
+                "loc_type1": "Pharmacy – independent",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA926057",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.05956664278631,
+                "y": 33.839223545230595
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
                 "GlobalID": "cc66e82d-3dad-4a96-93e3-92b2a28b6144",
                 "Loc_ID": 1610,
                 "OBJECTID": 19405,
@@ -48968,7 +49003,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a320f7d4-c5f6-4c4d-8777-d9e6dff507bb",
                 "Loc_ID": null,
@@ -52223,7 +52258,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0086ee3e-6e96-478d-98c0-e75d816760b4",
                 "Loc_ID": null,
@@ -53128,6 +53163,41 @@
                 },
                 "x": -78.88770026868184,
                 "y": 33.68902519698611
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "7c67189e-6f82-4990-af97-5c63cecbf999",
+                "Loc_ID": null,
+                "OBJECTID": 37913,
+                "Phone_Sec": null,
+                "Region": "Lowcountry",
+                "SiteAddress": "1022 Lexington Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Kingstree",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29556",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Williamsburg County Housing Development",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.81850170205774,
+                "y": 33.67404502948693
             }
         }
     ],

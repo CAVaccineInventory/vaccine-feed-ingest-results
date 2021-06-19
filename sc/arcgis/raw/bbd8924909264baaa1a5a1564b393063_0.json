@@ -32553,7 +32553,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "426f0b2f-dbfc-4345-ae15-d637ca89b520",
                 "Loc_ID": 524,
@@ -56843,7 +56843,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ac5d6f61-da52-43d0-816a-e600c0ce43ce",
                 "Loc_ID": null,
@@ -63283,7 +63283,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a842545c-0af8-4bbb-b940-661499efdfdf",
                 "Loc_ID": null,
@@ -69057,8 +69057,8 @@
         },
         {
             "attributes": {
-                "Activated1": "No",
-                "Appointments": "No",
+                "Activated1": "Yes",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "19e0a825-0a72-43e7-aecc-ac63cfe532d0",
                 "Loc_ID": 1607,
@@ -73888,7 +73888,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a320f7d4-c5f6-4c4d-8777-d9e6dff507bb",
                 "Loc_ID": null,
@@ -77528,7 +77528,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0086ee3e-6e96-478d-98c0-e75d816760b4",
                 "Loc_ID": null,
@@ -78433,6 +78433,111 @@
                 },
                 "x": -78.88770026868184,
                 "y": 33.68902519698611
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": null,
+                "Appointments": null,
+                "Contact": null,
+                "GlobalID": "e01fd4b7-5472-4852-bb9b-8988ba506497",
+                "Loc_ID": null,
+                "OBJECTID": 37911,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": null,
+                "SiteAddressDetail": null,
+                "SiteCity": null,
+                "SitePhone": null,
+                "SiteState": null,
+                "SiteZip": null,
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": null,
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.04832863874162,
+                "y": 33.99871515951327
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": null,
+                "Appointments": null,
+                "Contact": null,
+                "GlobalID": "fc7bada8-23d1-4a11-bc04-e1af8b0be564",
+                "Loc_ID": null,
+                "OBJECTID": 37912,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": null,
+                "SiteAddressDetail": null,
+                "SiteCity": null,
+                "SitePhone": null,
+                "SiteState": null,
+                "SiteZip": null,
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_name": null,
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.04823207921703,
+                "y": 33.99903092229363
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "7c67189e-6f82-4990-af97-5c63cecbf999",
+                "Loc_ID": null,
+                "OBJECTID": 37913,
+                "Phone_Sec": null,
+                "Region": "Lowcountry",
+                "SiteAddress": "1022 Lexington Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Kingstree",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29556",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Williamsburg County Housing Development",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.81850170205774,
+                "y": 33.67404502948693
             }
         }
     ],
