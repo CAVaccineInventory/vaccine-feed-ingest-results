@@ -1,17 +1,17 @@
 [
     {
-        "id": 79,
-        "name": "Suffolk - Huntington Public Library Station Branch (1335 New York Ave) -- J&J",
-        "address": "1335 New York Avenue",
+        "id": 80,
+        "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Pfizer",
+        "address": "284 Pulaski Road",
         "suite": "",
-        "city": "Huntington Station",
+        "city": "Greenlawn",
         "state": "NY",
-        "zip": "11746",
+        "zip": "11740",
         "county": "Suffolk",
-        "latitude": "40.8506",
-        "longitude": "-73.412",
+        "latitude": "40.8584",
+        "longitude": "-73.3884",
         "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "vaccine_manufacturer": "Pfizer",
         "is_walk_in": false,
         "hours": [
             {
@@ -44,17 +44,17 @@
             },
             {
                 "day": "friday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "saturday",
                 "general_status": "closed",
                 "current_status": "closed",
                 "time_open": null,
                 "time_closed": null
-            },
-            {
-                "day": "saturday",
-                "general_status": "open",
-                "current_status": "closed",
-                "time_open": "10:00am",
-                "time_closed": "1:45pm"
             },
             {
                 "day": "sunday",
@@ -134,73 +134,6 @@
         "distance": null
     },
     {
-        "id": 74,
-        "name": "Nassau - Emanuel Baptist Church (1880 Pelham St) -- J&J",
-        "address": "1880 Pelham Street",
-        "suite": "",
-        "city": "Elmont",
-        "state": "NY",
-        "zip": "11003",
-        "county": "",
-        "latitude": "40.7119",
-        "longitude": "-73.7076",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
-        "is_walk_in": false,
-        "hours": [
-            {
-                "day": "monday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "tuesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "wednesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "thursday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "friday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "saturday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:00am",
-                "time_closed": "11:45am"
-            },
-            {
-                "day": "sunday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            }
-        ],
-        "distance": null
-    },
-    {
         "id": 58,
         "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Pfizer",
         "address": "5181 Sunrise Highway",
@@ -239,7 +172,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -253,7 +186,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -306,21 +239,21 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -359,7 +292,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -373,7 +306,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "8:00am",
                 "time_closed": "2:45pm"
             },
@@ -394,7 +327,7 @@
             {
                 "day": "sunday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "8:00am",
                 "time_closed": "2:45pm"
             }
@@ -447,14 +380,14 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -500,7 +433,7 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:45am",
                 "time_closed": "3:30pm"
             },
@@ -588,7 +521,7 @@
             {
                 "day": "saturday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
@@ -641,7 +574,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "closed",
+                "current_status": "open",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -655,7 +588,74 @@
             {
                 "day": "saturday",
                 "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
+        "id": 35,
+        "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
+        "address": "1 Marcus Avenue",
+        "suite": "",
+        "city": "New Hyde Park",
+        "state": "NY",
+        "zip": "11040",
+        "county": "Nassau",
+        "latitude": "40.7577",
+        "longitude": "-73.7087",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "open",
                 "current_status": "open",
+                "time_open": "9:00am",
+                "time_closed": "7:45pm"
+            },
+            {
+                "day": "wednesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "open",
+                "current_status": "open",
+                "time_open": "12:00pm",
+                "time_closed": "6:45pm"
+            },
+            {
+                "day": "saturday",
+                "general_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "3:45pm"
             },
