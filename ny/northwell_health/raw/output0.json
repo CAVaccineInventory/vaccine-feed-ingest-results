@@ -67,73 +67,6 @@
         "distance": null
     },
     {
-        "id": 77,
-        "name": "Nassau - Grace Cathedral International (886 Jerusalem Ave.) -- Pfizer",
-        "address": "886 Jerusalem Avenue",
-        "suite": "",
-        "city": "Uniondale",
-        "state": "NY",
-        "zip": "11553",
-        "county": "",
-        "latitude": "40.696",
-        "longitude": "-73.5843",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Pfizer",
-        "is_walk_in": false,
-        "hours": [
-            {
-                "day": "monday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "tuesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "wednesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "thursday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "friday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "saturday",
-                "general_status": "open",
-                "current_status": "closed",
-                "time_open": "12:00pm",
-                "time_closed": "3:45pm"
-            },
-            {
-                "day": "sunday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            }
-        ],
-        "distance": null
-    },
-    {
         "id": 58,
         "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Pfizer",
         "address": "5181 Sunrise Highway",
@@ -151,7 +84,7 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -165,14 +98,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -225,7 +158,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "5:45pm"
             },
@@ -239,7 +172,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -292,7 +225,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -359,7 +292,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -380,7 +313,7 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -500,14 +433,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -553,7 +486,7 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -567,14 +500,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -627,7 +560,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -648,9 +581,76 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
+            },
+            {
+                "day": "saturday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
+        "id": 32,
+        "name": "Suffolk - Riverhead Entenmann (4 West 2nd St) -- Moderna",
+        "address": "4 West 2nd Street",
+        "suite": "",
+        "city": "Riverhead",
+        "state": "NY",
+        "zip": "11901",
+        "county": "Suffolk",
+        "latitude": "40.9188",
+        "longitude": "-72.664",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TS3zEAG",
+        "vaccine_manufacturer": "Moderna",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "5:45pm"
+            },
+            {
+                "day": "wednesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "thursday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "3:00pm",
+                "time_closed": "8:15pm"
+            },
+            {
+                "day": "friday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
             },
             {
                 "day": "saturday",

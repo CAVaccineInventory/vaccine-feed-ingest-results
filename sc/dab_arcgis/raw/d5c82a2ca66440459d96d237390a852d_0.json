@@ -34372,7 +34372,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "45edfd1f-80bb-42ad-bd0f-8d70021a7102",
                 "Loc_ID": null,
