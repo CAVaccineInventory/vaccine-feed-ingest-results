@@ -33539,38 +33539,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "b6e36672-6a05-474a-8f32-f085696e8da5",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Marion Warren Covid VAX",
-                "OBJECTID": 1283,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "9500 E 16th St, Indianapolis, IN 46229",
-                "Site_County": "Marion",
-                "Site_Location_Info": "Warren Central High School. This is a two-day clinic with the first dose on June 19; Second on July 17.",
-                "Site_Name": "Marion Warren Covid VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.99989580703915,
-                "y": 39.7912037269028
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "5e0c2450-1218-466b-a93a-ff99508b489c",
                 "ID": null,
                 "IsView": 1,
@@ -33822,38 +33790,6 @@
                 },
                 "x": -85.14000667343223,
                 "y": 39.657325359844016
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "dedb4ce3-8b6f-4b47-9f5f-afae56390cbd",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Community Howard Mobile VAX",
-                "OBJECTID": 1295,
-                "Promote_Name": "Community Howard Mobile VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46902</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "3500 S. LaFountain St, Kokomo, IN 46902",
-                "Site_County": "Howard",
-                "Site_Location_Info": "This is a one-day mobile clinic on June 19, 9am – 1pm.",
-                "Site_Name": "Community Howard Mobile VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.12414239202619,
-                "y": 40.447180106565185
             }
         },
         {
