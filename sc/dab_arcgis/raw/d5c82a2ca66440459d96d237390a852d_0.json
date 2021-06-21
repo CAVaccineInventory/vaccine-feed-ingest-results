@@ -52292,7 +52292,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d94307e0-f474-41c2-89fc-f9607e83e411",
                 "Loc_ID": null,
@@ -52362,7 +52362,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "54ca1259-49da-4b84-8903-295af55e2f18",
                 "Loc_ID": null,
