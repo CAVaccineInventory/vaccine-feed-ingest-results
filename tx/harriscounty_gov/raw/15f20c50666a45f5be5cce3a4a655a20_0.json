@@ -7737,13 +7737,13 @@
             "attributes": {
                 "CreationDate": 1624161012956,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624161012956,
+                "EditDate": 1624303717575,
                 "Editor": "COVIDPublicHCPH",
                 "address": "11456 Space Center Blvd, Houston, TX 77059",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Second",
-                "entrydate": "2021-06-19T22:49:15.223-05:00",
+                "entrydate": "2021-06-21T14:28:33.069-05:00",
                 "globalid": "cc3efd86-63c1-4747-87ab-0c90f8de5ef9",
                 "lat": null,
                 "layer_id": 0,
@@ -7758,7 +7758,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Moderna",
-                "vdu_no": "VDU 4",
+                "vdu_no": "VDU 9",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {
@@ -7811,13 +7811,13 @@
             "attributes": {
                 "CreationDate": 1624161143013,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624161143013,
+                "EditDate": 1624303744540,
                 "Editor": "COVIDPublicHCPH",
                 "address": "13700 Beechnut St, Houston, TX 77083",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Single",
-                "entrydate": "2021-06-19T22:51:26.567-05:00",
+                "entrydate": "2021-06-21T14:28:59.836-05:00",
                 "globalid": "876ea986-a724-4325-8cf1-8eb91b913780",
                 "lat": null,
                 "layer_id": 0,
@@ -7832,7 +7832,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer,JohnsonJohnson",
-                "vdu_no": "VDU 9",
+                "vdu_no": "VDU 4",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {

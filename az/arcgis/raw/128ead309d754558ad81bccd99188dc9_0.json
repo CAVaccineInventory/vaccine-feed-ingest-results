@@ -1171,7 +1171,7 @@
                 "city": "Lake Havasu City",
                 "county": "Mohave",
                 "enddate": null,
-                "event_yn": "Yes",
+                "event_yn": "No",
                 "full_address": null,
                 "globalid": "98e7560e-bb6e-4d07-8011-dd6756afc2fb",
                 "layer_id": 0,
@@ -3158,46 +3158,6 @@
                 },
                 "x": -114.58790966988735,
                 "y": 35.12210269483122
-            }
-        },
-        {
-            "attributes": {
-                "J_J": "0",
-                "Moderna": "2",
-                "Pfizer": "0",
-                "addr1": "95 S Idaho Rd.",
-                "addr2": "Suit 140",
-                "begindate": 1611342000000,
-                "city": "Apache Junction",
-                "county": "Pinal",
-                "enddate": 1640977200000,
-                "event_yn": "Yes",
-                "full_address": null,
-                "globalid": "68fd8a04-bace-48d2-8f1b-50ab49e4d011",
-                "layer_id": 0,
-                "loc_name": "Heavens Urgent Care",
-                "loc_type": "public",
-                "objectid": 1323,
-                "prereg_comments": "Appointments will be booked in advance . Once you sign up we will then call you with an appointment date and time .",
-                "prereg_phone": "480-444-1160",
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://www.Heavensurgentcare.com",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": null,
-                "spanish_staff_y_n": null,
-                "state": "AZ",
-                "transportation_access": null,
-                "vaccine_manufacturer": "Moderna",
-                "zip": "85119"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.54307734845248,
-                "y": 33.41505982832041
             }
         },
         {
@@ -14251,7 +14211,7 @@
                 "city": "Wickenburg",
                 "county": "Maricopa",
                 "enddate": 1624647600000,
-                "event_yn": "Yes",
+                "event_yn": "No",
                 "full_address": "522 W Rose Ln Wickenburg, AZ 85390",
                 "globalid": "e8a7ca1e-81eb-4070-86ec-377fe97f9148",
                 "layer_id": 0,
@@ -33771,7 +33731,7 @@
                 "city": "Phoenix",
                 "county": "Maricopa",
                 "enddate": 1630436400000,
-                "event_yn": "Yes",
+                "event_yn": "No",
                 "full_address": "7227 S Central Ave Phoenix, AZ 85042",
                 "globalid": "6d7813a1-a7dd-47e2-8ef1-c8088f600fcc",
                 "layer_id": 0,
@@ -42002,46 +41962,6 @@
         },
         {
             "attributes": {
-                "J_J": "0",
-                "Moderna": "0",
-                "Pfizer": "3",
-                "addr1": "778 N Main St",
-                "addr2": null,
-                "begindate": 1622574000000,
-                "city": "Florence",
-                "county": "Pinal",
-                "enddate": 1622660400000,
-                "event_yn": "Yes",
-                "full_address": "778 N Main St Florence, AZ 85132",
-                "globalid": "dbe64981-68f0-4c6b-8eb4-e65b3b79019a",
-                "layer_id": 0,
-                "loc_name": "Florence Community Library",
-                "loc_type": "public",
-                "objectid": 7027,
-                "prereg_comments": "The Town of Florence is hosting a pop-up vaccine event at the Florence Community Library on June 1st and June 2nd from 9AM to 6PM.  Paradigm Site Services will be administering Pfizer vaccine.  Those under age 18 must be accompanied by a parent or guardian.  Register at:  https://podvaccine.azdhs.gov/ and select Paradigm Site Services/Pinal County.",
-                "prereg_phone": null,
-                "prereg_prescreen": "Yes",
-                "prereg_website": "https://podvaccine.azdhs.gov/",
-                "service_item_id": "128ead309d754558ad81bccd99188dc9",
-                "site_category": "other",
-                "site_type": "other",
-                "spanish_staff_y_n": "No",
-                "state": null,
-                "transportation_access": "walk_through",
-                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
-                "zip": "85132"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -111.3879459683727,
-                "y": 33.039275981969794
-            }
-        },
-        {
-            "attributes": {
                 "J_J": "1",
                 "Moderna": "0",
                 "Pfizer": "0",
@@ -42558,6 +42478,126 @@
                 },
                 "x": -112.15212699999996,
                 "y": 33.49744200000003
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "778 N Main St",
+                "addr2": null,
+                "begindate": 1624388400000,
+                "city": "Florence",
+                "county": "Pinal",
+                "enddate": 1624388400000,
+                "event_yn": "Yes",
+                "full_address": "778 N Main St Florence, AZ 85132",
+                "globalid": "0bc4c34f-3b65-4a5a-82e8-8a2466f984fe",
+                "layer_id": 0,
+                "loc_name": "Mobile Vaccination Services at the Florence Community Library",
+                "loc_type": "public",
+                "objectid": 7046,
+                "prereg_comments": "Mobile Vaccine Services Event in Partnership with Paradigm Site Services and the Town of Florence.  Offering Pfizer Vaccine for 12 years and older (Under 18 must be accompanied by a parent or guardian), Tuesday, June 22nd from 9AM to 6PM at the Florence Community Library (778 N Main St, Florence 85132).  Please register at https://podvaccine.azdhs.gov/ and select Paradigm Site Services/Pinal County.",
+                "prereg_phone": "520-251-2850",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://podvaccine.azdhs.gov/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
+                "zip": "85132"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.3879459683727,
+                "y": 33.039275981969794
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "1804 W Elliot Rd",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tempe",
+                "county": "Maricopa",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "1804 W Elliot Rd Tempe, AZ 85284",
+                "globalid": "802ca3e0-e01a-4ae7-86cf-7acd7a23ab39",
+                "layer_id": 0,
+                "loc_name": "Honor Health Fastmed Urgent Care",
+                "loc_type": "public",
+                "objectid": 7047,
+                "prereg_comments": null,
+                "prereg_phone": "480-456-0444",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.fastmed.com/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "Moderna",
+                "zip": "85284"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -111.96684001570884,
+                "y": 33.350094008888156
+            }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "3",
+                "addr1": "1425 N Central Ave",
+                "addr2": null,
+                "begindate": 1624388400000,
+                "city": "Avondale",
+                "county": "Maricopa",
+                "enddate": 1624388400000,
+                "event_yn": "Yes",
+                "full_address": "1425 N Central Ave Avondale, AZ 85323",
+                "globalid": "1292129c-650a-427e-88a7-613ead2de441",
+                "layer_id": 0,
+                "loc_name": "Avondale Middle School",
+                "loc_type": "public",
+                "objectid": 7048,
+                "prereg_comments": "Call the center 602-506-6767 or walk in. Eligibility 12+. Hours 3pm-7pm.",
+                "prereg_phone": "602-506-6767",
+                "prereg_prescreen": "No",
+                "prereg_website": null,
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "No",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "zip": "85323"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -112.34872272835776,
+                "y": 33.448398289401524
             }
         }
     ],

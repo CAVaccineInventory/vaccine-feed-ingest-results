@@ -33187,6 +33187,38 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "3dfbab11-ec96-4191-b53b-3e009469ddfd",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Fulton Co HD Gov Bdg VAX",
+                "OBJECTID": 1268,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "125 E 9th St, Suite 4, Rochester, IN 46975",
+                "Site_County": "Fulton",
+                "Site_Location_Info": "This clinic is open on Thursdays only, 8:30a – 11:30am and 2:00 – 3:30pm.",
+                "Site_Name": "Fulton Co HD Gov Bdg VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appoinments are now available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.21485899078493,
+                "y": 41.06453108187249
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "58e70954-04f7-48b7-83d3-6e565c439d23",
                 "ID": null,
                 "IsView": 1,
@@ -34206,6 +34238,38 @@
                 },
                 "x": -85.59532096681846,
                 "y": 41.46137003234008
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "1fb526c5-0fad-4cf0-9154-aea3ee15abc2",
+                "ID": null,
+                "IsView": 1,
+                "Name": "AirBioLab VAX",
+                "OBJECTID": 1310,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "7000 Airport Dr., Ste. 100  Sellersburg, IN 47172",
+                "Site_County": "Clark",
+                "Site_Location_Info": null,
+                "Site_Name": "AirBioLab VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Moderna",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.74547274401151,
+                "y": 38.36558068359153
             }
         }
     ],
