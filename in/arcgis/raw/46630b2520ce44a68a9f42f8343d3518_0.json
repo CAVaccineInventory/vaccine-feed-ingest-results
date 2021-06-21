@@ -34175,6 +34175,38 @@
                 "x": -86.3111889779692,
                 "y": 41.35481410560028
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "8b792d9a-8948-40bf-94b7-cc473ab43af4",
+                "ID": "ISDH2089",
+                "IsView": 1,
+                "Name": "Noble Co Ligonier Rec Center VAX",
+                "OBJECTID": 1309,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "520 W. Union Street Ligonier, IN  46767",
+                "Site_County": "Noble",
+                "Site_Location_Info": "This is a mobile clinic on July 12 & August 2; both days 2pm – 5pm.  This clinic has Pfizer and Johnson & Johnson. Walk-ins accepted.",
+                "Site_Name": "Noble Co Ligonier Rec Center VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.59532096681846,
+                "y": 41.46137003234008
+            }
         }
     ],
     "fields": [
