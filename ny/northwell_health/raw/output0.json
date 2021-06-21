@@ -259,10 +259,10 @@
             },
             {
                 "day": "sunday",
-                "general_status": "open",
+                "general_status": "closed",
                 "current_status": "closed",
-                "time_open": "8:00am",
-                "time_closed": "2:45pm"
+                "time_open": null,
+                "time_closed": null
             }
         ],
         "distance": null
