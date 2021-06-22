@@ -1898,10 +1898,10 @@
                 "OBJECTID": 147,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "201 N Market St, Howe, IN  46746",
+                "Site_Address": "304 N Townline Rd, LAGRANGE, IN 46761",
                 "Site_County": "LaGrange",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "LaGrange Co Lima Brighton Elm VAX",
+                "Site_Name": "LaGrange Co HD Covid VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -1916,8 +1916,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.42031912975436,
-                "y": 41.72542244669696
+                "x": -85.42453556232569,
+                "y": 41.64617653969221
             }
         },
         {
@@ -3827,7 +3827,7 @@
                 "Site_Type": "FQHC",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
+                "Vaccine_Type": "Moderna",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -11304,12 +11304,12 @@
                 "IsView": 1,
                 "Name": "Indianapolis Motor Speedway Vaccination Clinic",
                 "OBJECTID": 498,
-                "Promote_Name": "Indy Motor Speedway Gate7 VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46224</a>",
+                "Promote_Name": "Indy Motor Speedway VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46224</a>",
                 "Promote_Site": "Y",
-                "Site_Address": "2601 Georgetown Rd, Indianapolis, IN 46224",
+                "Site_Address": "4750 W 16th St, Indianapolis, IN 46224",
                 "Site_County": "Marion",
-                "Site_Location_Info": "This is a two-hour clinic on June 24, Noon – 2pm. This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Indy Motor Speedway Gate7 VAX",
+                "Site_Location_Info": "This is a two-hour clinic on June 24, Noon – 2pm. This clinic has Pfizer and Johnson & Johnson. Enter through tunnel 2, site will be in the East Parking Lot of the IMS Museum.",
+                "Site_Name": "Indy Motor Speedway VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments available June 24th.",
                 "Site_Type": "Mobile",
@@ -11324,8 +11324,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.23976610665126,
-                "y": 39.8044957265362
+                "x": -86.23330734734323,
+                "y": 39.78977349392497
             }
         },
         {
@@ -15340,14 +15340,14 @@
                 "Promote_Site": null,
                 "Site_Address": "224 W Main St, Knightstown, IN 46148",
                 "Site_County": "Henry",
-                "Site_Location_Info": null,
+                "Site_Location_Info": "This clinic has Moderna & Pfizer.",
                 "Site_Name": "Knightstown Health Care Ctr VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": null,
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },

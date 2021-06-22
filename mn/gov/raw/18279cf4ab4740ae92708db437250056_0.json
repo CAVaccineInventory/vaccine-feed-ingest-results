@@ -34937,57 +34937,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "To register for the 6/17/21 clinic: https://prepmod.health.state.mn.us//appointment/en/reg/4012493569\r\nTo register for the 6/19/21 clinic: https://prepmod.health.state.mn.us//appointment/en/reg/6025129993",
-                "AddrLine1": "1 Main St.",
-                "City": "Winona",
-                "County": "Winona",
-                "EndDate": null,
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6441,
-                "Phone": "(507) 457-6375",
-                "ProviderName": "Winona County Health and Human Services",
-                "SaturdayEnd": "3:00pm",
-                "SaturdayStart": "11:00am",
-                "SiteName": "Steamboat Days",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": null,
-                "TestingRequirements": "Appointment|No appointment necessary",
-                "TestingTypes": "Johnson & Johnson (age 18+)|Pfizer (age 12+)|COVID-19 Vaccine",
-                "ThursdayEnd": "2:00pm",
-                "ThursdayStart": "11:00am",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "https://www.co.winona.mn.us/page/3853",
-                "UpdateDate": "2021-06-09 09:01:51",
-                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
-                "WednesdayEnd": "Closed",
-                "WednesdayStart": "Closed",
-                "Zip": "55987",
-                "globalid": "524c50f4-99dc-4ff5-b80f-25c607b8880f",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -91.63705232549285,
-                "y": 44.054406108292554
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": null,
                 "AddrLine1": "7150 Humphrey Drive",
                 "City": "Minneapolis",

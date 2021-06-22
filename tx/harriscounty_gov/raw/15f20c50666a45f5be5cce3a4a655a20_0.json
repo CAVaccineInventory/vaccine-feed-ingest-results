@@ -7182,13 +7182,13 @@
             "attributes": {
                 "CreationDate": 1624159951142,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624159951142,
+                "EditDate": 1624375805893,
                 "Editor": "COVIDPublicHCPH",
                 "address": "7500 Bellaire Blvd, Houston, TX 77036",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Single",
-                "entrydate": "2021-06-19T16:19:16.280-05:00",
+                "entrydate": "2021-06-22T10:29:54.090-05:00",
                 "globalid": "e03df179-7272-41ba-8024-3ee40184f927",
                 "lat": null,
                 "layer_id": 0,
@@ -7211,8 +7211,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": 0,
-                "y": 0
+                "x": -95.51506300247978,
+                "y": 29.7068670204407
             }
         },
         {
@@ -7996,13 +7996,13 @@
             "attributes": {
                 "CreationDate": 1624161469477,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624161469477,
+                "EditDate": 1624375023142,
                 "Editor": "COVIDPublicHCPH",
                 "address": "2730 Nelwood Dr., Houston, TX 77038",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First",
-                "entrydate": "2021-06-19T22:57:04.450-05:00",
+                "entrydate": "2021-06-22T10:16:50.425-05:00",
                 "globalid": "a1f7b8c2-d8f4-4d5a-84d1-fcbb867fc6f4",
                 "lat": null,
                 "layer_id": 0,
@@ -8013,7 +8013,7 @@
                 "opendate": 1624381200000,
                 "opendate_str": "Tuesday, June 22nd",
                 "opendatefilter": null,
-                "operatinghours": "8:00 AM - 5:00 PM",
+                "operatinghours": "8:00 AM - 4:00 PM",
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer",
@@ -8699,13 +8699,13 @@
             "attributes": {
                 "CreationDate": 1624162986620,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624162986620,
+                "EditDate": 1624380928565,
                 "Editor": "COVIDPublicHCPH",
                 "address": "3700 Old Highway 146, La Porte, TX 77571",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
-                "dose": "First",
-                "entrydate": "2021-06-19T23:22:19.847-05:00",
+                "dose": "Single",
+                "entrydate": "2021-06-22T11:55:22.329-05:00",
                 "globalid": "f185fe6c-f091-4288-815e-b000ece21e3a",
                 "lat": null,
                 "layer_id": 0,
@@ -8719,7 +8719,7 @@
                 "operatinghours": "8:00 AM - 2:00 PM",
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Moderna",
+                "typeofvaccine": "JohnsonJohnson",
                 "vdu_no": "VDU 4",
                 "website": "https://vacstrac.hctx.net/landing"
             },
@@ -9359,6 +9359,43 @@
                 },
                 "x": -95.14236301888825,
                 "y": 29.798206002357514
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1624372530462,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1624372530462,
+                "Editor": "COVIDPublicHCPH",
+                "address": "2012 W 34th St., Houston, TX 77018",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-06-21T08:49:39.677-05:00",
+                "globalid": "dadfe659-eaa7-4776-8f0e-f21e48cb133a",
+                "lat": null,
+                "layer_id": 0,
+                "location": "El Moreliano Market",
+                "lon": null,
+                "notes": null,
+                "objectid": 309,
+                "opendate": 1624726800000,
+                "opendate_str": "Saturday, June 26th",
+                "opendatefilter": null,
+                "operatinghours": "10:00 AM - 3:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 13",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.43552201028704,
+                "y": 29.8175920032978
             }
         }
     ],

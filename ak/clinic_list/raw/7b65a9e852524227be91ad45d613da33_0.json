@@ -112,7 +112,7 @@
             "attributes": {
                 "CreationDate": 1609112999158,
                 "Creator": "",
-                "EditDate": 1612816474040,
+                "EditDate": 1624383872473,
                 "Editor": "kelly.isham_Alaska_DHSS",
                 "address": "9500 Independence Drive Suite 700",
                 "adminContactName": "Crystal Cornejo, CMA\nElizabeth deSchweinitz, MD\nDwayne Trujillo, MD",
@@ -129,7 +129,7 @@
                 "objectid": 12,
                 "phone": "907-569-3600",
                 "publicEmail": "frontdesk@akdocs.com",
-                "publicNotes": "Complete the COVID vaccination registration form located on the website, http://www.akdocs.com. Email the completed form and copies of picture ID and insurance/medicare card(s) to frontdesk@akdocs.com.  Our office will call you to set up an appointment.",
+                "publicNotes": null,
                 "publicWebsite": "http://www.akdocs.com",
                 "service_item_id": "7b65a9e852524227be91ad45d613da33",
                 "vaccinationSite": "Dr. deSchweinitz, Dr. Trujillo, ANP Carson-McCollum",

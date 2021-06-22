@@ -437,7 +437,7 @@
       <name>Community Vaccination Site </name>
       <Placemark>
         <name>The Broadmoor World Arena: Colorado Community Vaccination Site</name>
-        <description><![CDATA[Hours of Operation: 10 a.m. - 6 p.m.<br><br>Days of Operation: Friday through Monday<br><br>Registration Link: www.centura.org/vaccine <br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer<br><br>Registration Required. ]]></description>
+        <description><![CDATA[Hours of Operation: <br>Friday: 12 - 6 p.m.<br>Saturday and Sunday: 10 a.m. - 6 p.m.<br><br>Registration Link: www.centura.org/vaccine <br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer<br><br>Registration Required. ]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
@@ -447,7 +447,7 @@
       </Placemark>
       <Placemark>
         <name>Dick’s Sporting Goods Park: Community Vaccination Site </name>
-        <description><![CDATA[Hours of Operation: 9 a.m. - 5 p.m.<br><br>Days of Operation: Sunday through Thursday<br><br>Registration Link: <br>www.Centura.org/vaccine<br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer <br><br>Registration Required. ]]></description>
+        <description><![CDATA[Hours of Operation: 9 a.m. - 5 p.m.<br><br>Days of Operation: Sunday through Tuesday<br><br>Registration Link: <br>www.Centura.org/vaccine<br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer <br><br>Registration Required. ]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
