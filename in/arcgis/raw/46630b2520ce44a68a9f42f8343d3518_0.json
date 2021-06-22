@@ -11299,6 +11299,38 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "d461a56b-6977-4bae-8b42-0af75a4554d3",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Indianapolis Motor Speedway Vaccination Clinic",
+                "OBJECTID": 498,
+                "Promote_Name": "Indy Motor Speedway Gate7 VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46224</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "2601 Georgetown Rd, Indianapolis, IN 46224",
+                "Site_County": "Marion",
+                "Site_Location_Info": "This is a two-hour clinic on June 24, Noon – 2pm. This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Indy Motor Speedway Gate7 VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available June 24th.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov/",
+                "Symbology": "Mass",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.23976610665126,
+                "y": 39.8044957265362
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "2a8da5aa-3791-4a0b-a922-d6af7b410168",
                 "ID": "ISDH1477",
                 "IsView": 1,
@@ -34095,7 +34127,7 @@
                 "Site_Location_Info": null,
                 "Site_Name": "PARKVIEW NEW VISION VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": null,
                 "Site_Type": "Hospital",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
