@@ -8253,43 +8253,6 @@
         },
         {
             "attributes": {
-                "CreationDate": 1624161932166,
-                "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624161932166,
-                "Editor": "COVIDPublicHCPH",
-                "address": "5371 5th St, Katy, TX 77493",
-                "agency": "Harris County Public Health",
-                "closedatefilter": null,
-                "dose": "First",
-                "entrydate": "2021-06-19T23:04:40.048-05:00",
-                "globalid": "1124441f-b38a-40cd-8dc0-ed9eb96e18ce",
-                "lat": null,
-                "layer_id": 0,
-                "location": "RCCG-Redeemed Christian Church of God",
-                "lon": null,
-                "notes": null,
-                "objectid": 278,
-                "opendate": 1624467600000,
-                "opendate_str": "Wednesday, June 23rd",
-                "opendatefilter": null,
-                "operatinghours": "8:00 AM - 5:00 PM",
-                "phone": "832-927-8787",
-                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Pfizer",
-                "vdu_no": "VDU 11",
-                "website": "https://vacstrac.hctx.net/landing"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -95.8146779871614,
-                "y": 29.78961501260736
-            }
-        },
-        {
-            "attributes": {
                 "CreationDate": 1624162001122,
                 "Creator": "COVIDPublicHCPH",
                 "EditDate": 1624162001122,
@@ -8329,13 +8292,13 @@
             "attributes": {
                 "CreationDate": 1624162068368,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624162068368,
+                "EditDate": 1624305378454,
                 "Editor": "COVIDPublicHCPH",
                 "address": "17835 Hufsmith - Kohrville Rd, Tomball, TX 77375",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Single",
-                "entrydate": "2021-06-19T23:06:52.410-05:00",
+                "entrydate": "2021-06-21T14:56:14.707-05:00",
                 "globalid": "cfa67035-d6fc-4c5c-838f-1535469d9427",
                 "lat": null,
                 "layer_id": 0,
@@ -8350,7 +8313,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer,JohnsonJohnson",
-                "vdu_no": "VDU 14",
+                "vdu_no": "VDU 18",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {
@@ -8403,13 +8366,13 @@
             "attributes": {
                 "CreationDate": 1624162201255,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624162201255,
+                "EditDate": 1624305362381,
                 "Editor": "COVIDPublicHCPH",
                 "address": "11331 Airline Dr, Houston, TX 77037",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First",
-                "entrydate": "2021-06-19T23:09:04.052-05:00",
+                "entrydate": "2021-06-21T14:55:59.093-05:00",
                 "globalid": "8d4484d9-2ff9-497f-8106-0d07f3e509fa",
                 "lat": null,
                 "layer_id": 0,
@@ -8424,7 +8387,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer",
-                "vdu_no": "VDU 18",
+                "vdu_no": "VDU 14",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {

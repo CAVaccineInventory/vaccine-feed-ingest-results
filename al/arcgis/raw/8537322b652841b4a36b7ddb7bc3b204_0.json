@@ -1136,7 +1136,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Fridays 1:00 pm until 2:30 pm",
                 "layer_id": 0,
                 "objectId": 411,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1186,7 +1186,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Wednesdays 8:30 am until 12:00 pm",
                 "layer_id": 0,
                 "objectId": 413,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1236,7 +1236,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Tuesdays 8:30 am until 10:00 am",
                 "layer_id": 0,
                 "objectId": 415,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1261,7 +1261,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Thursdays 9:00 am until 10:30 am",
                 "layer_id": 0,
                 "objectId": 416,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1286,7 +1286,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Fridays 8:30 am until 10:00 am",
                 "layer_id": 0,
                 "objectId": 417,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1311,7 +1311,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Tuesdays 8:30 am until 10:00 am",
                 "layer_id": 0,
                 "objectId": 418,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1336,7 +1336,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Mondays 1:00 pm until 2:30 pm",
                 "layer_id": 0,
                 "objectId": 419,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1361,7 +1361,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Mondays 8:00 am until 12:00 pm",
                 "layer_id": 0,
                 "objectId": 420,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1386,7 +1386,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Thursdays 8:30 am until 12:30 pm",
                 "layer_id": 0,
                 "objectId": 421,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1411,7 +1411,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Tuesdays 8:30 am until 12:30 pm",
                 "layer_id": 0,
                 "objectId": 422,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1436,7 +1436,7 @@
                 "f6": null,
                 "f7": null,
                 "f8": null,
-                "f9": null,
+                "f9": "Wednesdays 1:00 pm until 2:30 pm",
                 "layer_id": 0,
                 "objectId": 423,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
