@@ -1962,7 +1962,7 @@
                 "OBJECTID": 149,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1209 S Main St, Martinsville, IN 46151",
+                "Site_Address": "180 S Main St, Suite 252, Martinsville, IN 46151",
                 "Site_County": "Morgan",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "MORGAN CO HD COVID VAX",
@@ -1980,8 +1980,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.4280142321793,
-                "y": 39.41554445653049
+                "x": -86.42893154766243,
+                "y": 39.42524982978811
             }
         },
         {
@@ -2014,38 +2014,6 @@
                 },
                 "x": -87.56654931094961,
                 "y": 38.35366207923786
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "e8e9445d-8810-43d5-a4d8-5285643a37b8",
-                "ID": "ISDH1152",
-                "IsView": 1,
-                "Name": "Deaconess Clinic Express Mt. Vernon",
-                "OBJECTID": 151,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "813 E 4th St, Mt. Vernon, IN  47620",
-                "Site_County": "Posey",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "Posey Co HD Deac Express Mt V VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.88713832713204,
-                "y": 37.93458589948192
             }
         },
         {
@@ -2314,10 +2282,10 @@
                 "OBJECTID": 161,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1472 N US Hwy 41 , Rockville, IN 47872",
+                "Site_Address": "395 N Parkway Dr, Rockville, IN, 47872",
                 "Site_County": "Parke",
-                "Site_Location_Info": "Parke County Fairgrounds. This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "PARKE CO FAIRGROUNDS COVID VAX",
+                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Name": "Parke Co HD VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -2332,8 +2300,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -87.23707546268074,
-                "y": 39.78938947990586
+                "x": -87.2391085771141,
+                "y": 39.76510231681465
             }
         },
         {
@@ -2380,14 +2348,14 @@
                 "Promote_Site": null,
                 "Site_Address": "257 Walnut St, Clinton, IN 47842",
                 "Site_County": "Vermillion",
-                "Site_Location_Info": null,
-                "Site_Name": "Vermillion CO HD VAX",
+                "Site_Location_Info": "This clinic has Moderna & Pfizer.",
+                "Site_Name": "Vermillion Co HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "Multi",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -33836,7 +33804,7 @@
                 "Promote_Site": "Y",
                 "Site_Address": "717 W 21st St, Connersville, IN 47331",
                 "Site_County": "Fayette",
-                "Site_Location_Info": "This is a mobile clinic June 30 – July 3, 9am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Location_Info": "This is a mobile clinic June 30 – July 2, 9am – 6pm. This clinic has Pfizer and Johnson & Johnson.",
                 "Site_Name": "Ivy Tech Connersville VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -34302,6 +34270,70 @@
                 },
                 "x": -85.74547274401151,
                 "y": 38.36558068359153
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "714f111d-02df-4f5b-9193-8bf0efa1633b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Noble Co East Noble MS Mass VAX",
+                "OBJECTID": 1311,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "415 Drake Rd, Kendallville, IN 46755",
+                "Site_County": "Noble",
+                "Site_Location_Info": "This clinic will be open June 28 & July 19, 3-6pm both days. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Noble Co East Noble MS Mass VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.27219374768079,
+                "y": 41.43675859366426
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "468863ba-ec9c-412f-b062-60c7aa1641c3",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Beacon Medical Group",
+                "OBJECTID": 1312,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "6913 N Main St, Granger, IN 46530",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": "This location has Pfizer.",
+                "Site_Name": "Beacon Medical Group VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.17907798966279,
+                "y": 41.722663028739724
             }
         }
     ],
