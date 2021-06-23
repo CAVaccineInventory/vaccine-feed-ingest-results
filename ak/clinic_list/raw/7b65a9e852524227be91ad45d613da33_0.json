@@ -5255,6 +5255,42 @@
                 "x": -149.88116197748164,
                 "y": 61.1300059972005
             }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1624405078087,
+                "Creator": "",
+                "EditDate": 1624405521877,
+                "Editor": "kelly.isham_Alaska_DHSS",
+                "address": "MP 238.9 George Parks Hwy",
+                "adminContactName": "Emily Myhre",
+                "adminEmail": "emily@horizonmedicalak.com",
+                "city": "Healy",
+                "cost_other": null,
+                "datesubmited": 1624392000000,
+                "flu_acceptsInsurance": "yes_please_contact_your_insuran",
+                "flu_cost": "no_cost",
+                "flu_vaccinations": "moderna,pfizer,jjj",
+                "flu_walkins": "no_please_make_an_appointment",
+                "globalid": "df1ceea2-4672-4964-832c-cdf4b1f51329",
+                "layer_id": 0,
+                "objectid": 179,
+                "phone": "9076834433",
+                "publicEmail": "covidsupport@horizonmedicalak.com",
+                "publicNotes": "Vaccinations are offered from 1-2pm daily by appointment.",
+                "publicWebsite": "https://www.horizonmedicalak.com/covid-19-vaccination",
+                "service_item_id": "7b65a9e852524227be91ad45d613da33",
+                "vaccinationSite": "Canyon Clinic",
+                "zipcode": "99743"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -148.90146160370904,
+                "y": 63.74747430656058
+            }
         }
     ],
     "fields": [

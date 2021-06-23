@@ -4525,6 +4525,37 @@
                 "x": -149.88116197748164,
                 "y": 61.1300059972005
             }
+        },
+        {
+            "attributes": {
+                "address": "MP 238.9 George Parks Hwy",
+                "city": "Healy",
+                "cost_other": null,
+                "datesubmited": 1624392000000,
+                "flu_acceptsInsurance": "yes_please_contact_your_insuran",
+                "flu_cost": "no_cost",
+                "flu_vaccinations": "moderna,pfizer,jjj",
+                "flu_walkins": "no_please_make_an_appointment",
+                "globalid": "df1ceea2-4672-4964-832c-cdf4b1f51329",
+                "layer_id": 0,
+                "needs_review": "approved",
+                "objectid": 179,
+                "phone": "9076834433",
+                "publicEmail": "covidsupport@horizonmedicalak.com",
+                "publicNotes": "Vaccinations are offered from 1-2pm daily by appointment.",
+                "publicWebsite": "https://www.horizonmedicalak.com/covid-19-vaccination",
+                "service_item_id": "d92cbd6ff2524d7e92bef109f30cb366",
+                "vaccinationSite": "Canyon Clinic",
+                "zipcode": "99743"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -148.90146160370904,
+                "y": 63.74747430656058
+            }
         }
     ],
     "fields": [
