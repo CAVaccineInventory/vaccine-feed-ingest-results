@@ -16642,7 +16642,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29671",
                 "URL": "http://www.walgreens.com/covid19vac",
-                "V_Manufacturer": "PFR",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "Walgreens #11698",
                 "loc_type1": "Pharmacy - chain",
@@ -24748,7 +24748,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "bf7e6e02-8313-4470-8a24-2ed1ca839e37",
                 "Loc_ID": null,
@@ -41478,7 +41478,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "407e1fe9-443e-40b8-9833-ff90b94fc8fd",
                 "Loc_ID": null,
@@ -50753,7 +50753,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "d4ddc060-3c01-46d2-bc75-a06e99d60944",
                 "Loc_ID": null,
@@ -52958,7 +52958,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2e0940e5-427d-4139-b786-8b30259770da",
                 "Loc_ID": null,
