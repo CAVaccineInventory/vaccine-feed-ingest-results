@@ -35499,57 +35499,6 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "484 Inwood Ave N",
-                "City": "Oakdale",
-                "County": null,
-                "EndDate": "2021-06-24",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6456,
-                "Phone": "(855) 753-8298",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "Oakdale - Inwood Oaks",
-                "StartDate": "2021-06-23",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor and Curbside Options",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 12+; parental consent needed for ages 12-17",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "6:00pm",
-                "ThursdayStart": "10:00am",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "https://www.solvhealth.com/book-online/A27Byp",
-                "UpdateDate": "2021-06-23 13:53:48",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "6:00pm",
-                "WednesdayStart": "10:00am",
-                "Zip": "55128",
-                "globalid": "50962587-6316-4245-863c-62a94e80f8aa",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20313
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -92.93519702411034,
-                "y": 44.95424400780081
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "30 Civic Center Dr SE",
                 "City": "Rochester",
                 "County": null,
