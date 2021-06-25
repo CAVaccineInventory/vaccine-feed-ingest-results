@@ -3370,9 +3370,9 @@
                 "OBJECTID": 202,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "430 Fifth Street  Rising Sun, In 47040",
+                "Site_Address": "117 Sixth St, Rising Sun, IN  47070",
                 "Site_County": "Ohio",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This vaccine site has Johnson & Johnson, Moderna and Pfizer.",
                 "Site_Name": "OHIO CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -3388,8 +3388,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -84.85354067996475,
-                "y": 38.95336148248121
+                "x": -84.84937789157355,
+                "y": 38.95097523996388
             }
         },
         {

@@ -8771,43 +8771,6 @@
         },
         {
             "attributes": {
-                "CreationDate": 1624163105936,
-                "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624556424089,
-                "Editor": "COVIDPublicHCPH",
-                "address": "1223 Waugh Dr, Houston, TX 77019",
-                "agency": "Harris County Public Health",
-                "closedatefilter": null,
-                "dose": "First,Single",
-                "entrydate": "2021-06-24T12:40:08.569-05:00",
-                "globalid": "4924bb63-5f76-4795-8c89-e29561c5dac4",
-                "lat": null,
-                "layer_id": 0,
-                "location": "Johny McElroy's Irish Pub",
-                "lon": null,
-                "notes": null,
-                "objectid": 293,
-                "opendate": 1624640400000,
-                "opendate_str": "Friday, June 25th",
-                "opendatefilter": null,
-                "operatinghours": "11:00 AM - 6:00 PM",
-                "phone": "832-927-8787",
-                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Pfizer,JohnsonJohnson",
-                "vdu_no": "VDU 8",
-                "website": "https://vacstrac.hctx.net/landing"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -95.39776698471874,
-                "y": 29.75575899693918
-            }
-        },
-        {
-            "attributes": {
                 "CreationDate": 1624163165216,
                 "Creator": "COVIDPublicHCPH",
                 "EditDate": 1624163165216,
