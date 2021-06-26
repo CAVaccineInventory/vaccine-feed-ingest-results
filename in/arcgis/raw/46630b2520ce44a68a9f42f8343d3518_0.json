@@ -8643,38 +8643,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "23d33eac-25d6-4450-9d73-473fce71159e",
-                "ID": "ISDH1324",
-                "IsView": 1,
-                "Name": "Northwest Health Porter",
-                "OBJECTID": 403,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "85 E US Hwy 6, Valparaiso, IN 46383",
-                "Site_County": "Porter",
-                "Site_Location_Info": null,
-                "Site_Name": "Northwest Health Porter VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.04929749009358,
-                "y": 41.55297071773527
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "99429542-ccbf-426e-9308-ed4f73bec71d",
                 "ID": null,
                 "IsView": 1,
@@ -33470,38 +33438,6 @@
                 },
                 "x": -87.12838215141606,
                 "y": 39.523475306216596
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "079e23fe-165d-46da-a3ef-9841234a7aa9",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Butler Methodist Church VAX",
-                "OBJECTID": 1277,
-                "Promote_Name": "Butler Methodist Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46721</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "501 W. Green St, Butler, IN 46721",
-                "Site_County": "DeKalb",
-                "Site_Location_Info": "This is a mobile clinic June 23 – 25, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Butler Methodist Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -84.87669479079887,
-                "y": 41.4309128100813
             }
         },
         {
