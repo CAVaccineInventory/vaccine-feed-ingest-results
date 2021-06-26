@@ -51208,7 +51208,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "b101eb4d-0647-4855-ad92-9028aac43f81",
                 "Loc_ID": null,
@@ -53063,7 +53063,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cbe8b51a-64c6-4618-850b-2d684b296dec",
                 "Loc_ID": null,
@@ -53478,6 +53478,146 @@
                 },
                 "x": -81.07371253410975,
                 "y": 33.986793994908965
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "1-866-365-8110",
+                "GlobalID": "6efd92cc-d927-4d0e-b116-5d6f73394734",
+                "Loc_ID": null,
+                "OBJECTID": 38711,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "608 E Maxwell St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29506",
+                "URL": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Dr. Iola Jones Park (Florence County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.75701281469088,
+                "y": 34.20721812734695
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
+                "GlobalID": "f246f3e9-72d5-4fac-aac0-3a1bbee536e1",
+                "Loc_ID": null,
+                "OBJECTID": 38712,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "356 S Jeffords St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
+                "SiteState": "SC",
+                "SiteZip": "29506",
+                "URL": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Levy Park Senior Center (Florence County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.74915099832356,
+                "y": 34.19350599591593
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "1-866-365-8110",
+                "GlobalID": "f30bd3b4-e1b0-4b8f-a1cc-b32188602590",
+                "Loc_ID": null,
+                "OBJECTID": 38713,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "3605 Highmarket St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Georgetown",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29544",
+                "URL": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Georgetown County Fire Department",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.3228149404269,
+                "y": 33.39038931223564
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "1-866-365-8110",
+                "GlobalID": "9b49f220-b395-4d1a-9d7f-5748073b9a75",
+                "Loc_ID": null,
+                "OBJECTID": 38714,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "513 Barnes St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29501",
+                "URL": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Barnes Street Activity Center (Florence County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.77560829675076,
+                "y": 34.19861993467748
             }
         }
     ],

@@ -84,7 +84,7 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -98,14 +98,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -158,7 +158,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "5:45pm"
             },
@@ -172,7 +172,7 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -225,7 +225,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -292,7 +292,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -306,14 +306,14 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -433,14 +433,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -486,7 +486,7 @@
             {
                 "day": "monday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -500,14 +500,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "3:00pm",
                 "time_closed": "8:15pm"
             },
@@ -560,7 +560,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -574,14 +574,14 @@
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -603,17 +603,17 @@
         "distance": null
     },
     {
-        "id": 32,
-        "name": "Suffolk - Riverhead Entenmann (4 West 2nd St) -- Moderna",
-        "address": "4 West 2nd Street",
+        "id": 26,
+        "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Moderna",
+        "address": "284 Pulaski Road",
         "suite": "",
-        "city": "Riverhead",
+        "city": "Greenlawn",
         "state": "NY",
-        "zip": "11901",
+        "zip": "11740",
         "county": "Suffolk",
-        "latitude": "40.9188",
-        "longitude": "-72.664",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TS3zEAG",
+        "latitude": "40.8584",
+        "longitude": "-73.3884",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
         "is_walk_in": false,
         "hours": [
@@ -626,10 +626,10 @@
             },
             {
                 "day": "tuesday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:00am",
-                "time_closed": "5:45pm"
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "wednesday",
@@ -640,10 +640,10 @@
             },
             {
                 "day": "thursday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "3:00pm",
-                "time_closed": "8:15pm"
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "friday",
@@ -654,10 +654,10 @@
             },
             {
                 "day": "saturday",
-                "general_status": "open",
+                "general_status": "closed",
                 "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "3:45pm"
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "sunday",
