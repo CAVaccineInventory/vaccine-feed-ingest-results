@@ -33475,38 +33475,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "9781a478-0b12-4f97-a4cd-2e4778278887",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Syracuse Community Center",
-                "OBJECTID": 1279,
-                "Promote_Name": "Syracuse Community Center VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46567</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "1013 N. Long Dr, Syracuse, IN 46567",
-                "Site_County": "Kosciusko",
-                "Site_Location_Info": "This is a mobile clinic June 23 – 26, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson",
-                "Site_Name": "Syracuse Community Center VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.7506988344116,
-                "y": 41.43117295688145
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "8df4d884-c47a-407a-bb1f-9ac1fcb363d5",
                 "ID": null,
                 "IsView": 1,
@@ -34302,38 +34270,6 @@
                 },
                 "x": -86.17907798966279,
                 "y": 41.722663028739724
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "bb1f4dc6-2b51-475d-bfda-b51952d83020",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Fish Fry at Buffalo Trace VAX",
-                "OBJECTID": 1313,
-                "Promote_Name": "Fish Fry at Buffalo Trace VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47164</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1540 Highway 150 NE, Palmyra, IN 47164",
-                "Site_County": "Harrison",
-                "Site_Location_Info": "This is a one-day mobile site  on June 26, 2 - 10pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Fish Fry at Buffalo Trace VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.09862248476999,
-                "y": 38.40878027851882
             }
         },
         {
