@@ -53098,7 +53098,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "ba44e12a-87e3-411f-a42f-0ffe8a0112f6",
                 "Loc_ID": null,
