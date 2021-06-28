@@ -76,18 +76,8 @@
     <Folder>
       <name>Community Vaccination Site </name>
       <Placemark>
-        <name>The Broadmoor World Arena: Colorado Community Vaccination Site</name>
-        <description><![CDATA[Hours of Operation: <br>Friday: 12 - 6 p.m.<br>Saturday and Sunday: 10 a.m. - 6 p.m.<br><br>Registration Link: www.centura.org/vaccine <br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer<br><br>Registration Required. ]]></description>
-        <styleUrl>#icon-1502-4E342E</styleUrl>
-        <Point>
-          <coordinates>
-            -104.7942332,38.7882819,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Dick’s Sporting Goods Park: Community Vaccination Site </name>
-        <description><![CDATA[Hours of Operation: 9 a.m. - 5 p.m.<br><br>Days of Operation: Sunday through Tuesday<br><br>Registration Link: <br>www.Centura.org/vaccine<br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer <br><br>Registration Required. ]]></description>
+        <description><![CDATA[Hours of Operation: 9 a.m. - 5 p.m.<br><br>Days of Operation: Sunday through Tuesday<br><br>Registration Link: <br>www.Centura.org/vaccine<br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer<br><br>Last date of operations before transition to local providers is June 29.]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
@@ -97,7 +87,7 @@
       </Placemark>
       <Placemark>
         <name>Ball Arena: Community Vaccination Site</name>
-        <description><![CDATA[Hours of Operation: <br>Mon-Tues 1-9 p.m.<br>Wednesday 7 a.m. - 7 p.m.<br>Thurs-Fri 6 a.m. - 2 p.m.<br>Sat-Sun 9 a.m. - 3 p.m.<br><br>Days of Operation: 7 Days a Week<br><br>Registration Link:<br>https://www.primarybio.com/r/truecare24-cdphe/<br><br>Same Day and Walk/Drive Up Registrations Available<br><br>Type of Vaccine: Pfizer / Moderna]]></description>
+        <description><![CDATA[Hours of Operation: <br>Mon-Tues 1-9 p.m.<br>Wednesday 7 a.m. - 7 p.m.<br>Thurs-Fri 6 a.m. - 2 p.m.<br>Sat-Sun 9 a.m. - 3 p.m.<br><br>Days of Operation: 7 Days a Week<br><br>Registration Link:<br>https://www.primarybio.com/r/truecare24-cdphe/<br><br>Same Day and Walk/Drive Up Registrations Available<br><br>Type of Vaccine: Pfizer / Moderna / JJ<br><br>Last day of operations before transition to local providers is July 3]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
@@ -107,7 +97,7 @@
       </Placemark>
       <Placemark>
         <name>The Ranch Events Complex: Community Vaccination Site</name>
-        <description><![CDATA[Hours of Operation: 10 a.m. - 6p.m.<br><br>Days of Operation: Monday - Saturday<br><br>Registration Link:<br>https://larimerhealth.secure.force.com/Vaccine/<br><br>Same Day and Walk/Drive Up Appointments Available<br><br>Type of Vaccine: Moderna, Pfizer]]></description>
+        <description><![CDATA[Hours of Operation: 10 a.m. - 6p.m.<br><br>Days of Operation: Monday - Saturday<br><br>Registration Link:<br>https://larimerhealth.secure.force.com/Vaccine/<br><br>Same Day and Walk/Drive Up Appointments Available<br><br>Type of Vaccine: Moderna, Pfizer<br><br>Last day of operations before transition to local provider is June 30. ]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
@@ -8124,32 +8114,6 @@
           </Data>
           <Data name="website">
             <value>https://www.vailhealth.org/Covid-19/Vaccines</value>
-          </Data>
-          <Data name="vaccine type(s)">
-            <value>Moderna, Pfizer, Janssen</value>
-          </Data>
-          <Data name="Notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>Broadmoor World Arena</name>
-        <address>6001 E Woodmen Rd, Colorado Springs, CO</address>
-        <description><![CDATA[county: El Paso<br>address: 6001 E Woodmen Rd, Colorado Springs, CO<br>phone: (720) 263-5737<br>website: https://www.primarybio.com/l/centuramassvaccine<br>vaccine type(s): Moderna, Pfizer, Janssen<br>Notes: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="county">
-            <value>El Paso</value>
-          </Data>
-          <Data name="address">
-            <value>6001 E Woodmen Rd, Colorado Springs, CO</value>
-          </Data>
-          <Data name="phone">
-            <value>(720) 263-5737</value>
-          </Data>
-          <Data name="website">
-            <value>https://www.primarybio.com/l/centuramassvaccine</value>
           </Data>
           <Data name="vaccine type(s)">
             <value>Moderna, Pfizer, Janssen</value>

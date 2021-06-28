@@ -2348,8 +2348,8 @@
                 "Promote_Site": null,
                 "Site_Address": "257 Walnut St, Clinton, IN 47842",
                 "Site_County": "Vermillion",
-                "Site_Location_Info": "This clinic has Moderna & Pfizer.",
-                "Site_Name": "Vermillion Co HD COVID VAX",
+                "Site_Location_Info": "This clinic has Moderna, Pfizer, and Johnson & Johnson.",
+                "Site_Name": "Vermillion Co HD VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -34284,14 +34284,14 @@
                 "Promote_Site": null,
                 "Site_Address": "8345 Wicker Ave, St. John, IN 46373",
                 "Site_County": "Lake",
-                "Site_Location_Info": "This site has Moderna, Johnson & Johnson, and Pfizer",
+                "Site_Location_Info": null,
                 "Site_Name": "Franciscan WorkingWell VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments available.",
                 "Site_Type": null,
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
+                "Vaccine_Type": "Pfizer",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -34366,6 +34366,102 @@
                 },
                 "x": -85.87667445795793,
                 "y": 41.60647991790694
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c21ed361-933c-4a3d-91c7-145f9b16ee5e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Monroe County Fair VAX",
+                "OBJECTID": 1317,
+                "Promote_Name": "Monroe County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 470403</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "5700 W. Airport Rd.  Bloomington, IN  47403",
+                "Site_County": "Monroe",
+                "Site_Location_Info": "This is a mobile site July 1 – 2, 3:00 – 9:00pm. This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Monroe County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available July 1 & 2.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.60595391010824,
+                "y": 39.136896603281855
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "23633004-bd63-4253-bbdb-4cdce53a408c",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Kosciusko County Fair VAX",
+                "OBJECTID": 1318,
+                "Promote_Name": "Kosciusko County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46580</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "1400 E Smith St, Warsaw, IN 46580",
+                "Site_County": "Kosciusko",
+                "Site_Location_Info": "This is a mobile clinic July 14 – 17, 10am – 7pm. This clinic has Pfizer and Johnson & Johnson",
+                "Site_Name": "Kosciusko County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available July 14 - 17.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.83818786138966,
+                "y": 41.23352144618627
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "72f2802a-6869-404d-a7e9-1a26c8c42e02",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Perry County Fair VAX",
+                "OBJECTID": 1319,
+                "Promote_Name": "Perry County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47586</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "99 Roy Fenn Dr, Tell City, IN 47586",
+                "Site_County": "Perry",
+                "Site_Location_Info": "This is a mobile clinic July 9 & 10, Noon – 9pm.  This clinic has Pfizer and Johnson & Johnson",
+                "Site_Name": "Perry County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available July 9 & 10.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.75275315796956,
+                "y": 37.93217355034822
             }
         }
     ],
