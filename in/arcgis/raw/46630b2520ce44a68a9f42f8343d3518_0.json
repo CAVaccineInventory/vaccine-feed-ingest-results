@@ -131,38 +131,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "e2d8e4cc-cca9-414c-896c-b79f9be80a25",
-                "ID": "ISDH945",
-                "IsView": 1,
-                "Name": "Beacon (Elkhart General)",
-                "OBJECTID": 6,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1215 Lawn Ave, Elkhart, IN 46514",
-                "Site_County": "Elkhart",
-                "Site_Location_Info": null,
-                "Site_Name": "BEACON ELKHART GENERAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.99396827889939,
-                "y": 41.68047068129498
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "efc275ec-1921-4255-9911-ce4df26f8b67",
                 "ID": "ISDH942",
                 "IsView": 1,
@@ -1932,7 +1900,7 @@
                 "Promote_Site": null,
                 "Site_Address": "180 S Main St, Suite 252, Martinsville, IN 46151",
                 "Site_County": "Morgan",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This vaccine site has Moderna, Pfizer and Johnson & Johnson.",
                 "Site_Name": "MORGAN CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -2430,38 +2398,6 @@
                 },
                 "x": -86.60062461748674,
                 "y": 41.050728483457156
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "0ac2fbc0-d613-4934-9d33-cf2bee01e256",
-                "ID": "ISDH1081",
-                "IsView": 1,
-                "Name": "Hamilton County Local Health Department",
-                "OBJECTID": 168,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2003 Pleasant Street.  Noblesville, IN 46060",
-                "Site_County": "Hamilton",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "HAMIL CO HD FAIRGROUNDS COVID VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.99916530321093,
-                "y": 40.03872428242577
             }
         },
         {
@@ -3486,38 +3422,6 @@
                 },
                 "x": -87.37180137808984,
                 "y": 41.4039730378573
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "0c19adbd-5a39-4710-b78a-a9033cb43a2d",
-                "ID": "ISDH1133",
-                "IsView": 1,
-                "Name": "St. Joseph County Local Health Department",
-                "OBJECTID": 215,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "331 S. Scott St., South Bend, IN 46601",
-                "Site_County": "St. Joseph",
-                "Site_Location_Info": null,
-                "Site_Name": "ST JOE CO HD AT HEDWIG MEM CTR VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.25972336625367,
-                "y": 41.67299685582831
             }
         },
         {
@@ -34430,6 +34334,70 @@
                 },
                 "x": -86.75275315796956,
                 "y": 37.93217355034822
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "949c137e-fe59-4d21-9085-b6d422f242d2",
+                "ID": null,
+                "IsView": 1,
+                "Name": "St Joe Co HD At CCB VAX",
+                "OBJECTID": 1320,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "227 W Jefferson Blvd, 9th Floor, South Bend, IN 46601",
+                "Site_County": "St. Joseph",
+                "Site_Location_Info": null,
+                "Site_Name": "St Joe Co HD At CCB VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.2532128380834,
+                "y": 41.675349506158916
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d1326b75-96c2-4c69-b8ac-4e1e4ac4f04b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "HAMILTON COUNTY COVID VAX",
+                "OBJECTID": 1321,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "18030 Foundation Dr, Suite A, Noblesville, IN 46060",
+                "Site_County": "Hamilton",
+                "Site_Location_Info": null,
+                "Site_Name": "HAMILTON COUNTY COVID VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.99113133347042,
+                "y": 40.049482649111496
             }
         }
     ],
