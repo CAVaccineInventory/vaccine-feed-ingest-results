@@ -78959,6 +78959,41 @@
                 "x": -79.77560829675076,
                 "y": 34.19861993467748
             }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5671d809-79a3-4c36-b021-a5a0e1aed8e1",
+                "Loc_ID": null,
+                "OBJECTID": 39111,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "21 Friendship Church Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Nesmith",
+                "SitePhone": "1-866-365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29580",
+                "URL": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Friendship United Methodist Church (Williamsburg County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.56163557644788,
+                "y": 33.67544813220718
+            }
         }
     ],
     "fields": [
