@@ -2794,7 +2794,7 @@
                 "OBJECTID": 186,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "748 Lewis and Clark Pkwy, Clarksville, IN 47129",
+                "Site_Address": "1201 Wall St., Jeffersonville, IN 47130",
                 "Site_County": "Clark",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "CLARK CO HD COVID VAX",
@@ -2812,8 +2812,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.7624941602994,
-                "y": 38.311701760302235
+                "x": -85.7467871443083,
+                "y": 38.28270306854139
             }
         },
         {
@@ -34270,6 +34270,38 @@
                 },
                 "x": -85.99113133347042,
                 "y": 40.049482649111496
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "e2d2ee19-66df-4e7e-bd05-0da8f96bdf0f",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Marion Co Northeast District VAX",
+                "OBJECTID": 1322,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "6042 E 21st St, Indianapolis, IN  46219",
+                "Site_County": "Marion",
+                "Site_Location_Info": "This clinic has Johnson & Johnson & Pfizer.",
+                "Site_Name": "Marion Co Northeast District VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.06315597484664,
+                "y": 39.79731812217655
             }
         }
     ],

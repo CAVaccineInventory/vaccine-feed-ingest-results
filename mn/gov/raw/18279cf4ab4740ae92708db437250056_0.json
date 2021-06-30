@@ -10508,57 +10508,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "North Memorial Health is now offering COVID-19 vaccinations to anyone age 12 or older. All minors must have a parent or legal guardian present during their visit to the vaccination site.\r\n\r\nTo minimize potential wait times, scheduling an appointment is recommended. Walk-in vaccinations are available seven days a week between 8 a.m. and 3 p.m., excluding Memorial Day Weekend (May 29-31).",
-                "AddrLine1": "6100 Shingle Creek Crossing",
-                "City": "Brooklyn Center",
-                "County": "Hennepin",
-                "EndDate": null,
-                "FridayEnd": "4:30pm",
-                "FridayStart": "8:00am",
-                "MondayEnd": "4:30pm",
-                "MondayStart": "8:00am",
-                "OBJECTID": 828,
-                "Phone": "(763) 581-2273",
-                "ProviderName": "North Memorial Health",
-                "SaturdayEnd": "4:30pm",
-                "SaturdayStart": "8:00am",
-                "SiteName": "Brooklyn Center",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": "4:30pm",
-                "SundayStart": "8:00am",
-                "TestingOptions": "Indoor vaccination",
-                "TestingRequirements": "Other|Walk-ins welcome 8 a.m. and 3 p.m.",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "4:30pm",
-                "ThursdayStart": "8:00am",
-                "TuesdayEnd": "4:30pm",
-                "TuesdayStart": "8:00am",
-                "URL": "northmemorial.com/vaccine/",
-                "UpdateDate": "2021-05-24 18:16:11",
-                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
-                "WednesdayEnd": "4:30pm",
-                "WednesdayStart": "8:00am",
-                "Zip": "55430",
-                "globalid": "3f3f06c0-24ee-48dd-af86-6f43fb4332e7",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -93.30751898386866,
-                "y": 45.06557001502512
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": "Cub Pharmacy is now vaccinating all Minnesotans 18 years of age and older. Please visit our website at https://www.cub.com/pharmacy/services/covid-testing-information.html to schedule an appointment.",
                 "AddrLine1": "615 W Central Entrance",
                 "City": "Duluth",
