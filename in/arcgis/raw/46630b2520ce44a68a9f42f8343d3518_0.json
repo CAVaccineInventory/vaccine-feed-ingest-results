@@ -291,38 +291,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "81676ac7-d7db-40cb-855f-809b0efc8410",
-                "ID": "ISDH1001",
-                "IsView": 1,
-                "Name": "Eskenazi Health",
-                "OBJECTID": 15,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "720 Eskenazi Ave, Indianapolis, IN  46202-5166",
-                "Site_County": "Marion",
-                "Site_Location_Info": "Eskenazi Health Outpatient Care Center, 1st Floor Conference Center.",
-                "Site_Name": "ESKENAZI HEALTH VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.18435645664769,
-                "y": 39.77787774011381
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "7bb4fefb-f315-4b40-bdb5-4f2791907dd0",
                 "ID": "ISDH959",
                 "IsView": 1,
@@ -6590,38 +6558,6 @@
                 },
                 "x": -86.08002999999997,
                 "y": 39.634011000000044
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "1979caaa-3797-41a2-93b8-74310983c956",
-                "ID": "ISDH1222",
-                "IsView": 1,
-                "Name": "IU HEALTH BLACKFORD CO HS VAX",
-                "OBJECTID": 329,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2392 IN-3 Hartford City, IN 47348",
-                "Site_County": "Blackford",
-                "Site_Location_Info": null,
-                "Site_Name": "IU HEALTH BLACKFORD CO HS VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.3718006034172,
-                "y": 40.485151294177314
             }
         },
         {

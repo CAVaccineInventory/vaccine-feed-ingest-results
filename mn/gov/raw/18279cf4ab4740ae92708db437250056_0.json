@@ -34533,7 +34533,7 @@
                 "AddrLine1": "4300 Glumack Drive",
                 "City": "St. Paul",
                 "County": null,
-                "EndDate": "2021-06-30",
+                "EndDate": "2021-07-31",
                 "FridayEnd": "7:00pm",
                 "FridayStart": "7:00am",
                 "MondayEnd": "7:00pm",
@@ -34556,7 +34556,7 @@
                 "TuesdayEnd": "7:00pm",
                 "TuesdayStart": "7:00am",
                 "URL": "https://my.primary.health/r/vaxmn-msp?registration_type=default",
-                "UpdateDate": "2021-06-18 14:26:12",
+                "UpdateDate": "2021-06-30 05:00:06",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "7:00pm",
                 "WednesdayStart": "7:00am",
@@ -34574,8 +34574,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -93.2113740282186,
-                "y": 44.88351000700308
+                "x": -93.21757697184458,
+                "y": 44.88359001226891
             }
         },
         {
@@ -34839,7 +34839,7 @@
                 "AddrLine1": "7150 Humphrey Drive",
                 "City": "Minneapolis",
                 "County": null,
-                "EndDate": "2021-06-30",
+                "EndDate": "2021-07-31",
                 "FridayEnd": "2:00pm",
                 "FridayStart": "6:00am",
                 "MondayEnd": "2:00pm",
@@ -34862,7 +34862,7 @@
                 "TuesdayEnd": "2:00pm",
                 "TuesdayStart": "6:00am",
                 "URL": "https://my.primary.health/r/vaxmn-msp?registration_type=default",
-                "UpdateDate": "2021-06-18 14:26:12",
+                "UpdateDate": "2021-06-30 05:00:06",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "2:00pm",
                 "WednesdayStart": "6:00am",
@@ -34880,8 +34880,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -93.22821897139224,
-                "y": 44.874069008451926
+                "x": -93.22866798994536,
+                "y": 44.873530010168224
             }
         },
         {
@@ -35443,57 +35443,6 @@
                 },
                 "x": -90.34022516014308,
                 "y": 47.7567327423864
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
-                "AddrLine1": "1 Civic Center Plaza",
-                "City": "Mankato",
-                "County": null,
-                "EndDate": "2021-06-29",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6463,
-                "Phone": "(800) 800-5698",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "Mankato - Mayo Clinic Health System Event Center",
-                "StartDate": "2021-06-29",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 18+",
-                "TestingTypes": "Covid-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "6:00pm",
-                "TuesdayStart": "2:00pm",
-                "URL": "http://vaulthealth.com/covid/start/?var_c=VACCINATION_MINNESOTA_OPEN",
-                "UpdateDate": "2021-06-24 15:45:02",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "Closed",
-                "WednesdayStart": "Closed",
-                "Zip": "56001",
-                "globalid": "4457b7b8-be1b-4241-bfcd-ce2b5d8d07e5",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20327
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.00432998035303,
-                "y": 44.16615999497759
             }
         },
         {
