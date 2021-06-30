@@ -53273,7 +53273,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": "1-866-365-8110",
                 "GlobalID": "0862b05e-dcbe-4ddc-a1fe-a1a189045125",
                 "Loc_ID": null,
@@ -53588,7 +53588,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": "1-866-365-8110",
                 "GlobalID": "f30bd3b4-e1b0-4b8f-a1cc-b32188602590",
                 "Loc_ID": null,

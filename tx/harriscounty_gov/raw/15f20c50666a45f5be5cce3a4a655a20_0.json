@@ -10808,13 +10808,13 @@
             "attributes": {
                 "CreationDate": 1624972367386,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624972367386,
+                "EditDate": 1625060624808,
                 "Editor": "COVIDPublicHCPH",
                 "address": "8950 Will Clayton Pkwy Suite A, Humble, TX 77338",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
-                "dose": "First,Second",
-                "entrydate": "2021-06-29T08:10:42.337-05:00",
+                "dose": "First,Second,Single",
+                "entrydate": "2021-06-30T08:43:38.198-05:00",
                 "globalid": "2a6baca4-b557-4eb6-8799-f2f1338b36c2",
                 "lat": null,
                 "layer_id": 0,
@@ -10828,7 +10828,7 @@
                 "operatinghours": "9:00 AM - 5:00 PM",
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Pfizer",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
                 "vdu_no": "VDU 14",
                 "website": "https://vacstrac.hctx.net/landing"
             },
@@ -10845,13 +10845,13 @@
             "attributes": {
                 "CreationDate": 1624972428283,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1624972428283,
+                "EditDate": 1625060609370,
                 "Editor": "COVIDPublicHCPH",
                 "address": "14901 TX-249, Houston, TX 77086",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
-                "dose": "First,Second",
-                "entrydate": "2021-06-29T08:12:50.936-05:00",
+                "dose": "First,Second,Single",
+                "entrydate": "2021-06-30T08:43:21.792-05:00",
                 "globalid": "ae169d4d-8232-4545-8f4c-c706bdd26d21",
                 "lat": null,
                 "layer_id": 0,
@@ -10865,7 +10865,7 @@
                 "operatinghours": "9:00 AM - 5:00 PM",
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Pfizer",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
                 "vdu_no": "VDU 15",
                 "website": "https://vacstrac.hctx.net/landing"
             },
@@ -11579,6 +11579,43 @@
                 },
                 "x": -95.382193995352,
                 "y": 29.91497701961313
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625060565003,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625060565003,
+                "Editor": "COVIDPublicHCPH",
+                "address": "5555 Hermann Park Dr, Houston, TX 77030",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First",
+                "entrydate": "2021-06-30T08:41:40.529-05:00",
+                "globalid": "a6b3b126-783e-4292-899e-050ed1ec3de0",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Museum of Natural Science",
+                "lon": null,
+                "notes": null,
+                "objectid": 370,
+                "opendate": 1625158800000,
+                "opendate_str": "Thursday, July 1st",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 2",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.38960401685424,
+                "y": 29.72211998874419
             }
         }
     ],
