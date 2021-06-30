@@ -46902,6 +46902,41 @@
         },
         {
             "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "a00fc526-d336-4422-9805-73ddad96b4c5",
+                "Loc_ID": 1652,
+                "OBJECTID": 23450,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "2724 Palmetto St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29501",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "REVIVED MEDICAL TRAINING CENTER",
+                "loc_type1": "Urgent care",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": "SCA921032",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.82944635499962,
+                "y": 34.17673701800055
+            }
+        },
+        {
+            "attributes": {
                 "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5ce0b5de-0918-43a1-a705-b87a82739587",

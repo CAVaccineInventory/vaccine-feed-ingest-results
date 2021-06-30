@@ -76,32 +76,12 @@
     <Folder>
       <name>Community Vaccination Site </name>
       <Placemark>
-        <name>Dick’s Sporting Goods Park: Community Vaccination Site </name>
-        <description><![CDATA[Hours of Operation: 9 a.m. - 5 p.m.<br><br>Days of Operation: Sunday through Tuesday<br><br>Registration Link: <br>www.Centura.org/vaccine<br><br>Dedicated call number for any mass vaccine events. Below is the call center number 720-263-5737 that supports questions/registration if guests do not have intranet. This is currently open now from 7:00 a.m. – 8:00 p.m. MST 7 days a week<br><br>Type of Vaccine: Pfizer<br><br>Last date of operations before transition to local providers is June 29.]]></description>
-        <styleUrl>#icon-1502-4E342E</styleUrl>
-        <Point>
-          <coordinates>
-            -104.8918168,39.8056202,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Ball Arena: Community Vaccination Site</name>
         <description><![CDATA[Hours of Operation: <br>Mon-Tues 1-9 p.m.<br>Wednesday 7 a.m. - 7 p.m.<br>Thurs-Fri 6 a.m. - 2 p.m.<br>Sat-Sun 9 a.m. - 3 p.m.<br><br>Days of Operation: 7 Days a Week<br><br>Registration Link:<br>https://www.primarybio.com/r/truecare24-cdphe/<br><br>Same Day and Walk/Drive Up Registrations Available<br><br>Type of Vaccine: Pfizer / Moderna / JJ<br><br>Last day of operations before transition to local providers is July 3]]></description>
         <styleUrl>#icon-1502-4E342E</styleUrl>
         <Point>
           <coordinates>
             -105.0076028,39.7486565,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>The Ranch Events Complex: Community Vaccination Site</name>
-        <description><![CDATA[Hours of Operation: 10 a.m. - 6p.m.<br><br>Days of Operation: Monday - Saturday<br><br>Registration Link:<br>https://larimerhealth.secure.force.com/Vaccine/<br><br>Same Day and Walk/Drive Up Appointments Available<br><br>Type of Vaccine: Moderna, Pfizer<br><br>Last day of operations before transition to local provider is June 30. ]]></description>
-        <styleUrl>#icon-1502-4E342E</styleUrl>
-        <Point>
-          <coordinates>
-            -104.9881699,40.4425676,0
           </coordinates>
         </Point>
       </Placemark>

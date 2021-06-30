@@ -11469,6 +11469,117 @@
                 "x": -95.48524798615148,
                 "y": 29.68850000746944
             }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1624999216807,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1624999216807,
+                "Editor": "COVIDPublicHCPH",
+                "address": "11810 Chimney Rock Rd, Houston, TX 77035",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First",
+                "entrydate": "2021-06-29T13:18:55.800-05:00",
+                "globalid": "2840271b-1d10-4c1f-8554-3fc053d49137",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Spring Village Apartments",
+                "lon": null,
+                "notes": null,
+                "objectid": 367,
+                "opendate": 1625158800000,
+                "opendate_str": "Thursday, July 1st",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 8",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.48265797807028,
+                "y": 29.651415995159844
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1624999308686,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1624999308686,
+                "Editor": "COVIDPublicHCPH",
+                "address": "14750 Henry Rd, Houston, TX 77060",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-06-29T15:40:21.281-05:00",
+                "globalid": "962e1988-f2bf-4ab6-83cc-b74efae30397",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Pep Mueller",
+                "lon": null,
+                "notes": null,
+                "objectid": 368,
+                "opendate": 1625158800000,
+                "opendate_str": "Thursday, July 1st",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 14",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.382193995352,
+                "y": 29.91497701961313
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625001205998,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625001205998,
+                "Editor": "COVIDPublicHCPH",
+                "address": "14750 Henry Rd, Houston, TX 77060",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-06-29T15:41:53.060-05:00",
+                "globalid": "69b2c251-1262-4690-8506-749d8fae1b51",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Pep Mueller",
+                "lon": null,
+                "notes": null,
+                "objectid": 369,
+                "opendate": 1625245200000,
+                "opendate_str": "Friday, July 2nd",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 18",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.382193995352,
+                "y": 29.91497701961313
+            }
         }
     ],
     "fields": [

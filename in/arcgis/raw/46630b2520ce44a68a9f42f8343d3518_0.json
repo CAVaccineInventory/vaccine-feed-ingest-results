@@ -16451,38 +16451,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "c3a19faa-9136-47a2-a612-bdbbf8a6c8bb",
-                "ID": null,
-                "IsView": 1,
-                "Name": "NorthShore Chesterton Mass VAX",
-                "OBJECTID": 714,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "100 W. Indiana Ave, Chesterton, IN 46304",
-                "Site_County": "Porter",
-                "Site_Location_Info": null,
-                "Site_Name": "NorthShore Chesterton Mass VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mass",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.05213376859477,
-                "y": 41.609731371916475
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "0377bfdd-5e69-4181-b03f-43cbdab7083d",
                 "ID": null,
                 "IsView": 1,
@@ -17630,38 +17598,6 @@
                 },
                 "x": -85.98750047089504,
                 "y": 39.78280306898983
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "946322ea-30a9-4c92-b6d8-6140bd5a6722",
-                "ID": null,
-                "IsView": 1,
-                "Name": "NorthShore Chesterton Mass2 VAX",
-                "OBJECTID": 759,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "702 Broadway, Chesterton, IN 46304",
-                "Site_County": "Porter",
-                "Site_Location_Info": null,
-                "Site_Name": "NorthShore Chesterton Mass2 VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.06228249516963,
-                "y": 41.61170815381726
             }
         },
         {
