@@ -227,38 +227,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "8c707205-52c3-460f-ad57-da70cd50bd1e",
-                "ID": "ISDH1010",
-                "IsView": 1,
-                "Name": "Deaconess Downtown Clinic",
-                "OBJECTID": 11,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "421 Chestnut St, Evansville, IN 47713-1227",
-                "Site_County": "Vanderburgh",
-                "Site_Location_Info": "Use main entrance.",
-                "Site_Name": "DEACONESS DOWNTOWN CLINIC VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.56736109674169,
-                "y": 37.9696477331169
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "573cc156-9265-4e98-bc3d-8b5b70af15d9",
                 "ID": "ISDH1000",
                 "IsView": 1,
@@ -286,70 +254,6 @@
                 },
                 "x": -85.47919235069811,
                 "y": 39.34429566698377
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "7bb4fefb-f315-4b40-bdb5-4f2791907dd0",
-                "ID": "ISDH959",
-                "IsView": 1,
-                "Name": "Franciscan Health Crown Point",
-                "OBJECTID": 16,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1201 South Main St, Crown Point, IN 46307",
-                "Site_County": "Lake",
-                "Site_Location_Info": "Door A, Marian Education Center, Rooms C & D. ",
-                "Site_Name": "FRANCISCAN HEALTH CROWN POINT VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.36460809868932,
-                "y": 41.39646496821664
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "2b260eee-81af-40a4-9c6e-35ee2b358edb",
-                "ID": "ISDH967",
-                "IsView": 1,
-                "Name": "Franciscan Health Indianapolis ",
-                "OBJECTID": 18,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": " 8111 S Emerson Ave, Indianapolis, IN 46237",
-                "Site_County": "Marion",
-                "Site_Location_Info": null,
-                "Site_Name": "FRANCISCAN HEALTH INDIANAPOLIS VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.08243143687672,
-                "y": 39.648942732683196
             }
         },
         {
@@ -10910,38 +10814,6 @@
                 },
                 "x": -87.02559124289373,
                 "y": 39.03407857418741
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "37fc8847-fa1c-4296-b323-9792bb3129d0",
-                "ID": "ISDH1363",
-                "IsView": 1,
-                "Name": "IU Health West Hospital",
-                "OBJECTID": 491,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1111 Ronald Reagan Pkwy, Avon, IN 46123",
-                "Site_County": "Hendricks",
-                "Site_Location_Info": "Main entrance, Garden Café",
-                "Site_Name": "IU Health West Hospital VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.34026536712278,
-                "y": 39.77998990542642
             }
         },
         {

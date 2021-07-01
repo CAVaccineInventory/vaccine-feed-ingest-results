@@ -35499,57 +35499,6 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "10 4th Ave South",
-                "City": "St. Cloud",
-                "County": null,
-                "EndDate": "2021-06-30",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6466,
-                "Phone": "(800) 800-5698",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "St. Cloud - River's Edge Convention Center",
-                "StartDate": "2021-06-30",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 18+",
-                "TestingTypes": "Covid-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "http://vaulthealth.com/covid/start/?var_c=VACCINATION_MINNESOTA_OPEN",
-                "UpdateDate": "2021-06-24 15:42:12",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "6:00pm",
-                "WednesdayStart": "2:00pm",
-                "Zip": "56301",
-                "globalid": "71ddadb4-7cb9-49b2-932f-b81dfe058834",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20328
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.15633001092652,
-                "y": 45.561820005793976
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "200 South Ave",
                 "City": "Bloomington",
                 "County": null,

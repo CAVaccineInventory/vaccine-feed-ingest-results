@@ -1,0 +1,2093 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"348872d504",applicationID:"496267014"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){d("pageHide",[p.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1209.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta name="description" content="*/" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://coronavirus.dc.gov/page/get-vaccinated" />
+<link rel="shortlink" href="https://coronavirus.dc.gov/page/get-vaccinated" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://coronavirus.dc.gov/page/get-vaccinated" />
+<meta name="twitter:title" content="Get Vaccinated" />
+<meta name="twitter:description" content="*/" />
+  <title>Get Vaccinated | coronavirus</title>  
+  <style type="text/css" media="all">
+@import url("https://coronavirus.dc.gov/modules/system/system.base.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/system/system.menus.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/system/system.messages.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/system/system.theme.css?qpq84q");
+</style>
+<style type="text/css" media="all">
+@import url("https://coronavirus.dc.gov/modules/book/book.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/comment/comment.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/date/date_api/date.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/date/date_repeat_field/date_repeat_field.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/domain/domain_nav/domain_nav.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/field/theme/field.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/node/node.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/search/search.css?qpq84q");
+@import url("https://coronavirus.dc.gov/modules/user/user.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/calendar/css/calendar_multiday.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/views/css/views.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/ckeditor/css/ckeditor.css?qpq84q");
+</style>
+<style type="text/css" media="all">
+@import url("https://coronavirus.dc.gov/sites/all/modules/ctools/css/ctools.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/contrib/flickrgallery/flickrgallery.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/panels/css/panels.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/rate/rate.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/text_resize/text_resize.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/modules/extlink/extlink.css?qpq84q");
+</style>
+<style type="text/css" media="all">
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/alpha-reset.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/alpha-mobile.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/omega/css/omega-text.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/omega/css/omega-branding.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/omega/css/omega-forms.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/global.css?qpq84q");
+</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default-normal.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-24.css?qpq84q");
+</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)">
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default-narrow.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-24.css?qpq84q");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default-normal.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-24.css?qpq84q");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 1220px)">
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/dc_agency_statehood/css/dc-agency-statehood-alpha-default-wide.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/wide/alpha-default-wide-12.css?qpq84q");
+@import url("https://coronavirus.dc.gov/sites/all/themes/omega/alpha/css/grid/alpha_default/wide/alpha-default-wide-24.css?qpq84q");
+</style>
+<!--<![endif]-->
+  <script type="text/javascript" src="https://coronavirus.dc.gov/sites/default/files/js/js_ri60QNjcazMKdlAmWmDsmRb0iKaVkkXUQxH2MsgpmVo.js"></script>
+<script type="text/javascript" src="https://coronavirus.dc.gov/sites/default/files/js/js_xpcUaefRF16dGRM12CceyhwGxO2jTZMKo_3milCSqpk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var text_resize_scope = "not-front #main, #zone-content";
+    var text_resize_minimum = "12";
+    var text_resize_maximum = "25";
+    var text_resize_line_height_allow = 1;
+    var text_resize_line_height_min = "16";
+    var text_resize_line_height_max = "36";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://coronavirus.dc.gov/sites/default/files/js/js_Eo5T__k7cT67RdWobG-2b-YrtvQ0lCM-iy2ivBhk9PY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-2638726-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://coronavirus.dc.gov/sites/default/files/js/js_EZPDFNECKQAflD2399FdP8q5qlxG-PXWffqI0_tY8iw.js"></script>
+<script type="text/javascript" src="https://coronavirus.dc.gov/sites/default/files/js/js_diWL3aQY3h6RRBatVIE0RJfaXsBie-hoJ861ArHzvB0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dc_agency_statehood","theme_token":"rLig4MsC6m1NBPurXrxVnLU9jcEbO94iwMPspWXf8wQ","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/text_resize\/jquery.cookie.js":1,"0":1,"sites\/all\/modules\/text_resize\/text_resize.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/dc_agency_statehood\/js\/dcAgency.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/flickrgallery\/flickrgallery.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/rate\/rate.css":1,"sites\/all\/modules\/text_resize\/text_resize.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/themes\/dc_agency_statehood\/css\/normalize.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/dc_agency_statehood\/css\/global.css":1,"ie::normal::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default.css":1,"ie::normal::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"narrow::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default.css":1,"narrow::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-24.css":1,"normal::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default.css":1,"normal::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"wide::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default.css":1,"wide::sites\/all\/themes\/dc_agency_statehood\/css\/dc-agency-statehood-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-24.css":1}},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"http[s]*:\/\/[a-zA-Z0-9\\-\\.]*dc.gov[\\\/a-zA-Z0-9\\-\\.\\?\\=]*","extInclude":"","extAlert":0,"extAlertText":"The District government has provided links as a courtesy and is not responsible for information on websites outside the DC portal. Inquiries should be made to the sponsoring organizations.","mailtoClass":"mailto"},"better_exposed_filters":{"views":{"alerts":{"displays":{"emergency_alerts_block":{"filters":[]}}},"custom_headers_and_footers":{"displays":{"custom_agency_header":{"filters":[]},"custom_agency_footer1":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1514701 node-type-page dc-display-1-column domain-coronavirus-dc-gov i18n-en context-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+                        <hgroup class="site-name-slogan">        
+                                <h2 class="site-name"><a href="/" title="Home">coronavirus</a></h2>
+                                        <h6 class="site-slogan">Coronavirus</h6>
+              </hgroup>
+          </div>
+          </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+          </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-24">
+    <div class="grid-24 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-views block-alerts-emergency-alerts-block block-views-alerts-emergency-alerts-block odd block-without-title" id="block-views-alerts-emergency-alerts-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-alerts view-id-alerts view-display-id-emergency_alerts_block view-dom-id-0b26de4208236656eaaa88ca8be4acd7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <p class="rtecenter"><b>Heat Emergency:&nbsp;</b>A heat emergency is in effect for the District of Columbia.<br />
+<a href="https://heat.dc.gov" title="Heat Emergency Information">Find information on cooling centers.</a></p>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div><div class="block block-views block-995d45b00eb29375765ad0295f641a94 block-views-995d45b00eb29375765ad0295f641a94 even block-without-title" id="block-views-995d45b00eb29375765ad0295f641a94">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-custom-headers-and-footers view-id-custom_headers_and_footers view-display-id-custom_agency_header view-dom-id-47f170ba33cf138982719d644d643eaa">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <style type="text/css">/* Global Styles */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap');
+body {
+  font-family: 'Open sans', sans-serif;
+  font-style: normal;
+  font-size: 16px;
+}
+sup {
+  vertical-align: super;
+}
+sub {
+  vertical-align: sub;
+}
+h1,h2,h3 {
+  letter-spacing: normal;
+}
+body.not-logged-in #block-c-row3 {
+  /*display: none;*/
+}
+body.not-logged-in #region-sidebar-second {
+  display: none;
+}
+#google_translate_element {
+  display: inline-block;
+}
+#google_translate_element {
+  float: right;
+}
+.top-header {
+  clear: both;
+}
+.zone-preface-wrapper, .zone-postscript-wrapper {
+  background-color: transparent;
+}
+#block-views-features-blocks-upcoming-events {
+  display: none;
+}
+/*Hide Events Block for now*/
+block-views-features-blocks-upcoming-events {
+  display: none;
+}
+/* Alert top Banner styles */
+.view-display-id-emergency_alerts_block {
+  background-image: linear-gradient(to right, #D93A4D, #9d0920);
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+}
+.view-display-id-emergency_alerts_block a {
+  color: #fff;
+}
+.view-display-id-emergency_alerts_block p {
+  padding: 8px 0px;
+  margin-bottom: 0px;
+}
+#section-header {
+  background-color: transparent;
+}
+.header-agency-logo.desktop {
+  display: none;
+}
+.header {
+  padding: 0px;
+}
+.header-agency-logo.mobile {
+  position: relative;
+}
+.header-agency-logo.mobile img {
+  float: left;
+  width: 160px;
+  padding-top: 0px;
+  height: 44px;
+}
+.mobile-hammenu {
+  float: right;
+  margin-bottom: 20px;
+}
+.mobile-hammenu img {
+  height: 38px;
+}
+#block-domain-conf-domain-main-links #search_form {
+  display: none;
+}
+#block-domain-conf-domain-main-links #search_form2 {
+  display:block;
+}
+input.sidenav-search {
+  width: 70%;
+  margin-left: 20px;
+  padding: 10px 20px;
+  border-radius: 30px;
+  border: 1px solid #aeaeae;
+  box-shadow: inset 0 0 9px #bdbdbd;
+  min-height: 10px;
+  height: 20px;
+  background: #d8d8d8;
+  text-align: left;
+  font-size: 16px;
+  font-style: italic;
+}
+#desktop_search_form {
+  display: none;
+}
+/* Global Menu Styles */
+#block-domain-conf-domain-main-links {
+  background-color: #9d0820;
+}
+#block-domain-conf-domain-main-links ul.menu-sub li a {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+#block-domain-conf-domain-main-links ul li {
+  border-bottom: 0px;
+}
+#block-domain-conf-domain-main-links ul li.expanded::before {
+  border: solid #fff;
+  margin-top: 8px;
+}
+#block-domain-conf-domain-main-links ul li.expanded .menu-sub {
+  padding-left: 20px;
+}
+#close-btn {
+  background-color: transparent;
+}
+/*hide desktop menu in mobile*/
+#desktop-head {
+  display: none;
+}
+#block-domain-conf-domain-main-links ul li.expanded::after {
+  display: none;
+}
+#block-domain-conf-domain-main-links ul li.expanded::before {
+  display: inline-block;
+  content: ' ';
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 5px;
+  float: right;
+}
+.front .slideButton {
+  width: 195px;
+  text-align: center;
+  background-image: linear-gradient(to right, #6da6fc, #297bfb);
+  padding: 10px 0px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  display: inline-block;
+  margin: 0px 10px; 
+}
+.front .slideButton a {
+  color: #fff;
+  text-decoration: none;
+}
+.signupBtn {
+  width: 170px;
+  background-image: linear-gradient(to right, #da3d4f, #9d0920);
+  text-align: center;
+  padding: 10px 0px;
+  border-radius: 10px;
+  float: right;
+}
+/* End of Global Menu Styles*/
+body.not-front.page-node #region-content {
+  margin: 0px;
+}
+#region-agency-home-main-content, .grid-24.region-agency-home-main-content {
+  background-color: transparent;
+  color: #4A4A4A;
+  box-shadow: none;
+  border: 0px;
+  padding: 20px;
+  margin-top: 20px;
+  top: 0px;
+  width: auto;
+}
+/* Hide Rotator on mobile view */
+#zone-preface #region-agency-home-rotator {
+  display: none;
+}
+.owl-nav {
+  display: none;
+}
+
+/* Global Hide extra space below homepage rotator */
+#region-agency-home-main-content {
+  /*display: none;*/
+}
+.region-agency-home-main-content .views-field-field-image-link-url {
+  display: none;
+}
+/* Global Welcome Block D Styles */
+.region-agency-home-main-content .view-display-id-homepage_d .views-field-body {
+  width: 86%;
+  float: none;
+  min-height: inherit;
+  line-height: normal;
+  text-align: left;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.front .Homewelcome {
+  width: 82%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 30px;
+  margin-top: 40px;
+}
+#zone-postscript-wrapper {
+  padding: 15px;
+}
+#block-views-features-blocks-homepage-d a {
+  color: #000;
+  text-decoration: underline;
+}
+/* Global Homepage Block A, B, C Styles */
+.block-views-features-blocks-homepage-a, .block-views-features-blocks-homepage-b, .block-views-features-blocks-homepage-c tr, #block-c-row2, #block-c-row3 {
+  min-height: 200px;
+  padding: 20px;
+  color: #000;
+  text-align: left;
+  clear: both;
+  display: block;
+  clear: both;
+  display: block;
+  margin-top: 10px;
+  float: none;
+  clear: both;
+  box-shadow: 1px 1px 8px #aaa;
+  border-radius: 15px;
+}
+.block-views-features-blocks-homepage-a h2.views-field-title, .block-views-features-blocks-homepage-c h2.views-field-title {
+  color: #000;
+  float: left;
+}
+.block-views-features-blocks-homepage-a, .block-views-features-blocks-homepage-c {
+  color: #000;
+  text-align: left;
+}
+.front .block-views-features-blocks-homepage-a .views-field.views-field-field-image-link-url,
+.front .block-views-features-blocks-homepage-b .views-field.views-field-field-image-link-url,
+.front .block-views-features-blocks-homepage-c .views-field.views-field-field-image-link-url {
+  float: right;
+}
+.block-views-features-blocks-homepage-a .views-field.views-field-field-image-link-url img,
+.block-views-features-blocks-homepage-b .views-field.views-field-field-image-link-url img,
+.block-views-features-blocks-homepage-c .views-field.views-field-field-image-link-url img {
+  width: 60px;
+  height: 60px;
+}
+#block-views-features-blocks-homepage-b {
+  background-color: #0569FF;
+}
+
+.block-views-features-blocks-homepage-b h2.views-field-title {
+  color: #fff;
+  float: left
+}
+.block-views-features-blocks-homepage-b {
+  color: #fff;
+  text-align: left
+}
+.blockTitle {
+  color: #000;
+  float: right;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  margin-bottom: 48px;
+  margin-top: 20px;
+}
+#region-agency-home-3col-a {
+  clear: both;
+}
+.front .block-views-features-blocks-homepage-a .views-field.views-field-body,
+.front .block-views-features-blocks-homepage-b .views-field.views-field-body,
+.front .block-views-features-blocks-homepage-c .views-field.views-field-body {
+  clear: both;
+}
+.front .block-views-features-blocks-homepage-a .views-field.views-field-title .field-content,
+.front .block-views-features-blocks-homepage-b .views-field.views-field-title .field-content,
+.front .block-views-features-blocks-homepage-c .views-field.views-field-title .field-content {
+  font-weight: bold;
+  font-size: 27px;
+  width: 260px;
+  display: block;
+}
+#block-views-features-blocks-homepage-c {
+  padding: 0px;
+}
+.front .block-views-features-blocks-homepage-c #block-c-row2 .views-field.views-field-title .field-content,
+.front .block-views-features-blocks-homepage-c #block-c-row3 .views-field.views-field-title .field-content
+ {
+  width: 300px;
+}
+.front .block-views-features-blocks-homepage-c #block-c-row2 ul,
+.front .block-views-features-blocks-homepage-c #block-c-row3 ul {
+  margin-bottom: 0px;
+}
+.not-front #block-c-row2,
+.not-front #block-c-row3 {
+  display: none;
+}
+#block-views-features-blocks-homepage-c a {
+  color: #000 !important;
+}
+/* Global Home News Block */
+#block-views-030168ee923767f404d1c07c056336f5 {
+  display : none;
+}
+#block-quicktabs-agency-featured-news-home {
+  clear: both;
+  padding-top: 80px;
+}
+#quicktabs-tab-agency_featured_news_home-0,
+#quicktabs-tab-agency_featured_news_home-1,
+#quicktabs-tab-agency_featured_news_home-2,
+#quicktabs-tab-agency_featured_news_home-3 {
+  background-image: linear-gradient(to right, #da3d4f, #d23649);
+}
+#quicktabs-container-agency_featured_news_home {
+  clear: both;
+  border: 0px;
+  padding: 0px;
+  width: 100%;
+}
+#block-quicktabs-agency-featured-news-home .block-title {
+  display: none;
+}
+#quicktabs-container-agency_featured_news_home .view-featured-news-home {
+  background-image: linear-gradient(to right, #D93A4D, #9d0920);
+  display: inline-block;
+}
+#quicktabs-container-agency_featured_news_home tr.even, #quicktabs-container-agency_featured_news_home tr.odd {
+  border-bottom: 0px;
+  background-color: transparent;
+}
+#quicktabs-container-agency_featured_news_home tr td {
+  padding: 10px;
+  border: none;
+}
+#quicktabs-container-agency_featured_news_home .view-footer {
+  padding: 0px 0px 20px 10px;
+}
+/* Interior page styles */
+#readspeaker_button1 {
+  display: block;
+}
+.view-newsroom .views-field-field-date, .view-resources .views-field-field-date, .view-events-landing .views-field-field-date-time-rep {
+  background-color: #D93A4D !important;
+}
+/* Responsive tables */
+
+/* Force table to not be like tables anymore */
+.no-more-tables,
+.no-more-tables thead,
+.no-more-tables tbody,
+.no-more-tables th,
+.no-more-tables td,
+.no-more-tables tr {
+  display: block;
+}  
+/* Hide table headers (but not display: none;, for accessibility) */
+.no-more-tables thead tr {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}  
+.no-more-tables tr { border: 1px solid #ccc; }  
+.no-more-tables td {
+  /* Behave  like a "row" */
+  border: none;
+  border-bottom: 1px solid #eee;
+  position: relative;
+  white-space: normal;
+  text-align:left;
+} 
+.no-more-tables td:before {
+  /* Now like a table header */
+  /* Top/left values mimic padding */
+  position:relative;
+  left: 6px;
+  width:45%;
+  padding-right: 10px;
+  white-space: normal;
+  text-align:left;
+  font-weight: bold;
+  float:left;
+  display:block;
+  clear:left;
+}
+/**
+*  Label the data
+**/
+.no-more-tables td:before {
+  content: attr(data-title);
+}
+.no-more-tables tbody tr:nth-child(even) {
+  background-color: rgb(248, 248, 248);
+}
+.no-more-tables .table-body-data {
+  width: 45%;
+  float: right;
+}
+td[data-title]:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* End of Responsive Tables */
+
+/* End of Global Styles */
+
+/* Narrow */
+@media all and (min-device-width: 740px) and (min-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation: landscape){
+
+#region-content {
+  width: 720px;
+}
+#region-agency-home-3col-a,
+#region-agency-home-3col-b,
+#region-agency-home-3col-c {
+	width: 90%;
+}
+
+}
+/* End of Narrow */
+
+/* Normal Styles */
+@media all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape){
+
+#zone-header {
+  width: 100%;
+}
+#section-header {
+  box-shadow: none;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  z-index: 9;
+  background-color: #fff;
+  width: 100%;
+  top: 0px;
+}
+#region-header-first {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  float: none;
+  display: block;
+}
+.header {
+  text-align: left;
+}
+.view-display-id-emergency_alerts_block .view-content {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-agency-logo.mobile,
+.mobile-hammenu {
+  display: none;
+}
+.top-header {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-agency-logo.desktop {
+  z-index: 100;
+  display: inline-block;
+  margin-right: 0px;
+  position: relative;
+  vertical-align: top;
+  float: none;
+  margin-right: 58px;
+}
+.header-agency-logo.desktop img {
+  width: 224px;
+  height: 62px;
+}
+#google_translate_element {
+  display: inline-block;
+  float: right;
+  margin-top: -10px;
+}
+#desktop-head {
+  display: block;
+  margin-right: 0px;
+  text-align: center;
+  background-color: #bf0201;
+}
+#desktop-main-menu-container {
+  margin-left: 15px;
+}
+#desktop-main-menu {
+  margin-bottom: 50px;
+}
+#block-domain-conf-domain-main-links #search_form {
+  display: block;
+}
+#block-domain-conf-domain-main-links #search_form2 {
+  display:none;
+}
+#desktop_search_form {
+  display: block;
+}
+#desktop_search_form {
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+}
+#desktop_search_form input.sidenav-search {
+  width: 187px;
+  border-radius: 4px;
+  border: 1px solid #aeaeae;
+  box-shadow: inset 0 0 9px #fff;
+  line-height: 27px !important;
+  height: 27px;
+  font-style: italic;
+  font-size: 14px;
+  background: #fff;
+  min-height: 10px !important;
+  margin-top: 20px;
+  padding: 0px 20px;
+}
+.dcSearchButtonContainer {
+  height: 100%;
+  background-color: #bf0201;
+  border: 0px;
+  margin: 0px;
+  margin-left: 10px;
+  color: #fff;
+  padding: 6px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 13px;
+}
+/* Normal Menu Styles */
+#desktop-head ul#desktop-main-menu > li {
+  display: inline-block;
+  list-style: none;
+  padding: 0PX 20px;
+  line-height: 50px;
+}
+#desktop-head ul#desktop-main-menu > li > a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #fff;
+  font-weight: bold;
+}
+#desktop-head ul#desktop-main-menu > li:hover {
+  background-color: #fff;
+  color: #000;
+}
+#desktop-head ul#desktop-main-menu > li:hover > a {
+  color: #000;
+}
+#desktop-head ul#desktop-main-menu > li.expanded:hover > a::after {
+  border-top: 4px solid #000;
+}
+#desktop-head ul#desktop-main-menu > li.expanded > a::after {
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 4px solid #fff;
+  font-size: 15px;
+  content: "";
+  margin-left: 8px;
+  vertical-align: middle;
+}
+#desktop-main-menu > li > ul.menu-sub {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  background-color: #fff;
+  border: 1px solid #fff;
+  padding:10px 10px;
+  text-align:left;
+  box-shadow: 0px 2px 2px rgba(0,0,0,.2);
+  margin-left: -20px;
+  max-height: 500px;
+  width: 400px;
+}
+#desktop-main-menu > li.expanded ul.menu-sub > li {
+  display: inline-block;
+  min-width: 150px;
+  padding: 10px 10px;
+  margin: 0px;
+  width: 176px;
+  vertical-align: top;
+}
+#desktop-main-menu > li.expanded ul.menu-sub > li span.ext {
+  display: none;
+}
+#desktop-main-menu > li.expanded ul.menu-sub > li > a {
+  white-space: break-spaces;
+  line-height: 20px;
+  display: block;
+  color: #333;
+  text-decoration: none;
+}
+#desktop-main-menu > li.expanded ul.menu-sub > li:hover {
+  background-color: #d5d5d5;
+}
+#desktop-main-menu > li > ul.menu-sub li a.active, #desktop-main-menu > li > ul.menu-sub a:link, #desktop-main-menu > li > ul.menu-sub a:visited{
+  color:#333;
+  text-transform: none;
+  font-size: 14px;
+}
+#desktop-head ul > li.last > ul{
+  right: -1px;
+}
+/* Normal Rotator Styles */
+.front #zone-preface {
+  width: 100%;
+}
+/* Display Rotator on Desktop view */
+.front #zone-preface #region-agency-home-rotator {
+  display: block;
+}
+.front #region-agency-home-rotator {
+  width: 100%;
+  /*margin: 250px 0px 0px 0px;*/
+  margin: 0px;
+}
+.front .region-agency-home-rotator {
+  overflow: hidden;
+}
+.front #region-agency-home-rotator .owl-carousel .owl-item img {
+  float: right;
+  max-height: 100%;
+}
+.front #region-agency-home-rotator .slide #text {
+  background-color: #fff;
+  color: #000;
+  margin-top: -525px;
+  float: left;
+  box-shadow: 1px 1px 8px #aaa;
+  width: 412px;
+  margin-left: 20px;
+  padding: 10px;
+  min-height: 300px;
+  padding-bottom: 0px !important;
+}
+.front #region-agency-home-rotator .slidetitle {
+  font-size: 34px;
+  font-weight: bold;
+  line-height: 58px;
+  text-align: left;
+  margin-top: -25px;
+}
+.front #region-agency-home-rotator ul {
+  margin: 0px;
+  white-space: normal;
+}
+.front #region-agency-home-rotator li {
+  white-space: normal;
+  margin-left: 18px;
+}
+.front .slideButton {
+  width: 195px;
+  text-align: center;
+  background-image: linear-gradient(to right, #6da6fc, #297bfb);
+  padding: 10px 0px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  display: inline-block;
+  margin: 0px 10px; 
+}
+.front .slideButton a {
+  color: #fff;
+  text-decoration: none;
+}
+/* End of Rotator Styles */
+.front .Homewelcome {
+  width: 72%;
+}
+/* Normal Homepage Block A, B, C Styles */
+.block-views-features-blocks-homepage-a, .block-views-features-blocks-homepage-b, .block-views-features-blocks-homepage-c tr, #block-c-row2, #block-c-row3 {
+  width: 260px;
+}
+#region-agency-home-3col-a,
+#region-agency-home-3col-b,
+#region-agency-home-3col-c {
+  width: 300px;
+}
+/* Normal Interior page styles */
+.not-front #zone-content-wrapper {
+  width: 100%;
+  /* margin-top: 200px; */
+  margin-top: 0px;
+}
+.not-front.no-sidebars .zone-content-wrapper {
+  /* margin-top: 70px; */
+  margin-top: 0px;
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* LeftNav Styles */
+#region-sidebar-first .block-menu-block-1 {
+  display: block;
+}
+#region-sidebar-first {
+  border-right: 1px solid #D3D3D3;
+  margin-top: 50px;
+}
+#region-sidebar-first .block-menu-block-1 h2.block-title {
+  font-size: 22px;
+}
+#region-sidebar-first .block-menu-block ul li {
+  font-size: 14px;
+  margin: 0 10px;
+  padding: 10px 0;
+  list-style: none;
+}
+#region-sidebar-first .block-menu-block li a.active, 
+#region-sidebar-first .block-menu-block a:link, 
+#region-sidebar-first .block-menu-block a:visited {
+  text-decoration: none;
+}
+.banner-image {
+  display: block;
+}
+.banner-image-mobile {
+  display: none;
+}
+#zone-postscript-wrapper {
+  padding: 0px;
+}
+/* Responsive Table Styles */
+.not-front .region-content table tr th{
+  font-weight: bold;
+}
+.not-front .region-content table td, .not-front .region-content table th {
+  border: 1px solid #898989;
+}
+.region-content table th, .region-content table td{
+  padding: 3px;
+}
+#section-footer {
+  margin-top: 100px;
+}
+
+}/* End of Normal Styles */
+
+/* Wide */
+@media all and (min-width: 1220px) and (orientation:landscape){
+
+#region-header-first {
+  width: 100%;
+}
+.header-agency-logo.desktop {
+  margin-right: 15px;
+}
+.header-agency-logo img {
+  width: 224px;
+  height: 62px;
+}
+#desktop-head {
+  margin-right: 0px;
+}
+.not-front.no-sidebars .zone-content-wrapper {
+  width: 1000px;
+}
+/* Wide Rotator Styles */
+.region-agency-home-rotator {
+  max-height: 601px;
+}
+.front #region-agency-home-rotator {
+  width: 100%;
+  /*margin: 250px 0px 0px 0px;*/
+}
+.owl-carousel .owl-item img {
+  width: 1134px;
+  float: right;
+}
+.slide #text {
+  background-color: #fff;
+  color: #000;
+  margin-left: 50px;
+  margin-top: -536px;
+  float: left;
+  box-shadow: 1px 1px 8px #aaa;
+  width: 475px;
+  margin-left: 50px;
+  padding: 25px 90px;
+}
+.front #region-agency-home-rotator .slide #text {
+  background-color: #fff;
+  color: #000;
+  margin-top: -525px;
+  float: left;
+  box-shadow: 1px 1px 8px #aaa;
+  width: 475px;
+  margin-left: 50px;
+  padding: 10px 70px 25px 70px;
+  min-height: 350px;
+}
+/* End of Wide Rotator Styles */
+/* Wide Homepage Block A, B, C Styles */
+#region-agency-home-3col-a,
+#region-agency-home-3col-b,
+#region-agency-home-3col-c {
+  width: 380px;
+}
+.block-views-features-blocks-homepage-a, .block-views-features-blocks-homepage-b, .block-views-features-blocks-homepage-c tr, #block-c-row2, #block-c-row3 {
+  width: 340px;
+}
+
+}
+/* Extra Wide */
+@media all and (min-width: 1536px) and (orientation:landscape){
+  /* Extra Wide Rotator Styles */
+  .front #region-agency-home-rotator .slide #text {
+    position: absolute;
+    top: 600px;
+    left: 100px;
+  }
+}
+
+/* GSE Search CSS */
+#___gcse_0{
+margin-bottom: 20px;
+    width: 50%;
+    margin: 0 auto;
+display:none;
+
+vertical-align: top;
+float: right;
+width: 250px;
+}
+#block-domain-conf-domain-main-links #___gcse_1{
+width: 70%;
+margin:0 auto;
+} 
+.gsc-control-cse{
+    background-color: transparent;
+    border: 0;
+padding: 5px 1em;
+}
+.gsc-input input{
+    background: 0 !important;
+    padding: 10px !important;
+}
+.gsc-input table{
+    margin:0!important;
+}
+.gsc-search-button-v2, .gsc-search-button-v2:hover, .gsc-search-button-v2:focus{
+    padding: 11px!important;
+    background-color: #bf0201!important;
+    border-radius: 21px!important;
+}
+.gsc-search-button-v2{
+    border-color:transparent;
+}
+.gsc-input input:focus{
+    border:0;
+    outline: none;
+    box-shadow: none;
+}
+.gsc-search-box{
+    display:block!important;
+}
+.gsc-results-wrapper-overlay{
+    text-align:left;
+}
+#search_form{
+    display:none!important;
+}
+.search_form{
+display:none;
+}
+/* Normal */
+@media all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape){
+#___gcse_0{
+display: inline-block;
+}
+}
+/* FAQ styles */
+.faq {
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    }
+.question {
+    font-weight: 700;
+    color: #000;
+    font-size: 16px;
+}
+.question.expanded::before {
+    content: url(/sites/default/files/dc/shared_assets/Close2.png);
+ /*   max-height: 10px;*/
+    font-size: 21px;
+    float: right;
+    color: #000;
+}
+.question::before {
+    color: #2b4888;
+    content: url(/sites/default/files/dc/shared_assets/Expand2.png);
+    /* max-height: 10px; */
+    float: right;
+    font-size: 21px;
+    margin-right: 4px;
+}
+.answer {
+    margin-top: 20px;
+    font-weight: 200;
+}
+.answer {
+display: none;
+}
+/* FAQ styles */
+/* Tab like styles for ul*/
+.tab-navigation{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.tab-navigation li{
+    display: inline-block;
+padding: 10px;
+border: 2px solid #427299;
+margin: 10px;
+}
+</style>
+<div class="header">
+<div class="header-agency-logo mobile"><a href="/" title="Home"><img alt="Corona Logo" src="/sites/default/files/dc/sites/coronavirus/Corona_Logo.png" title="Corona Logo" /></a></div>
+
+<div class="mobile-hammenu"><img alt="Menu" src="/sites/default/files/dc/sites/sustainable/hamburgermenu.png" title="Menu" /></div>
+
+<div class="top-header">
+<div class="header-agency-logo desktop"><a href="/" title="Home"><img alt="Corona Logo" src="/sites/default/files/dc/sites/coronavirus/Corona_Logo.png" title="Corona Logo" /></a></div>
+
+<div id="google_translate_element">&nbsp;</div>
+</div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'am,zh-CN,fr,ko,es,vi,en'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+
+<div id="desktop-head">
+<div id="desktop-main-menu-container">
+<ul id="desktop-main-menu">
+</ul>
+</div>
+</div>
+<!-- Block C Row2 -->
+
+<div id="block-c-row2">
+<h2 class="views-field views-field-title"><span class="field-content">Coronavirus Testing</span></h2>
+
+<div class="views-field views-field-body">
+<div class="field-content">
+<p style="margin-bottom: 0px;"><b><a href="https://coronavirus.dc.gov/register" target="_blank">Pre-registration for&nbsp;Public Testing</a></b></p>
+
+<p>It&rsquo;s best to get testing through your provider, but if you need to use public testing, you can save time in line by visiting <a href="https://coronavirus.dc.gov/register">coronavirus.dc.gov/register</a> to create a profile from your smartphone, tablet, or computer.</p>
+</div>
+</div>
+</div>
+<!-- End Block C Row2 --><!-- Block C Row3 -->
+
+<div id="block-c-row3">
+<h2 class="views-field views-field-title"><span class="field-content">COVID-19 Resources in Your Language</span></h2>
+
+<div class="views-field views-field-body">
+<div class="field-content">
+<p><a href="/translated">Recursos sobre el COVID-19 en su idioma &bull; COVID-19 : ressources en fran&ccedil;ais &bull; በቋንቋዎ የኮቪድ-19 (COVID-19) የመረጃ ምንጮች &bull; COVID-19资源（使用您的语言)&bull; Th&ocirc;ng tin hỗ trợ C0VID19 tr&ecirc;n ng&ocirc;n ngữ của qu&iacute; vị &bull; 코로나바이러스 감염증(COVID019) 한국어 자료 </a></p>
+</div>
+</div>
+</div>
+<!-- End of Block C Row3 --><script>
+// Mobile menu show on click
+jQuery(".mobile-hammenu img").click(function(){
+  jQuery("#block-domain-conf-domain-main-links").css("width","100%");
+});
+
+// Document.Ready
+jQuery(document).ready(function() {
+
+// Clone Menu for Desktop Display
+// jQuery("<div id='desktop-head'><div id='desktop-main-menu-container'><ul id='desktop-main-menu'></ul></div>").insertAfter(".header-agency-logo.desktop");
+jQuery("#block-domain-conf-domain-main-links ul:first-child").children().each(function() {
+  jQuery(this).clone().appendTo('#desktop-main-menu');
+});
+
+  //Adds hover class to Top Menu navigation on hover and active secondary level until mouseout
+  jQuery("#desktop-main-menu > li").hover(function(){
+    jQuery(this).addClass("hover");
+    jQuery(this).children('ul').show();
+  }, function(){
+       jQuery(this).removeClass("hover");
+       jQuery("#desktop-main-menu li.expanded ul").hide();
+  });
+
+  jQuery("#desktop-main-menu>li a").focus(function(){
+   jQuery(this).parent().addClass("hover");
+    jQuery(this).children('ul').show();
+  });
+    jQuery("#desktop-main-menu>li .menu-sub").focusout(function(){
+    jQuery(this).parent().parent().removeClass("hover");
+    jQuery(this).children('ul').show();
+  });
+
+// Mobile Menu
+jQuery('.region-header-first-inner #block-domain-conf-domain-main-links div.content > ul.menu-sub > li.expanded > a').click(function () {
+  var list =  jQuery(this).children('ul');
+  console.log(jQuery(this));
+  jQuery(this).parent().children('ul').slideToggle();
+  return false;
+});
+
+// Add Search Box to Desktop
+//jQuery('<form accept-charset="UTF-8" action="https://search.usa.gov/search" method="get" name="search_form" id="desktop_search_form"><input class="sidenav-search" placeholder="Search..." autocomplete="off" type="text" id="query" name="query"><button alt="Submit Button" class="dcSearchButtonContainer" onclick="submitForm()" title="Submit Button">Search</button><input type="hidden" name="affiliate" id="affiliate" value="dc_coronavirus"><input name="utf8" type="hidden" value="✓"></form>').insertBefore("#google_translate_element");
+
+
+//jQuery("<script>function submitForm(){document.getElementById('search_form').affiliate.value='dc_coronavirus';document.getElementById('search_form').action='https://search.usa.gov/search';document.getElementById('search_form').submit();}<\/script>").appendTo(".header");
+
+jQuery("<script async src='https://cse.google.com/cse.js?cx=6536c77840eb35f33'><\/script><div class='gcse-search'>&nbsp;</div>").insertBefore("#google_translate_element");
+
+
+// Add Search Button to Mobile
+//jQuery("<form accept-charset='UTF-8' action='https://search.usa.gov/search' id='search_form2' method='get'><div style='margin:0;padding:0;display:inline'><input name='utf8' type='hidden' value='&#x2713;' /></div><input id='affiliate' name='affiliate' type='hidden' value='dc_coronavirus' /><input autocomplete='off' placeholder='SEARCH...' class='sidenav-search usagov-search-autocomplete' id='query' name='query' type='text' /><button alt='Submit Button' class='dcSearchButtonContainer' onclick='submitForm2()' title='Submit Button'><div class='dcSearchButtonIcon'>&nbsp;</div></button><script>function submitForm2(){document.search_form.action='https://search.usa.gov/search';document.search_form.submit();}<\/script>").prependTo("#block-domain-conf-domain-main-links");
+
+//GSE Search JavaScript
+jQuery("<script async src='https://cse.google.com/cse.js?cx=6536c77840eb35f33'><\/script><script>window.onload = function() {let searchbox = document.querySelector('.gsc-input input');searchbox.setAttribute('placeholder', 'What are you looking for today?')};<\/script><div class='gcse-search'></div>").prependTo("#block-domain-conf-domain-main-links"); 
+
+window.onload = function() {
+    let searchbox = document.querySelector(".gsc-input input");
+    searchbox.setAttribute('placeholder', 'Search')
+};
+
+// Add Signup Button -disabled for now
+/*
+jQuery('<div class="signupBtn">Sign Up for Alerts</div>').insertAfter("#desktop-head");
+*/
+
+// Move Alert up
+jQuery('.view-display-id-emergency_alerts_block').insertBefore('#region-header-first');
+
+// Add top margin to header for logged in users when alerts is not available
+if (jQuery("body").hasClass("logged-in") && (!jQuery(".view-display-id-emergency_alerts_block").length > 0)) {
+  jQuery("#region-header-first").css("margin-top","60px");
+}
+
+// Move the Block C extra rows to its place
+jQuery('#block-c-row2').insertBefore('.block-views-features-blocks-homepage-c tr.row-1');
+jQuery('#block-c-row3').insertAfter('.block-views-features-blocks-homepage-c tr.row-1');
+
+//Rotator initiation script
+
+jQuery(".view-id-agency_home_responsive .view-content").addClass("owl-carousel");
+jQuery(".view-id-agency_home_responsive .view-content").addClass("owl-theme");
+
+if(jQuery('.view-id-agency_home_responsive .views-field-title-1 .field-content').length > 0){
+  jQuery('.view-id-agency_home_responsive .view-content').owlCarousel({
+      stagePadding: 0,
+      items:1,
+      loop:true,
+      margin:0,
+      autoplay:true,
+      autoplayTimeout:5000,
+      autoplayHoverPause:false,
+      singleItem:true,
+      nav:true,
+      dots:true
+  });
+}
+
+//Hide the Slider Caption Text Box if there is no text in it
+if(jQuery(".caption-text").html() == '') { 
+  jQuery(".slide #text").hide();
+}
+
+jQuery(".front .slide img").wrap('<a href="https://coronavirus.dc.gov/testing" target="_blank"></a>');
+
+jQuery('<div class="blockTitle" style="">What You Should Know</div>').insertBefore('#region-agency-home-3col-a');
+
+// Move News Block below Block C on Homepage
+jQuery("#block-quicktabs-agency-featured-news-home").insertAfter("#region-agency-home-3col-c");
+
+//Adjust width for interior page leftNav
+if(jQuery('#region-sidebar-first #block-menu-block-1').length > 0) {
+  // Do not change the #region-content width
+} else {
+  jQuery("#region-content").css("width","100%");
+}
+// Adjust the width of interior page region-content on mobile and tablets
+if (jQuery(window).width() < 963 && jQuery("body").hasClass("not-front")) {
+  jQuery("#region-content").css("width","90%");
+  jQuery("#region-content").css("margin-left","auto");
+  jQuery("#region-content").css("margin-right","auto");
+}
+
+//MAKE EXISTING TABLES RESPONSIVE ON SMALLER SCREEN SIZES
+// Existing tables must add the class "no-more-tables" to make tables responsive.
+// This technique as presented here relies on using HTML5 data attributes and accessing them via CSS to specify the column headings.
+//
+if (jQuery(window).width() < 963) {
+jQuery(".node table").attr('class', 'no-more-tables');
+  jQuery('.no-more-tables').each(function(index) {
+    var rowHeading =[];
+    jQuery(this).find('thead tr th, thead tr td').each(function(index) {
+      rowHeading[index] = jQuery(this).text();
+      //console.log(rowHeading[index]);
+    });
+
+    jQuery(this).find('tbody tr').each(function(index){
+      jQuery(this).find('td').each(function(index){
+              var data;
+          data = jQuery(this).html();
+              jQuery(this).html("<div class='table-body-data'>" +  data + "</div>")
+        jQuery(this).attr('data-title', rowHeading[index]);
+      });
+    });
+  });  //table
+}
+
+
+ // FAQ toggle
+     if (jQuery('.question')) {
+                    jQuery('.question').click(function () {
+                        jQuery(this).siblings('div').slideToggle();
+                        jQuery(this).toggleClass('expanded');
+                    });
+                }
+
+}); // End of Document.Ready
+
+</script>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div><div class="block block-domain-conf block-domain-main-links block-domain-conf-domain-main-links odd block-without-title" id="block-domain-conf-domain-main-links">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu-sub"><li class="first leaf"><a href="/" title="Home">Home</a></li>
+<li class="expanded"><a href="/testing" title="Testing Information, Locations and Updates">Testing</a><ul class="menu-sub"><li class="first leaf"><a href="/testing" title="">Testing Locations</a></li>
+<li class="last leaf"><a href="/testyourself" title="Test Yourself">Test Yourself</a></li>
+</ul></li>
+<li class="expanded active-trail"><a href="/vaccine" title="Information on DC&#039;s Vaccination Plan" class="active-trail">Vaccine</a><ul class="menu-sub"><li class="first leaf active-trail"><a href="/page/get-vaccinated" title="Get Vaccinate through Walk-Up Clinics or via Appointment" class="active-trail active">Get Vaccinated</a></li>
+<li class="leaf"><a href="/vaccine" title="Information About the Vaccine">Vaccine Information</a></li>
+<li class="leaf"><a href="/vaccine-information" title="Questions and Answers About Vaccine">Vaccination Q&amp;A</a></li>
+<li class="last leaf"><a href="/vaccine-trials" title="Learn more about some of the vaccines in advanced stages of clinical trials">Vaccine Trials</a></li>
+</ul></li>
+<li class="expanded"><a href="/dccan" title="DC CAN | DC COVID Alert Notice">DC CAN</a><ul class="menu-sub"><li class="first leaf"><a href="https://coronavirus.dc.gov/dccan" title="What Is DC CAN?">What Is DC CAN?</a></li>
+<li class="leaf"><a href="/dccan/faq" title="DC CAN FAQ">DC CAN FAQ</a></li>
+<li class="leaf"><a href="/dccan/privacy" title="Privacy Policy">Privacy Policy</a></li>
+<li class="last leaf"><a href="/dccan/toolkit" title="Supporter Toolkit">Toolkit</a></li>
+</ul></li>
+<li class="expanded"><a href="/recovery" title="Information on Small Business Assistance">Recovery</a><ul class="menu-sub"><li class="first leaf"><a href="/page/recovery-businesses" title="Recovery Resources for Businesses">For Businesses</a></li>
+<li class="leaf"><a href="/recovery-individuals" title="Recovery Resources for Individuals">For Individuals</a></li>
+<li class="leaf"><a href="/procurement" title="Procurement Opportunities during COVID-19">Procurement Opportunities</a></li>
+<li class="leaf"><a href="/bridgefund" title="The Bridge Fund">The Bridge Fund</a></li>
+<li class="leaf"><a href="/rent" title="Housing Resources">Housing Resources</a></li>
+<li class="leaf"><a href="/page/dchope-small-business-startup-supplies" title="#DCHOPE Small Business Startup Supplies">#DCHOPE Small Business Startup Supplies</a></li>
+<li class="leaf"><a href="/page/dc-hope-community-grants-2020" title="DC Hope Community Grants">DC Hope Community Grants</a></li>
+<li class="leaf"><a href="/page/housing-and-community-development-non-profit-capacity-support-grant">Housing and Community Development Non Profit Capacity Support Grant</a></li>
+<li class="leaf"><a href="/page/dc-small-business-microgrants-program-report" title="DC Small Business Microgrants Program Report">DC Small Business Microgrants Program Report</a></li>
+<li class="leaf"><a href="/page/dc-east-river-small-business-economic-relief-microgrant-program-wards-7-and-8" title="DC East of the River Small Business Economic Relief Microgrant Program for Wards 7 and 8">East of River Grants</a></li>
+<li class="leaf"><a href="/page/dc-child-care-provider-relief-fund" title="DC Child Care Provider Relief Fund">DC Child Care Provider Relief Fund</a></li>
+<li class="leaf"><a href="/page/small-business-resiliency-fund" title="Small Business Resiliency Fund">Small Business Resiliency Fund</a></li>
+<li class="leaf"><a href="/page/legacy-business-supplemental-microgrants" title="Legacy Business Supplemental Microgrants">Legacy Business Supplemental Microgrants</a></li>
+<li class="leaf"><a href="/reopendc" title="ReOpen DC">Advisory Group</a></li>
+<li class="last leaf"><a href="/funeralassistance" title="Funeral Assistance">Funeral Assistance</a></li>
+</ul></li>
+<li class="expanded"><a href="/food" title="Locations of Meal Sites for All Students, Senior, Grocery Stores and More Across DC">Food</a><ul class="menu-sub"><li class="first leaf"><a href="/food" title="Available Food Resources">Available Food Resources</a></li>
+<li class="last leaf"><a href="/farmersmarkets" title="Farmers Markets">Farmers Markets</a></li>
+</ul></li>
+<li class="leaf"><a href="/utilityhelp" title="Resources to Help with Utilities">Utilities</a></li>
+<li class="expanded"><a href="/data" title="Coronavirus Data">Data</a><ul class="menu-sub"><li class="first leaf"><a href="https://coronavirus.dc.gov/data" title="COVID-19 Surveillance">COVID-19 Surveillance</a></li>
+<li class="leaf"><a href="/page/reopening-metrics" title="Reopening Metrics">Reopening Metrics</a></li>
+<li class="leaf"><a href="/page/exposure-activities" title="Activities During the Exposure Period">Exposure Activities</a></li>
+<li class="leaf"><a href="/page/outbreak-data" title="COVID-19 Outbreak Data for DC">Outbreak Data</a></li>
+<li class="leaf"><a href="/data/vaccination" title="Vaccination Data">Vaccination Data</a></li>
+<li class="last leaf"><a href="/data/schools">K-12 Schools Data</a></li>
+</ul></li>
+<li class="leaf"><a href="/healthguidance" title="Health Guidance from DC Health">Health Guidance</a></li>
+<li class="leaf"><a href="/page/stay-home" title="DC Government Operating Status and Agency-by-Agency Status">Operating Status</a></li>
+<li class="last leaf"><a href="/newsroom" title="News">News</a></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-preface-wrapper" class="zone-wrapper zone-preface-wrapper clearfix">  
+  <div id="zone-preface" class="zone zone-preface clearfix container-24">
+      </div>
+</div><div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-24">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+          <script src="//cdn1.readspeaker.com/script/6295/webReader/webReader.js?pids=wr" type="text/javascript"></script>
+            <style>
+        .readspeaker_button1 i {
+          color: #333
+        }
+        #rsbtn_scrollcontrols i {
+          color: #333;
+        }
+        .readspeaker_button1 {
+          display: none;
+        }
+      </style>
+      <div id="readspeaker_button1" class="readspeaker_button1 rs_skip rsbtn rs_preserve">
+        <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker webReader" href="//app-na.readspeaker.com/cgi-bin/rsent?customerid=6295&amp;lang=en_us&amp;readid=content-start&amp;url=https://coronavirus.dc.gov/page/get-vaccinated">
+          <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+          <span class="rsbtn_right rsimg rsplay rspart"></span>
+        </a>
+      </div>
+    
+    <a id="main-content"></a>
+                  <h1 class="title" id="page-title">Get Vaccinated</h1>
+                          <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <article about="/page/get-vaccinated" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-kiranjala odd clearfix" id="node-page-1514701">
+        <span property="dc:title" content="Get Vaccinated" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    
+  <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4dc44024632b89e6"></script> 
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><style type="text/css">.col{display:inline-block;padding-bottom:50px;}
+.col li{margin-left:40px;}
+#prereg1:hover, #prereg2:hover {
+  border: none;
+  -webkit-transform: scale(1.088);
+  -ms-transform: scale(1.088);
+  transform: scale(1.088);
+  -webkit-box-shadow: 1px 1px 12px 0px rgb(0 0 0 / 23%);
+  box-shadow: 1px 1px 12px 0px rgb(0 0 0 / 23%);
+}
+.flex-container{
+    display:flex;
+justify-content:center;
+flex-wrap: wrap;
+}
+.flex-container.main .button{
+padding: 15px 100px;
+}
+.flex-container a{
+    color:#fff!important;
+}
+.button{
+background-color: #000;
+color: #fff;
+padding: 5px;
+border-radius: 20px;
+font-size: 14px;
+width: auto;
+min-width: auto;
+padding: 10px 45px;
+/*text-transform: uppercase;*/
+line-height: 18px;
+font-family: Montserrat;
+margin: 10px;
+text-align: center;
+}
+
+.button.green{
+    background-color: #548334;
+}
+</style>
+<script src="https://public.govdelivery.com/assets/SignupOverlay.js" data-account-code="DCWASH" data-signup-id="20666" async="" data-width="500" data-delay="0"></script>
+<p class="rtecenter"><img alt="" src="/sites/default/files/dc/sites/coronavirus/page_content/images/MMB%20%281%29.png" style="width: 300px; height: 58px;" /></p>
+
+<p>&nbsp;</p>
+
+<h3 class="rtecenter">Take the Shot, DC.</h3>
+<!--p class="rtecenter"><a href="http://v51r5a21s.dc.gov/"><img alt="Get Pre-Registered Here" id="prereg1" src="/sites/default/files/dc/sites/coronavirus/page_content/images/Get-Pre-Registered-Here-Button.png" style="width: 500px; height: 87px;" /></a></p-->
+
+<p><img alt="June - July Vaccine schedule" src="/sites/default/files/dc/sites/coronavirus/page_content/attachments/june-july-vax-sites.jpg" style="width: 900px; height: 608px;" /></p>
+
+<ul class="rteindent1">
+	<li><a href="https://coronavirus.dc.gov/incentives">For more information and giveaway rules</a></li>
+</ul>
+
+<p>Find a vaccine near you at <a href="https://vaccines.gov">vaccines.gov</a>.</p>
+
+<p>The walk-up sites below are&nbsp;in addition to the pharmacies, clinics, and health care providers that are also administering the vaccines citywide. These sites will operate their own scheduling systems.</p>
+
+<p>Can&#39;t leave your home? Call 1-855-363-0333 and we&#39;ll come to you!</p>
+
+<p>For any questions regarding the vaccine program, please email <a href="/cdn-cgi/l/email-protection#d5a3b4b6b6bcbbb4a1b0b1b695b1b6fbb2baa3"><span class="__cf_email__" data-cfemail="abddcac8c8c2c5cadfcecfc8ebcfc885ccc4dd">[email&#160;protected]</span></a>.</p>
+
+<p><img alt="Walk Up" src="/sites/default/files/dc/sites/coronavirus/page_content/images/Vax-7-1-21.jpeg" style="width: 900px; height: 675px;" /></p>
+
+<p>Don&#39;t Wait. Vaccinate!</p>
+
+<ul class="rteindent1">
+	<li>
+	<p>See how quickly things are moving at the 14&nbsp;walk-up sites at <a href="https://coronavirus.dc.gov/dontwait">coronavirus.dc.gov/dontwait</a></p>
+	</li>
+</ul>
+
+<h3>Clinics&nbsp;for&nbsp;Residents Ages 12-18&nbsp;</h3>
+
+<p>As the District prepares to close high-capacity walk-up vaccination sites on July 17, DC Health will continue to provide targeted vaccination opportunities to the community, beginning with these new vaccine clinics at six DC Public Schools. The clinics are open to all District youth, not just DCPS students. As adjustments are made to vaccination sites, residents are also reminded that they can find opportunities to claim their free COVID-19 vaccine, including at pharmacies and clinics across all eight wards, by going to vaccines.gov.</p>
+
+<p>The initial schedule for school-based COVID-19 vaccine clinics is listed below. Additional dates and opportunities are expected to be added throughout the summer, and the most recent and current schedule will be posted here.</p>
+
+<ul>
+	<li><strong>Cardozo EC (1200 Clifton St. NW), 9 am &ndash; 2 pm</strong>
+
+	<ul>
+		<li>The school will have first dose opportunities on 7/6, 7/13, 7/20, and 7/20. The school will have second dose opportunities on 7/6, 7/13, 7/17, 7/20, 7/27, 8/3, 8/10, and 8/17. For more information, please call (202) 727-5148.</li>
+	</ul>
+	</li>
+	<li><strong>H.D. Woodson (540 55th St. NE), 9 am &ndash; 2 pm</strong>
+	<ul>
+		<li>The school will have first dose opportunities on 6/30, 7/7, 7/14, 7/21, and 7/28. The school will have second dose opportunities on 7/7, 7/10, 7/14, 7/21, 7/28, 8/4, 8/11, and 8/18. For more information, please call (202) 724-2287.</li>
+	</ul>
+	</li>
+	<li><strong>Roosevelt HS (4301 13th St. NW), 9 am &ndash; 3 pm</strong>
+	<ul>
+		<li>The school will have first dose opportunities on 8/7. The school will have second dose opportunities on 8/28. For more information, please call (202) 727-6333.</li>
+	</ul>
+	</li>
+	<li><strong>Dunbar SHS (101 N St. NW), 9 am &ndash; 3 pm</strong>
+	<ul>
+		<li>The school will have first dose opportunities on 7/24. Children&rsquo;s National will be providing the second dose opportunities at the Main Hospital (111 Michigan Avenue NW) on 8/14 and at the school during school hours Monday &ndash; Friday from August 16-20. To schedule an appointment, please call (202) 476-5464. Walk-ups are also welcomed.</li>
+	</ul>
+	</li>
+	<li><strong>Ballou SHS (3401 4th St. SE), 9 am &ndash; 3 pm</strong>
+	<ul>
+		<li>The school will have first dose opportunities on 7/31. Children&rsquo;s National will be providing the second dose opportunities at the Main Hospital (111 Michigan Avenue NW) on 8/21 and at the school during school hours Monday &ndash; Friday from August 23-27. To schedule an appointment, please call (202) 476-5464. Walk-ups are also welcomed.</li>
+	</ul>
+	</li>
+	<li><strong>Anacostia (1601 16th St. SE), 9 am &ndash; 3 pm</strong>
+	<ul>
+		<li>The school will have first dose opportunities on 7/31. The school will have second dose opportunities on 8/21. For more information, please call (202) 727-6333.</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Consent policies vary by provider, and the DCPS vaccine clinics will be operated by multiple providers. Students and families can call ahead to learn more about the consent policy at a specific site.</p>
+
+<h4>Vaccine Exchange Program for District Employers and Community-Based and Faith-Based Organizations to Host a Vaccine Clinic for Employees or Members</h4>
+
+<p>The Vaccine Exchange Program connects District organizations, including faith-based and community-based organizations as well as District employers, with vaccine providers that can assist with providing COVID-19 vaccinations to large groups in the community or workplace. Through the program, organizations are now able to submit requests for a vaccine clinic and vaccine providers are able to accept those requests and schedule clinics.&nbsp;<a href="https://dchealth.dc.gov/release/dc-health-launches-program-allow-faith-based-and-community-based-organizations-and-district">Organizations interested in offering a vaccination clinic can submit a request here</a>.</p>
+
+<h4>Walk-Up Locations</h4>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:100%;">
+	<thead>
+		<tr>
+			<th scope="row" valign="top">
+			<p><b>Walk-Up Site</b>&nbsp;</p>
+			</th>
+			<th scope="col" valign="top">
+			<p><b>Address</b>&nbsp;</p>
+			</th>
+			<th scope="col" valign="top">
+			<p><b>Normal Days / Hours</b>&nbsp;</p>
+			</th>
+			<th scope="col" valign="top">
+			<p><b>Vaccine</b>&nbsp;</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td valign="top">
+			<p>Arena Stage (MedStar Health)</p>
+			</td>
+			<td valign="top">
+			<p>1101 6th Street SW&nbsp;</p>
+			</td>
+			<td valign="top">
+			<p>Thursday-Sunday, 8am-12pm, 1pm-5pm&nbsp;</p>
+
+			<div>Last Day - June 27th, 2021</div>
+			</td>
+			<td valign="top">
+			<p>Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+			<p>RISE Demonstration Center (One Medical) * $51 gift card &amp; giveaway site&nbsp;</p>
+			</td>
+			<td valign="top">
+			<p>2730 Martin Luther King Jr. Avenue, SE&nbsp;</p>
+			</td>
+			<td valign="top">
+			<p>Monday-Saturday, 9am-5pm&nbsp;</p>
+
+			<p>July 17th, 2021</p>
+			</td>
+			<td valign="top">
+			<p>Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+			<p>University of the District of Columbia &ndash; Van Ness (District Urgent Care)</p>
+			</td>
+			<td valign="top">
+			<p>4225 Connecticut Avenue, NW</p>
+			</td>
+			<td valign="top">
+			<p>Wednesday-Thursday, 9am-2pm</p>
+
+			<p>Last Day - June 24th, 2021</p>
+			</td>
+			<td valign="top">
+			<p>Moderna (Ages 18+)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+			<p>Convention Center (GW MFA)</p>
+			</td>
+			<td valign="top">
+			<p>L Street, North Entrance &ndash; between 7th and 9th Street, NW</p>
+			</td>
+			<td valign="top">
+			<p>Monday-Friday, 730am-330pm</p>
+
+			<p>Last day - June 25th, 2021</p>
+			</td>
+			<td valign="top">
+			<p>Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">Ron Brown High School (DC Health) * $51 gift card &amp; giveaway site</td>
+			<td valign="top">4800 Meade Street, NE</td>
+			<td valign="top">
+			<p>Tuesday-Thursday: 10am-1pm, 2pm-7pm<br />
+			Saturday: 12pm-5pm</p>
+
+			<p>Last day: July 17th, 2021</p>
+			</td>
+			<td valign="top">
+			<p>Vaccine Types: Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">Ida B Wells Middle School (Safeway)</td>
+			<td valign="top">405 Sheridan Street, NW</td>
+			<td valign="top">
+			<div>Wednesday &ndash; Saturday, 9am-1pm, 2pm-7pm</div>
+
+			<p>Last day: July 9th, 2021</p>
+			</td>
+			<td valign="top">
+			<p>Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">Eastern High School (Safeway)</td>
+			<td valign="top">1700 East Capitol Street, NE</td>
+			<td valign="top">
+			<div>Monday, Thursday-Saturday, 9am-1pm, 2pm-7pm</div>
+
+			<p>Last day: July 9th, 2021</p>
+			</td>
+			<td valign="top">
+			<p>Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">Luke C. Moore High School (Safeway)</td>
+			<td valign="top">1001 Monroe Street, NE</td>
+			<td valign="top">
+			<div>Tuesday -Thursday: 10am-1pm, 2pm-7pm</div>
+
+			<div>Saturday: 12pm-5pm (NO CLINIC 6/26)</div>
+
+			<div>&nbsp;</div>
+
+			<div>Last day: July 10th, 2021</div>
+
+			<div>&nbsp;</div>
+			</td>
+			<td valign="top">
+			<p>Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">Anacostia High School (Safeway) * $51 gift card &amp; giveaway site</td>
+			<td valign="top">1601 16th Street, SE</td>
+			<td valign="top">
+			<div>Tuesday-Thursday: 10am-1pm, 2pm-7pm<br />
+			Saturday: 12pm-5pm</div>
+
+			<div>&nbsp;</div>
+
+			<div>Last day: July 17th, 2021</div>
+			</td>
+			<td valign="top">Pfizer (Ages 12+), Johnson &amp; Johnson (Ages 18+)</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>Find Other Vaccine Opportunities</h4>
+
+<ul class="rteindent1">
+	<li>
+	<p>Days, hours, and available vaccines: <a data-full-url="http://vaccinefinder.org" href="https://vaccinefinder.org" rel="url noopener noreferrer" target="_blank">https://www.vaccines.gov/</a></p>
+	</li>
+</ul>
+
+<h4>Community Vaccination Opportunities</h4>
+
+<ul>
+	<li>All adults <a href="https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-link2-coronavirus-vaccine">can book appointments through the CVS site</a> (when appointments are available)</li>
+</ul>
+
+<h4>Veterans</h4>
+
+<ul>
+	<li>
+	<p>DC Veterans and spouses can&nbsp;call the <a href="https://www.washingtondc.va.gov/services/covid-19-vaccines.asp">DC VA Medical Center</a> to schedule appointment at (202) 745-4342.</p>
+	</li>
+</ul>
+
+<h3>Hospital Patients</h3>
+
+<h4>Schedule a Hospital Appointment</h4>
+
+<ul class="rteindent1">
+	<li>
+	<div><a href="http://huhealthcare.com/healthcare/hospital/coronavirus-vaccine-information">Howard University Hospital</a></div>
+	</li>
+	<li>
+	<div><a href="https://www.medstarhealth.org/mhs/about-medstar/covid-19-vaccine-information/">MedStar Georgetown University Hospital</a></div>
+	</li>
+	<li>
+	<div><a href="https://www.medstarhealth.org/mhs/about-medstar/covid-19-vaccine-information/">MedStar Washington Hospital Center</a></div>
+	</li>
+	<li>
+	<div><a href="https://www.gwhospital.com/patients-visitors/covid-19/latest-information-on-covid-19-precautions">The George Washington University Hospital</a></div>
+	</li>
+	<li>
+	<div><a href="https://www.hopkinsmedicine.org/coronavirus/covid-19-vaccine/sibley.html">Sibley Memorial Hospital</a></div>
+	</li>
+	<li>
+	<div><a href="https://www.unitedmedicaldc.com/covid-19-vaccine/">United Medical Center</a></div>
+	</li>
+	<li>
+	<div>Kaiser Permanente members should visit <a href="http://kp.org/DCvaccine" style="font-size: 13px;">kp.org/DCvaccine</a><span style="font-size: 13px;"> for the latest information on COVID vaccines.</span></div>
+	</li>
+</ul>
+
+<div>
+<table class="MsoTableGrid" style="width:548.0pt; border-collapse:collapse; border:solid windowtext 1.0pt" width="731">
+	<tbody>
+		<tr style="height:15.15pt">
+			<td colspan="3" style="width:548.0pt; border:solid windowtext 1.0pt" width="731">
+			<p align="center" style="text-align:center; padding:0in 5.4pt 0in 5.4pt"><span style="height:15.15pt"><b><span style="border:none windowtext 1.0pt; font-size:12.0pt; padding:0in"><span style="color:black">Hospital Sites Open to DC Residents 12 and Older</span></span></b></span></p>
+			</td>
+		</tr>
+		<tr style="height:93.35pt">
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">Howard University Hospital &ndash; The Numa Adams Building</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p style="margin: 0in; padding: 0in 5.4pt;"><span style="vertical-align:baseline"><span style="height:93.35pt"><span style="border:none windowtext 1.0pt; background:white; padding:0in">508 W Street NW</span></span></span></p>
+			</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">Walk-up for 18+, Tues and Thurs, 9am &ndash; 2 pm</td>
+		</tr>
+		<tr>
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">Howard University Hospital - Pediatric Clinic</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">2041 Georgia Ave NW, Tower Suite 3300</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">Pre-registration for 12-17, Monday &ndash; Friday, 8:30am-2:30pm</td>
+		</tr>
+		<tr style="height:62.2pt">
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">Children&rsquo;s National Medical Center - Main Hospital Pharmacy</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244"><span style="vertical-align:baseline"><span style="height:62.2pt"><span style="border:none windowtext 1.0pt; background:white; padding:0in">111 Michigan Avenue NW</span></span></span></td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p>Walk-up for 16+, Mon-Thurs, 10am &ndash; 12pm<br />
+			<span style="height:62.2pt"><span style="border:none windowtext 1.0pt; padding:0in">Appointment needed for ages 12-15</span></span></p>
+			</td>
+		</tr>
+		<tr style="height:31.1pt">
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">
+			<p style="padding: 0in 5.4pt;">Medstar Georgetown Hospital</p>
+			</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p style="padding: 0in 5.4pt;">3800 Reservoir Road NW</p>
+			</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244"><span style="height:31.1pt"><span style="border:none windowtext 1.0pt; padding:0in">Walk-ups for 12+, Mon-Wed, 7am-11am</span></span>
+			<p><span style="height:31.1pt"><span style="border:none windowtext 1.0pt; padding:0in">(vaccine clinic closes 6/23)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">MedStar Washington Hospital Center&nbsp;</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">110 Irving St NW</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p>Walk-ups for 16+, Mon-Wed, 8am-1pm</p>
+
+			<p>Appointments Mon-Wed, 8am-3pm</p>
+			(vaccine clinic closes 6/30)</td>
+		</tr>
+		<tr style="height:46.3pt">
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">
+			<p style="padding: 0in 5.4pt;"><span style="height:46.3pt"><span style="border:none windowtext 1.0pt; padding:0in"><span style="color:black">Kaiser Permanente Capitol Hill Medical Center</span></span></span></p>
+			</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p style="padding: 0in 5.4pt;"><span style="height:46.3pt"><span style="border:none windowtext 1.0pt; padding:0in"><span style="color:black">700 Second Street. NE</span></span></span></p>
+			</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p><span style="height:46.3pt"><span style="border:none windowtext 1.0pt padding:0in">Walk-ups for 12+, Mon-Fri, 1pm-4pm</span></span></p>
+
+			<p><span style="height:46.3pt"><span style="border:none windowtext 1.0pt; padding:0in">Open to members 12+, Mon-Fri, 8am-4pm</span></span></p>
+			</td>
+		</tr>
+		<tr style="height:15.15pt">
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">Mary&#39;s Center</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p>2333 Ontario Rd NW</p>
+
+			<p>3912 Georgia Ave NW</p>
+
+			<p>100 Gallatin St NE</p>
+			</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">Appointment needed for 12+,<br />
+			Mon-Fri, 8:30am-5:00pm
+			<p><span style="height:47.05pt">Sat (2333 Ontario Rd NW), 8:30am-2:00pm</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:182.6pt; border:solid windowtext 1.0pt; border-top:none" width="243">Metro Health</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">1012 14th Street, NW</td>
+			<td style="width:182.65pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="244">
+			<p>Walk-ups for 18+</p>
+
+			<p>Tue, Thurs, Fri, 9am-12:30pm and 1:30pm-5pm</p>
+			<strong>*Offering Moderna and Johnson and Johnson*</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h4>Schedule a Health Center Appointment</h4>
+
+<p>District Health centers are also scheduling their patient population of DC residents 65 years and older. If you are a patient at one of the following health centers, please contact them to see if there is any schedule availability for appointments. Of note, allocations of vaccine are very limited.</p>
+
+<ul class="rteindent1">
+	<li><a href="https://www.maryscenter.org/patients/coronavirus/#vaccine">Mary&rsquo;s Center</a>&nbsp;please visit website</li>
+	<li><a href="https://www.communityofhopedc.org/">Community of Hope</a>&nbsp;please call (202) 470-3081</li>
+	<li><a href="https://www.unityhealthcare.org/">Unity (Upper Cardoza)</a>&nbsp;please visit eCW portal, website, or call (202) 469-4699</li>
+	<li><a href="https://www.unityhealthcare.org/">Unity (Brentwood)</a>&nbsp;please visit eCW portal, website, or call (202) 469-4699</li>
+	<li><a href="https://breadforthecity.org/">Bread for the City</a>&nbsp;please visit eCW portal or our website</li>
+	<li><a href="https://www.lcdp.org/">La Clinica del Pueblo</a>&nbsp;please visit website</li>
+	<li><a href="https://eechealth.com/">Elaine Ellis Center of Health</a>&nbsp;please call (202) 803-2340</li>
+	<li><a href="https://www.whitman-walker.org/">Whitman-Walker Health</a> please visit website</li>
+	<li><a href="https://www.fmcsinc.org/">Family and Medical Counseling Service, Inc</a> please call (202) 889-7900</li>
+	<li><a href="https://www.getascensioncare.com/access/washington/">Providence Health System</a>&nbsp;please visit website or call (202) 854-7629</li>
+</ul>
+
+<h4>Need Transportation?</h4>
+
+<p>The District&rsquo;s <strong>Medicaid Managed Care Organizations (MCOs) cover all transportation (free of charge), to and from, all medically necessary</strong> covered services and appointments.&nbsp; To request transportation, the Enrollee should call the following number to schedule the service:&nbsp;</p>
+
+<ul class="rteindent1">
+	<li>
+	<div><strong>AmeriHealth&nbsp;Caritas DC</strong>&nbsp;|&nbsp;Call 1-800-315-3485.&nbsp;Rides available 24 hours a day, 7 days a week</div>
+	</li>
+	<li>
+	<div><strong>CareFirst&nbsp;Community Health Plan DC</strong>&nbsp;| Call MTM1 at 1-855-824-5693.&nbsp;Rides&nbsp;available 24 hours a day, 7 days a week</div>
+	</li>
+	<li>
+	<div><strong>Health Services for Children with Special Needs</strong>&nbsp;| Call SET Transportation at 1-866-991-5433</div>
+	</li>
+	<li>
+	<div><strong>MedStar&nbsp;Family Choice DC</strong>&nbsp;| Call 1-866-201-9974</div>
+	</li>
+</ul>
+<!--p class="rtecenter"><a href="http://v51r5a21s.dc.gov/"><img alt="Get Pre-Registered Here" id="prereg2" src="/sites/default/files/dc/sites/coronavirus/page_content/images/Get-Pre-Registered-Here-Button.png" style="width: 500px; height: 87px;" /></a></p-->
+
+<p class="rtecenter">&nbsp;</p>
+
+<p class="rtecenter"><a href="https://public.govdelivery.com/accounts/DCWASH/subscriber/new?topic_id=DCWASH_2000">Sign up to get vaccine updates here</a></p>
+
+<p class="rtecenter"><a href="https://coronavirus.dc.gov/vaccine">Learn more about the COVID-19 vaccines</a></p>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  jQuery(document).ready(function() {
+
+//Override theme table function
+function resizeStuffOverride() {
+jQuery(".node table").attr("class", "table table-striped responsive-table table-hover");
+ }
+  jQuery(function() {
+    var TO = false;
+    jQuery(window)
+      .resize(function() {
+        if (TO !== false) {
+          clearTimeout(TO);
+        }
+        TO = setTimeout(resizeStuffOverride, 10); //100 is time in milliseconds
+      })
+      .resize();
+  });
+
+}); // End of Document.Ready
+</script></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+    </div>
+  </div>
+</div>    
+  </div>
+</div>
+  </div>
+</div><div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
+  <div id="zone-postscript" class="zone zone-postscript clearfix container-24">
+      </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-views block-282b46b508c004bef35c3f43a1b5ee7b block-views-282b46b508c004bef35c3f43a1b5ee7b odd block-without-title" id="block-views-282b46b508c004bef35c3f43a1b5ee7b">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-custom-headers-and-footers view-id-custom_headers_and_footers view-display-id-custom_agency_footer1 view-dom-id-78677f1435b71be61f40369a0dd69177">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <style type="text/css">/* Global Styles */
+#section-footer,
+#zone-footer-wrapper {
+  background-color: #fff;
+}
+#zone-footer h3 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+#region-footer-first {
+  margin: 0px;
+}
+.row1 li, .row2 li {
+  color: #000;
+  list-style: none;
+  display: block;
+  vertical-align: top;
+  margin-left: auto;
+  margin-right: auto;
+}
+.row1 li.first {
+  width: 95%;
+  text-align: left;
+}
+#zone-footer .row1 li.first img {
+  width: 340px;
+}
+.row1 li.second, .row1 li.third {
+  width: 40%;
+  text-align: left;
+  float: left;
+  padding-left: 20px;
+}
+.row1 li a {
+  color: #000;
+  display: block;
+  text-align: left;
+}
+.row1 li.second a, .row1 li.third a {
+  line-height: 30px;
+}
+.row2 li a {
+  color: #000;
+  display: inline-block;
+  padding-right: 20px;
+}
+.row2 li.first {
+  text-align: left;
+  width: 90%;
+  padding-top: 50px;
+  clear: both;
+}
+.row2 li.second {
+  width: 90%;
+  text-align: center;
+  padding-top: 20px;
+}
+.row2 li.second img {
+  width: 40px;
+  height: 40px;
+  text-align: right;
+}
+
+/* End of Global Styles */
+
+/* Narrow */
+@media all and (min-device-width: 740px) and (min-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation: landscape){
+
+
+
+}
+/* End of Narrow */
+
+/* Normal Styles */
+@media all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape){
+
+#zone-footer .row1 li.first img {
+  width: 400px;
+}
+.row1 li, .row2 li {
+  display: inline-block;
+}
+.row1 li a {
+  text-align: right;
+}
+.row1 li.first {
+  width: 65%;
+}
+.row1 li.second, .row1 li.third {
+  width: 15%;
+  text-align: right;
+  padding-left: 0px;
+  float: none;
+  clear: both;
+}
+.row2 li.first {
+  width: 60%;
+  padding-top: 10px;
+}
+.row2 li.second {
+  width: 30%;
+  text-align: right;
+}
+
+}/* End of Normal Styles */
+
+/* Wide */
+@media all and (min-width: 1220px) and (orientation:landscape){
+
+
+
+}
+</style>
+<div class="row1">
+<ul>
+	<li class="first"><img alt="Corona Virus Logo" src="/sites/default/files/dc/sites/coronavirus/footerlogo.png" title="Corona Virus Logo" /></li>
+	<li class="second">
+	<h3>Additional Websites</h3>
+	<br />
+	<a href="https://www.cdc.gov/">CDC</a> <a href="https://www.state.gov/">US State Department</a> <a href="https://dchealth.dc.gov">DC Health</a> <a href="https://hsema.dc.gov">HSEMA</a> <a href="https://mayor.dc.gov">Mayor</a><a href="https://otr.cfo.dc.gov/page/coronavirus">Tax &amp; Revenue</a></li>
+	<li class="third">
+	<h3>Resources</h3>
+	<br />
+	<a href="/page/coronavirus-resources">Guides</a> <a href="/page/videos-district-columbia-covid-19-preparation">Videos</a></li>
+</ul>
+</div>
+
+<div class="row2">
+<ul>
+	<li class="first"><a href="https://dc.gov/page/dcgov-accessibility-policy">Accessibility</a> <a href="https://dc.gov/page/privacy-and-security">Privacy &amp; Terms</a></li>
+	<li class="second" style="display:none;">&gt;<a href="#"><img alt="facebook" src="/sites/default/files/dc/sites/coronavirus/facebook.png" title="facebook" /></a> <a href="#"><img alt="twitter" src="/sites/default/files/dc/sites/coronavirus/twitter.png" title="twitter" /></a></li>
+</ul>
+</div>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"348872d504","applicationID":"496267014","transactionName":"YVYAZxQEC0EHBhVYWVgcI1ASDApcSQsOVVNpQwNUAzoTWwMS","queueTime":0,"applicationTime":247,"atts":"TREDEVweGE8=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>
