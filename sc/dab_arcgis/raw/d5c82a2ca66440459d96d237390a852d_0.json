@@ -23396,7 +23396,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29601",
                 "URL": "http://www.embermodernmedicine.com/",
-                "V_Manufacturer": "PZR, MOD",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "Ember Modern Medicine",
@@ -53688,6 +53688,391 @@
                 },
                 "x": -79.56163557644788,
                 "y": 33.67544813220718
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "8ccb28e9-03dd-4bff-aaf9-62d2143cdf3c",
+                "Loc_ID": null,
+                "OBJECTID": 39511,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "330 N Georgetown Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Johnsonville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29555",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Johnsonville Pentecostal Holiness Church (Florence County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.44444775323444,
+                "y": 33.82539839819043
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "d969dc87-754d-4acd-9fcb-af5bfadb2e2b",
+                "Loc_ID": null,
+                "OBJECTID": 39512,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "250 E Marion St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29506",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Florence Fire Department Station 2 (Florence County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.76319960821752,
+                "y": 34.2019552563948
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "ba659340-a659-4b0f-9285-d4806b99931d",
+                "Loc_ID": null,
+                "OBJECTID": 39513,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "7115 Cade Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Cades",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29518",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Cades Community Center (Williamsburg County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.88319813308868,
+                "y": 33.81587127080053
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "9963e50b-cb0c-430f-8bd9-4706511f136e",
+                "Loc_ID": null,
+                "OBJECTID": 39514,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1786 N Fraser St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Georgetown",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29440",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Georgetown Church of Christ (Georgetown County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.2891025587092,
+                "y": 33.40014372940101
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "8e7bf9c8-dd51-4b0c-b1b4-af58de71fb0c",
+                "Loc_ID": null,
+                "OBJECTID": 39515,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1629 Hwy 17 N",
+                "SiteAddressDetail": null,
+                "SiteCity": "Little River",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29582",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Little River United Methodist Church (Horry County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.6136002113912,
+                "y": 33.877028294178274
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5679ee5c-93ec-4737-bf60-1070a245d8e8",
+                "Loc_ID": null,
+                "OBJECTID": 39516,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "1090 Morgan St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Turbeville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29162",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Pine Grove United Methodist Church (Clarendon County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.01519536898036,
+                "y": 33.89465059023678
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "1ae41742-92d2-4ecd-a9fb-8179517811ed",
+                "Loc_ID": null,
+                "OBJECTID": 39517,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "317 Railroad Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Hartsville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29550",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Wild Heart Brewing Company (Darlington County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.06796329504209,
+                "y": 34.3743132729922
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "cd7f14df-2d80-42f6-9e82-9099aaa53abb",
+                "Loc_ID": null,
+                "OBJECTID": 39518,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "706 14th Ave S",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Myrtle Beach",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29582",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Trinity United Methodist Church (Horry County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.69544959771287,
+                "y": 33.8146045365861
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "3c4286cd-4c5c-4614-8daa-167aae1503f2",
+                "Loc_ID": null,
+                "OBJECTID": 39519,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "9850 Hwy 707",
+                "SiteAddressDetail": null,
+                "SiteCity": "Myrtle Beach",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29588",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Timberlake Baptist Church (Horry County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.03657438303412,
+                "y": 33.627120768300585
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "45388bad-5179-4dc3-a85e-b09628a2ff18",
+                "Loc_ID": null,
+                "OBJECTID": 39520,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "81 Society St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greeleyville",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29056",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Pearl Whack Center (Williamsburg County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.98408082451942,
+                "y": 33.578493873968625
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "10ac9baa-6d26-4db6-ac19-4a80fafca4fa",
+                "Loc_ID": null,
+                "OBJECTID": 39521,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "2 S Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Sumter",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29150",
+                "URL": null,
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Sumter Original Brewery (Sumter County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.34199927116396,
+                "y": 33.92028052852601
             }
         }
     ],
