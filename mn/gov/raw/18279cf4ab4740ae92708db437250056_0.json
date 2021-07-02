@@ -35397,61 +35397,10 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "484 Inwood Ave N",
-                "City": "Oakdale",
-                "County": null,
-                "EndDate": "2021-07-01",
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6464,
-                "Phone": "(855) 753-8298",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "Oakdale - Inwood Oaks",
-                "StartDate": "2021-06-30",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor and Curbside Options",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 12+; parental consent needed for ages 12-17",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "6:00pm",
-                "ThursdayStart": "10:00am",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "https://www.solvhealth.com/book-online/A27Byp",
-                "UpdateDate": "2021-06-24 15:45:02",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "6:00pm",
-                "WednesdayStart": "10:00am",
-                "Zip": "55128",
-                "globalid": "5a95f129-1a7f-4cd1-8c7a-8aa1f7230f16",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20325
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -92.93519702411034,
-                "y": 44.95424400780081
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "199 West Kellogg Boulevard",
                 "City": "Saint Paul",
                 "County": null,
-                "EndDate": "2021-07-02",
+                "EndDate": "2021-07-03",
                 "FridayEnd": "Closed",
                 "FridayStart": "Closed",
                 "MondayEnd": "Closed",
@@ -35474,7 +35423,7 @@
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
                 "URL": "http://vaulthealth.com/covid/start/?var_c=VACCINATION_MINNESOTA_OPEN",
-                "UpdateDate": "2021-06-28 03:33:38",
+                "UpdateDate": "2021-07-02 04:11:30",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "6:00pm",
                 "WednesdayStart": "12:00pm",
@@ -35492,8 +35441,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -93.1012339764746,
-                "y": 44.94411301098023
+                "x": -93.100583037874,
+                "y": 44.94475498094445
             }
         },
         {

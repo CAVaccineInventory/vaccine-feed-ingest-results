@@ -6627,38 +6627,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "a02b783c-ebdf-4da5-896c-af22449e4a13",
-                "ID": "ISDH1233",
-                "IsView": 1,
-                "Name": "SCHNECK MEDICAL CENTER VAX",
-                "OBJECTID": 335,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "411 W Tipton St, Seymour, IN 47274",
-                "Site_County": "Jackson",
-                "Site_Location_Info": "3rd floor Parking Garage, enter from 3rd floor garage, to Classroom 300",
-                "Site_Name": "SCHNECK MEDICAL CENTER VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.89214084299479,
-                "y": 38.95558090294828
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "6f680bba-3a8e-464b-9c98-a5ce92099c6a",
                 "ID": "ISDH1310",
                 "IsView": 1,
