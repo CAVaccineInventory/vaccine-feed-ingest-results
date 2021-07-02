@@ -6627,38 +6627,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "6f680bba-3a8e-464b-9c98-a5ce92099c6a",
-                "ID": "ISDH1310",
-                "IsView": 1,
-                "Name": "Putnam County Fairgrounds VAX",
-                "OBJECTID": 338,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "191 N US Hwy 231, Greencastle, IN 46135",
-                "Site_County": "Putnam",
-                "Site_Location_Info": null,
-                "Site_Name": "PUTNAM COUNTY FAIRGROUNDS VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.86784958809642,
-                "y": 39.66287085127382
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "9ebdd5b3-e6ed-48b1-a2e5-472f56b11fd1",
                 "ID": null,
                 "IsView": 1,
@@ -12781,11 +12749,11 @@
                 "Site_Address": "3631 N. Morrison Rd, St. 100, Muncie, IN 47304",
                 "Site_County": "Delaware",
                 "Site_Location_Info": null,
-                "Site_Name": "ACCESS TO CARE PHARMACY VAX",
+                "Site_Name": "ACCESS TO CARE PHARMACY",
                 "Site_Phone": null,
-                "Site_Special_Inst": null,
+                "Site_Special_Inst": "Call 765-213-2866 or e-mail info@accesstocarepharmacy.com to set up an appointment. Walk-ins accepted. ",
                 "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Johnson & Johnson",
                 "layer_id": 0,
@@ -15070,38 +15038,6 @@
                 },
                 "x": -86.04653765051275,
                 "y": 39.47043307541933
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "7c1b1711-1db7-469b-8f19-ec3e8e6c3ce6",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Putnam Co. DePauw LILLY CTR VAX",
-                "OBJECTID": 674,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1 E Olive St, Greencastle, IN 46135",
-                "Site_County": "Putnam",
-                "Site_Location_Info": null,
-                "Site_Name": "Putnam Co. DePauw LILLY CTR VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.86352625830806,
-                "y": 39.637307867011366
             }
         },
         {
@@ -18270,38 +18206,6 @@
                 },
                 "x": -87.18276507207068,
                 "y": 41.55011969629175
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "44b1bb4b-bea0-4e32-8881-a4cc52a421ea",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Putnam Co HD S Putnam HS VAX",
-                "OBJECTID": 793,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1780 E. US Hwy. 40, Greencastle, IN 46135",
-                "Site_County": "Putnam",
-                "Site_Location_Info": "South Putnam High School",
-                "Site_Name": "Putnam Co HD S Putnam HS VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.81580670962893,
-                "y": 39.58301893938282
             }
         },
         {
