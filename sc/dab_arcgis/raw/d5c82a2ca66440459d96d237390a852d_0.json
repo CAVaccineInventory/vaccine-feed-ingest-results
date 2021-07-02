@@ -51452,7 +51452,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "030ba3a5-52a0-4ccd-960c-91d9562b4086",
                 "Loc_ID": null,
@@ -51767,7 +51767,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8e580be9-2e29-4840-b2be-cfc83590cf65",
                 "Loc_ID": null,
@@ -54073,6 +54073,41 @@
                 },
                 "x": -80.34199927116396,
                 "y": 33.92028052852601
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "054fae2c-9459-4573-8897-f53aac622fb7",
+                "Loc_ID": null,
+                "OBJECTID": 39911,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "5560 Pauley Swamp Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Conway",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29527",
+                "URL": null,
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Greenwood Baptist Church (Horry County)",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.13234910268591,
+                "y": 33.771976705349516
             }
         }
     ],
