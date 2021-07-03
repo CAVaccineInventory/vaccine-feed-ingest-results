@@ -38502,7 +38502,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "16bb37c0-1cb4-438c-a91c-4c0e8e8f2285",
                 "Loc_ID": null,
@@ -47217,7 +47217,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "2abfd1bf-e07e-4e4c-8792-676e0352315c",
                 "Loc_ID": null,
@@ -51487,7 +51487,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "cfe7f132-c2b4-4ee2-90a9-65a135de366a",
                 "Loc_ID": null,
@@ -51522,7 +51522,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "809c86ff-b7be-49cb-941d-2aede3e776c6",
                 "Loc_ID": null,
@@ -52817,7 +52817,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "023ccb09-9bb9-4bdc-a77e-285d8fa31345",
                 "Loc_ID": null,
@@ -53408,41 +53408,6 @@
                 },
                 "x": -79.7707313493176,
                 "y": 34.195973532060975
-            }
-        },
-        {
-            "attributes": {
-                "Appointments": "Yes",
-                "Contact": "1-866-365-8110",
-                "GlobalID": "6b33a53e-937b-42a6-9a26-0aa7c5def211",
-                "Loc_ID": null,
-                "OBJECTID": 38316,
-                "Phone_Sec": null,
-                "Region": "Pee Dee",
-                "SiteAddress": "244 Market St",
-                "SiteAddressDetail": null,
-                "SiteCity": "Ruby",
-                "SitePhone": "1-866-365-8110",
-                "SiteState": "SC",
-                "SiteZip": "29741",
-                "URL": "https://cvas.dhec.sc.gov/health/covidvaccinescheduling",
-                "V_Manufacturer": "JJ",
-                "layer_id": 0,
-                "loc_covid_id": null,
-                "loc_name": "DHEC Mobile Clinic @ Ruby Community Center (Chesterfield County)",
-                "loc_type1": "State Agency",
-                "ref_ID": null,
-                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
-                "vfc_text": null,
-                "vtrcks_ID": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -80.18472935454446,
-                "y": 34.74180813371487
             }
         },
         {
@@ -54108,6 +54073,41 @@
                 },
                 "x": -79.13234910268591,
                 "y": 33.771976705349516
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "b8023d00-ef04-452c-9ef1-8a686925003a",
+                "Loc_ID": null,
+                "OBJECTID": 40311,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "1004 Red Bank Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Goose Creek",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29445",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Sunrise Mobile Home Park",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.02256974162373,
+                "y": 32.97148355429522
             }
         }
     ],
