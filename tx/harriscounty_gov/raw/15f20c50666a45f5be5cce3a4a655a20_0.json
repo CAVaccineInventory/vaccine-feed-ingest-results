@@ -11990,52 +11990,15 @@
         },
         {
             "attributes": {
-                "CreationDate": 1625064764227,
-                "Creator": "COVIDPublicHCPH",
-                "EditDate": 1625064764227,
-                "Editor": "COVIDPublicHCPH",
-                "address": "6696 Antoine Dr, Houston , TX 77091",
-                "agency": "Harris County Public Health",
-                "closedatefilter": null,
-                "dose": "First,Second",
-                "entrydate": "2021-06-30T09:51:36.243-05:00",
-                "globalid": "ccef2a10-1914-4b4b-88bf-aa3acaf09e36",
-                "lat": null,
-                "layer_id": 0,
-                "location": "St. John Northwest",
-                "lon": null,
-                "notes": null,
-                "objectid": 381,
-                "opendate": 1625331600000,
-                "opendate_str": "Saturday, July 3rd",
-                "opendatefilter": null,
-                "operatinghours": "8:00 AM - 5:00 PM",
-                "phone": "832-927-8787",
-                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Moderna",
-                "vdu_no": "VDU 5",
-                "website": "https://vacstrac.hctx.net/landing"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -95.47147098717814,
-                "y": 29.86136401997012
-            }
-        },
-        {
-            "attributes": {
                 "CreationDate": 1625064818458,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1625064818458,
+                "EditDate": 1625319262855,
                 "Editor": "COVIDPublicHCPH",
                 "address": "3915 Ocee St, Houston , TX 77063",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Second",
-                "entrydate": "2021-06-30T09:52:48.018-05:00",
+                "entrydate": "2021-07-03T08:34:17.820-05:00",
                 "globalid": "a5570f9e-bcf3-4f36-8d08-09a9fbbf3914",
                 "lat": null,
                 "layer_id": 0,
@@ -12050,7 +12013,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer",
-                "vdu_no": "VDU 6",
+                "vdu_no": "VDU 5",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {
@@ -12430,43 +12393,6 @@
                 },
                 "x": -95.01615402343212,
                 "y": 29.574894325869156
-            }
-        },
-        {
-            "attributes": {
-                "CreationDate": 1625066321043,
-                "Creator": "COVIDPublicHCPH",
-                "EditDate": 1625066321043,
-                "Editor": "COVIDPublicHCPH",
-                "address": "7518 E Mt. Houston Rd., Houston , TX 77050",
-                "agency": "Harris County Public Health",
-                "closedatefilter": null,
-                "dose": "First,Second",
-                "entrydate": "2021-06-30T10:18:00.460-05:00",
-                "globalid": "e61b429b-5619-476f-85a0-e94b53272e21",
-                "lat": null,
-                "layer_id": 0,
-                "location": "Greater New Grove Christian Church",
-                "lon": null,
-                "notes": null,
-                "objectid": 393,
-                "opendate": 1625331600000,
-                "opendate_str": "Saturday, July 3rd",
-                "opendatefilter": null,
-                "operatinghours": "9:00 AM - 3:00 PM",
-                "phone": "832-927-8787",
-                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Pfizer",
-                "vdu_no": "VDU 18",
-                "website": "https://vacstrac.hctx.net/landing"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -95.27976596508164,
-                "y": 29.89057000721365
             }
         },
         {
