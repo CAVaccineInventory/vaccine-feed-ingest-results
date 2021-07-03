@@ -355,38 +355,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "b8c773e0-ff50-4828-be72-e8b5b2a34374",
-                "ID": "ISDH950",
-                "IsView": 1,
-                "Name": "IU Health North Hospital",
-                "OBJECTID": 25,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "11700 N Meridian St, Carmel IN, 46032",
-                "Site_County": "Hamilton",
-                "Site_Location_Info": "Located in Lower Level Room 050.",
-                "Site_Name": "IU HEALTH NORTH HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.15944414721977,
-                "y": 39.95928457779387
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "5eb7522c-7e5f-4d15-b15d-2bf1ff822af9",
                 "ID": "ISDH973",
                 "IsView": 1,
@@ -446,38 +414,6 @@
                 },
                 "x": -86.1807872631743,
                 "y": 39.7759226497436
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "549b1aca-95ef-4762-8aa0-6a82e0e53fa2",
-                "ID": "ISDH955",
-                "IsView": 1,
-                "Name": "Johnson Memorial Hospital",
-                "OBJECTID": 28,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1125 W Jefferson St, Franklin, IN 46131-2140",
-                "Site_County": "Johnson",
-                "Site_Location_Info": null,
-                "Site_Name": "JOHNSON MEMORIAL HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.07686148326317,
-                "y": 39.47999002010584
             }
         },
         {
@@ -830,38 +766,6 @@
                 },
                 "x": -87.35721999985651,
                 "y": 41.60068999995265
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "99494d0d-ee67-47b0-9fec-d37dadda67c2",
-                "ID": "ISDH1052",
-                "IsView": 1,
-                "Name": "Henry Community Health",
-                "OBJECTID": 58,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1000 N 16th St, New Castle, IN 473362",
-                "Site_County": "Henry",
-                "Site_Location_Info": "Please enter through main hospital doors.  Proceed to Conference Room A/B.",
-                "Site_Name": "HENRY COMMUNITY HEALTH VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.3635788182214,
-                "y": 39.94278690589893
             }
         },
         {
@@ -33187,70 +33091,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "8245b8cb-0769-4f47-81ed-1f2f91a31d47",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Ivy Tech Anderson VAX",
-                "OBJECTID": 1291,
-                "Promote_Name": "Ivy Tech Anderson VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46013</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "815 E. 60th St, Anderson, IN 46013",
-                "Site_County": "Madison",
-                "Site_Location_Info": "This is a mobile clinic June 30 – July 2, 9am – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Ivy Tech Anderson VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.66823364827154,
-                "y": 40.05414800594217
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "06e4ffbc-e1d9-443d-8dba-f8ee0de1aba7",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Ivy Tech Connersville VAX",
-                "OBJECTID": 1292,
-                "Promote_Name": "Ivy Tech Connersville VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47331</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "717 W 21st St, Connersville, IN 47331",
-                "Site_County": "Fayette",
-                "Site_Location_Info": "This is a mobile clinic June 30 – July 2, 9am – 6pm. This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Ivy Tech Connersville VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.14000667343223,
-                "y": 39.657325359844016
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "876959bc-5da8-4bb2-8dc6-2c7659f8e180",
                 "ID": null,
                 "IsView": 1,
@@ -33822,38 +33662,6 @@
                 },
                 "x": -85.87667445795793,
                 "y": 41.60647991790694
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "c21ed361-933c-4a3d-91c7-145f9b16ee5e",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Monroe County Fair VAX",
-                "OBJECTID": 1317,
-                "Promote_Name": "Monroe County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 470403</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "5700 W. Airport Rd.  Bloomington, IN  47403",
-                "Site_County": "Monroe",
-                "Site_Location_Info": "This is a mobile site July 1 – 2, 3:00 – 9:00pm. This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Monroe County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available July 1 & 2.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.60595391010824,
-                "y": 39.136896603281855
             }
         },
         {
