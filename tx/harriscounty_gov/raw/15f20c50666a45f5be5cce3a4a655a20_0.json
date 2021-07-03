@@ -12468,6 +12468,80 @@
                 "x": -95.33292600667706,
                 "y": 29.70270498641892
             }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625321351813,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625321351813,
+                "Editor": "COVIDPublicHCPH",
+                "address": "Holiday Inn NW Houston Beltway 8 - Hotel 3539 North Sam Houston Pkwy W Houston, TX 77086",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-03T09:07:09.547-05:00",
+                "globalid": "d2a27200-2a1d-4847-8044-fa9181fe1437",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Holiday Inn NW Houston Beltway 8 - Hotel",
+                "lon": null,
+                "notes": null,
+                "objectid": 396,
+                "opendate": 1625331600000,
+                "opendate_str": "Saturday, July 3rd",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna",
+                "vdu_no": "VDU 17",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.48188,
+                "y": 29.937110000000068
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625333526243,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625333526243,
+                "Editor": "COVIDPublicHCPH",
+                "address": "8870 W Sam Houston Pkwy N, Houston, TX 77040",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Second",
+                "entrydate": "2021-07-03T12:30:52.890-05:00",
+                "globalid": "0a9802ae-ccf1-4540-8c02-ee3425f3786a",
+                "lat": null,
+                "layer_id": 0,
+                "location": "First Metropolitan Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 397,
+                "opendate": 1625590800000,
+                "opendate_str": "Tuesday, July 6th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 9",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.5483870187534,
+                "y": 29.900134010193938
+            }
         }
     ],
     "fields": [
