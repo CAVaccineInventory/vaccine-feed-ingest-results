@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"NRJS-848e62875ff3670501b","applicationID":"803428548","transactionName":"JgpeEhRfVF4HQx0VFwcJWQVJU1RbDFhRFk0MC1QDHg==","queueTime":0,"applicationTime":122,"agent":""}</script>
-<script>(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-848e62875ff3670501b",applicationID:"803428548"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){d("pageHide",[p.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1209.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"NRJS-848e62875ff3670501b","applicationID":"803428548","transactionName":"JgpeEhRfVF4HQx0VFwcJWQVJU1RbDFhRFk0MC1QDHg==","queueTime":0,"applicationTime":80,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-848e62875ff3670501b",applicationID:"803428548"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
     <title>Find a Vaccination Clinic | Rhode Island</title>
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="zlle7IuE3LUQO819uK10gRPVb9S2KQCpUk5s48MNvresqegmwEjCHhG3Tt1Qe31T76F7WnThlzm7Ua0ll1YIcg==" />
+<meta name="csrf-token" content="Qe9YtRkShGq5DD6mqFRBEBjcfGk0qwNwrRdU2Sk8dNGUYR3Ty00XUbdbKokl0K4sT2D3qi2QHOXRy22lNwntYA==" />
     
     
 
@@ -196,6 +196,483 @@
     <div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
   <div class="md:flex-shrink text-gray-800">
     <h2 class="text-xl font-black">
+      Mobile- Rhode Island National Guard on 07/26/2021
+    </h2>
+
+    <p>
+      25 South Main Street, Woonsocket RI, 02895
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Moderna COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          18-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Moderna COVID-19 vaccine which is for people age 18 or older only. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Moderna contra COVID-19 que es para personas con 18 años o más solamente. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Moderna, que é apenas para pessoas com 18 anos ou mais.
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 05:30 pm - 08:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        43
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4306&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEZqRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3223eb2fc0ffc124e94a2a72f499fa623794582b/clinic4306.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      Mobile- Rhode Island National Guard on 07/26/2021
+    </h2>
+
+    <p>
+      11 Veterans Way , Woonsocket Rhode Island, 02895
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          12-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 and older only.  ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. 
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 06:00 pm - 08:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        53
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4384&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGh0RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c177b6b6fa20b3f2f4cb87b872d57772819d5715/clinic4384.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      Bethel AME on 07/26/2021
+    </h2>
+
+    <p>
+      30 Rochambeau Ave, Bethel RI, 02906
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          12-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 or older only. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente.●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. 
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 04:00 pm - 06:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        16
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4408&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenh3RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9394b4b758377028bfed6960b07cb100b4bdf6a1/clinic4408.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      Sockanosset-POD  on 07/27/2021
+    </h2>
+
+    <p>
+      100 Sockanosset Cross Road, Cranston RI , 02920
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Moderna COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          18-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Moderna COVID-19 vaccine which is for people age 18 and older only. For clinic directions and parking information, visit https://health.ri.gov/vaccinesiteinfo. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Moderna contra COVID-19 que es para personas con 18 años o más solamente. Para direcciones de llegar a la clínica o información de estacionamiento, visite la siguiente página: https://health.ri.gov/vaccinesiteinfo. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Moderna, que é apenas para pessoas com 18 anos ou mais. Para direções e informações de estacionamento a clínica, visite https://health.ri.gov/vaccinesiteinfo. 
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 07:00 am - 08:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        2020
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4331&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzVvRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1efc2f1a63049ef99e896e62bca5bc905d9c1d98/clinic4331.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      Sockanosset-POD  on 07/27/2021
+    </h2>
+
+    <p>
+      100 Sockanosset Cross Road, Cranston RI, 02920
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          12-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 and older only. For clinic directions and parking information, visit https://health.ri.gov/vaccinesiteinfo. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente. Para direcciones de llegar a la clínica o información de estacionamiento, visite la siguiente página: https://health.ri.gov/vaccinesiteinfo. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. Para direções e informações de estacionamento a clínica, visite https://health.ri.gov/vaccinesiteinfo. 
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 07:00 am - 08:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        2001
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4362&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3RzRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a53fc40d3ad5dcfd1ed68e8ee66c18516321f70b/clinic4362.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      Atmed Johnston on 07/27/2021
+    </h2>
+
+    <p>
+      1524 Atwood Ave, Suite 125, Johnston Rhode Island, 02919
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          12-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> Please enter through the north entrance and follow vaccine signs to suite 125
+●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 or older only. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente.●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. 
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 09:00 am - 03:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        138
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4436&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzV6RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--af2326e2c64eb9828d61fe5edd6d27b25f3a40be/clinic4436.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      Pop-up COVID Site - Clinica Esperanza / Hope Clinic on 07/27/2021
+    </h2>
+
+    <p>
+      85 Eagle Street, Providence RI, 02909
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Janssen COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          Adults
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> &lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;ENGLISH:&lt;/strong&gt; You are attesting the following: you are at least 18 years old, and a Rhode Island resident. &amp;nbsp;Your appointment will be cancelled if you do not meet this criteria, and by continuing, you agree to this. &amp;nbsp;(Priority will be given to the uninsured/underinsured and residents of 02907, 02908, and 02909).&lt;/span&gt;&lt;/p&gt; 
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+
+&lt;hr&gt; 
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+
+&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;ESPA&amp;Ntilde;OL&lt;/strong&gt;: Al continuar, usted da fe de lo siguiente Tienes al menos 18 a&amp;ntilde;os, y usted es residente de Rhode Island. &amp;nbsp;(Se dar&amp;aacute; prioridad a las personas sin seguro o con seguro insuficiente y a los residentes de 02907, 02908 y 02909).&lt;/span&gt;&lt;/p&gt; 
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+
+&lt;hr&gt; 
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+
+&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;PORTUGUESE:&lt;/strong&gt; Ao continuar, voc&amp;ecirc; atesta o seguinte: Voc&amp;ecirc; tem pelo menos 18 anos, Voc&amp;ecirc; &amp;eacute; um residente de Rhode Island. &amp;nbsp;(Ser&amp;aacute; dada prioridade aos n&amp;atilde;o segurados / segurados insuficientemente e aos residentes de 02907, 02908 e 02909).&lt;/span&gt;&lt;/p&gt; 
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+
+ 
+
+LOCATION: 85 EAGLE ST, PROVIDENCE RI 
+
+●●● ENGLISH: This clinic is offering the Pfizer COVID-19 vaccine which is for people age 16 and older only. This clinic is for people who are 16 and older who live, work, or go to school in Rhode Island. (Priority will be given to the uninsured/underinsured and residents of 02907, 02908, and 02909) ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer contra COVID-19 que es para personas con 16 años o más solamente. Esta clínica recibe personas mayores de 16 años que viven, trabajan o asisten a clases en Rhode. (Se dará prioridad a las personas sin seguro o con seguro insuficiente y a los residentes de 02907, 02908 y 02909)  ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer, que é apenas para pessoas com 16 anos ou mais. Esta clínica é para pessoas com 16 anos de idade ou mais que morem, trabalhem ou frequentem escolas em Rhode Island. (Será dada prioridade aos não segurados / segurados insuficientemente e aos residentes de 02907, 02908 e 02909) 
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 09:00 am - 12:30 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        108
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4495&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFY1RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d8fa9ae6a2af15e3d0ec12068df20fa3ef7b2eb0/clinic4495.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      McCoy Stadium on 07/28/2021
+    </h2>
+
+    <p>
+      1 Columbus Ave, Pawtucket RI, 02860
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          12-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> 2nd dose Pfizer
+●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 and older only. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente.●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais.  
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 05:00 pm - 08:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        71
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4140&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0ZKRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d55f0be6725caa1d51f371c2064502d0ee9d47cb/clinic4140.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
+      McCoy Stadium on 07/28/2021
+    </h2>
+
+    <p>
+      1 Columbus Ave, Pawtucket RI, 02860
+    </p>
+
+    <p>
+      <strong>Vaccinations offered:</strong>
+      <strong>
+        Pfizer-BioNTech COVID-19 Vaccine
+      </strong>
+    </p>
+      <p>
+        <strong>Age groups served:</strong>
+          12-120
+      </p>
+    <p>
+    <p>
+      <strong>Services offered:</strong>
+      COVID-19 Vaccination
+    </p>
+
+      <p>
+        <strong>Additional Information:</strong> 1st Dose Clinic - Pfizer
+●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 and older only. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente.●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. 
+      </p>
+
+    <p><strong>Clinic Hours
+      :</strong> 05:00 pm - 08:00 pm</p>
+
+      <p>
+        <strong>Appointments Available or Currently Being Booked:</strong>
+        71
+      </p>
+
+      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
+
+        <p class="my-3 flex">
+          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4146&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
+              Sign Up for a COVID-19 Vaccination
+</a>        </p>
+  </div>
+
+  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
+      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGRKRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c646fc9aefdf97d57cf4ddab8f3d3de2ab10f05/clinic4146.png?locale=en" />
+  </div>
+</div>
+<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
+  <div class="md:flex-shrink text-gray-800">
+    <h2 class="text-xl font-black">
       East Providence POD on 07/28/2021
     </h2>
 
@@ -243,455 +720,10 @@
       <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmRzRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3391b958d48a2ee0c03c151e23696e774d418a9/clinic4379.png?locale=en" />
   </div>
 </div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      Sockanosset-POD  on 07/28/2021
-    </h2>
-
-    <p>
-      100 Sockanosset Cross Road, Cranston RI, 02920
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Moderna COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          18-120
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Moderna COVID-19 vaccine which is for people age 18 and older only. For clinic directions and parking information, visit https://health.ri.gov/vaccinesiteinfo. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Moderna contra COVID-19 que es para personas con 18 años o más solamente. Para direcciones de llegar a la clínica o información de estacionamiento, visite la siguiente página: https://health.ri.gov/vaccinesiteinfo. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Moderna, que é apenas para pessoas com 18 anos ou mais. Para direções e informações de estacionamento a clínica, visite https://health.ri.gov/vaccinesiteinfo.
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 11:00 am - 06:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        1085
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4397&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelp2RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9e65b0de94bffc37fb2951aacd000daa7694ab71/clinic4397.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      AJ Pharmacy  on 07/29/2021
-    </h2>
-
-    <p>
-      1017 Smith St, Providence RI, 02908
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Pfizer-BioNTech COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          12-120
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 or older only. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente.●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. 
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 10:00 am - 07:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        63
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=3701&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1c3RVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--511a2b3d9ed91b18333d26700be4af9d37b44cea/clinic3701.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      Richmond Food Truck Night on 07/29/2021
-    </h2>
-
-    <p>
-      5 Richmond Townhouse Road, Wyoming Rhode Island, 02898
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Pfizer-BioNTech COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          12-120
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> 2nd Dose Pfizer
-●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 and older only. For clinic directions and parking information, visit https://health.ri.gov/vaccinesiteinfo. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente. Para direcciones de llegar a la clínica o información de estacionamiento, visite la siguiente página: https://health.ri.gov/vaccinesiteinfo. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. Para direções e informações de estacionamento a clínica, visite https://health.ri.gov/vaccinesiteinfo. 
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 05:00 pm - 06:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        19
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4096&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNncrRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd991d99aaaa7d31c4bfaf43ab7cc659c2cba2cb/clinic4096.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      Sockanosset-POD  on 07/29/2021
-    </h2>
-
-    <p>
-      100 Sockanosset Cross Road, Cranston RI, 02920
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Moderna COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          18+
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Moderna COVID-19 vaccine which is for people age 18 and older only. For clinic directions and parking information, visit https://health.ri.gov/vaccinesiteinfo. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Moderna contra COVID-19 que es para personas con 18 años o más solamente. Para direcciones de llegar a la clínica o información de estacionamiento, visite la siguiente página: https://health.ri.gov/vaccinesiteinfo. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Moderna, que é apenas para pessoas com 18 anos ou mais. Para direções e informações de estacionamento a clínica, visite https://health.ri.gov/vaccinesiteinfo. 
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 07:00 am - 08:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        2026
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4415&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjl4RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b15feee4fa8db279f84c0cf1a3fa2b14111eb8f7/clinic4415.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      Sockanosset-POD  on 07/30/2021
-    </h2>
-
-    <p>
-      100 Sockanosset Cross Road, Cranston RI, 02920
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Moderna COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          18+
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Moderna COVID-19 vaccine which is for people age 18 and older only. For clinic directions and parking information, visit https://health.ri.gov/vaccinesiteinfo. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Moderna contra COVID-19 que es para personas con 18 años o más solamente. Para direcciones de llegar a la clínica o información de estacionamiento, visite la siguiente página: https://health.ri.gov/vaccinesiteinfo. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Moderna, que é apenas para pessoas com 18 anos ou mais. Para direções e informações de estacionamento a clínica, visite https://health.ri.gov/vaccinesiteinfo. 
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 07:00 am - 06:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        1710
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4433&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK055RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4f9433d4aa1bc4f616e117a4081a2c7a42b76e1d/clinic4433.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      Atmed Johnston on 07/30/2021
-    </h2>
-
-    <p>
-      1524 Atwood Ave, Suite 125, Middleborough Rhode Island, 02346
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Pfizer-BioNTech COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          12-120
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> Please enter through the north entrance and follow the vaccine signs to Suite 125
-●●● ENGLISH: This clinic is offering the Pfizer-BioNTech COVID-19 vaccine which is for people age 12 or older only. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Pfizer-BioNTech contra COVID-19 que es para personas con 12 años o más solamente.●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Pfizer-BioNTech, que é apenas para pessoas com 12 anos ou mais. 
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 09:00 am - 03:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        143
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4437&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1p6RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f411bc19a4bf32b80594030a5d7d4658cb3ffd56/clinic4437.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      Wickford Train Station  on 07/31/2021
-    </h2>
-
-    <p>
-      1011 Ten Rod Rd, North Kingston  Rhode Island , 02852
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Janssen COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          12-120
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Pfizer-BioNTech and Johnson &amp; Johnson (Janssen) COVID-19 vaccines. The Pfizer-BioNTech vaccine is for people age 12 or older only and requires two doses. The Johnson &amp; Johnson vaccine is for people age 18 or older only and requires one dose. ●●● ESPAÑOL: Este centro ofrece las vacunas contra el COVID-19 de Pfizer-BioNTech y Johnson &amp; Johnson (Janssen). La vacuna de Pfizer-BioNTech es solo para personas mayores de 12 años y requiere de dos dosis. La vacuna de Johnson &amp; Johnson es solo para personas mayores de 18 años y requiere de una sola dosis.●●● PORTUGUÊS: Essa clínica está oferecendo as vacinas da Pfizer-BioNTech e da Johnson &amp; Johnson (Janssen) contra a COVID-19. A vacina da Pfizer-BioNTech é somente para pessoas com 12 anos de idade ou mais e requer duas doses. A vacina da Johnson &amp; Johnson é somente para pessoas com 18 anos de idade ou mais e requer uma dose.
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 09:00 am - 12:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        71
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4301&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnhqRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b7295a2ef4f7794d53270d8838e0e03ec8d46c9a/clinic4301.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 ">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      St. Peter’s &amp; St. Andrew’s Episcopal Church on 07/31/2021
-    </h2>
-
-    <p>
-      70 Pemberton St., Providence RI, 02908
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Contact Clinic Site
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          12+
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      Testing, COVID-19 Vaccination
-    </p>
-
-
-    <p><strong>Clinic Hours
-      :</strong> 10:00 am - 02:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        68
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeloyRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f60fbaa3fbf7abcea8c9bfde72ce32e0a2289f6d/clinic4461.png?locale=en" />
-  </div>
-</div>
-<div class="md:flex justify-between -mx-2 md:mx-0 px-2 md:px-4 pt-4 pb-4 border-b border-gray-200 bg-gray-50">
-  <div class="md:flex-shrink text-gray-800">
-    <h2 class="text-xl font-black">
-      Sockanosset-POD  on 08/03/2021
-    </h2>
-
-    <p>
-      100 Sockanosset Cross Road, Cranston RI, 02920
-    </p>
-
-    <p>
-      <strong>Vaccinations offered:</strong>
-      <strong>
-        Moderna COVID-19 Vaccine
-      </strong>
-    </p>
-      <p>
-        <strong>Age groups served:</strong>
-          18+
-      </p>
-    <p>
-    <p>
-      <strong>Services offered:</strong>
-      COVID-19 Vaccination
-    </p>
-
-      <p>
-        <strong>Additional Information:</strong> ●●● ENGLISH: This clinic is offering the Moderna COVID-19 vaccine which is for people age 18 and older only. For clinic directions and parking information, visit https://health.ri.gov/vaccinesiteinfo. ●●● ESPAÑOL: Esta clínica ofrece la vacuna Moderna contra COVID-19 que es para personas con 18 años o más solamente. Para direcciones de llegar a la clínica o información de estacionamiento, visite la siguiente página: https://health.ri.gov/vaccinesiteinfo. ●●● PORTUGUÊS: Esta clínica está a oferecer a vacina COVID-19 da Moderna, que é apenas para pessoas com 18 anos ou mais. Para direções e informações de estacionamento a clínica, visite https://health.ri.gov/vaccinesiteinfo.
-      </p>
-
-    <p><strong>Clinic Hours
-      :</strong> 07:00 am - 02:00 pm</p>
-
-      <p>
-        <strong>Appointments Available or Currently Being Booked:</strong>
-        1090
-      </p>
-
-      <div><strong>Special Instructions:</strong> If you are signing up for a second dose, you must get the same vaccine brand as your first dose.</div>
-
-        <p class="my-3 flex">
-          <a class="button-primary px-4" href="/appointment/en/client/registration?clinic_id=4373&amp;find_label=find_location&amp;return_to=%2Fappointment%2Fen%2Fclinic%2Fsearch">
-              Sign Up for a COVID-19 Vaccination
-</a>        </p>
-  </div>
-
-  <div class="map-image mt-4 md:mt-0 md:flex-shrink-0">
-      <img alt="Map" src="https://www.vaccinateri.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWhzRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e26002c59d791d2dbb37d1fce323fe646e6b2197/clinic4373.png?locale=en" />
-  </div>
-</div>
 
 
   <div class="mt-4 flex justify-center">
-    <nav class="pagy-nav pagination" role="navigation" aria-label="pager"><span class="page prev"><a href="/appointment/en/clinic/search?page=15"   rel="prev" aria-label="previous">&lsaquo;&nbsp;Prev</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=1"   >1</a></span> <span class="page gap">&hellip;</span> <span class="page"><a href="/appointment/en/clinic/search?page=12"   >12</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=13"   >13</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=14"   >14</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=15"   rel="prev" >15</a></span> <span class="page active">16</span> <span class="page"><a href="/appointment/en/clinic/search?page=17"   rel="next" >17</a></span> <span class="page next"><a href="/appointment/en/clinic/search?page=17"   rel="next" aria-label="next">Next&nbsp;&rsaquo;</a></span></nav>
+    <nav class="pagy-nav pagination" role="navigation" aria-label="pager"><span class="page prev"><a href="/appointment/en/clinic/search?page=15"   rel="prev" aria-label="previous">&lsaquo;&nbsp;Prev</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=1"   >1</a></span> <span class="page gap">&hellip;</span> <span class="page"><a href="/appointment/en/clinic/search?page=12"   >12</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=13"   >13</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=14"   >14</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=15"   rel="prev" >15</a></span> <span class="page active">16</span> <span class="page"><a href="/appointment/en/clinic/search?page=17"   rel="next" >17</a></span> <span class="page"><a href="/appointment/en/clinic/search?page=18"   >18</a></span> <span class="page next"><a href="/appointment/en/clinic/search?page=17"   rel="next" aria-label="next">Next&nbsp;&rsaquo;</a></span></nav>
   </div>
 </div>
 
