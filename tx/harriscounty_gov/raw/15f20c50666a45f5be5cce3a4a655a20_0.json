@@ -14540,6 +14540,43 @@
                 "x": -95.38561003999116,
                 "y": 29.725158009550135
             }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625680813985,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625680813985,
+                "Editor": "COVIDPublicHCPH",
+                "address": "777 Fairmont Pkwy, Pasadena, TX 77504",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Second",
+                "entrydate": "2021-07-07T12:59:12.878-05:00",
+                "globalid": "60cbb814-bf79-469b-8491-3a960a766643",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Iglesias Acres de Amor",
+                "lon": null,
+                "notes": null,
+                "objectid": 453,
+                "opendate": 1625763600000,
+                "opendate_str": "Thursday, July 8th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 8:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 8",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.2003920242192,
+                "y": 29.65223599674749
+            }
         }
     ],
     "fields": [

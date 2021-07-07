@@ -675,38 +675,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "e4ade40b-e668-4cd5-9a68-026ad724c001",
-                "ID": "ISDH953",
-                "IsView": 1,
-                "Name": "Hendricks Regional Health",
-                "OBJECTID": 48,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1900 East Main St,  Danville, IN 46122",
-                "Site_County": "Hendricks",
-                "Site_Location_Info": "Hendricks County Fairgrounds",
-                "Site_Name": "HENDRICKS REG HTH FAIRGROUNDS VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.48761265876858,
-                "y": 39.76269168570386
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "04f9b51b-7f8f-46b2-a8e6-52fd5d1b64e3",
                 "ID": "ISDH1134",
                 "IsView": 1,
@@ -874,12 +842,12 @@
                 "OBJECTID": 118,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1300 East 100 S. Lebanon IN 46052",
+                "Site_Address": "116 W Washington St, Lebanon, IN 46052",
                 "Site_County": "Boone",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "BOONE CO FARM BUREAU BDG VAX",
+                "Site_Location_Info": "This vaccine site has Moderna and Pfizer. For questions about this location, call 765-482-3942 option 4 or 765-483-4458 option 7.",
+                "Site_Name": "Boone County Office BDG VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": "Walk-in appointments are available.",
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
@@ -892,8 +860,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.44489971635286,
-                "y": 40.02541208504447
+                "x": -86.46873382565921,
+                "y": 40.04863803780382
             }
         },
         {
@@ -1130,9 +1098,9 @@
                 "OBJECTID": 128,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "640 Tyler Street. Gary, IN  46402",
+                "Site_Address": "1145 W 5th Ave, Gary, IN 46402",
                 "Site_County": "Lake",
-                "Site_Location_Info": "This clinic is located at the Tyler Street address on Mon, Wed, Thurs.  The clinic operates at 1145 W 5th Ave, Gary, IN 46402 on Saturdays.  This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "GARY CITY HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -1148,8 +1116,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -87.34852750373784,
-                "y": 41.599369332421375
+                "x": -87.35154230667068,
+                "y": 41.601856439766955
             }
         },
         {
@@ -2570,11 +2538,11 @@
                 "OBJECTID": 185,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1900 E Main St, Danville, IN 46122",
+                "Site_Address": "355 S. Washington, Conference Rms 4/5, Danville, IN 46122",
                 "Site_County": "Hendricks",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This vaccine site has Moderna and Pfizer. Call 317-718-6018 to schedule an appointment, or use the link below.",
                 "Site_Name": "HENDRICKS CO HD COVID VAX",
-                "Site_Phone": null,
+                "Site_Phone": "317-718-6018",
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
@@ -2588,8 +2556,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.4876178788787,
-                "y": 39.762699224965765
+                "x": -86.52315178390796,
+                "y": 39.757090861701016
             }
         },
         {
@@ -2794,9 +2762,9 @@
                 "OBJECTID": 192,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1240 4-H Park Rd, Bluffton, IN 46714",
+                "Site_Address": "223 W. Washington St., Bluffton, IN 46714",
                 "Site_County": "Wells",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This vaccine site has Moderna, Pfizer, and Johnson & Johnson.",
                 "Site_Name": "WELLS CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -2812,8 +2780,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.1737935232766,
-                "y": 40.72586036372007
+                "x": -85.17354676004734,
+                "y": 40.73895363291946
             }
         },
         {
@@ -33854,6 +33822,70 @@
                 },
                 "x": -87.6773761077593,
                 "y": 37.96484836097707
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d0fcf750-0ecd-4b5f-baad-01b826533201",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Franklin County 4-H Fair Vax",
+                "OBJECTID": 1326,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "7178 Blue Creek Rd, Brookville, IN 47012",
+                "Site_County": "Franklin",
+                "Site_Location_Info": "This clinic will operate July 15-17 and August 5-7 from 4:00 – 9:00 pm.  This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Franklin County 4-H Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.01858040331689,
+                "y": 39.40509135162744
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "04517232-1791-44c1-82d6-e309630886d0",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Noble County Fair VAX",
+                "OBJECTID": 1327,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "580 North Fair St., Merchants Bldg., Kendallville, IN 46755",
+                "Site_County": "Noble",
+                "Site_Location_Info": "This clinic will operate on July 15-16 from 3:00-8:00 pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Noble County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.2546662624078,
+                "y": 41.45043712729364
             }
         }
     ],
