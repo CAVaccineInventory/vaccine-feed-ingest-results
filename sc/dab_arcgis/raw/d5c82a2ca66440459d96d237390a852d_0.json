@@ -54109,6 +54109,286 @@
                 "x": -80.02256974162373,
                 "y": 32.97148355429522
             }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "32210ace-5dbb-4fda-8ba4-a036d91a27be",
+                "Loc_ID": null,
+                "OBJECTID": 40711,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "3505 Olanta Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Olanta",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29114",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Olanta Rural Fire Department",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.90787966172576,
+                "y": 33.93735101704118
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "1ac9adae-86ed-43eb-bb08-e4a3144bd23d",
+                "Loc_ID": null,
+                "OBJECTID": 40712,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "32416 SC-9",
+                "SiteAddressDetail": null,
+                "SiteCity": "Pageland",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29728",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ High Point Volunteer Fire Department",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.4261342406179,
+                "y": 34.75512951978055
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "265c7bcb-6fc0-41e0-856a-152cee652927",
+                "Loc_ID": null,
+                "OBJECTID": 40713,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "4050 Hwy 261 N",
+                "SiteAddressDetail": null,
+                "SiteCity": "Rembert",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29128",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Rafting Creek Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.5432270004149,
+                "y": 34.050818350875375
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "5e45b351-167d-4477-a844-1687e78c8b53",
+                "Loc_ID": null,
+                "OBJECTID": 40714,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1484 Mount Zion Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Georgetown",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29440",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ North Santee Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.40039020935086,
+                "y": 33.24796635598983
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "a84aeeb0-782e-465d-b244-ae17ffbff6af",
+                "Loc_ID": null,
+                "OBJECTID": 40715,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "6316 Pamplico Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Effingham",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29541",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Evergreen Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.67989340409633,
+                "y": 34.068824468265916
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "8dcb5b63-5f6b-4dbc-a265-0c7718c39028",
+                "Loc_ID": null,
+                "OBJECTID": 40716,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "2300 Mechanicsville Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29501",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ ABB Inc.",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.78521629226623,
+                "y": 34.24219913193417
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "c570279b-21b0-4d20-ae97-32be43fa03a8",
+                "Loc_ID": null,
+                "OBJECTID": 40717,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "4462 Murrells Inlet Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Murrells Inlet",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29576",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Murrells Inlet Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.04543077528712,
+                "y": 33.552364299612634
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "fc75cad4-9fbe-4e9a-86d7-3785a92dc68d",
+                "Loc_ID": null,
+                "OBJECTID": 40718,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "4580 Queen Chapel Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Dalzell",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29040",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Ebenezer Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.4009374884892,
+                "y": 34.018364249236186
+            }
         }
     ],
     "fields": [
