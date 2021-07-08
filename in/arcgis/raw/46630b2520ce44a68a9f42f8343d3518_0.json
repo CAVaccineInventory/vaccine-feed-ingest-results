@@ -33887,6 +33887,38 @@
                 "x": -85.2546662624078,
                 "y": 41.45043712729364
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0e60a963-4b51-40c8-94c6-01728aff3496",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Mosey Down Main Street Vax",
+                "OBJECTID": 1328,
+                "Promote_Name": "Mosey Down Main Street VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47901</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "512 Main St, Lafayette, IN 47901",
+                "Site_County": "Tippecanoe",
+                "Site_Location_Info": "This is a one-day clinic on July 10, 6:00-11:00 pm.  This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Mosey Down Main Street VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.8913947866614,
+                "y": 40.41932390753037
+            }
         }
     ],
     "fields": [
