@@ -2954,7 +2954,7 @@
                 "OBJECTID": 199,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "51 Walnut St, Lawrenceburg, IN 47025",
+                "Site_Address": "165 Mary St., Lawrenceburg , IN 47025",
                 "Site_County": "Dearborn",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "DEARBORN CO HD COVID VAX",
@@ -2972,8 +2972,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -84.84704410573158,
-                "y": 39.0918433478305
+                "x": -84.8497880055539,
+                "y": 39.09153941029358
             }
         },
         {
@@ -3082,9 +3082,9 @@
                 "OBJECTID": 208,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "200 Maple Leaf Blvd Nashville, IN 47448",
+                "Site_Address": "200 Hawthorne Dr. Nashville, IN 47448",
                 "Site_County": "Brown",
-                "Site_Location_Info": "Brown County Music Center. This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "BROWN CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -3100,8 +3100,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -86.23807651552853,
-                "y": 39.199284945875085
+                "x": -86.23903138193795,
+                "y": 39.19907708714255
             }
         },
         {

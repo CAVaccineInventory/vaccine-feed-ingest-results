@@ -9,17 +9,21 @@
 	<fontspec id="3" size="24" family="OpenSans" color="#ffffff"/>
 	<fontspec id="4" size="24" family="OpenSans" color="#ffffff"/>
 	<fontspec id="5" size="22" family="OpenSans" color="#ffffff"/>
-	<fontspec id="6" size="19" family="OpenSans" color="#ffffff"/>
-	<fontspec id="7" size="95" family="Oswald" color="#ffffff"/>
-	<fontspec id="8" size="26" family="OpenSans" color="#ffffff"/>
-	<fontspec id="9" size="18" family="OpenSans" color="#ffffff"/>
-	<fontspec id="10" size="18" family="OpenSans" color="#ffffff"/>
-	<fontspec id="11" size="19" family="OpenSans" color="#ffffff"/>
+	<fontspec id="6" size="32" family="Oswald" color="#000000"/>
+	<fontspec id="7" size="32" family="Oswald" color="#ffffff"/>
+	<fontspec id="8" size="19" family="OpenSans" color="#ffffff"/>
+	<fontspec id="9" size="95" family="Oswald" color="#ffffff"/>
+	<fontspec id="10" size="26" family="OpenSans" color="#ffffff"/>
+	<fontspec id="11" size="31" family="Oswald" color="#000000"/>
+	<fontspec id="12" size="31" family="Oswald" color="#ffffff"/>
+	<fontspec id="13" size="18" family="OpenSans" color="#ffffff"/>
+	<fontspec id="14" size="18" family="OpenSans" color="#ffffff"/>
+	<fontspec id="15" size="19" family="OpenSans" color="#ffffff"/>
 <text top="2190" left="2" width="897" height="19" font="0"><b>                 VACCINE FAQ’S: <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML </a></b><b>           </b></text>
 <text top="2209" left="505" width="4" height="21" font="1"> </text>
 <text top="415" left="346" width="202" height="55" font="2">PLEASE NOTE</text>
 <text top="489" left="47" width="806" height="32" font="3"><i><b>This is a list of agencies in Jefferson County currently offering COVID-</b></i></text>
-<text top="523" left="47" width="806" height="32" font="3"><i><b>19  vaccine  as  of  June  24,  2021.  The  list  may  change  due  to  vaccine</b></i></text>
+<text top="523" left="47" width="806" height="32" font="3"><i><b>19  vaccine  as  of  July  8,  2021.  The  list  may  change  due  to  vaccine</b></i></text>
 <text top="556" left="47" width="806" height="32" font="3"><i><b>availability  or  other  unforeseen  reasons;  therefore,  please  make</b></i></text>
 <text top="590" left="47" width="806" height="32" font="3"><i><b>contact  with  the  location  of  your  choice  to  ensure  their  status  of</b></i></text>
 <text top="624" left="47" width="806" height="32" font="3"><i><b>operation. Also, it may be necessary to contact or view the website of</b></i></text>
@@ -32,476 +36,684 @@
 <text top="860" left="47" width="806" height="32" font="3"><i><b>If you have questions about the current COVID-19 vaccines, please visit</b></i></text>
 <text top="894" left="47" width="712" height="32" font="3"><i><b>the<a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html"> Centers for Disease Control and Prevention (CDC) website. </a></b></i></text>
 <text top="927" left="450" width="6" height="30" font="5"> </text>
-<text top="1139" left="171" width="136" height="26" font="6"><a href="http://www.jcdh.org/"><i><b>www.jcdh.org</b></i></a></text>
-<text top="1172" left="113" width="252" height="26" font="6"><i><b>1400 Sixth Avenue South,</b></i></text>
-<text top="1205" left="128" width="222" height="26" font="6"><i><b>Birmingham, AL 35233</b></i></text>
-<text top="1238" left="164" width="150" height="26" font="6"><i><b>(205) 858-2221 </b></i></text>
-<text top="84" left="246" width="396" height="129" font="7"> COVID-19</text>
-<text top="193" left="87" width="713" height="129" font="7">VACCINE SITE LIST</text>
-<text top="39" left="316" width="302" height="36" font="8"><b>JEFFERSON COUNTY</b></text>
-<text top="323" left="273" width="363" height="36" font="8"><b>UPDATED JUNE 24, 2021</b></text>
-<text top="1454" left="107" width="287" height="25" font="9"><a href="https://www.uabmedicinevaccine.org/"><i><b>www.uabmedicinevaccine.org</b></i></a></text>
-<text top="1486" left="251" width="5" height="25" font="10"> </text>
-<text top="1517" left="159" width="182" height="25" font="9"><i><b>Parker High School</b></i></text>
-<text top="1549" left="64" width="372" height="25" font="9"><i><b>400 Reverend Abraham Woods Jr. Blvd,</b></i></text>
-<text top="1581" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35204</b></i></text>
-<text top="1612" left="251" width="5" height="25" font="10"> </text>
-<text top="1644" left="131" width="239" height="25" font="9"><i><b>UAB Hospital Highlands  </b></i></text>
-<text top="1675" left="135" width="232" height="25" font="9"><i><b>1130 12th Street South, </b></i></text>
-<text top="1707" left="144" width="214" height="25" font="9"><i><b>Birmingham, AL 35205</b></i></text>
-<text top="1069" left="459" width="384" height="26" font="6"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
-<text top="1101" left="652" width="5" height="26" font="11"> </text>
-<text top="1134" left="497" width="309" height="26" font="6"><i><b>Cahaba Medical Care Fairfield </b></i></text>
-<text top="1167" left="547" width="208" height="26" font="6"><i><b>6900 Grasselli Road, </b></i></text>
-<text top="1200" left="556" width="191" height="26" font="6"><i><b>Fairfield, AL 35064 </b></i></text>
-<text top="1233" left="579" width="144" height="26" font="6"><i><b>(205) 791-5048</b></i></text>
-<text top="1266" left="652" width="5" height="26" font="11"> </text>
-<text top="1298" left="491" width="320" height="26" font="6"><i><b>Cahaba Medical Care Bessemer </b></i></text>
-<text top="1331" left="517" width="268" height="26" font="6"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
-<text top="1364" left="553" width="196" height="26" font="6"><i><b>Bessemer, AL 35022</b></i></text>
-<text top="1397" left="579" width="144" height="26" font="6"><i><b>(205) 277-2358</b></i></text>
-<text top="1430" left="652" width="5" height="26" font="11"> </text>
-<text top="1463" left="507" width="288" height="26" font="6"><i><b>Cahaba Medical Care Ensley </b></i></text>
-<text top="1496" left="539" width="224" height="26" font="6"><i><b>1925 Avenue E Ensley, </b></i></text>
-<text top="1528" left="540" width="222" height="26" font="6"><i><b>Birmingham, AL 35218</b></i></text>
-<text top="1561" left="582" width="138" height="26" font="6"><i><b>(205)788-5164</b></i></text>
-<text top="1594" left="652" width="5" height="26" font="11"> </text>
+<text top="1013" left="127" width="227" height="44" font="6">JEFFERSON COUNTY</text>
+<text top="1012" left="126" width="227" height="44" font="7">JEFFERSON COUNTY</text>
+<text top="1050" left="164" width="153" height="44" font="6">DEPARTMENT</text>
+<text top="1049" left="162" width="153" height="44" font="7">DEPARTMENT</text>
+<text top="1087" left="174" width="8" height="44" font="6"> </text>
+<text top="1085" left="173" width="8" height="44" font="7"> </text>
+<text top="1087" left="181" width="126" height="44" font="6">OF HEALTH</text>
+<text top="1085" left="180" width="126" height="44" font="7">OF HEALTH</text>
+<text top="1139" left="171" width="136" height="26" font="8"><a href="http://www.jcdh.org/"><i><b>www.jcdh.org</b></i></a></text>
+<text top="1172" left="113" width="252" height="26" font="8"><i><b>1400 Sixth Avenue South,</b></i></text>
+<text top="1205" left="128" width="222" height="26" font="8"><i><b>Birmingham, AL 35233</b></i></text>
+<text top="1238" left="164" width="150" height="26" font="8"><i><b>(205) 858-2221 </b></i></text>
+<text top="84" left="246" width="396" height="129" font="9"> COVID-19</text>
+<text top="193" left="87" width="713" height="129" font="9">VACCINE SITE LIST</text>
+<text top="39" left="316" width="302" height="36" font="10"><b>JEFFERSON COUNTY</b></text>
+<text top="323" left="284" width="340" height="36" font="10"><b>UPDATED JULY 8, 2021</b></text>
+<text top="1307" left="89" width="364" height="42" font="11">THE UNIVERSITY OF ALABAMA AT</text>
+<text top="1306" left="88" width="364" height="42" font="12">THE UNIVERSITY OF ALABAMA AT</text>
+<text top="1342" left="160" width="222" height="42" font="11">BIRMINGHAM (UAB)</text>
+<text top="1341" left="159" width="222" height="42" font="12">BIRMINGHAM (UAB)</text>
+<text top="1392" left="126" width="287" height="25" font="13"><a href="https://www.uabmedicinevaccine.org/"><i><b>www.uabmedicinevaccine.org</b></i></a></text>
+<text top="1424" left="270" width="5" height="25" font="14"> </text>
+<text top="1455" left="82" width="376" height="25" font="13"><i><b>The Kirklin Clinic of UAB Hospital (TKC)</b></i></text>
+<text top="1487" left="58" width="424" height="25" font="13"><i><b>Parking Deck (previous Regions Bank space)</b></i></text>
+<text top="1518" left="93" width="353" height="25" font="13"><i><b>539 Richard Arrington Jr. Blvd. South</b></i></text>
+<text top="1550" left="163" width="214" height="25" font="13"><i><b>Birmingham, AL 35233</b></i></text>
+<text top="1581" left="154" width="230" height="25" font="13"><i><b>Monday through Friday </b></i></text>
+<text top="1613" left="200" width="140" height="25" font="13"><i><b>7:30 am - 3 pm</b></i></text>
+<text top="1644" left="90" width="359" height="25" font="13"><i><b>Open for UAB Medicine patients, UAB</b></i></text>
+<text top="1676" left="123" width="294" height="25" font="13"><i><b>employees, and general public</b></i></text>
+<text top="1707" left="270" width="5" height="25" font="14"> </text>
+<text top="1739" left="270" width="5" height="25" font="14"> </text>
+<text top="1770" left="72" width="394" height="25" font="13"><i><b>The Kirklin Clinic of UAB Hospital Second</b></i></text>
+<text top="1802" left="215" width="108" height="25" font="13"><i><b>Floor Clinic</b></i></text>
+<text top="1833" left="160" width="219" height="25" font="13"><i><b>2000 6th Avenue South</b></i></text>
+<text top="1865" left="163" width="214" height="25" font="13"><i><b>Birmingham, AL 35233</b></i></text>
+<text top="1896" left="154" width="230" height="25" font="13"><i><b>Monday through Friday </b></i></text>
+<text top="1928" left="200" width="140" height="25" font="13"><i><b>8 am - 4:15 pm</b></i></text>
+<text top="1959" left="120" width="300" height="25" font="13"><i><b>Open to UAB Medicine patients</b></i></text>
+<text top="1991" left="270" width="5" height="25" font="14"> </text>
+<text top="1013" left="545" width="274" height="44" font="6">CAHABA MEDICAL CARE</text>
+<text top="1012" left="543" width="274" height="44" font="7">CAHABA MEDICAL CARE</text>
+<text top="1050" left="682" width="8" height="44" font="6"><a href="https://www.cahabamedicalcare.com/covid19"> </a></text>
+<text top="1049" left="680" width="8" height="44" font="7"><a href="https://www.cahabamedicalcare.com/covid19"> </a></text>
+<text top="1069" left="483" width="384" height="26" font="8"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
+<text top="1101" left="675" width="5" height="26" font="15"> </text>
+<text top="1134" left="520" width="309" height="26" font="8"><i><b>Cahaba Medical Care Fairfield </b></i></text>
+<text top="1167" left="570" width="208" height="26" font="8"><i><b>6900 Grasselli Road, </b></i></text>
+<text top="1200" left="579" width="191" height="26" font="8"><i><b>Fairfield, AL 35064 </b></i></text>
+<text top="1233" left="602" width="144" height="26" font="8"><i><b>(205) 791-5048</b></i></text>
+<text top="1266" left="675" width="5" height="26" font="15"> </text>
+<text top="1298" left="514" width="320" height="26" font="8"><i><b>Cahaba Medical Care Bessemer </b></i></text>
+<text top="1331" left="541" width="268" height="26" font="8"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
+<text top="1364" left="576" width="196" height="26" font="8"><i><b>Bessemer, AL 35022</b></i></text>
+<text top="1397" left="602" width="144" height="26" font="8"><i><b>(205) 277-2358</b></i></text>
+<text top="1430" left="675" width="5" height="26" font="15"> </text>
+<text top="1463" left="531" width="288" height="26" font="8"><i><b>Cahaba Medical Care Ensley </b></i></text>
+<text top="1496" left="562" width="224" height="26" font="8"><i><b>1925 Avenue E Ensley, </b></i></text>
+<text top="1528" left="563" width="222" height="26" font="8"><i><b>Birmingham, AL 35218</b></i></text>
+<text top="1561" left="605" width="138" height="26" font="8"><i><b>(205)788-5164</b></i></text>
+<text top="1594" left="675" width="5" height="26" font="15"> </text>
 </page>
 <page number="2" position="absolute" top="0" left="0" height="2249" width="900">
+	<fontspec id="16" size="27" family="Oswald" color="#000000"/>
+	<fontspec id="17" size="27" family="Oswald" color="#ffffff"/>
+<text top="9" left="336" width="222" height="36" font="16"><b>JEFFERSON COUNTY</b></text>
+<text top="7" left="335" width="222" height="36" font="17"><b>JEFFERSON COUNTY</b></text>
+<text top="46" left="283" width="328" height="36" font="16"><b>COVID-19 SITE VACCINE LIST</b></text>
+<text top="45" left="282" width="328" height="36" font="17"><b>COVID-19 SITE VACCINE LIST</b></text>
 <text top="2211" left="3" width="897" height="19" font="0"><b>               VACCINE FAQ’S: <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML </a></b><b>             </b></text>
 <text top="2231" left="495" width="4" height="21" font="1"> </text>
-<text top="173" left="61" width="333" height="26" font="6"><a href="https://www.walmart.com/cp/1228302"><i><b>www.walmart.com/COVIDvaccine</b></i></a></text>
-<text top="206" left="228" width="5" height="26" font="11"> </text>
-<text top="239" left="50" width="356" height="26" font="6"><i><b>9248 Pkwy E, Birmingham, AL 35206</b></i></text>
-<text top="271" left="156" width="144" height="26" font="6"><i><b>(205) 833-7676</b></i></text>
-<text top="304" left="228" width="5" height="26" font="11"> </text>
-<text top="337" left="41" width="375" height="26" font="6"><i><b>750 Academy Dr, Bessemer, AL 35022 </b></i></text>
-<text top="370" left="156" width="144" height="26" font="6"><i><b>(205) 424-5890</b></i></text>
-<text top="403" left="228" width="5" height="26" font="11"> </text>
-<text top="436" left="45" width="366" height="26" font="6"><i><b>890 Odum Rd, Gardendale, AL 35071 </b></i></text>
-<text top="468" left="156" width="144" height="26" font="6"><i><b>(205) 631-8110</b></i></text>
-<text top="501" left="228" width="5" height="26" font="11"> </text>
-<text top="534" left="99" width="258" height="26" font="6"><i><b>2780 John Hawkins Pkwy, </b></i></text>
-<text top="567" left="143" width="171" height="26" font="6"><i><b>Hoover, AL 35244</b></i></text>
-<text top="600" left="156" width="144" height="26" font="6"><i><b>(205) 733-0303</b></i></text>
-<text top="633" left="228" width="5" height="26" font="11"> </text>
-<text top="665" left="121" width="213" height="26" font="6"><i><b>209 Lakeshore Pkwy, </b></i></text>
-<text top="698" left="123" width="211" height="26" font="6"><i><b>Homewood, AL 35209</b></i></text>
-<text top="731" left="156" width="144" height="26" font="6"><i><b>(205) 942-0977</b></i></text>
-<text top="764" left="228" width="5" height="26" font="11"> </text>
-<text top="797" left="36" width="384" height="26" font="6"><i><b>1600 Montclair Rd, Irondale, AL 35210 </b></i></text>
-<text top="830" left="156" width="144" height="26" font="6"><i><b>(205) 951-0355</b></i></text>
-<text top="863" left="228" width="5" height="26" font="11"> </text>
-<text top="895" left="71" width="314" height="26" font="6"><i><b>5919 Trussville Crossings Pkwy,</b></i></text>
-<text top="928" left="114" width="228" height="26" font="6"><i><b>Birmingham, AL 35235 </b></i></text>
-<text top="961" left="156" width="144" height="26" font="6"><i><b>(205) 661-1968</b></i></text>
-<text top="994" left="228" width="5" height="26" font="11"> </text>
-<text top="1027" left="63" width="331" height="26" font="6"><i><b>3320 Lorna Rd, Hoover, AL 35216 </b></i></text>
-<text top="1060" left="156" width="144" height="26" font="6"><i><b>(205) 909-4352</b></i></text>
-<text top="1092" left="228" width="5" height="26" font="11"> </text>
-<text top="1125" left="124" width="209" height="26" font="6"><i><b>1007 Red Farmer Dr, </b></i></text>
-<text top="1158" left="128" width="200" height="26" font="6"><i><b>Hueytown, AL 35023</b></i></text>
-<text top="1191" left="156" width="144" height="26" font="6"><i><b>(205) 744-9882</b></i></text>
-<text top="1224" left="228" width="5" height="26" font="11"> </text>
-<text top="1257" left="130" width="197" height="26" font="6"><i><b>312 Palisades Blvd, </b></i></text>
-<text top="1289" left="117" width="222" height="26" font="6"><i><b>Birmingham, AL 35209</b></i></text>
-<text top="1322" left="156" width="144" height="26" font="6"><i><b>(205) 870-7170</b></i></text>
-<text top="1355" left="228" width="5" height="26" font="11"> </text>
-<text top="1388" left="109" width="238" height="26" font="6"><i><b>1300 Montgomery Hwy, </b></i></text>
-<text top="1421" left="135" width="186" height="26" font="6"><i><b>Vestavia, AL 35216</b></i></text>
-<text top="1454" left="156" width="144" height="26" font="6"><i><b>(205) 822-6022</b></i></text>
-<text top="1486" left="228" width="5" height="26" font="11"> </text>
-<text top="1635" left="76" width="305" height="26" font="6"><a href="https://www.samsclub.com/pharmacy"><i><b>www.samsclub.com/pharmacy</b></i></a></text>
-<text top="1668" left="228" width="5" height="26" font="11"> </text>
-<text top="1701" left="76" width="305" height="26" font="6"><i><b>5940 Trussville Crossings Blvd,</b></i></text>
-<text top="1734" left="117" width="222" height="26" font="6"><i><b>Birmingham, AL 35235</b></i></text>
-<text top="1766" left="156" width="144" height="26" font="6"><i><b>(205) 655-7324</b></i></text>
-<text top="1799" left="228" width="5" height="26" font="11"> </text>
-<text top="1832" left="104" width="248" height="26" font="6"><i><b>1916 Center Point Pkwy, </b></i></text>
-<text top="1865" left="114" width="228" height="26" font="6"><i><b>Birmingham, AL 35215 </b></i></text>
-<text top="1898" left="156" width="144" height="26" font="6"><i><b>(205) 520-5535</b></i></text>
-<text top="1931" left="228" width="5" height="26" font="11"> </text>
-<text top="1964" left="121" width="213" height="26" font="6"><i><b>209 Lakeshore Pkwy, </b></i></text>
-<text top="1996" left="120" width="217" height="26" font="6"><i><b>Homewood, AL 35209 </b></i></text>
-<text top="2029" left="156" width="144" height="26" font="6"><i><b>(205) 942-0977</b></i></text>
-<text top="2062" left="228" width="5" height="26" font="11"> </text>
-<text top="872" left="544" width="246" height="26" font="6"><a href="http://www.fms-pharmacy.com/"><i><b>www.fms-pharmacy.com</b></i></a></text>
-<text top="906" left="479" width="376" height="26" font="6"><i><b>1819 13th Ave N, Bessemer, AL 35020 </b></i></text>
-<text top="938" left="598" width="138" height="24" font="9"><i><b>(205) 424-3194 </b></i></text>
-<text top="652" left="567" width="190" height="26" font="6"><a href="http://carrollrx.com/"><i><b>www.carrollrx.com</b></i></a></text>
-<text top="686" left="562" width="199" height="26" font="6"><i><b>115 N Chalkville Rd,</b></i></text>
-<text top="720" left="560" width="202" height="26" font="6"><i><b> Trussville, AL 35173</b></i></text>
-<text top="752" left="595" width="133" height="24" font="9"><i><b>(205) 655-3455</b></i></text>
-<text top="1068" left="568" width="199" height="24" font="9"><i><b>218 Summit Parkway,</b></i></text>
-<text top="1098" left="567" width="200" height="24" font="9"><i><b>Homewood, AL 35209 </b></i></text>
-<text top="1129" left="600" width="133" height="24" font="9"><i><b>(205) 858-2221</b></i></text>
-<text top="1315" left="550" width="229" height="25" font="9"><i><b>Northern Health Center</b></i></text>
-<text top="1347" left="543" width="243" height="25" font="9"><i><b>2817 30th Avenue North, </b></i></text>
-<text top="1379" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35207</b></i></text>
-<text top="1410" left="592" width="144" height="25" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="1442" left="665" width="5" height="25" font="10"> </text>
-<text top="1473" left="538" width="253" height="25" font="9"><i><b>Crestwood Medical Center</b></i></text>
-<text top="1505" left="511" width="306" height="25" font="9"><i><b>7001 Crestwood Blvd, Suite 822,</b></i></text>
-<text top="1536" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35210</b></i></text>
-<text top="1568" left="592" width="144" height="25" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="1600" left="665" width="5" height="25" font="10"> </text>
-<text top="1631" left="565" width="198" height="25" font="9"><i><b>Metro Health Center</b></i></text>
-<text top="1663" left="551" width="227" height="25" font="9"><i><b>712 25th Street, North, </b></i></text>
-<text top="1694" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35203</b></i></text>
-<text top="1726" left="592" width="144" height="25" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="1758" left="665" width="5" height="25" font="10"> </text>
-<text top="1789" left="564" width="201" height="25" font="9"><i><b>Ensley Health Center</b></i></text>
-<text top="1821" left="548" width="232" height="25" font="9"><i><b>417 19th Street, Ensley, </b></i></text>
-<text top="1852" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35218</b></i></text>
-<text top="1884" left="595" width="139" height="25" font="9"><i><b>(205) 858-2221</b></i></text>
-<text top="1916" left="665" width="5" height="25" font="10"> </text>
-<text top="2042" left="518" width="288" height="26" font="6"><i><b>*Locations to be determined</b></i></text>
-<text top="2076" left="586" width="150" height="26" font="6"><i><b>(205) 858-2221 </b></i></text>
-<text top="208" left="521" width="277" height="25" font="9"><a href="https://christhealthcenter.org/"><i><b>www.christhealthcenter.org</b></i></a><a href="http://www.uabmedicinevaccine.org/"><i><b> </b></i></a></text>
-<text top="240" left="660" width="5" height="25" font="10"> </text>
-<text top="272" left="505" width="309" height="25" font="9"><i><b>Christ Health Center Woodlawn </b></i></text>
-<text top="303" left="586" width="148" height="25" font="9"><i><b>5720 1st Ave S, </b></i></text>
-<text top="335" left="553" width="214" height="25" font="9"><i><b>Birmingham, AL 35212</b></i></text>
-<text top="366" left="587" width="144" height="25" font="9"><i><b>(205) 380-9455 </b></i></text>
-<text top="398" left="660" width="5" height="25" font="10"> </text>
-<text top="429" left="507" width="305" height="25" font="9"><i><b>Christ Health Center Chalkville </b></i></text>
-<text top="461" left="543" width="233" height="25" font="9"><i><b>2152 Old Springville Rd, </b></i></text>
-<text top="493" left="553" width="214" height="25" font="9"><i><b>Birmingham, AL 35215</b></i></text>
-<text top="524" left="590" width="139" height="25" font="9"><i><b>(205) 838-6000</b></i></text>
-<text top="556" left="660" width="5" height="25" font="10"> </text>
-<text top="587" left="660" width="5" height="25" font="10"> </text>
-<text top="619" left="660" width="5" height="25" font="10"> </text>
+<text top="123" left="103" width="255" height="44" font="6">WALMART LOCATIONS</text>
+<text top="122" left="101" width="255" height="44" font="7">WALMART LOCATIONS</text>
+<text top="173" left="61" width="333" height="26" font="8"><a href="https://www.walmart.com/cp/1228302"><i><b>www.walmart.com/COVIDvaccine</b></i></a></text>
+<text top="206" left="228" width="5" height="26" font="15"> </text>
+<text top="239" left="50" width="356" height="26" font="8"><i><b>9248 Pkwy E, Birmingham, AL 35206</b></i></text>
+<text top="271" left="156" width="144" height="26" font="8"><i><b>(205) 833-7676</b></i></text>
+<text top="304" left="228" width="5" height="26" font="15"> </text>
+<text top="337" left="41" width="375" height="26" font="8"><i><b>750 Academy Dr, Bessemer, AL 35022 </b></i></text>
+<text top="370" left="156" width="144" height="26" font="8"><i><b>(205) 424-5890</b></i></text>
+<text top="403" left="228" width="5" height="26" font="15"> </text>
+<text top="436" left="45" width="366" height="26" font="8"><i><b>890 Odum Rd, Gardendale, AL 35071 </b></i></text>
+<text top="468" left="156" width="144" height="26" font="8"><i><b>(205) 631-8110</b></i></text>
+<text top="501" left="228" width="5" height="26" font="15"> </text>
+<text top="534" left="99" width="258" height="26" font="8"><i><b>2780 John Hawkins Pkwy, </b></i></text>
+<text top="567" left="143" width="171" height="26" font="8"><i><b>Hoover, AL 35244</b></i></text>
+<text top="600" left="156" width="144" height="26" font="8"><i><b>(205) 733-0303</b></i></text>
+<text top="633" left="228" width="5" height="26" font="15"> </text>
+<text top="665" left="121" width="213" height="26" font="8"><i><b>209 Lakeshore Pkwy, </b></i></text>
+<text top="698" left="123" width="211" height="26" font="8"><i><b>Homewood, AL 35209</b></i></text>
+<text top="731" left="156" width="144" height="26" font="8"><i><b>(205) 942-0977</b></i></text>
+<text top="764" left="228" width="5" height="26" font="15"> </text>
+<text top="797" left="36" width="384" height="26" font="8"><i><b>1600 Montclair Rd, Irondale, AL 35210 </b></i></text>
+<text top="830" left="156" width="144" height="26" font="8"><i><b>(205) 951-0355</b></i></text>
+<text top="863" left="228" width="5" height="26" font="15"> </text>
+<text top="895" left="71" width="314" height="26" font="8"><i><b>5919 Trussville Crossings Pkwy,</b></i></text>
+<text top="928" left="114" width="228" height="26" font="8"><i><b>Birmingham, AL 35235 </b></i></text>
+<text top="961" left="156" width="144" height="26" font="8"><i><b>(205) 661-1968</b></i></text>
+<text top="994" left="228" width="5" height="26" font="15"> </text>
+<text top="1027" left="63" width="331" height="26" font="8"><i><b>3320 Lorna Rd, Hoover, AL 35216 </b></i></text>
+<text top="1060" left="156" width="144" height="26" font="8"><i><b>(205) 909-4352</b></i></text>
+<text top="1092" left="228" width="5" height="26" font="15"> </text>
+<text top="1125" left="124" width="209" height="26" font="8"><i><b>1007 Red Farmer Dr, </b></i></text>
+<text top="1158" left="128" width="200" height="26" font="8"><i><b>Hueytown, AL 35023</b></i></text>
+<text top="1191" left="156" width="144" height="26" font="8"><i><b>(205) 744-9882</b></i></text>
+<text top="1224" left="228" width="5" height="26" font="15"> </text>
+<text top="1257" left="130" width="197" height="26" font="8"><i><b>312 Palisades Blvd, </b></i></text>
+<text top="1289" left="117" width="222" height="26" font="8"><i><b>Birmingham, AL 35209</b></i></text>
+<text top="1322" left="156" width="144" height="26" font="8"><i><b>(205) 870-7170</b></i></text>
+<text top="1355" left="228" width="5" height="26" font="15"> </text>
+<text top="1388" left="109" width="238" height="26" font="8"><i><b>1300 Montgomery Hwy, </b></i></text>
+<text top="1421" left="135" width="186" height="26" font="8"><i><b>Vestavia, AL 35216</b></i></text>
+<text top="1454" left="156" width="144" height="26" font="8"><i><b>(205) 822-6022</b></i></text>
+<text top="1486" left="228" width="5" height="26" font="15"> </text>
+<text top="1585" left="92" width="277" height="44" font="6">SAM'S CLUB LOCATIONS</text>
+<text top="1584" left="90" width="277" height="44" font="7">SAM'S CLUB LOCATIONS</text>
+<text top="1635" left="76" width="305" height="26" font="8"><a href="https://www.samsclub.com/pharmacy"><i><b>www.samsclub.com/pharmacy</b></i></a></text>
+<text top="1668" left="228" width="5" height="26" font="15"> </text>
+<text top="1701" left="76" width="305" height="26" font="8"><i><b>5940 Trussville Crossings Blvd,</b></i></text>
+<text top="1734" left="117" width="222" height="26" font="8"><i><b>Birmingham, AL 35235</b></i></text>
+<text top="1766" left="156" width="144" height="26" font="8"><i><b>(205) 655-7324</b></i></text>
+<text top="1799" left="228" width="5" height="26" font="15"> </text>
+<text top="1832" left="104" width="248" height="26" font="8"><i><b>1916 Center Point Pkwy, </b></i></text>
+<text top="1865" left="114" width="228" height="26" font="8"><i><b>Birmingham, AL 35215 </b></i></text>
+<text top="1898" left="156" width="144" height="26" font="8"><i><b>(205) 520-5535</b></i></text>
+<text top="1931" left="228" width="5" height="26" font="15"> </text>
+<text top="1964" left="121" width="213" height="26" font="8"><i><b>209 Lakeshore Pkwy, </b></i></text>
+<text top="1996" left="120" width="217" height="26" font="8"><i><b>Homewood, AL 35209 </b></i></text>
+<text top="2029" left="156" width="144" height="26" font="8"><i><b>(205) 942-0977</b></i></text>
+<text top="2062" left="228" width="5" height="26" font="15"> </text>
+<text top="824" left="570" width="188" height="44" font="6">FMS PHARMACY</text>
+<text top="823" left="569" width="188" height="44" font="7">FMS PHARMACY</text>
+<text top="872" left="544" width="246" height="26" font="8"><a href="http://www.fms-pharmacy.com/"><i><b>www.fms-pharmacy.com</b></i></a></text>
+<text top="906" left="479" width="376" height="26" font="8"><i><b>1819 13th Ave N, Bessemer, AL 35020 </b></i></text>
+<text top="938" left="598" width="138" height="24" font="13"><i><b>(205) 424-3194 </b></i></text>
+<text top="604" left="535" width="247" height="44" font="6">CARROLL PHARMACY</text>
+<text top="602" left="534" width="247" height="44" font="7">CARROLL PHARMACY</text>
+<text top="652" left="567" width="190" height="26" font="8"><a href="http://carrollrx.com/"><i><b>www.carrollrx.com</b></i></a></text>
+<text top="686" left="562" width="199" height="26" font="8"><i><b>115 N Chalkville Rd,</b></i></text>
+<text top="720" left="560" width="202" height="26" font="8"><i><b> Trussville, AL 35173</b></i></text>
+<text top="752" left="595" width="133" height="24" font="13"><i><b>(205) 655-3455</b></i></text>
+<text top="1021" left="585" width="158" height="44" font="6">PROTEUS LAB</text>
+<text top="1020" left="584" width="158" height="44" font="7">PROTEUS LAB</text>
+<text top="1068" left="568" width="199" height="24" font="13"><i><b>218 Summit Parkway,</b></i></text>
+<text top="1098" left="567" width="200" height="24" font="13"><i><b>Homewood, AL 35209 </b></i></text>
+<text top="1129" left="600" width="133" height="24" font="13"><i><b>(205) 858-2221</b></i></text>
+<text top="1212" left="501" width="330" height="42" font="11">ALABAMA REGIONAL MEDICAL</text>
+<text top="1211" left="499" width="330" height="42" font="12">ALABAMA REGIONAL MEDICAL</text>
+<text top="1247" left="612" width="108" height="42" font="11">SERVICES</text>
+<text top="1246" left="611" width="108" height="42" font="12">SERVICES</text>
+<text top="1282" left="666" width="7" height="42" font="11"> </text>
+<text top="1281" left="664" width="7" height="42" font="12"> </text>
+<text top="1315" left="550" width="229" height="25" font="13"><i><b>Northern Health Center</b></i></text>
+<text top="1347" left="543" width="243" height="25" font="13"><i><b>2817 30th Avenue North, </b></i></text>
+<text top="1379" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35207</b></i></text>
+<text top="1410" left="592" width="144" height="25" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="1442" left="665" width="5" height="25" font="14"> </text>
+<text top="1473" left="538" width="253" height="25" font="13"><i><b>Crestwood Medical Center</b></i></text>
+<text top="1505" left="511" width="306" height="25" font="13"><i><b>7001 Crestwood Blvd, Suite 822,</b></i></text>
+<text top="1536" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35210</b></i></text>
+<text top="1568" left="592" width="144" height="25" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="1600" left="665" width="5" height="25" font="14"> </text>
+<text top="1631" left="565" width="198" height="25" font="13"><i><b>Metro Health Center</b></i></text>
+<text top="1663" left="551" width="227" height="25" font="13"><i><b>712 25th Street, North, </b></i></text>
+<text top="1694" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35203</b></i></text>
+<text top="1726" left="592" width="144" height="25" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="1758" left="665" width="5" height="25" font="14"> </text>
+<text top="1789" left="564" width="201" height="25" font="13"><i><b>Ensley Health Center</b></i></text>
+<text top="1821" left="548" width="232" height="25" font="13"><i><b>417 19th Street, Ensley, </b></i></text>
+<text top="1852" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35218</b></i></text>
+<text top="1884" left="595" width="139" height="25" font="13"><i><b>(205) 858-2221</b></i></text>
+<text top="1916" left="665" width="5" height="25" font="14"> </text>
+<text top="1994" left="518" width="281" height="44" font="6">MEDSPLUS CONSULTING</text>
+<text top="1992" left="517" width="281" height="44" font="7">MEDSPLUS CONSULTING</text>
+<text top="2042" left="518" width="288" height="26" font="8"><i><b>*Locations to be determined</b></i></text>
+<text top="2076" left="586" width="150" height="26" font="8"><i><b>(205) 858-2221 </b></i></text>
+<text top="123" left="569" width="175" height="42" font="11">CHRIST HEALTH</text>
+<text top="122" left="568" width="175" height="42" font="12">CHRIST HEALTH</text>
+<text top="123" left="744" width="7" height="42" font="11"> </text>
+<text top="122" left="743" width="7" height="42" font="12"> </text>
+<text top="158" left="618" width="85" height="42" font="11">CENTER</text>
+<text top="157" left="616" width="85" height="42" font="12">CENTER</text>
+<text top="193" left="660" width="7" height="42" font="11"><a href="https://christhealthcenter.org/"> </a></text>
+<text top="192" left="659" width="7" height="42" font="12"><a href="https://christhealthcenter.org/"> </a></text>
+<text top="231" left="660" width="7" height="42" font="11"> </text>
+<text top="229" left="659" width="7" height="42" font="12"> </text>
+<text top="208" left="521" width="277" height="25" font="13"><a href="https://christhealthcenter.org/"><i><b>www.christhealthcenter.org</b></i></a><a href="http://www.uabmedicinevaccine.org/"><i><b> </b></i></a></text>
+<text top="240" left="660" width="5" height="25" font="14"> </text>
+<text top="272" left="505" width="309" height="25" font="13"><i><b>Christ Health Center Woodlawn </b></i></text>
+<text top="303" left="586" width="148" height="25" font="13"><i><b>5720 1st Ave S, </b></i></text>
+<text top="335" left="553" width="214" height="25" font="13"><i><b>Birmingham, AL 35212</b></i></text>
+<text top="366" left="587" width="144" height="25" font="13"><i><b>(205) 380-9455 </b></i></text>
+<text top="398" left="660" width="5" height="25" font="14"> </text>
+<text top="429" left="507" width="305" height="25" font="13"><i><b>Christ Health Center Chalkville </b></i></text>
+<text top="461" left="543" width="233" height="25" font="13"><i><b>2152 Old Springville Rd, </b></i></text>
+<text top="493" left="553" width="214" height="25" font="13"><i><b>Birmingham, AL 35215</b></i></text>
+<text top="524" left="590" width="139" height="25" font="13"><i><b>(205) 838-6000</b></i></text>
+<text top="556" left="660" width="5" height="25" font="14"> </text>
+<text top="587" left="660" width="5" height="25" font="14"> </text>
+<text top="619" left="660" width="5" height="25" font="14"> </text>
 </page>
 <page number="3" position="absolute" top="0" left="0" height="2249" width="900">
-	<fontspec id="12" size="27" family="Oswald" color="#ffffff"/>
-	<fontspec id="13" size="16" family="OpenSans" color="#ffffff"/>
-<text top="7" left="335" width="222" height="36" font="12"><b>JEFFERSON COUNTY</b></text>
-<text top="45" left="310" width="272" height="36" font="12"><b>COVID-19 VACCINE LIST</b></text>
+	<fontspec id="18" size="16" family="OpenSans" color="#ffffff"/>
+	<fontspec id="19" size="37" family="Oswald" color="#000000"/>
+	<fontspec id="20" size="37" family="Oswald" color="#ffffff"/>
+<text top="7" left="335" width="222" height="36" font="17"><b>JEFFERSON COUNTY</b></text>
+<text top="45" left="310" width="272" height="36" font="17"><b>COVID-19 VACCINE LIST</b></text>
 <text top="2211" left="3" width="897" height="19" font="0"><b>               VACCINE FAQ’S: <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML </a></b><b>             </b></text>
 <text top="2231" left="495" width="4" height="21" font="1"> </text>
-<text top="199" left="144" width="207" height="24" font="9"><i><b> 400 Graymont Ave W, </b></i></text>
-<text top="229" left="145" width="205" height="24" font="9"><i><b>Birmingham, AL 35204</b></i></text>
-<text top="260" left="124" width="248" height="24" font="9"><i><b>No appointment necessary</b></i></text>
-<text top="690" left="515" width="266" height="24" font="9"><i><b>*Locations to be determined</b></i></text>
-<text top="720" left="581" width="133" height="24" font="9"><i><b>(205) 858-2221</b></i></text>
-<text top="750" left="648" width="5" height="24" font="10"> </text>
-<text top="394" left="125" width="235" height="24" font="9"><i><b>6817 Warrior River Road, </b></i></text>
-<text top="424" left="148" width="191" height="24" font="9"><i><b>Hueytown, AL 35023 </b></i></text>
-<text top="455" left="174" width="139" height="24" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="579" left="45" width="398" height="22" font="13"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>https://www.cvs.com/immunizations/covid-19-</b></i></a></text>
-<text top="607" left="213" width="63" height="22" font="13"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>vaccine</b></i></a></text>
-<text top="635" left="90" width="309" height="22" font="13"><i><b>2901 Morgan Rd, Bessemer, Al 35022</b></i></text>
-<text top="663" left="69" width="350" height="22" font="13"><i><b>5705 Chalkville Rd, Birmingham, Al 35235</b></i></text>
-<text top="691" left="41" width="406" height="22" font="13"><i><b>3303 Clairmont Avenue S, Birmingham, Al 35222</b></i></text>
-<text top="719" left="68" width="353" height="22" font="13"><i><b>1654 Gadsden Hwy, Birmingham, Al 35235</b></i></text>
-<text top="747" left="76" width="335" height="22" font="13"><i><b>1535 Decatur Hwy, Fultondale, Al 35068</b></i></text>
-<text top="1974" left="226" width="456" height="26" font="6"><i><b>Alabama Department of Public Health (ADPH):</b></i></text>
-<text top="2007" left="126" width="656" height="26" font="6"><a href="https://www.alabamapublichealth.gov/covid19vaccine/index.html"><i><b>https://www.alabamapublichealth.gov/covid19vaccine/index.html</b></i></a></text>
-<text top="2039" left="455" width="5" height="26" font="11"> </text>
-<text top="2072" left="285" width="338" height="26" font="6"><i><b>Centers for Disease Control (CDC):</b></i></text>
-<text top="2104" left="142" width="624" height="26" font="6"><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html"><i><b>https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html</b></i></a></text>
-<text top="2137" left="455" width="5" height="26" font="11"> </text>
-<text top="2170" left="455" width="5" height="26" font="11"> </text>
-<text top="1269" left="427" width="411" height="24" font="9"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>https://www.walgreens.com/topic/promotio</b></i></a></text>
-<text top="1300" left="544" width="177" height="24" font="9"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>n/covid-vaccine.jsp</b></i></a></text>
-<text top="1087" left="476" width="308" height="26" font="6"><a href="https://www.rossbridgepharmacy.com/"><i><b>www.rossbridgepharmacy.com</b></i></a></text>
-<text top="1121" left="438" width="384" height="26" font="6"><i><b>601 Market St #104, Hoover, AL, 35226</b></i></text>
-<text top="1153" left="563" width="133" height="24" font="9"><i><b>(205) 305-7399</b></i></text>
-<text top="888" left="37" width="411" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>https://www.childrensurgent.com/coronavir</b></i></a></text>
-<text top="918" left="150" width="187" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>us-vaccine-updates/</b></i></a></text>
-<text top="948" left="243" width="5" height="24" font="10"> </text>
-<text top="979" left="124" width="238" height="24" font="9"><i><b>520 Montgomery Highway</b></i></text>
-<text top="1009" left="157" width="172" height="24" font="9"><i><b>Vestavia, AL 35216</b></i></text>
-<text top="1039" left="176" width="133" height="24" font="9"><i><b>(205) 848-2273</b></i></text>
-<text top="1070" left="243" width="5" height="24" font="10"> </text>
-<text top="1100" left="88" width="310" height="24" font="9"><i><b>500 Cahaba Park Circle, Suite 100</b></i></text>
-<text top="1131" left="140" width="205" height="24" font="9"><i><b>Birmingham, AL 35242</b></i></text>
-<text top="1161" left="176" width="133" height="24" font="9"><i><b>(205) 848-2273</b></i></text>
-<text top="1441" left="633" width="5" height="24" font="10"> </text>
-<text top="1471" left="517" width="231" height="24" font="9"><i><b>Find a location near you:</b></i></text>
-<text top="1501" left="465" width="336" height="24" font="9"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>https://www.healthmart.com/store-</b></i></a></text>
-<text top="1532" left="482" width="301" height="24" font="9"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>locator.html?query=Birmingham</b></i></a></text>
-<text top="1562" left="633" width="5" height="24" font="10"> </text>
-<text top="1593" left="504" width="258" height="24" font="9"><i><b>Make an appointment here:</b></i></text>
-<text top="1623" left="442" width="381" height="24" font="9"><a href="https://www.healthmart.com/home.html"><i><b>https://www.healthmart.com/home.html</b></i></a></text>
-<text top="1289" left="43" width="410" height="24" font="9"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b> https://www.zocdoc.com/vaccine/screen</b></i></a><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>er?</b></i></a></text>
-<text top="1319" left="208" width="81" height="24" font="9"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b>state=AL</b></i></a></text>
-<text top="1349" left="248" width="5" height="24" font="10"> </text>
-<text top="1380" left="165" width="167" height="24" font="9"><i><b>5911 Harris Lane, </b></i></text>
-<text top="1410" left="157" width="181" height="24" font="9"><i><b>Bessemer, AL 35022</b></i></text>
-<text top="1440" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american+family+care+BESSEMER&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01SwOsOYB9-__6-xZEWKcwyNN6eVQ%3A1617999999331&amp;ei=f7hwYMbKE5GutQbCs46wBQ&amp;oq=american+family+care+BESSEMER&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIJjoHCAAQRxCwAzoHCAAQsAMQQzoTCC4QxwEQowIQsAMQyAMQQxCTAjoQCC4QxwEQrwEQsAMQyAMQQzoQCC4QhwIQxwEQrwEQFBCTAjoHCAAQhwIQFDoICC4QxwEQrwE6BQgAEMkDOgIIADoECAAQCkoFCDgSATFQsP0IWPOFCWDKhwloAXACeACAAYICiAH0CpIBBTEuNy4xmAEAoAEBqgEHZ3dzLXdpesgBD8ABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwiGhtPZ__HvAhURV80KHcKZA1YQ4dUDCAw&amp;uact=5#"><i><b>(205) 461-0038</b></i></a></text>
-<text top="1471" left="248" width="5" height="24" font="10"> </text>
-<text top="1501" left="182" width="132" height="24" font="9"><i><b>919 Odum Rd, </b></i></text>
-<text top="1532" left="148" width="200" height="24" font="9"><i><b>Gardendale, AL 35071</b></i></text>
-<text top="1562" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american+family+care+gardendale&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01ZFNCyNl9L0tTkcKWTg1I2942bTA%3A1618000149767&amp;ei=FblwYJ-sLoa3tQbekZjQCw&amp;oq=american+family+care+gardendale&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjICCCY6BwgAEEcQsAM6EAguEIcCEMcBEK8BEBQQkwI6DQguEIcCEMcBEK8BEBQ6CAguEMcBEK8BUNuyAliixAJggMUCaAFwAngAgAGNA4gBqg6SAQcwLjcuMi4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwjfirGhgPLvAhWGW80KHd4IBroQ4dUDCAw&amp;uact=5#"><i><b>(205) 351-0149</b></i></a></text>
-<text top="1592" left="248" width="5" height="24" font="10"> </text>
-<text top="1623" left="138" width="220" height="24" font="9"><i><b>1680 Montgomery Hwy, </b></i></text>
-<text top="1653" left="139" width="219" height="24" font="9"><i><b>Vestavia Hills, AL 35216</b></i></text>
-<text top="1683" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american%20family%20care%20hoover&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk00YnZHUzi8dCBKbEB-S3Hx30VY6PA:1618000311296&amp;ei=QblwYJzFD4jStQaSlaOIDw&amp;oq=american+family+care+hoover&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMggILhDHARCvATICCAA6BwgAEEcQsAM6BwgAELADEEM6EwguEMcBEKMCELADEMgDEEMQkwI6EAguEMcBEK8BELADEMgDEEM6BwgAEIcCEBRKBQg4EgExUP2DB1iKigdgn4sHaAFwAngAgAHXAYgBuAeSAQU0LjIuMZgBAKABAaoBB2d3cy13aXrIAQvAAQE&amp;sclient=gws-wiz&amp;ved=2ahUKEwjm9bPugPLvAhVPVc0KHb_NDBoQvS4wAHoECAUQIg&amp;uact=5&amp;tbs=lf:1,lf_ui:4&amp;tbm=lcl&amp;rflfq=1&amp;num=10&amp;rldimm=3915290606026903589&amp;lqi=ChthbWVyaWNhbiBmYW1pbHkgY2FyZSBob292ZXIiA4gBAUjukPjY5YCAgAhaSwoUYW1lcmljYW4gZmFtaWx5IGNhcmUQABABEAIYABgBGAIYAyIbYW1lcmljYW4gZmFtaWx5IGNhcmUgaG9vdmVyKggIAhAAEAEQApIBEnVyZ2VudF9jYXJlX2NlbnRlcqoBHBABKhgiFGFtZXJpY2FuIGZhbWlseSBjYXJlKAA&amp;rlst=f#"><i><b>(205) 979-0888</b></i></a></text>
-<text top="1714" left="248" width="5" height="24" font="10"> </text>
-<text top="1744" left="103" width="290" height="24" font="9"><i><b>5892 Trussville Crossings Pkwy,</b></i></text>
-<text top="1775" left="145" width="205" height="24" font="9"><i><b>Birmingham, AL 35235</b></i></text>
-<text top="1805" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american+family+care+trussville&amp;client=firefox-b-1-d&amp;tbm=lcl&amp;sxsrf=ALeKk02rljtL0RIz9ahteCZQ6B36khb8ag%3A1618000318069&amp;ei=vrlwYLzaA5nbtQatwLPIBQ&amp;oq=american+family+care+trussvu&amp;gs_l=psy-ab.1.0.0i13k1l4j0i13i30k1l2j0i22i30k1j0i8i13i30k1.74621.77069.0.79086.13.13.0.0.0.0.172.1217.5j6.11.0....0...1c.1.64.psy-ab..2.11.1211...0j38j35i39k1j0i263i20k1j0i263i457i20k1j0i457k1j0i22i10i30k1.0.jKxxNRTheyI#"><i><b>(205) 374-9339</b></i></a></text>
-<text top="1835" left="248" width="5" height="24" font="10"> </text>
-<text top="199" left="554" width="176" height="24" font="9"><i><b>3633 Gray Avenue, </b></i></text>
-<text top="229" left="545" width="194" height="24" font="9"><i><b>Adamsville, AL 35005</b></i></text>
-<text top="260" left="576" width="133" height="24" font="9"><i><b>(205) 674-1400</b></i></text>
-<text top="292" left="643" width="5" height="26" font="11"> </text>
-<text top="326" left="640" width="5" height="26" font="6"><i><b> </b></i></text>
-<text top="400" left="439" width="402" height="24" font="9"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>https://www.winndixie.com/pharmacy/covi</b></i></a></text>
-<text top="431" left="594" width="92" height="24" font="9"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>d-vaccine </b></i></a></text>
-<text top="461" left="441" width="398" height="24" font="9"><i><b>4476 Montevallo Rd, Birmingham, AL 35213</b></i></text>
-<text top="492" left="461" width="359" height="24" font="9"><i><b>4701 Center Point Rd, Pinson, AL 35126</b></i></text>
-<text top="888" left="446" width="403" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>w</b></i></a><a href="https://www.ritchspharmacy.com/covid-19-vaccine"><i><b>ww.ritchspharmacy.com/covid-19-vaccine</b></i></a></text>
-<text top="918" left="447" width="401" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>2</b></i></a><i><b>714 Cahaba Rd, Mountain Brook, AL 35223</b></i></text>
-<text top="948" left="575" width="144" height="24" font="9"><i><b>(205) 871-1144  </b></i></text>
-<text top="979" left="645" width="5" height="24" font="9"><i><b> </b></i></text>
+<text top="152" left="169" width="152" height="44" font="6">LEGION FIELD</text>
+<text top="151" left="167" width="152" height="44" font="7">LEGION FIELD</text>
+<text top="199" left="144" width="207" height="24" font="13"><i><b> 400 Graymont Ave W, </b></i></text>
+<text top="229" left="145" width="205" height="24" font="13"><i><b>Birmingham, AL 35204</b></i></text>
+<text top="260" left="124" width="248" height="24" font="13"><i><b>No appointment necessary</b></i></text>
+<text top="606" left="490" width="302" height="44" font="6">DR. CELESTE REESE WILLIS</text>
+<text top="604" left="489" width="302" height="44" font="7">DR. CELESTE REESE WILLIS</text>
+<text top="606" left="791" width="8" height="44" font="6"> </text>
+<text top="604" left="790" width="8" height="44" font="7"> </text>
+<text top="642" left="548" width="192" height="44" font="6">MEDICAL GROUP</text>
+<text top="641" left="547" width="192" height="44" font="7">MEDICAL GROUP</text>
+<text top="679" left="644" width="8" height="44" font="6"> </text>
+<text top="678" left="643" width="8" height="44" font="7"> </text>
+<text top="690" left="515" width="266" height="24" font="13"><i><b>*Locations to be determined</b></i></text>
+<text top="720" left="581" width="133" height="24" font="13"><i><b>(205) 858-2221</b></i></text>
+<text top="750" left="648" width="5" height="24" font="14"> </text>
+<text top="347" left="97" width="286" height="44" font="6">ROCK CREEK PHARMACY</text>
+<text top="346" left="95" width="286" height="44" font="7">ROCK CREEK PHARMACY</text>
+<text top="394" left="125" width="235" height="24" font="13"><i><b>6817 Warrior River Road, </b></i></text>
+<text top="424" left="148" width="191" height="24" font="13"><i><b>Hueytown, AL 35023 </b></i></text>
+<text top="455" left="174" width="139" height="24" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="531" left="75" width="324" height="44" font="6">CVS PHARMACY LOCATIONS</text>
+<text top="529" left="74" width="324" height="44" font="7">CVS PHARMACY LOCATIONS</text>
+<text top="531" left="399" width="8" height="44" font="6"> </text>
+<text top="529" left="397" width="8" height="44" font="7"> </text>
+<text top="579" left="45" width="398" height="22" font="18"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>https://www.cvs.com/immunizations/covid-19-</b></i></a></text>
+<text top="607" left="213" width="63" height="22" font="18"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>vaccine</b></i></a></text>
+<text top="635" left="90" width="309" height="22" font="18"><i><b>2901 Morgan Rd, Bessemer, Al 35022</b></i></text>
+<text top="663" left="69" width="350" height="22" font="18"><i><b>5705 Chalkville Rd, Birmingham, Al 35235</b></i></text>
+<text top="691" left="41" width="406" height="22" font="18"><i><b>3303 Clairmont Avenue S, Birmingham, Al 35222</b></i></text>
+<text top="719" left="68" width="353" height="22" font="18"><i><b>1654 Gadsden Hwy, Birmingham, Al 35235</b></i></text>
+<text top="747" left="76" width="335" height="22" font="18"><i><b>1535 Decatur Hwy, Fultondale, Al 35068</b></i></text>
+<text top="1919" left="222" width="9" height="50" font="19"> </text>
+<text top="1917" left="221" width="9" height="50" font="20"> </text>
+<text top="1919" left="230" width="444" height="50" font="19">COVID-19 VACCINE INFORMATION</text>
+<text top="1917" left="229" width="444" height="50" font="20">COVID-19 VACCINE INFORMATION</text>
+<text top="1974" left="226" width="456" height="26" font="8"><i><b>Alabama Department of Public Health (ADPH):</b></i></text>
+<text top="2007" left="126" width="656" height="26" font="8"><a href="https://www.alabamapublichealth.gov/covid19vaccine/index.html"><i><b>https://www.alabamapublichealth.gov/covid19vaccine/index.html</b></i></a></text>
+<text top="2039" left="455" width="5" height="26" font="15"> </text>
+<text top="2072" left="285" width="338" height="26" font="8"><i><b>Centers for Disease Control (CDC):</b></i></text>
+<text top="2104" left="142" width="624" height="26" font="8"><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html"><i><b>https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html</b></i></a></text>
+<text top="2137" left="455" width="5" height="26" font="15"> </text>
+<text top="2170" left="455" width="5" height="26" font="15"> </text>
+<text top="1222" left="555" width="142" height="44" font="6">WALGREENS</text>
+<text top="1221" left="553" width="142" height="44" font="7">WALGREENS</text>
+<text top="1222" left="696" width="8" height="44" font="6"> </text>
+<text top="1221" left="695" width="8" height="44" font="7"> </text>
+<text top="1269" left="427" width="411" height="24" font="13"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>https://www.walgreens.com/topic/promotio</b></i></a></text>
+<text top="1300" left="544" width="177" height="24" font="13"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>n/covid-vaccine.jsp</b></i></a></text>
+<text top="1039" left="478" width="297" height="44" font="6">ROSS BRIDGE PHARMACY</text>
+<text top="1037" left="477" width="297" height="44" font="7">ROSS BRIDGE PHARMACY</text>
+<text top="1087" left="476" width="308" height="26" font="8"><a href="https://www.rossbridgepharmacy.com/"><i><b>www.rossbridgepharmacy.com</b></i></a></text>
+<text top="1121" left="438" width="384" height="26" font="8"><i><b>601 Market St #104, Hoover, AL, 35226</b></i></text>
+<text top="1153" left="563" width="133" height="24" font="13"><i><b>(205) 305-7399</b></i></text>
+<text top="841" left="88" width="303" height="44" font="6">CHILDREN'S URGENT CARE</text>
+<text top="839" left="87" width="303" height="44" font="7">CHILDREN'S URGENT CARE</text>
+<text top="888" left="37" width="411" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>https://www.childrensurgent.com/coronavir</b></i></a></text>
+<text top="918" left="150" width="187" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>us-vaccine-updates/</b></i></a></text>
+<text top="948" left="243" width="5" height="24" font="14"> </text>
+<text top="979" left="124" width="238" height="24" font="13"><i><b>520 Montgomery Highway</b></i></text>
+<text top="1009" left="157" width="172" height="24" font="13"><i><b>Vestavia, AL 35216</b></i></text>
+<text top="1039" left="176" width="133" height="24" font="13"><i><b>(205) 848-2273</b></i></text>
+<text top="1070" left="243" width="5" height="24" font="14"> </text>
+<text top="1100" left="88" width="310" height="24" font="13"><i><b>500 Cahaba Park Circle, Suite 100</b></i></text>
+<text top="1131" left="140" width="205" height="24" font="13"><i><b>Birmingham, AL 35242</b></i></text>
+<text top="1161" left="176" width="133" height="24" font="13"><i><b>(205) 848-2273</b></i></text>
+<text top="1375" left="441" width="378" height="44" font="6">HEALTH MART PHARMACIES AND</text>
+<text top="1374" left="439" width="378" height="44" font="7">HEALTH MART PHARMACIES AND</text>
+<text top="1412" left="429" width="401" height="44" font="6">OTHER INDEPENDENT PHARMACIES</text>
+<text top="1410" left="427" width="401" height="44" font="7">OTHER INDEPENDENT PHARMACIES</text>
+<text top="1441" left="633" width="5" height="24" font="14"> </text>
+<text top="1471" left="517" width="231" height="24" font="13"><i><b>Find a location near you:</b></i></text>
+<text top="1501" left="465" width="336" height="24" font="13"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>https://www.healthmart.com/store-</b></i></a></text>
+<text top="1532" left="482" width="301" height="24" font="13"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>locator.html?query=Birmingham</b></i></a></text>
+<text top="1562" left="633" width="5" height="24" font="14"> </text>
+<text top="1593" left="504" width="258" height="24" font="13"><i><b>Make an appointment here:</b></i></text>
+<text top="1623" left="442" width="381" height="24" font="13"><a href="https://www.healthmart.com/home.html"><i><b>https://www.healthmart.com/home.html</b></i></a></text>
+<text top="1242" left="105" width="281" height="44" font="6">AMERICAN FAMILY CARE</text>
+<text top="1240" left="103" width="281" height="44" font="7">AMERICAN FAMILY CARE</text>
+<text top="1289" left="43" width="410" height="24" font="13"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b> https://www.zocdoc.com/vaccine/screen</b></i></a><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>er?</b></i></a></text>
+<text top="1319" left="208" width="81" height="24" font="13"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b>state=AL</b></i></a></text>
+<text top="1349" left="248" width="5" height="24" font="14"> </text>
+<text top="1380" left="165" width="167" height="24" font="13"><i><b>5911 Harris Lane, </b></i></text>
+<text top="1410" left="157" width="181" height="24" font="13"><i><b>Bessemer, AL 35022</b></i></text>
+<text top="1440" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american+family+care+BESSEMER&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01SwOsOYB9-__6-xZEWKcwyNN6eVQ%3A1617999999331&amp;ei=f7hwYMbKE5GutQbCs46wBQ&amp;oq=american+family+care+BESSEMER&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIJjoHCAAQRxCwAzoHCAAQsAMQQzoTCC4QxwEQowIQsAMQyAMQQxCTAjoQCC4QxwEQrwEQsAMQyAMQQzoQCC4QhwIQxwEQrwEQFBCTAjoHCAAQhwIQFDoICC4QxwEQrwE6BQgAEMkDOgIIADoECAAQCkoFCDgSATFQsP0IWPOFCWDKhwloAXACeACAAYICiAH0CpIBBTEuNy4xmAEAoAEBqgEHZ3dzLXdpesgBD8ABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwiGhtPZ__HvAhURV80KHcKZA1YQ4dUDCAw&amp;uact=5#"><i><b>(205) 461-0038</b></i></a></text>
+<text top="1471" left="248" width="5" height="24" font="14"> </text>
+<text top="1501" left="182" width="132" height="24" font="13"><i><b>919 Odum Rd, </b></i></text>
+<text top="1532" left="148" width="200" height="24" font="13"><i><b>Gardendale, AL 35071</b></i></text>
+<text top="1562" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american+family+care+gardendale&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01ZFNCyNl9L0tTkcKWTg1I2942bTA%3A1618000149767&amp;ei=FblwYJ-sLoa3tQbekZjQCw&amp;oq=american+family+care+gardendale&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjICCCY6BwgAEEcQsAM6EAguEIcCEMcBEK8BEBQQkwI6DQguEIcCEMcBEK8BEBQ6CAguEMcBEK8BUNuyAliixAJggMUCaAFwAngAgAGNA4gBqg6SAQcwLjcuMi4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwjfirGhgPLvAhWGW80KHd4IBroQ4dUDCAw&amp;uact=5#"><i><b>(205) 351-0149</b></i></a></text>
+<text top="1592" left="248" width="5" height="24" font="14"> </text>
+<text top="1623" left="138" width="220" height="24" font="13"><i><b>1680 Montgomery Hwy, </b></i></text>
+<text top="1653" left="139" width="219" height="24" font="13"><i><b>Vestavia Hills, AL 35216</b></i></text>
+<text top="1683" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american%20family%20care%20hoover&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk00YnZHUzi8dCBKbEB-S3Hx30VY6PA:1618000311296&amp;ei=QblwYJzFD4jStQaSlaOIDw&amp;oq=american+family+care+hoover&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMggILhDHARCvATICCAA6BwgAEEcQsAM6BwgAELADEEM6EwguEMcBEKMCELADEMgDEEMQkwI6EAguEMcBEK8BELADEMgDEEM6BwgAEIcCEBRKBQg4EgExUP2DB1iKigdgn4sHaAFwAngAgAHXAYgBuAeSAQU0LjIuMZgBAKABAaoBB2d3cy13aXrIAQvAAQE&amp;sclient=gws-wiz&amp;ved=2ahUKEwjm9bPugPLvAhVPVc0KHb_NDBoQvS4wAHoECAUQIg&amp;uact=5&amp;tbs=lf:1,lf_ui:4&amp;tbm=lcl&amp;rflfq=1&amp;num=10&amp;rldimm=3915290606026903589&amp;lqi=ChthbWVyaWNhbiBmYW1pbHkgY2FyZSBob292ZXIiA4gBAUjukPjY5YCAgAhaSwoUYW1lcmljYW4gZmFtaWx5IGNhcmUQABABEAIYABgBGAIYAyIbYW1lcmljYW4gZmFtaWx5IGNhcmUgaG9vdmVyKggIAhAAEAEQApIBEnVyZ2VudF9jYXJlX2NlbnRlcqoBHBABKhgiFGFtZXJpY2FuIGZhbWlseSBjYXJlKAA&amp;rlst=f#"><i><b>(205) 979-0888</b></i></a></text>
+<text top="1714" left="248" width="5" height="24" font="14"> </text>
+<text top="1744" left="103" width="290" height="24" font="13"><i><b>5892 Trussville Crossings Pkwy,</b></i></text>
+<text top="1775" left="145" width="205" height="24" font="13"><i><b>Birmingham, AL 35235</b></i></text>
+<text top="1805" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american+family+care+trussville&amp;client=firefox-b-1-d&amp;tbm=lcl&amp;sxsrf=ALeKk02rljtL0RIz9ahteCZQ6B36khb8ag%3A1618000318069&amp;ei=vrlwYLzaA5nbtQatwLPIBQ&amp;oq=american+family+care+trussvu&amp;gs_l=psy-ab.1.0.0i13k1l4j0i13i30k1l2j0i22i30k1j0i8i13i30k1.74621.77069.0.79086.13.13.0.0.0.0.172.1217.5j6.11.0....0...1c.1.64.psy-ab..2.11.1211...0j38j35i39k1j0i263i20k1j0i263i457i20k1j0i457k1j0i22i10i30k1.0.jKxxNRTheyI#"><i><b>(205) 374-9339</b></i></a></text>
+<text top="1835" left="248" width="5" height="24" font="14"> </text>
+<text top="152" left="497" width="8" height="44" font="6"> </text>
+<text top="151" left="496" width="8" height="44" font="7"> </text>
+<text top="152" left="504" width="278" height="44" font="6">BROOKLERE PHARMACY</text>
+<text top="151" left="502" width="278" height="44" font="7">BROOKLERE PHARMACY</text>
+<text top="199" left="554" width="176" height="24" font="13"><i><b>3633 Gray Avenue, </b></i></text>
+<text top="229" left="545" width="194" height="24" font="13"><i><b>Adamsville, AL 35005</b></i></text>
+<text top="260" left="576" width="133" height="24" font="13"><i><b>(205) 674-1400</b></i></text>
+<text top="292" left="643" width="5" height="26" font="15"> </text>
+<text top="326" left="640" width="5" height="26" font="8"><i><b> </b></i></text>
+<text top="354" left="572" width="131" height="44" font="6">WINN DIXIE</text>
+<text top="352" left="570" width="131" height="44" font="7">WINN DIXIE</text>
+<text top="400" left="439" width="402" height="24" font="13"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>https://www.winndixie.com/pharmacy/covi</b></i></a></text>
+<text top="431" left="594" width="92" height="24" font="13"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>d-vaccine </b></i></a></text>
+<text top="461" left="441" width="398" height="24" font="13"><i><b>4476 Montevallo Rd, Birmingham, AL 35213</b></i></text>
+<text top="492" left="461" width="359" height="24" font="13"><i><b>4701 Center Point Rd, Pinson, AL 35126</b></i></text>
+<text top="841" left="528" width="233" height="44" font="6">RITCH’S PHARMACY</text>
+<text top="839" left="526" width="233" height="44" font="7">RITCH’S PHARMACY</text>
+<text top="888" left="446" width="403" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>w</b></i></a><a href="https://www.ritchspharmacy.com/covid-19-vaccine"><i><b>ww.ritchspharmacy.com/covid-19-vaccine</b></i></a></text>
+<text top="918" left="447" width="401" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>2</b></i></a><i><b>714 Cahaba Rd, Mountain Brook, AL 35223</b></i></text>
+<text top="948" left="575" width="144" height="24" font="13"><i><b>(205) 871-1144  </b></i></text>
+<text top="979" left="645" width="5" height="24" font="13"><i><b> </b></i></text>
 </page>
 <page number="4" position="absolute" top="0" left="0" height="2249" width="900">
-	<fontspec id="14" size="82" family="Oswald" color="#ffffff"/>
-	<fontspec id="15" size="22" family="OpenSans" color="#ffffff"/>
+	<fontspec id="21" size="82" family="Oswald" color="#ffffff"/>
+	<fontspec id="22" size="22" family="OpenSans" color="#ffffff"/>
 <text top="2190" left="10" width="879" height="19" font="0"><b> PREGUNTAS MÁS FRECUENTES: <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML</a></b><b> </b></text>
 <text top="2209" left="529" width="4" height="21" font="1"> </text>
-<text top="52" left="283" width="322" height="110" font="14">SITIOS DE</text>
-<text top="145" left="172" width="543" height="110" font="14">VACUNACIÓN DE</text>
-<text top="238" left="285" width="318" height="110" font="14">COVID-19</text>
-<text top="8" left="276" width="381" height="36" font="8"><b>CONDADO DE JEFFERSON</b></text>
-<text top="354" left="373" width="162" height="36" font="8"><b>AL 24/6/21</b></text>
+<text top="52" left="283" width="322" height="110" font="21">SITIOS DE</text>
+<text top="145" left="172" width="543" height="110" font="21">VACUNACIÓN DE</text>
+<text top="238" left="285" width="318" height="110" font="21">COVID-19</text>
+<text top="8" left="276" width="381" height="36" font="10"><b>CONDADO DE JEFFERSON</b></text>
+<text top="354" left="382" width="144" height="36" font="10"><b>AL 8/7/21</b></text>
 <text top="415" left="211" width="472" height="55" font="2">POR FAVOR TENGA EN CUENTA</text>
-<text top="488" left="47" width="806" height="30" font="15"><i><b>  Esta es una lista de agencias en el condado de Jefferson que actualmente</b></i></text>
-<text top="520" left="47" width="806" height="30" font="15"><i><b>ofrecen la vacuna COVID-19 al 24 de junio de 2021. La lista puede cambiar</b></i></text>
-<text top="551" left="47" width="806" height="30" font="15"><i><b>debido a la disponibilidad de vacunas u otras razones imprevistas; por lo</b></i></text>
-<text top="583" left="47" width="806" height="30" font="15"><i><b>tanto, póngase en contacto con el lugar de su elección para asegurarse que</b></i></text>
-<text top="614" left="47" width="806" height="30" font="15"><i><b>la  estén  ofreciendo.  Además,  puede  ser  necesario  ponerse  en  contacto  o</b></i></text>
-<text top="646" left="47" width="806" height="30" font="15"><i><b>entrar el sitio web del sitio respectivo para verificar los requesitos, cambio</b></i></text>
-<text top="677" left="47" width="806" height="30" font="15"><i><b>de  horario  o  aplazamientos  de  clínicas  debido  a  problemas  como  las</b></i></text>
-<text top="709" left="47" width="806" height="30" font="15"><i><b>inclemencias  del  tiempo.  El  Departamento  de  Salud  Pública  de  Alabama</b></i></text>
-<text top="740" left="47" width="807" height="30" font="15"><i><b>(ADPH) y el gobierno federal están continuamente agregando nuevos sitios</b></i></text>
-<text top="772" left="47" width="656" height="30" font="15"><i><b>de vacunación, por lo que esta lista puede no estar completa.</b></i></text>
-<text top="835" left="47" width="805" height="30" font="15"><i><b>Si usted tiene preguntas sobre las vacunas COVID-19 por favor visite el sitio</b></i></text>
-<text top="866" left="47" width="613" height="30" font="15"><i><b>web de <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcovidvaccine%2Findex.html">Centers for Disease Control and Prevention (CDC)</a></b></i><i><b>.</b></i></text>
+<text top="488" left="47" width="806" height="30" font="22"><i><b>  Esta es una lista de agencias en el condado de Jefferson que actualmente</b></i></text>
+<text top="520" left="47" width="806" height="30" font="22"><i><b>ofrecen la vacuna COVID-19 al 8 de julio de 2021. La lista puede cambiar</b></i></text>
+<text top="551" left="47" width="806" height="30" font="22"><i><b>debido a la disponibilidad de vacunas u otras razones imprevistas; por lo</b></i></text>
+<text top="583" left="47" width="806" height="30" font="22"><i><b>tanto, póngase en contacto con el lugar de su elección para asegurarse que</b></i></text>
+<text top="614" left="47" width="806" height="30" font="22"><i><b>la  estén  ofreciendo.  Además,  puede  ser  necesario  ponerse  en  contacto  o</b></i></text>
+<text top="646" left="47" width="806" height="30" font="22"><i><b>entrar el sitio web del sitio respectivo para verificar los requesitos, cambio</b></i></text>
+<text top="677" left="47" width="806" height="30" font="22"><i><b>de  horario  o  aplazamientos  de  clínicas  debido  a  problemas  como  las</b></i></text>
+<text top="709" left="47" width="806" height="30" font="22"><i><b>inclemencias  del  tiempo.  El  Departamento  de  Salud  Pública  de  Alabama</b></i></text>
+<text top="740" left="47" width="807" height="30" font="22"><i><b>(ADPH) y el gobierno federal están continuamente agregando nuevos sitios</b></i></text>
+<text top="772" left="47" width="656" height="30" font="22"><i><b>de vacunación, por lo que esta lista puede no estar completa.</b></i></text>
+<text top="835" left="47" width="805" height="30" font="22"><i><b>Si usted tiene preguntas sobre las vacunas COVID-19 por favor visite el sitio</b></i></text>
+<text top="866" left="47" width="613" height="30" font="22"><i><b>web de <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcovidvaccine%2Findex.html">Centers for Disease Control and Prevention (CDC)</a></b></i><i><b>.</b></i></text>
 <text top="898" left="450" width="6" height="30" font="5"> </text>
-<text top="1139" left="171" width="136" height="26" font="6"><a href="http://www.jcdh.org/"><i><b>www.jcdh.org</b></i></a></text>
-<text top="1172" left="113" width="252" height="26" font="6"><i><b>1400 Sixth Avenue South,</b></i></text>
-<text top="1205" left="128" width="222" height="26" font="6"><i><b>Birmingham, AL 35233</b></i></text>
-<text top="1238" left="164" width="150" height="26" font="6"><i><b>(205) 858-2221 </b></i></text>
-<text top="1475" left="102" width="287" height="25" font="9"><a href="https://www.uabmedicinevaccine.org/"><i><b>www.uabmedicinevaccine.org</b></i></a></text>
-<text top="1507" left="246" width="5" height="25" font="10"> </text>
-<text top="1538" left="155" width="182" height="25" font="9"><i><b>Parker High School</b></i></text>
-<text top="1570" left="60" width="372" height="25" font="9"><i><b>400 Reverend Abraham Woods Jr. Blvd,</b></i></text>
-<text top="1602" left="139" width="214" height="25" font="9"><i><b>Birmingham, AL 35204</b></i></text>
-<text top="1633" left="246" width="5" height="25" font="10"> </text>
-<text top="1665" left="127" width="239" height="25" font="9"><i><b>UAB Hospital Highlands  </b></i></text>
-<text top="1696" left="130" width="232" height="25" font="9"><i><b>1130 12th Street South, </b></i></text>
-<text top="1728" left="139" width="214" height="25" font="9"><i><b>Birmingham, AL 35205</b></i></text>
-<text top="1069" left="459" width="384" height="26" font="6"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
-<text top="1101" left="652" width="5" height="26" font="11"> </text>
-<text top="1134" left="497" width="309" height="26" font="6"><i><b>Cahaba Medical Care Fairfield </b></i></text>
-<text top="1167" left="547" width="208" height="26" font="6"><i><b>6900 Grasselli Road, </b></i></text>
-<text top="1200" left="556" width="191" height="26" font="6"><i><b>Fairfield, AL 35064 </b></i></text>
-<text top="1233" left="579" width="144" height="26" font="6"><i><b>(205) 791-5048</b></i></text>
-<text top="1266" left="652" width="5" height="26" font="11"> </text>
-<text top="1298" left="491" width="320" height="26" font="6"><i><b>Cahaba Medical Care Bessemer </b></i></text>
-<text top="1331" left="517" width="268" height="26" font="6"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
-<text top="1364" left="553" width="196" height="26" font="6"><i><b>Bessemer, AL 35022</b></i></text>
-<text top="1397" left="579" width="144" height="26" font="6"><i><b>(205) 277-2358</b></i></text>
-<text top="1430" left="652" width="5" height="26" font="11"> </text>
-<text top="1463" left="507" width="288" height="26" font="6"><i><b>Cahaba Medical Care Ensley </b></i></text>
-<text top="1496" left="539" width="224" height="26" font="6"><i><b>1925 Avenue E Ensley, </b></i></text>
-<text top="1528" left="540" width="222" height="26" font="6"><i><b>Birmingham, AL 35218</b></i></text>
-<text top="1561" left="582" width="138" height="26" font="6"><i><b>(205)788-5164</b></i></text>
-<text top="1594" left="652" width="5" height="26" font="11"> </text>
+<text top="1013" left="127" width="227" height="44" font="6">JEFFERSON COUNTY</text>
+<text top="1012" left="126" width="227" height="44" font="7">JEFFERSON COUNTY</text>
+<text top="1050" left="164" width="153" height="44" font="6">DEPARTMENT</text>
+<text top="1049" left="162" width="153" height="44" font="7">DEPARTMENT</text>
+<text top="1087" left="174" width="8" height="44" font="6"> </text>
+<text top="1085" left="173" width="8" height="44" font="7"> </text>
+<text top="1087" left="181" width="126" height="44" font="6">OF HEALTH</text>
+<text top="1085" left="180" width="126" height="44" font="7">OF HEALTH</text>
+<text top="1139" left="171" width="136" height="26" font="8"><a href="http://www.jcdh.org/"><i><b>www.jcdh.org</b></i></a></text>
+<text top="1172" left="113" width="252" height="26" font="8"><i><b>1400 Sixth Avenue South,</b></i></text>
+<text top="1205" left="128" width="222" height="26" font="8"><i><b>Birmingham, AL 35233</b></i></text>
+<text top="1238" left="164" width="150" height="26" font="8"><i><b>(205) 858-2221 </b></i></text>
+<text top="1307" left="89" width="364" height="42" font="11">THE UNIVERSITY OF ALABAMA AT</text>
+<text top="1306" left="88" width="364" height="42" font="12">THE UNIVERSITY OF ALABAMA AT</text>
+<text top="1342" left="160" width="222" height="42" font="11">BIRMINGHAM (UAB)</text>
+<text top="1341" left="159" width="222" height="42" font="12">BIRMINGHAM (UAB)</text>
+<text top="1392" left="126" width="287" height="25" font="13"><a href="https://www.uabmedicinevaccine.org/"><i><b>www.uabmedicinevaccine.org</b></i></a></text>
+<text top="1424" left="270" width="5" height="25" font="14"> </text>
+<text top="1455" left="82" width="376" height="25" font="13"><i><b>The Kirklin Clinic of UAB Hospital (TKC)</b></i></text>
+<text top="1487" left="58" width="424" height="25" font="13"><i><b>Parking Deck (previous Regions Bank space)</b></i></text>
+<text top="1518" left="93" width="353" height="25" font="13"><i><b>539 Richard Arrington Jr. Blvd. South</b></i></text>
+<text top="1550" left="163" width="214" height="25" font="13"><i><b>Birmingham, AL 35233</b></i></text>
+<text top="1581" left="154" width="230" height="25" font="13"><i><b>Monday through Friday </b></i></text>
+<text top="1613" left="200" width="140" height="25" font="13"><i><b>7:30 am - 3 pm</b></i></text>
+<text top="1644" left="90" width="359" height="25" font="13"><i><b>Open for UAB Medicine patients, UAB</b></i></text>
+<text top="1676" left="123" width="294" height="25" font="13"><i><b>employees, and general public</b></i></text>
+<text top="1707" left="270" width="5" height="25" font="14"> </text>
+<text top="1739" left="270" width="5" height="25" font="14"> </text>
+<text top="1770" left="72" width="394" height="25" font="13"><i><b>The Kirklin Clinic of UAB Hospital Second</b></i></text>
+<text top="1802" left="215" width="108" height="25" font="13"><i><b>Floor Clinic</b></i></text>
+<text top="1833" left="160" width="219" height="25" font="13"><i><b>2000 6th Avenue South</b></i></text>
+<text top="1865" left="163" width="214" height="25" font="13"><i><b>Birmingham, AL 35233</b></i></text>
+<text top="1896" left="154" width="230" height="25" font="13"><i><b>Monday through Friday </b></i></text>
+<text top="1928" left="200" width="140" height="25" font="13"><i><b>8 am - 4:15 pm</b></i></text>
+<text top="1959" left="120" width="300" height="25" font="13"><i><b>Open to UAB Medicine patients</b></i></text>
+<text top="1991" left="270" width="5" height="25" font="14"> </text>
+<text top="1013" left="545" width="274" height="44" font="6">CAHABA MEDICAL CARE</text>
+<text top="1012" left="543" width="274" height="44" font="7">CAHABA MEDICAL CARE</text>
+<text top="1050" left="682" width="8" height="44" font="6"><a href="https://www.cahabamedicalcare.com/covid19"> </a></text>
+<text top="1049" left="680" width="8" height="44" font="7"><a href="https://www.cahabamedicalcare.com/covid19"> </a></text>
+<text top="1069" left="483" width="384" height="26" font="8"><a href="https://www.cahabamedicalcare.com/covid19"><i><b>www.cahabamedicalcare.com/covid19</b></i></a></text>
+<text top="1101" left="675" width="5" height="26" font="15"> </text>
+<text top="1134" left="520" width="309" height="26" font="8"><i><b>Cahaba Medical Care Fairfield </b></i></text>
+<text top="1167" left="570" width="208" height="26" font="8"><i><b>6900 Grasselli Road, </b></i></text>
+<text top="1200" left="579" width="191" height="26" font="8"><i><b>Fairfield, AL 35064 </b></i></text>
+<text top="1233" left="602" width="144" height="26" font="8"><i><b>(205) 791-5048</b></i></text>
+<text top="1266" left="675" width="5" height="26" font="15"> </text>
+<text top="1298" left="514" width="320" height="26" font="8"><i><b>Cahaba Medical Care Bessemer </b></i></text>
+<text top="1331" left="541" width="268" height="26" font="8"><i><b>975 9th Ave SW, Suite 310, </b></i></text>
+<text top="1364" left="576" width="196" height="26" font="8"><i><b>Bessemer, AL 35022</b></i></text>
+<text top="1397" left="602" width="144" height="26" font="8"><i><b>(205) 277-2358</b></i></text>
+<text top="1430" left="675" width="5" height="26" font="15"> </text>
+<text top="1463" left="531" width="288" height="26" font="8"><i><b>Cahaba Medical Care Ensley </b></i></text>
+<text top="1496" left="562" width="224" height="26" font="8"><i><b>1925 Avenue E Ensley, </b></i></text>
+<text top="1528" left="563" width="222" height="26" font="8"><i><b>Birmingham, AL 35218</b></i></text>
+<text top="1561" left="605" width="138" height="26" font="8"><i><b>(205)788-5164</b></i></text>
+<text top="1594" left="675" width="5" height="26" font="15"> </text>
 </page>
 <page number="5" position="absolute" top="0" left="0" height="2249" width="900">
+	<fontspec id="23" size="27" family="Oswald" color="#000000"/>
+	<fontspec id="24" size="27" family="Oswald" color="#ffffff"/>
+<text top="9" left="307" width="281" height="36" font="16"><b>CONDADO DE JEFFERSON</b></text>
+<text top="7" left="306" width="281" height="36" font="17"><b>CONDADO DE JEFFERSON</b></text>
+<text top="46" left="235" width="424" height="36" font="16"><b>SITIOS DE VACUNACIÓN DE COVID-19</b></text>
+<text top="45" left="234" width="424" height="36" font="17"><b>SITIOS DE VACUNACIÓN DE COVID-19</b></text>
+<text top="83" left="447" width="6" height="36" font="23"> </text>
+<text top="82" left="446" width="6" height="36" font="24"> </text>
 <text top="2208" left="16" width="879" height="19" font="0"><b> PREGUNTAS MÁS FRECUENTES: <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML </a></b></text>
 <text top="2228" left="534" width="4" height="21" font="1"> </text>
-<text top="173" left="61" width="333" height="26" font="6"><a href="https://www.walmart.com/cp/1228302"><i><b>www.walmart.com/COVIDvaccine</b></i></a></text>
-<text top="206" left="228" width="5" height="26" font="11"> </text>
-<text top="239" left="50" width="356" height="26" font="6"><i><b>9248 Pkwy E, Birmingham, AL 35206</b></i></text>
-<text top="271" left="156" width="144" height="26" font="6"><i><b>(205) 833-7676</b></i></text>
-<text top="304" left="228" width="5" height="26" font="11"> </text>
-<text top="337" left="41" width="375" height="26" font="6"><i><b>750 Academy Dr, Bessemer, AL 35022 </b></i></text>
-<text top="370" left="156" width="144" height="26" font="6"><i><b>(205) 424-5890</b></i></text>
-<text top="403" left="228" width="5" height="26" font="11"> </text>
-<text top="436" left="45" width="366" height="26" font="6"><i><b>890 Odum Rd, Gardendale, AL 35071 </b></i></text>
-<text top="468" left="156" width="144" height="26" font="6"><i><b>(205) 631-8110</b></i></text>
-<text top="501" left="228" width="5" height="26" font="11"> </text>
-<text top="534" left="99" width="258" height="26" font="6"><i><b>2780 John Hawkins Pkwy, </b></i></text>
-<text top="567" left="143" width="171" height="26" font="6"><i><b>Hoover, AL 35244</b></i></text>
-<text top="600" left="156" width="144" height="26" font="6"><i><b>(205) 733-0303</b></i></text>
-<text top="633" left="228" width="5" height="26" font="11"> </text>
-<text top="665" left="121" width="213" height="26" font="6"><i><b>209 Lakeshore Pkwy, </b></i></text>
-<text top="698" left="123" width="211" height="26" font="6"><i><b>Homewood, AL 35209</b></i></text>
-<text top="731" left="156" width="144" height="26" font="6"><i><b>(205) 942-0977</b></i></text>
-<text top="764" left="228" width="5" height="26" font="11"> </text>
-<text top="797" left="36" width="384" height="26" font="6"><i><b>1600 Montclair Rd, Irondale, AL 35210 </b></i></text>
-<text top="830" left="156" width="144" height="26" font="6"><i><b>(205) 951-0355</b></i></text>
-<text top="863" left="228" width="5" height="26" font="11"> </text>
-<text top="895" left="71" width="314" height="26" font="6"><i><b>5919 Trussville Crossings Pkwy,</b></i></text>
-<text top="928" left="114" width="228" height="26" font="6"><i><b>Birmingham, AL 35235 </b></i></text>
-<text top="961" left="156" width="144" height="26" font="6"><i><b>(205) 661-1968</b></i></text>
-<text top="994" left="228" width="5" height="26" font="11"> </text>
-<text top="1027" left="63" width="331" height="26" font="6"><i><b>3320 Lorna Rd, Hoover, AL 35216 </b></i></text>
-<text top="1060" left="156" width="144" height="26" font="6"><i><b>(205) 909-4352</b></i></text>
-<text top="1092" left="228" width="5" height="26" font="11"> </text>
-<text top="1125" left="124" width="209" height="26" font="6"><i><b>1007 Red Farmer Dr, </b></i></text>
-<text top="1158" left="128" width="200" height="26" font="6"><i><b>Hueytown, AL 35023</b></i></text>
-<text top="1191" left="156" width="144" height="26" font="6"><i><b>(205) 744-9882</b></i></text>
-<text top="1224" left="228" width="5" height="26" font="11"> </text>
-<text top="1257" left="130" width="197" height="26" font="6"><i><b>312 Palisades Blvd, </b></i></text>
-<text top="1289" left="117" width="222" height="26" font="6"><i><b>Birmingham, AL 35209</b></i></text>
-<text top="1322" left="156" width="144" height="26" font="6"><i><b>(205) 870-7170</b></i></text>
-<text top="1355" left="228" width="5" height="26" font="11"> </text>
-<text top="1388" left="109" width="238" height="26" font="6"><i><b>1300 Montgomery Hwy, </b></i></text>
-<text top="1421" left="135" width="186" height="26" font="6"><i><b>Vestavia, AL 35216</b></i></text>
-<text top="1454" left="156" width="144" height="26" font="6"><i><b>(205) 822-6022</b></i></text>
-<text top="1486" left="228" width="5" height="26" font="11"> </text>
-<text top="1635" left="76" width="305" height="26" font="6"><a href="https://www.samsclub.com/pharmacy"><i><b>www.samsclub.com/pharmacy</b></i></a></text>
-<text top="1668" left="228" width="5" height="26" font="11"> </text>
-<text top="1701" left="76" width="305" height="26" font="6"><i><b>5940 Trussville Crossings Blvd,</b></i></text>
-<text top="1734" left="117" width="222" height="26" font="6"><i><b>Birmingham, AL 35235</b></i></text>
-<text top="1766" left="156" width="144" height="26" font="6"><i><b>(205) 655-7324</b></i></text>
-<text top="1799" left="228" width="5" height="26" font="11"> </text>
-<text top="1832" left="104" width="248" height="26" font="6"><i><b>1916 Center Point Pkwy, </b></i></text>
-<text top="1865" left="114" width="228" height="26" font="6"><i><b>Birmingham, AL 35215 </b></i></text>
-<text top="1898" left="156" width="144" height="26" font="6"><i><b>(205) 520-5535</b></i></text>
-<text top="1931" left="228" width="5" height="26" font="11"> </text>
-<text top="1964" left="121" width="213" height="26" font="6"><i><b>209 Lakeshore Pkwy, </b></i></text>
-<text top="1996" left="120" width="217" height="26" font="6"><i><b>Homewood, AL 35209 </b></i></text>
-<text top="2029" left="156" width="144" height="26" font="6"><i><b>(205) 942-0977</b></i></text>
-<text top="2062" left="228" width="5" height="26" font="11"> </text>
-<text top="872" left="544" width="246" height="26" font="6"><a href="http://www.fms-pharmacy.com/"><i><b>www.fms-pharmacy.com</b></i></a></text>
-<text top="906" left="479" width="376" height="26" font="6"><i><b>1819 13th Ave N, Bessemer, AL 35020 </b></i></text>
-<text top="938" left="598" width="138" height="24" font="9"><i><b>(205) 424-3194 </b></i></text>
-<text top="652" left="567" width="190" height="26" font="6"><a href="http://carrollrx.com/"><i><b>www.carrollrx.com</b></i></a></text>
-<text top="686" left="562" width="199" height="26" font="6"><i><b>115 N Chalkville Rd,</b></i></text>
-<text top="720" left="560" width="202" height="26" font="6"><i><b> Trussville, AL 35173</b></i></text>
-<text top="752" left="595" width="133" height="24" font="9"><i><b>(205) 655-3455</b></i></text>
-<text top="1068" left="568" width="199" height="24" font="9"><i><b>218 Summit Parkway,</b></i></text>
-<text top="1098" left="567" width="200" height="24" font="9"><i><b>Homewood, AL 35209 </b></i></text>
-<text top="1129" left="600" width="133" height="24" font="9"><i><b>(205) 858-2221</b></i></text>
-<text top="1315" left="550" width="229" height="25" font="9"><i><b>Northern Health Center</b></i></text>
-<text top="1347" left="543" width="243" height="25" font="9"><i><b>2817 30th Avenue North, </b></i></text>
-<text top="1379" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35207</b></i></text>
-<text top="1410" left="592" width="144" height="25" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="1442" left="665" width="5" height="25" font="10"> </text>
-<text top="1473" left="538" width="253" height="25" font="9"><i><b>Crestwood Medical Center</b></i></text>
-<text top="1505" left="511" width="306" height="25" font="9"><i><b>7001 Crestwood Blvd, Suite 822,</b></i></text>
-<text top="1536" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35210</b></i></text>
-<text top="1568" left="592" width="144" height="25" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="1600" left="665" width="5" height="25" font="10"> </text>
-<text top="1631" left="565" width="198" height="25" font="9"><i><b>Metro Health Center</b></i></text>
-<text top="1663" left="551" width="227" height="25" font="9"><i><b>712 25th Street, North, </b></i></text>
-<text top="1694" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35203</b></i></text>
-<text top="1726" left="592" width="144" height="25" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="1758" left="665" width="5" height="25" font="10"> </text>
-<text top="1789" left="564" width="201" height="25" font="9"><i><b>Ensley Health Center</b></i></text>
-<text top="1821" left="548" width="232" height="25" font="9"><i><b>417 19th Street, Ensley, </b></i></text>
-<text top="1852" left="558" width="214" height="25" font="9"><i><b>Birmingham, AL 35218</b></i></text>
-<text top="1884" left="595" width="139" height="25" font="9"><i><b>(205) 858-2221</b></i></text>
-<text top="1916" left="665" width="5" height="25" font="10"> </text>
-<text top="2042" left="518" width="288" height="26" font="6"><i><b>*Locations to be determined</b></i></text>
-<text top="2076" left="586" width="150" height="26" font="6"><i><b>(205) 858-2221 </b></i></text>
-<text top="208" left="521" width="277" height="25" font="9"><a href="https://christhealthcenter.org/"><i><b>www.christhealthcenter.org</b></i></a><a href="http://www.uabmedicinevaccine.org/"><i><b> </b></i></a></text>
-<text top="240" left="660" width="5" height="25" font="10"> </text>
-<text top="272" left="505" width="309" height="25" font="9"><i><b>Christ Health Center Woodlawn </b></i></text>
-<text top="303" left="586" width="148" height="25" font="9"><i><b>5720 1st Ave S, </b></i></text>
-<text top="335" left="553" width="214" height="25" font="9"><i><b>Birmingham, AL 35212</b></i></text>
-<text top="366" left="587" width="144" height="25" font="9"><i><b>(205) 380-9455 </b></i></text>
-<text top="398" left="660" width="5" height="25" font="10"> </text>
-<text top="429" left="507" width="305" height="25" font="9"><i><b>Christ Health Center Chalkville </b></i></text>
-<text top="461" left="543" width="233" height="25" font="9"><i><b>2152 Old Springville Rd, </b></i></text>
-<text top="493" left="553" width="214" height="25" font="9"><i><b>Birmingham, AL 35215</b></i></text>
-<text top="524" left="590" width="139" height="25" font="9"><i><b>(205) 838-6000</b></i></text>
-<text top="556" left="660" width="5" height="25" font="10"> </text>
-<text top="587" left="660" width="5" height="25" font="10"> </text>
-<text top="619" left="660" width="5" height="25" font="10"> </text>
+<text top="123" left="103" width="255" height="44" font="6">WALMART LOCATIONS</text>
+<text top="122" left="101" width="255" height="44" font="7">WALMART LOCATIONS</text>
+<text top="173" left="61" width="333" height="26" font="8"><a href="https://www.walmart.com/cp/1228302"><i><b>www.walmart.com/COVIDvaccine</b></i></a></text>
+<text top="206" left="228" width="5" height="26" font="15"> </text>
+<text top="239" left="50" width="356" height="26" font="8"><i><b>9248 Pkwy E, Birmingham, AL 35206</b></i></text>
+<text top="271" left="156" width="144" height="26" font="8"><i><b>(205) 833-7676</b></i></text>
+<text top="304" left="228" width="5" height="26" font="15"> </text>
+<text top="337" left="41" width="375" height="26" font="8"><i><b>750 Academy Dr, Bessemer, AL 35022 </b></i></text>
+<text top="370" left="156" width="144" height="26" font="8"><i><b>(205) 424-5890</b></i></text>
+<text top="403" left="228" width="5" height="26" font="15"> </text>
+<text top="436" left="45" width="366" height="26" font="8"><i><b>890 Odum Rd, Gardendale, AL 35071 </b></i></text>
+<text top="468" left="156" width="144" height="26" font="8"><i><b>(205) 631-8110</b></i></text>
+<text top="501" left="228" width="5" height="26" font="15"> </text>
+<text top="534" left="99" width="258" height="26" font="8"><i><b>2780 John Hawkins Pkwy, </b></i></text>
+<text top="567" left="143" width="171" height="26" font="8"><i><b>Hoover, AL 35244</b></i></text>
+<text top="600" left="156" width="144" height="26" font="8"><i><b>(205) 733-0303</b></i></text>
+<text top="633" left="228" width="5" height="26" font="15"> </text>
+<text top="665" left="121" width="213" height="26" font="8"><i><b>209 Lakeshore Pkwy, </b></i></text>
+<text top="698" left="123" width="211" height="26" font="8"><i><b>Homewood, AL 35209</b></i></text>
+<text top="731" left="156" width="144" height="26" font="8"><i><b>(205) 942-0977</b></i></text>
+<text top="764" left="228" width="5" height="26" font="15"> </text>
+<text top="797" left="36" width="384" height="26" font="8"><i><b>1600 Montclair Rd, Irondale, AL 35210 </b></i></text>
+<text top="830" left="156" width="144" height="26" font="8"><i><b>(205) 951-0355</b></i></text>
+<text top="863" left="228" width="5" height="26" font="15"> </text>
+<text top="895" left="71" width="314" height="26" font="8"><i><b>5919 Trussville Crossings Pkwy,</b></i></text>
+<text top="928" left="114" width="228" height="26" font="8"><i><b>Birmingham, AL 35235 </b></i></text>
+<text top="961" left="156" width="144" height="26" font="8"><i><b>(205) 661-1968</b></i></text>
+<text top="994" left="228" width="5" height="26" font="15"> </text>
+<text top="1027" left="63" width="331" height="26" font="8"><i><b>3320 Lorna Rd, Hoover, AL 35216 </b></i></text>
+<text top="1060" left="156" width="144" height="26" font="8"><i><b>(205) 909-4352</b></i></text>
+<text top="1092" left="228" width="5" height="26" font="15"> </text>
+<text top="1125" left="124" width="209" height="26" font="8"><i><b>1007 Red Farmer Dr, </b></i></text>
+<text top="1158" left="128" width="200" height="26" font="8"><i><b>Hueytown, AL 35023</b></i></text>
+<text top="1191" left="156" width="144" height="26" font="8"><i><b>(205) 744-9882</b></i></text>
+<text top="1224" left="228" width="5" height="26" font="15"> </text>
+<text top="1257" left="130" width="197" height="26" font="8"><i><b>312 Palisades Blvd, </b></i></text>
+<text top="1289" left="117" width="222" height="26" font="8"><i><b>Birmingham, AL 35209</b></i></text>
+<text top="1322" left="156" width="144" height="26" font="8"><i><b>(205) 870-7170</b></i></text>
+<text top="1355" left="228" width="5" height="26" font="15"> </text>
+<text top="1388" left="109" width="238" height="26" font="8"><i><b>1300 Montgomery Hwy, </b></i></text>
+<text top="1421" left="135" width="186" height="26" font="8"><i><b>Vestavia, AL 35216</b></i></text>
+<text top="1454" left="156" width="144" height="26" font="8"><i><b>(205) 822-6022</b></i></text>
+<text top="1486" left="228" width="5" height="26" font="15"> </text>
+<text top="1585" left="92" width="277" height="44" font="6">SAM'S CLUB LOCATIONS</text>
+<text top="1584" left="90" width="277" height="44" font="7">SAM'S CLUB LOCATIONS</text>
+<text top="1635" left="76" width="305" height="26" font="8"><a href="https://www.samsclub.com/pharmacy"><i><b>www.samsclub.com/pharmacy</b></i></a></text>
+<text top="1668" left="228" width="5" height="26" font="15"> </text>
+<text top="1701" left="76" width="305" height="26" font="8"><i><b>5940 Trussville Crossings Blvd,</b></i></text>
+<text top="1734" left="117" width="222" height="26" font="8"><i><b>Birmingham, AL 35235</b></i></text>
+<text top="1766" left="156" width="144" height="26" font="8"><i><b>(205) 655-7324</b></i></text>
+<text top="1799" left="228" width="5" height="26" font="15"> </text>
+<text top="1832" left="104" width="248" height="26" font="8"><i><b>1916 Center Point Pkwy, </b></i></text>
+<text top="1865" left="114" width="228" height="26" font="8"><i><b>Birmingham, AL 35215 </b></i></text>
+<text top="1898" left="156" width="144" height="26" font="8"><i><b>(205) 520-5535</b></i></text>
+<text top="1931" left="228" width="5" height="26" font="15"> </text>
+<text top="1964" left="121" width="213" height="26" font="8"><i><b>209 Lakeshore Pkwy, </b></i></text>
+<text top="1996" left="120" width="217" height="26" font="8"><i><b>Homewood, AL 35209 </b></i></text>
+<text top="2029" left="156" width="144" height="26" font="8"><i><b>(205) 942-0977</b></i></text>
+<text top="2062" left="228" width="5" height="26" font="15"> </text>
+<text top="824" left="570" width="188" height="44" font="6">FMS PHARMACY</text>
+<text top="823" left="569" width="188" height="44" font="7">FMS PHARMACY</text>
+<text top="872" left="544" width="246" height="26" font="8"><a href="http://www.fms-pharmacy.com/"><i><b>www.fms-pharmacy.com</b></i></a></text>
+<text top="906" left="479" width="376" height="26" font="8"><i><b>1819 13th Ave N, Bessemer, AL 35020 </b></i></text>
+<text top="938" left="598" width="138" height="24" font="13"><i><b>(205) 424-3194 </b></i></text>
+<text top="604" left="535" width="247" height="44" font="6">CARROLL PHARMACY</text>
+<text top="602" left="534" width="247" height="44" font="7">CARROLL PHARMACY</text>
+<text top="652" left="567" width="190" height="26" font="8"><a href="http://carrollrx.com/"><i><b>www.carrollrx.com</b></i></a></text>
+<text top="686" left="562" width="199" height="26" font="8"><i><b>115 N Chalkville Rd,</b></i></text>
+<text top="720" left="560" width="202" height="26" font="8"><i><b> Trussville, AL 35173</b></i></text>
+<text top="752" left="595" width="133" height="24" font="13"><i><b>(205) 655-3455</b></i></text>
+<text top="1021" left="585" width="158" height="44" font="6">PROTEUS LAB</text>
+<text top="1020" left="584" width="158" height="44" font="7">PROTEUS LAB</text>
+<text top="1068" left="568" width="199" height="24" font="13"><i><b>218 Summit Parkway,</b></i></text>
+<text top="1098" left="567" width="200" height="24" font="13"><i><b>Homewood, AL 35209 </b></i></text>
+<text top="1129" left="600" width="133" height="24" font="13"><i><b>(205) 858-2221</b></i></text>
+<text top="1212" left="501" width="330" height="42" font="11">ALABAMA REGIONAL MEDICAL</text>
+<text top="1211" left="499" width="330" height="42" font="12">ALABAMA REGIONAL MEDICAL</text>
+<text top="1247" left="612" width="108" height="42" font="11">SERVICES</text>
+<text top="1246" left="611" width="108" height="42" font="12">SERVICES</text>
+<text top="1282" left="666" width="7" height="42" font="11"> </text>
+<text top="1281" left="664" width="7" height="42" font="12"> </text>
+<text top="1315" left="550" width="229" height="25" font="13"><i><b>Northern Health Center</b></i></text>
+<text top="1347" left="543" width="243" height="25" font="13"><i><b>2817 30th Avenue North, </b></i></text>
+<text top="1379" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35207</b></i></text>
+<text top="1410" left="592" width="144" height="25" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="1442" left="665" width="5" height="25" font="14"> </text>
+<text top="1473" left="538" width="253" height="25" font="13"><i><b>Crestwood Medical Center</b></i></text>
+<text top="1505" left="511" width="306" height="25" font="13"><i><b>7001 Crestwood Blvd, Suite 822,</b></i></text>
+<text top="1536" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35210</b></i></text>
+<text top="1568" left="592" width="144" height="25" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="1600" left="665" width="5" height="25" font="14"> </text>
+<text top="1631" left="565" width="198" height="25" font="13"><i><b>Metro Health Center</b></i></text>
+<text top="1663" left="551" width="227" height="25" font="13"><i><b>712 25th Street, North, </b></i></text>
+<text top="1694" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35203</b></i></text>
+<text top="1726" left="592" width="144" height="25" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="1758" left="665" width="5" height="25" font="14"> </text>
+<text top="1789" left="564" width="201" height="25" font="13"><i><b>Ensley Health Center</b></i></text>
+<text top="1821" left="548" width="232" height="25" font="13"><i><b>417 19th Street, Ensley, </b></i></text>
+<text top="1852" left="558" width="214" height="25" font="13"><i><b>Birmingham, AL 35218</b></i></text>
+<text top="1884" left="595" width="139" height="25" font="13"><i><b>(205) 858-2221</b></i></text>
+<text top="1916" left="665" width="5" height="25" font="14"> </text>
+<text top="1994" left="518" width="281" height="44" font="6">MEDSPLUS CONSULTING</text>
+<text top="1992" left="517" width="281" height="44" font="7">MEDSPLUS CONSULTING</text>
+<text top="2042" left="518" width="288" height="26" font="8"><i><b>*Locations to be determined</b></i></text>
+<text top="2076" left="586" width="150" height="26" font="8"><i><b>(205) 858-2221 </b></i></text>
+<text top="123" left="569" width="175" height="42" font="11">CHRIST HEALTH</text>
+<text top="122" left="568" width="175" height="42" font="12">CHRIST HEALTH</text>
+<text top="123" left="744" width="7" height="42" font="11"> </text>
+<text top="122" left="743" width="7" height="42" font="12"> </text>
+<text top="158" left="618" width="85" height="42" font="11">CENTER</text>
+<text top="157" left="616" width="85" height="42" font="12">CENTER</text>
+<text top="193" left="660" width="7" height="42" font="11"><a href="https://christhealthcenter.org/"> </a></text>
+<text top="192" left="659" width="7" height="42" font="12"><a href="https://christhealthcenter.org/"> </a></text>
+<text top="231" left="660" width="7" height="42" font="11"> </text>
+<text top="229" left="659" width="7" height="42" font="12"> </text>
+<text top="208" left="521" width="277" height="25" font="13"><a href="https://christhealthcenter.org/"><i><b>www.christhealthcenter.org</b></i></a><a href="http://www.uabmedicinevaccine.org/"><i><b> </b></i></a></text>
+<text top="240" left="660" width="5" height="25" font="14"> </text>
+<text top="272" left="505" width="309" height="25" font="13"><i><b>Christ Health Center Woodlawn </b></i></text>
+<text top="303" left="586" width="148" height="25" font="13"><i><b>5720 1st Ave S, </b></i></text>
+<text top="335" left="553" width="214" height="25" font="13"><i><b>Birmingham, AL 35212</b></i></text>
+<text top="366" left="587" width="144" height="25" font="13"><i><b>(205) 380-9455 </b></i></text>
+<text top="398" left="660" width="5" height="25" font="14"> </text>
+<text top="429" left="507" width="305" height="25" font="13"><i><b>Christ Health Center Chalkville </b></i></text>
+<text top="461" left="543" width="233" height="25" font="13"><i><b>2152 Old Springville Rd, </b></i></text>
+<text top="493" left="553" width="214" height="25" font="13"><i><b>Birmingham, AL 35215</b></i></text>
+<text top="524" left="590" width="139" height="25" font="13"><i><b>(205) 838-6000</b></i></text>
+<text top="556" left="660" width="5" height="25" font="14"> </text>
+<text top="587" left="660" width="5" height="25" font="14"> </text>
+<text top="619" left="660" width="5" height="25" font="14"> </text>
 </page>
 <page number="6" position="absolute" top="0" left="0" height="2249" width="900">
-	<fontspec id="16" size="27" family="Oswald" color="#ffffff"/>
-<text top="7" left="306" width="281" height="36" font="12"><b>CONDADO DE JEFFERSON</b></text>
-<text top="45" left="234" width="424" height="36" font="12"><b>SITIOS DE VACUNACIÓN DE COVID-19</b></text>
-<text top="82" left="446" width="6" height="36" font="16"> </text>
+<text top="7" left="306" width="281" height="36" font="17"><b>CONDADO DE JEFFERSON</b></text>
+<text top="45" left="234" width="424" height="36" font="17"><b>SITIOS DE VACUNACIÓN DE COVID-19</b></text>
+<text top="82" left="446" width="6" height="36" font="24"> </text>
 <text top="2211" left="3" width="897" height="19" font="0"><b>               VACCINE FAQ’S: <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML           </a></b><b>   </b></text>
 <text top="2231" left="495" width="4" height="21" font="1"> </text>
-<text top="1974" left="226" width="456" height="26" font="6"><i><b>Alabama Department of Public Health (ADPH):</b></i></text>
-<text top="2007" left="126" width="656" height="26" font="6"><a href="https://www.alabamapublichealth.gov/covid19vaccine/index.html"><i><b>https://www.alabamapublichealth.gov/covid19vaccine/index.html</b></i></a></text>
-<text top="2039" left="455" width="5" height="26" font="11"> </text>
-<text top="2072" left="285" width="338" height="26" font="6"><i><b>Centers for Disease Control (CDC):</b></i></text>
-<text top="2104" left="142" width="624" height="26" font="6"><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html"><i><b>https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html</b></i></a></text>
-<text top="2137" left="455" width="5" height="26" font="11"> </text>
-<text top="2170" left="455" width="5" height="26" font="11"> </text>
+<text top="1919" left="222" width="9" height="50" font="19"> </text>
+<text top="1917" left="221" width="9" height="50" font="20"> </text>
+<text top="1919" left="230" width="444" height="50" font="19">COVID-19 VACCINE INFORMATION</text>
+<text top="1917" left="229" width="444" height="50" font="20">COVID-19 VACCINE INFORMATION</text>
+<text top="1974" left="226" width="456" height="26" font="8"><i><b>Alabama Department of Public Health (ADPH):</b></i></text>
+<text top="2007" left="126" width="656" height="26" font="8"><a href="https://www.alabamapublichealth.gov/covid19vaccine/index.html"><i><b>https://www.alabamapublichealth.gov/covid19vaccine/index.html</b></i></a></text>
+<text top="2039" left="455" width="5" height="26" font="15"> </text>
+<text top="2072" left="285" width="338" height="26" font="8"><i><b>Centers for Disease Control (CDC):</b></i></text>
+<text top="2104" left="142" width="624" height="26" font="8"><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html"><i><b>https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html</b></i></a></text>
+<text top="2137" left="455" width="5" height="26" font="15"> </text>
+<text top="2170" left="455" width="5" height="26" font="15"> </text>
 <text top="2208" left="9" width="879" height="19" font="0"><b> PREGUNTAS MÁS FRECU<a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">ENTES: HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/VACCINES/FAQ.HTML</a></b><b> </b></text>
 <text top="2228" left="528" width="4" height="21" font="1"> </text>
-<text top="199" left="144" width="207" height="24" font="9"><i><b> 400 Graymont Ave W, </b></i></text>
-<text top="229" left="145" width="205" height="24" font="9"><i><b>Birmingham, AL 35204</b></i></text>
-<text top="260" left="124" width="248" height="24" font="9"><i><b>No appointment necessary</b></i></text>
-<text top="690" left="515" width="266" height="24" font="9"><i><b>*Locations to be determined</b></i></text>
-<text top="720" left="581" width="133" height="24" font="9"><i><b>(205) 858-2221</b></i></text>
-<text top="750" left="648" width="5" height="24" font="10"> </text>
-<text top="394" left="125" width="235" height="24" font="9"><i><b>6817 Warrior River Road, </b></i></text>
-<text top="424" left="148" width="191" height="24" font="9"><i><b>Hueytown, AL 35023 </b></i></text>
-<text top="455" left="174" width="139" height="24" font="9"><i><b>(205) 858-2221 </b></i></text>
-<text top="579" left="45" width="398" height="22" font="13"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>https://www.cvs.com/immunizations/covid-19-</b></i></a></text>
-<text top="607" left="213" width="63" height="22" font="13"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>vaccine</b></i></a></text>
-<text top="635" left="90" width="309" height="22" font="13"><i><b>2901 Morgan Rd, Bessemer, Al 35022</b></i></text>
-<text top="663" left="69" width="350" height="22" font="13"><i><b>5705 Chalkville Rd, Birmingham, Al 35235</b></i></text>
-<text top="691" left="41" width="406" height="22" font="13"><i><b>3303 Clairmont Avenue S, Birmingham, Al 35222</b></i></text>
-<text top="719" left="68" width="353" height="22" font="13"><i><b>1654 Gadsden Hwy, Birmingham, Al 35235</b></i></text>
-<text top="747" left="76" width="335" height="22" font="13"><i><b>1535 Decatur Hwy, Fultondale, Al 35068</b></i></text>
-<text top="1269" left="427" width="411" height="24" font="9"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>https://www.walgreens.com/topic/promotio</b></i></a></text>
-<text top="1300" left="544" width="177" height="24" font="9"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>n/covid-vaccine.jsp</b></i></a></text>
-<text top="1087" left="476" width="308" height="26" font="6"><a href="https://www.rossbridgepharmacy.com/"><i><b>www.rossbridgepharmacy.com</b></i></a></text>
-<text top="1121" left="438" width="384" height="26" font="6"><i><b>601 Market St #104, Hoover, AL, 35226</b></i></text>
-<text top="1153" left="563" width="133" height="24" font="9"><i><b>(205) 305-7399</b></i></text>
-<text top="888" left="37" width="411" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>https://www.childrensurgent.com/coronavir</b></i></a></text>
-<text top="918" left="150" width="187" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>us-vaccine-updates/</b></i></a></text>
-<text top="948" left="243" width="5" height="24" font="10"> </text>
-<text top="979" left="124" width="238" height="24" font="9"><i><b>520 Montgomery Highway</b></i></text>
-<text top="1009" left="157" width="172" height="24" font="9"><i><b>Vestavia, AL 35216</b></i></text>
-<text top="1039" left="176" width="133" height="24" font="9"><i><b>(205) 848-2273</b></i></text>
-<text top="1070" left="243" width="5" height="24" font="10"> </text>
-<text top="1100" left="88" width="310" height="24" font="9"><i><b>500 Cahaba Park Circle, Suite 100</b></i></text>
-<text top="1131" left="140" width="205" height="24" font="9"><i><b>Birmingham, AL 35242</b></i></text>
-<text top="1161" left="176" width="133" height="24" font="9"><i><b>(205) 848-2273</b></i></text>
-<text top="1441" left="633" width="5" height="24" font="10"> </text>
-<text top="1471" left="517" width="231" height="24" font="9"><i><b>Find a location near you:</b></i></text>
-<text top="1501" left="465" width="336" height="24" font="9"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>https://www.healthmart.com/store-</b></i></a></text>
-<text top="1532" left="482" width="301" height="24" font="9"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>locator.html?query=Birmingham</b></i></a></text>
-<text top="1562" left="633" width="5" height="24" font="10"> </text>
-<text top="1593" left="504" width="258" height="24" font="9"><i><b>Make an appointment here:</b></i></text>
-<text top="1623" left="442" width="381" height="24" font="9"><a href="https://www.healthmart.com/home.html"><i><b>https://www.healthmart.com/home.html</b></i></a></text>
-<text top="1289" left="43" width="410" height="24" font="9"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b> https://www.zocdoc.com/vaccine/screen</b></i></a><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>er?</b></i></a></text>
-<text top="1319" left="208" width="81" height="24" font="9"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b>state=AL</b></i></a></text>
-<text top="1349" left="248" width="5" height="24" font="10"> </text>
-<text top="1380" left="165" width="167" height="24" font="9"><i><b>5911 Harris Lane, </b></i></text>
-<text top="1410" left="157" width="181" height="24" font="9"><i><b>Bessemer, AL 35022</b></i></text>
-<text top="1440" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american+family+care+BESSEMER&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01SwOsOYB9-__6-xZEWKcwyNN6eVQ%3A1617999999331&amp;ei=f7hwYMbKE5GutQbCs46wBQ&amp;oq=american+family+care+BESSEMER&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIJjoHCAAQRxCwAzoHCAAQsAMQQzoTCC4QxwEQowIQsAMQyAMQQxCTAjoQCC4QxwEQrwEQsAMQyAMQQzoQCC4QhwIQxwEQrwEQFBCTAjoHCAAQhwIQFDoICC4QxwEQrwE6BQgAEMkDOgIIADoECAAQCkoFCDgSATFQsP0IWPOFCWDKhwloAXACeACAAYICiAH0CpIBBTEuNy4xmAEAoAEBqgEHZ3dzLXdpesgBD8ABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwiGhtPZ__HvAhURV80KHcKZA1YQ4dUDCAw&amp;uact=5#"><i><b>(205) 461-0038</b></i></a></text>
-<text top="1471" left="248" width="5" height="24" font="10"> </text>
-<text top="1501" left="182" width="132" height="24" font="9"><i><b>919 Odum Rd, </b></i></text>
-<text top="1532" left="148" width="200" height="24" font="9"><i><b>Gardendale, AL 35071</b></i></text>
-<text top="1562" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american+family+care+gardendale&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01ZFNCyNl9L0tTkcKWTg1I2942bTA%3A1618000149767&amp;ei=FblwYJ-sLoa3tQbekZjQCw&amp;oq=american+family+care+gardendale&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjICCCY6BwgAEEcQsAM6EAguEIcCEMcBEK8BEBQQkwI6DQguEIcCEMcBEK8BEBQ6CAguEMcBEK8BUNuyAliixAJggMUCaAFwAngAgAGNA4gBqg6SAQcwLjcuMi4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwjfirGhgPLvAhWGW80KHd4IBroQ4dUDCAw&amp;uact=5#"><i><b>(205) 351-0149</b></i></a></text>
-<text top="1592" left="248" width="5" height="24" font="10"> </text>
-<text top="1623" left="138" width="220" height="24" font="9"><i><b>1680 Montgomery Hwy, </b></i></text>
-<text top="1653" left="139" width="219" height="24" font="9"><i><b>Vestavia Hills, AL 35216</b></i></text>
-<text top="1683" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american%20family%20care%20hoover&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk00YnZHUzi8dCBKbEB-S3Hx30VY6PA:1618000311296&amp;ei=QblwYJzFD4jStQaSlaOIDw&amp;oq=american+family+care+hoover&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMggILhDHARCvATICCAA6BwgAEEcQsAM6BwgAELADEEM6EwguEMcBEKMCELADEMgDEEMQkwI6EAguEMcBEK8BELADEMgDEEM6BwgAEIcCEBRKBQg4EgExUP2DB1iKigdgn4sHaAFwAngAgAHXAYgBuAeSAQU0LjIuMZgBAKABAaoBB2d3cy13aXrIAQvAAQE&amp;sclient=gws-wiz&amp;ved=2ahUKEwjm9bPugPLvAhVPVc0KHb_NDBoQvS4wAHoECAUQIg&amp;uact=5&amp;tbs=lf:1,lf_ui:4&amp;tbm=lcl&amp;rflfq=1&amp;num=10&amp;rldimm=3915290606026903589&amp;lqi=ChthbWVyaWNhbiBmYW1pbHkgY2FyZSBob292ZXIiA4gBAUjukPjY5YCAgAhaSwoUYW1lcmljYW4gZmFtaWx5IGNhcmUQABABEAIYABgBGAIYAyIbYW1lcmljYW4gZmFtaWx5IGNhcmUgaG9vdmVyKggIAhAAEAEQApIBEnVyZ2VudF9jYXJlX2NlbnRlcqoBHBABKhgiFGFtZXJpY2FuIGZhbWlseSBjYXJlKAA&amp;rlst=f#"><i><b>(205) 979-0888</b></i></a></text>
-<text top="1714" left="248" width="5" height="24" font="10"> </text>
-<text top="1744" left="103" width="290" height="24" font="9"><i><b>5892 Trussville Crossings Pkwy,</b></i></text>
-<text top="1775" left="145" width="205" height="24" font="9"><i><b>Birmingham, AL 35235</b></i></text>
-<text top="1805" left="181" width="133" height="24" font="9"><a href="https://www.google.com/search?q=american+family+care+trussville&amp;client=firefox-b-1-d&amp;tbm=lcl&amp;sxsrf=ALeKk02rljtL0RIz9ahteCZQ6B36khb8ag%3A1618000318069&amp;ei=vrlwYLzaA5nbtQatwLPIBQ&amp;oq=american+family+care+trussvu&amp;gs_l=psy-ab.1.0.0i13k1l4j0i13i30k1l2j0i22i30k1j0i8i13i30k1.74621.77069.0.79086.13.13.0.0.0.0.172.1217.5j6.11.0....0...1c.1.64.psy-ab..2.11.1211...0j38j35i39k1j0i263i20k1j0i263i457i20k1j0i457k1j0i22i10i30k1.0.jKxxNRTheyI#"><i><b>(205) 374-9339</b></i></a></text>
-<text top="1835" left="248" width="5" height="24" font="10"> </text>
-<text top="199" left="554" width="176" height="24" font="9"><i><b>3633 Gray Avenue, </b></i></text>
-<text top="229" left="545" width="194" height="24" font="9"><i><b>Adamsville, AL 35005</b></i></text>
-<text top="260" left="576" width="133" height="24" font="9"><i><b>(205) 674-1400</b></i></text>
-<text top="292" left="643" width="5" height="26" font="11"> </text>
-<text top="326" left="640" width="5" height="26" font="6"><i><b> </b></i></text>
-<text top="400" left="439" width="402" height="24" font="9"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>https://www.winndixie.com/pharmacy/covi</b></i></a></text>
-<text top="431" left="594" width="92" height="24" font="9"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>d-vaccine </b></i></a></text>
-<text top="461" left="441" width="398" height="24" font="9"><i><b>4476 Montevallo Rd, Birmingham, AL 35213</b></i></text>
-<text top="492" left="461" width="359" height="24" font="9"><i><b>4701 Center Point Rd, Pinson, AL 35126</b></i></text>
-<text top="888" left="446" width="403" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>w</b></i></a><a href="https://www.ritchspharmacy.com/covid-19-vaccine"><i><b>ww.ritchspharmacy.com/covid-19-vaccine</b></i></a></text>
-<text top="918" left="447" width="401" height="24" font="9"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>2</b></i></a><i><b>714 Cahaba Rd, Mountain Brook, AL 35223</b></i></text>
-<text top="948" left="575" width="144" height="24" font="9"><i><b>(205) 871-1144  </b></i></text>
-<text top="979" left="645" width="5" height="24" font="9"><i><b> </b></i></text>
+<text top="152" left="169" width="152" height="44" font="6">LEGION FIELD</text>
+<text top="151" left="167" width="152" height="44" font="7">LEGION FIELD</text>
+<text top="199" left="144" width="207" height="24" font="13"><i><b> 400 Graymont Ave W, </b></i></text>
+<text top="229" left="145" width="205" height="24" font="13"><i><b>Birmingham, AL 35204</b></i></text>
+<text top="260" left="124" width="248" height="24" font="13"><i><b>No appointment necessary</b></i></text>
+<text top="606" left="490" width="302" height="44" font="6">DR. CELESTE REESE WILLIS</text>
+<text top="604" left="489" width="302" height="44" font="7">DR. CELESTE REESE WILLIS</text>
+<text top="606" left="791" width="8" height="44" font="6"> </text>
+<text top="604" left="790" width="8" height="44" font="7"> </text>
+<text top="642" left="548" width="192" height="44" font="6">MEDICAL GROUP</text>
+<text top="641" left="547" width="192" height="44" font="7">MEDICAL GROUP</text>
+<text top="679" left="644" width="8" height="44" font="6"> </text>
+<text top="678" left="643" width="8" height="44" font="7"> </text>
+<text top="690" left="515" width="266" height="24" font="13"><i><b>*Locations to be determined</b></i></text>
+<text top="720" left="581" width="133" height="24" font="13"><i><b>(205) 858-2221</b></i></text>
+<text top="750" left="648" width="5" height="24" font="14"> </text>
+<text top="347" left="97" width="286" height="44" font="6">ROCK CREEK PHARMACY</text>
+<text top="346" left="95" width="286" height="44" font="7">ROCK CREEK PHARMACY</text>
+<text top="394" left="125" width="235" height="24" font="13"><i><b>6817 Warrior River Road, </b></i></text>
+<text top="424" left="148" width="191" height="24" font="13"><i><b>Hueytown, AL 35023 </b></i></text>
+<text top="455" left="174" width="139" height="24" font="13"><i><b>(205) 858-2221 </b></i></text>
+<text top="531" left="75" width="324" height="44" font="6">CVS PHARMACY LOCATIONS</text>
+<text top="529" left="74" width="324" height="44" font="7">CVS PHARMACY LOCATIONS</text>
+<text top="531" left="399" width="8" height="44" font="6"> </text>
+<text top="529" left="397" width="8" height="44" font="7"> </text>
+<text top="579" left="45" width="398" height="22" font="18"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>https://www.cvs.com/immunizations/covid-19-</b></i></a></text>
+<text top="607" left="213" width="63" height="22" font="18"><a href="https://www.cvs.com/immunizations/covid-19-vaccine"><i><b>vaccine</b></i></a></text>
+<text top="635" left="90" width="309" height="22" font="18"><i><b>2901 Morgan Rd, Bessemer, Al 35022</b></i></text>
+<text top="663" left="69" width="350" height="22" font="18"><i><b>5705 Chalkville Rd, Birmingham, Al 35235</b></i></text>
+<text top="691" left="41" width="406" height="22" font="18"><i><b>3303 Clairmont Avenue S, Birmingham, Al 35222</b></i></text>
+<text top="719" left="68" width="353" height="22" font="18"><i><b>1654 Gadsden Hwy, Birmingham, Al 35235</b></i></text>
+<text top="747" left="76" width="335" height="22" font="18"><i><b>1535 Decatur Hwy, Fultondale, Al 35068</b></i></text>
+<text top="1222" left="555" width="142" height="44" font="6">WALGREENS</text>
+<text top="1221" left="553" width="142" height="44" font="7">WALGREENS</text>
+<text top="1222" left="696" width="8" height="44" font="6"> </text>
+<text top="1221" left="695" width="8" height="44" font="7"> </text>
+<text top="1269" left="427" width="411" height="24" font="13"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>https://www.walgreens.com/topic/promotio</b></i></a></text>
+<text top="1300" left="544" width="177" height="24" font="13"><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>n/covid-vaccine.jsp</b></i></a></text>
+<text top="1039" left="478" width="297" height="44" font="6">ROSS BRIDGE PHARMACY</text>
+<text top="1037" left="477" width="297" height="44" font="7">ROSS BRIDGE PHARMACY</text>
+<text top="1087" left="476" width="308" height="26" font="8"><a href="https://www.rossbridgepharmacy.com/"><i><b>www.rossbridgepharmacy.com</b></i></a></text>
+<text top="1121" left="438" width="384" height="26" font="8"><i><b>601 Market St #104, Hoover, AL, 35226</b></i></text>
+<text top="1153" left="563" width="133" height="24" font="13"><i><b>(205) 305-7399</b></i></text>
+<text top="841" left="88" width="303" height="44" font="6">CHILDREN'S URGENT CARE</text>
+<text top="839" left="87" width="303" height="44" font="7">CHILDREN'S URGENT CARE</text>
+<text top="888" left="37" width="411" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>https://www.childrensurgent.com/coronavir</b></i></a></text>
+<text top="918" left="150" width="187" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>us-vaccine-updates/</b></i></a></text>
+<text top="948" left="243" width="5" height="24" font="14"> </text>
+<text top="979" left="124" width="238" height="24" font="13"><i><b>520 Montgomery Highway</b></i></text>
+<text top="1009" left="157" width="172" height="24" font="13"><i><b>Vestavia, AL 35216</b></i></text>
+<text top="1039" left="176" width="133" height="24" font="13"><i><b>(205) 848-2273</b></i></text>
+<text top="1070" left="243" width="5" height="24" font="14"> </text>
+<text top="1100" left="88" width="310" height="24" font="13"><i><b>500 Cahaba Park Circle, Suite 100</b></i></text>
+<text top="1131" left="140" width="205" height="24" font="13"><i><b>Birmingham, AL 35242</b></i></text>
+<text top="1161" left="176" width="133" height="24" font="13"><i><b>(205) 848-2273</b></i></text>
+<text top="1375" left="441" width="378" height="44" font="6">HEALTH MART PHARMACIES AND</text>
+<text top="1374" left="439" width="378" height="44" font="7">HEALTH MART PHARMACIES AND</text>
+<text top="1412" left="429" width="401" height="44" font="6">OTHER INDEPENDENT PHARMACIES</text>
+<text top="1410" left="427" width="401" height="44" font="7">OTHER INDEPENDENT PHARMACIES</text>
+<text top="1441" left="633" width="5" height="24" font="14"> </text>
+<text top="1471" left="517" width="231" height="24" font="13"><i><b>Find a location near you:</b></i></text>
+<text top="1501" left="465" width="336" height="24" font="13"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>https://www.healthmart.com/store-</b></i></a></text>
+<text top="1532" left="482" width="301" height="24" font="13"><a href="https://www.healthmart.com/store-locator.html?query=Birmingham"><i><b>locator.html?query=Birmingham</b></i></a></text>
+<text top="1562" left="633" width="5" height="24" font="14"> </text>
+<text top="1593" left="504" width="258" height="24" font="13"><i><b>Make an appointment here:</b></i></text>
+<text top="1623" left="442" width="381" height="24" font="13"><a href="https://www.healthmart.com/home.html"><i><b>https://www.healthmart.com/home.html</b></i></a></text>
+<text top="1242" left="105" width="281" height="44" font="6">AMERICAN FAMILY CARE</text>
+<text top="1240" left="103" width="281" height="44" font="7">AMERICAN FAMILY CARE</text>
+<text top="1289" left="43" width="410" height="24" font="13"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b> https://www.zocdoc.com/vaccine/screen</b></i></a><a href="https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"><i><b>er?</b></i></a></text>
+<text top="1319" left="208" width="81" height="24" font="13"><a href="https://www.zocdoc.com/vaccine/screener?state=AL"><i><b>state=AL</b></i></a></text>
+<text top="1349" left="248" width="5" height="24" font="14"> </text>
+<text top="1380" left="165" width="167" height="24" font="13"><i><b>5911 Harris Lane, </b></i></text>
+<text top="1410" left="157" width="181" height="24" font="13"><i><b>Bessemer, AL 35022</b></i></text>
+<text top="1440" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american+family+care+BESSEMER&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01SwOsOYB9-__6-xZEWKcwyNN6eVQ%3A1617999999331&amp;ei=f7hwYMbKE5GutQbCs46wBQ&amp;oq=american+family+care+BESSEMER&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIJjoHCAAQRxCwAzoHCAAQsAMQQzoTCC4QxwEQowIQsAMQyAMQQxCTAjoQCC4QxwEQrwEQsAMQyAMQQzoQCC4QhwIQxwEQrwEQFBCTAjoHCAAQhwIQFDoICC4QxwEQrwE6BQgAEMkDOgIIADoECAAQCkoFCDgSATFQsP0IWPOFCWDKhwloAXACeACAAYICiAH0CpIBBTEuNy4xmAEAoAEBqgEHZ3dzLXdpesgBD8ABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwiGhtPZ__HvAhURV80KHcKZA1YQ4dUDCAw&amp;uact=5#"><i><b>(205) 461-0038</b></i></a></text>
+<text top="1471" left="248" width="5" height="24" font="14"> </text>
+<text top="1501" left="182" width="132" height="24" font="13"><i><b>919 Odum Rd, </b></i></text>
+<text top="1532" left="148" width="200" height="24" font="13"><i><b>Gardendale, AL 35071</b></i></text>
+<text top="1562" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american+family+care+gardendale&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk01ZFNCyNl9L0tTkcKWTg1I2942bTA%3A1618000149767&amp;ei=FblwYJ-sLoa3tQbekZjQCw&amp;oq=american+family+care+gardendale&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjICCCY6BwgAEEcQsAM6EAguEIcCEMcBEK8BEBQQkwI6DQguEIcCEMcBEK8BEBQ6CAguEMcBEK8BUNuyAliixAJggMUCaAFwAngAgAGNA4gBqg6SAQcwLjcuMi4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=gws-wiz&amp;ved=0ahUKEwjfirGhgPLvAhWGW80KHd4IBroQ4dUDCAw&amp;uact=5#"><i><b>(205) 351-0149</b></i></a></text>
+<text top="1592" left="248" width="5" height="24" font="14"> </text>
+<text top="1623" left="138" width="220" height="24" font="13"><i><b>1680 Montgomery Hwy, </b></i></text>
+<text top="1653" left="139" width="219" height="24" font="13"><i><b>Vestavia Hills, AL 35216</b></i></text>
+<text top="1683" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american%20family%20care%20hoover&amp;client=firefox-b-1-d&amp;sxsrf=ALeKk00YnZHUzi8dCBKbEB-S3Hx30VY6PA:1618000311296&amp;ei=QblwYJzFD4jStQaSlaOIDw&amp;oq=american+family+care+hoover&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMggILhDHARCvATICCAA6BwgAEEcQsAM6BwgAELADEEM6EwguEMcBEKMCELADEMgDEEMQkwI6EAguEMcBEK8BELADEMgDEEM6BwgAEIcCEBRKBQg4EgExUP2DB1iKigdgn4sHaAFwAngAgAHXAYgBuAeSAQU0LjIuMZgBAKABAaoBB2d3cy13aXrIAQvAAQE&amp;sclient=gws-wiz&amp;ved=2ahUKEwjm9bPugPLvAhVPVc0KHb_NDBoQvS4wAHoECAUQIg&amp;uact=5&amp;tbs=lf:1,lf_ui:4&amp;tbm=lcl&amp;rflfq=1&amp;num=10&amp;rldimm=3915290606026903589&amp;lqi=ChthbWVyaWNhbiBmYW1pbHkgY2FyZSBob292ZXIiA4gBAUjukPjY5YCAgAhaSwoUYW1lcmljYW4gZmFtaWx5IGNhcmUQABABEAIYABgBGAIYAyIbYW1lcmljYW4gZmFtaWx5IGNhcmUgaG9vdmVyKggIAhAAEAEQApIBEnVyZ2VudF9jYXJlX2NlbnRlcqoBHBABKhgiFGFtZXJpY2FuIGZhbWlseSBjYXJlKAA&amp;rlst=f#"><i><b>(205) 979-0888</b></i></a></text>
+<text top="1714" left="248" width="5" height="24" font="14"> </text>
+<text top="1744" left="103" width="290" height="24" font="13"><i><b>5892 Trussville Crossings Pkwy,</b></i></text>
+<text top="1775" left="145" width="205" height="24" font="13"><i><b>Birmingham, AL 35235</b></i></text>
+<text top="1805" left="181" width="133" height="24" font="13"><a href="https://www.google.com/search?q=american+family+care+trussville&amp;client=firefox-b-1-d&amp;tbm=lcl&amp;sxsrf=ALeKk02rljtL0RIz9ahteCZQ6B36khb8ag%3A1618000318069&amp;ei=vrlwYLzaA5nbtQatwLPIBQ&amp;oq=american+family+care+trussvu&amp;gs_l=psy-ab.1.0.0i13k1l4j0i13i30k1l2j0i22i30k1j0i8i13i30k1.74621.77069.0.79086.13.13.0.0.0.0.172.1217.5j6.11.0....0...1c.1.64.psy-ab..2.11.1211...0j38j35i39k1j0i263i20k1j0i263i457i20k1j0i457k1j0i22i10i30k1.0.jKxxNRTheyI#"><i><b>(205) 374-9339</b></i></a></text>
+<text top="1835" left="248" width="5" height="24" font="14"> </text>
+<text top="152" left="497" width="8" height="44" font="6"> </text>
+<text top="151" left="496" width="8" height="44" font="7"> </text>
+<text top="152" left="504" width="278" height="44" font="6">BROOKLERE PHARMACY</text>
+<text top="151" left="502" width="278" height="44" font="7">BROOKLERE PHARMACY</text>
+<text top="199" left="554" width="176" height="24" font="13"><i><b>3633 Gray Avenue, </b></i></text>
+<text top="229" left="545" width="194" height="24" font="13"><i><b>Adamsville, AL 35005</b></i></text>
+<text top="260" left="576" width="133" height="24" font="13"><i><b>(205) 674-1400</b></i></text>
+<text top="292" left="643" width="5" height="26" font="15"> </text>
+<text top="326" left="640" width="5" height="26" font="8"><i><b> </b></i></text>
+<text top="354" left="572" width="131" height="44" font="6">WINN DIXIE</text>
+<text top="352" left="570" width="131" height="44" font="7">WINN DIXIE</text>
+<text top="400" left="439" width="402" height="24" font="13"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>https://www.winndixie.com/pharmacy/covi</b></i></a></text>
+<text top="431" left="594" width="92" height="24" font="13"><a href="https://www.winndixie.com/pharmacy/covid-vaccine"><i><b>d-vaccine </b></i></a></text>
+<text top="461" left="441" width="398" height="24" font="13"><i><b>4476 Montevallo Rd, Birmingham, AL 35213</b></i></text>
+<text top="492" left="461" width="359" height="24" font="13"><i><b>4701 Center Point Rd, Pinson, AL 35126</b></i></text>
+<text top="841" left="528" width="233" height="44" font="6">RITCH’S PHARMACY</text>
+<text top="839" left="526" width="233" height="44" font="7">RITCH’S PHARMACY</text>
+<text top="888" left="446" width="403" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>w</b></i></a><a href="https://www.ritchspharmacy.com/covid-19-vaccine"><i><b>ww.ritchspharmacy.com/covid-19-vaccine</b></i></a></text>
+<text top="918" left="447" width="401" height="24" font="13"><a href="https://www.childrensurgent.com/coronavirus-vaccine-updates/"><i><b>2</b></i></a><i><b>714 Cahaba Rd, Mountain Brook, AL 35223</b></i></text>
+<text top="948" left="575" width="144" height="24" font="13"><i><b>(205) 871-1144  </b></i></text>
+<text top="979" left="645" width="5" height="24" font="13"><i><b> </b></i></text>
 </page>
 </pdf2xml>
