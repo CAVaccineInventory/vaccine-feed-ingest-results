@@ -14175,13 +14175,13 @@
             "attributes": {
                 "CreationDate": 1625600672691,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1625600672691,
+                "EditDate": 1625775706968,
                 "Editor": "COVIDPublicHCPH",
                 "address": "9235 W Montgomery Rd, Houston, TX 77088",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Single",
-                "entrydate": "2021-07-06T14:43:31.199-05:00",
+                "entrydate": "2021-07-08T15:21:19.383-05:00",
                 "globalid": "27247813-3074-47a3-8ad7-4afbb66663d9",
                 "lat": null,
                 "layer_id": 0,
@@ -14196,7 +14196,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer,JohnsonJohnson",
-                "vdu_no": "VDU 11",
+                "vdu_no": "VDU 12",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {
@@ -14576,6 +14576,154 @@
                 },
                 "x": -95.2003920242192,
                 "y": 29.65223599674749
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625774859256,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625775574170,
+                "Editor": "COVIDPublicHCPH",
+                "address": "10918 ½ Bentely, Houston, TX 77093",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-08T15:18:54.224-05:00",
+                "globalid": "1b750c51-293f-44db-829b-a621fb476de1",
+                "lat": null,
+                "layer_id": 0,
+                "location": "PCT 2 NE Community Center",
+                "lon": null,
+                "notes": null,
+                "objectid": 454,
+                "opendate": 1625850000000,
+                "opendate_str": "Friday, July 9th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,Pfizer,JohnsonJohnson,Multiple",
+                "vdu_no": "VDU 11",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.33515601201688,
+                "y": 29.874297003203207
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625774903990,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625774903990,
+                "Editor": "COVIDPublicHCPH",
+                "address": "10918 ½ Bentely, Houston, TX 77093",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-08T15:07:42.904-05:00",
+                "globalid": "f5ecdf64-8081-4a65-8944-31980bfc2464",
+                "lat": null,
+                "layer_id": 0,
+                "location": "PCT 2 NE Community Center",
+                "lon": null,
+                "notes": null,
+                "objectid": 455,
+                "opendate": 1625936400000,
+                "opendate_str": "Saturday, July 10th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,Pfizer,JohnsonJohnson,Multiple",
+                "vdu_no": "VDU 2",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.33515601201688,
+                "y": 29.874297003203207
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625774966178,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625774966178,
+                "Editor": "COVIDPublicHCPH",
+                "address": "7340 Spencer Hwy, Pasadena, TX 77505",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-08T15:08:27.050-05:00",
+                "globalid": "6de5a40a-ffa6-4d5f-823a-4400ae97df86",
+                "lat": null,
+                "layer_id": 0,
+                "location": "PCT2 - East Harris County Activity Center",
+                "lon": null,
+                "notes": null,
+                "objectid": 456,
+                "opendate": 1625850000000,
+                "opendate_str": "Friday, July 9th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,Pfizer,JohnsonJohnson,Multiple",
+                "vdu_no": "VDU 16",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.1256690337908,
+                "y": 29.663068014040142
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625775010133,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625775010133,
+                "Editor": "COVIDPublicHCPH",
+                "address": "7340 Spencer Hwy, Pasadena, TX 77505",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-08T15:09:29.311-05:00",
+                "globalid": "7fd803f4-5edb-435f-874d-784c46fc3e3e",
+                "lat": null,
+                "layer_id": 0,
+                "location": "PCT2 - East Harris County Activity Center",
+                "lon": null,
+                "notes": null,
+                "objectid": 457,
+                "opendate": 1625936400000,
+                "opendate_str": "Saturday, July 10th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,Pfizer,JohnsonJohnson,Multiple",
+                "vdu_no": "VDU 11",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.1256690337908,
+                "y": 29.663068014040142
             }
         }
     ],

@@ -43872,7 +43872,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29405",
                 "URL": null,
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "JJ",
                 "layer_id": 0,
                 "loc_name": "Palmetto Palace @ St. Matthews Baptist Church",
                 "loc_type1": null,
@@ -49038,7 +49038,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a320f7d4-c5f6-4c4d-8777-d9e6dff507bb",
                 "Loc_ID": null,
@@ -52363,7 +52363,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "491b21c0-07b3-4dd6-b8ca-e702652deaea",
                 "Loc_ID": null,
@@ -54113,7 +54113,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "32210ace-5dbb-4fda-8ba4-a036d91a27be",
                 "Loc_ID": null,
@@ -54148,7 +54148,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "1ac9adae-86ed-43eb-bb08-e4a3144bd23d",
                 "Loc_ID": null,
@@ -54183,7 +54183,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "265c7bcb-6fc0-41e0-856a-152cee652927",
                 "Loc_ID": null,
@@ -54218,7 +54218,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "5e45b351-167d-4477-a844-1687e78c8b53",
                 "Loc_ID": null,
@@ -54253,7 +54253,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "a84aeeb0-782e-465d-b244-ae17ffbff6af",
                 "Loc_ID": null,
@@ -54288,7 +54288,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8dcb5b63-5f6b-4dbc-a265-0c7718c39028",
                 "Loc_ID": null,
@@ -54323,7 +54323,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c570279b-21b0-4d20-ae97-32be43fa03a8",
                 "Loc_ID": null,
@@ -54358,7 +54358,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "fc75cad4-9fbe-4e9a-86d7-3785a92dc68d",
                 "Loc_ID": null,
@@ -54388,6 +54388,216 @@
                 },
                 "x": -80.4009374884892,
                 "y": 34.018364249236186
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "dfd2da72-ede1-4500-92a1-2d73fc47e8c6",
+                "Loc_ID": null,
+                "OBJECTID": 41111,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "171 Moultrie Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29409",
+                "URL": null,
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ The Citadel",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.9585971329168,
+                "y": 32.79703108495022
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "5fb0e850-a314-4725-9032-9825cde2e704",
+                "Loc_ID": null,
+                "OBJECTID": 41112,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "350 Magnolia Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Orangeburg",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29115",
+                "URL": null,
+                "V_Manufacturer": "PZR, MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ Orangeburg County Fairgrounds",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.85275635162941,
+                "y": 33.48028340323191
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "2cfdfb40-b723-4ff6-a4d3-855c36a95b54",
+                "Loc_ID": null,
+                "OBJECTID": 41113,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "510 St. James Avenue",
+                "SiteAddressDetail": null,
+                "SiteCity": "Goose Creek",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29445",
+                "URL": null,
+                "V_Manufacturer": "PZR, MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ Immaculate Conception Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.05637756551442,
+                "y": 33.02841880619707
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "b05abce4-cb7e-49a0-bc95-0ad990ae8a89",
+                "Loc_ID": null,
+                "OBJECTID": 41114,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3680 Meeting Street Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29405",
+                "URL": null,
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ Kingdom Restoration Church of God in Christ",
+                "loc_type1": "Urgent care",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.98471179045043,
+                "y": 32.856678286471094
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "cc7d12a3-3213-4e82-b8ad-9e3d169a0ba7",
+                "Loc_ID": null,
+                "OBJECTID": 41115,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1086 33rd Ave S",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Myrtle Beach",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29582",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Iglesia de Dios Puente de Salvación",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.72223959244889,
+                "y": 33.806830308442386
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "01d41685-612c-4996-9574-6d229166688f",
+                "Loc_ID": null,
+                "OBJECTID": 41116,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "200 Barnhill Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Hemingway",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29554",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Pleasant Hill Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.3691182506127,
+                "y": 33.68455040071035
             }
         }
     ],

@@ -4768,7 +4768,7 @@
       <Placemark>
         <name>UCHealth Yampa Valley Medical Center</name>
         <address>1024 Central Park Dr, Steamboat Springs, CO</address>
-        <description><![CDATA[PIN: 6054<br>county: Routt<br>type: Hospital<br>address: 1024 Central Park Dr, Steamboat Springs, CO<br>phone: 720.462.2255<br>website: https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/<br>vaccine type(s): Moderna, Janssen<br>notes: ]]></description>
+        <description><![CDATA[PIN: 6054<br>county: Routt<br>type: Hospital<br>address: 1024 Central Park Dr, Steamboat Springs, CO<br>phone: <br>website: https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/<br>vaccine type(s): Pfizer<br>notes: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="PIN">
@@ -4784,13 +4784,13 @@
             <value>1024 Central Park Dr, Steamboat Springs, CO</value>
           </Data>
           <Data name="phone">
-            <value>720.462.2255</value>
+            <value/>
           </Data>
           <Data name="website">
             <value>https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/</value>
           </Data>
           <Data name="vaccine type(s)">
-            <value>Moderna, Janssen</value>
+            <value>Pfizer</value>
           </Data>
           <Data name="notes">
             <value/>
@@ -6144,7 +6144,7 @@
       <Placemark>
         <name>UCHealth University Of Colorado Hospital</name>
         <address>12605 E 16th Ave, Aurora, CO</address>
-        <description><![CDATA[PIN: 6050<br>county: Adams<br>type: Hospital<br>address: 12605 E 16th Ave, Aurora, CO<br>phone: 720.462.2255<br>website: https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/<br>vaccine type(s): Moderna, Janssen<br>notes: ]]></description>
+        <description><![CDATA[PIN: 6050<br>county: Adams<br>type: Hospital<br>address: 12605 E 16th Ave, Aurora, CO<br>phone: <br>website: https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/<br>vaccine type(s): Pfizer<br>notes: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="PIN">
@@ -6160,13 +6160,13 @@
             <value>12605 E 16th Ave, Aurora, CO</value>
           </Data>
           <Data name="phone">
-            <value>720.462.2255</value>
+            <value/>
           </Data>
           <Data name="website">
             <value>https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/</value>
           </Data>
           <Data name="vaccine type(s)">
-            <value>Moderna, Janssen</value>
+            <value>Pfizer</value>
           </Data>
           <Data name="notes">
             <value/>
@@ -10752,7 +10752,7 @@
       <Placemark>
         <name>UCHealth Medical Center Of The Rockies</name>
         <address>2500 Rocky Mountain Ave, Loveland, CO</address>
-        <description><![CDATA[PIN: 8851<br>county: Larimer<br>type: Hospital<br>address: 2500 Rocky Mountain Ave, Loveland, CO<br>phone: 720.462.2255<br>website: https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/<br>vaccine type(s): Janssen<br>notes: ]]></description>
+        <description><![CDATA[PIN: 8851<br>county: Larimer<br>type: Hospital<br>address: 2500 Rocky Mountain Ave, Loveland, CO<br>phone: 720.462.2255<br>website: https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/<br>vaccine type(s): Pfizer<br>notes: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="PIN">
@@ -10774,7 +10774,7 @@
             <value>https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/</value>
           </Data>
           <Data name="vaccine type(s)">
-            <value>Janssen</value>
+            <value>Pfizer</value>
           </Data>
           <Data name="notes">
             <value/>
@@ -16124,38 +16124,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>UCHealth Greeley Hospital</name>
-        <address>6767 29th St, Greeley, CO</address>
-        <description><![CDATA[PIN: 8850<br>county: Weld<br>type: Hospital<br>address: 6767 29th St, Greeley, CO<br>phone: 720.462.2255<br>website: https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/<br>vaccine type(s): Moderna, Pfizer, Janssen<br>notes: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="PIN">
-            <value>8850</value>
-          </Data>
-          <Data name="county">
-            <value>Weld</value>
-          </Data>
-          <Data name="type">
-            <value>Hospital</value>
-          </Data>
-          <Data name="address">
-            <value>6767 29th St, Greeley, CO</value>
-          </Data>
-          <Data name="phone">
-            <value>720.462.2255</value>
-          </Data>
-          <Data name="website">
-            <value>https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/covid-19-vaccine/</value>
-          </Data>
-          <Data name="vaccine type(s)">
-            <value>Moderna, Pfizer, Janssen</value>
-          </Data>
-          <Data name="notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>Astra Healthcare Inc</name>
         <address>6825 E Tennessee Ave Ste 350, Denver, CO</address>
         <description><![CDATA[PIN: 8953<br>county: Denver<br>type: Community Health Center<br>address: 6825 E Tennessee Ave Ste 350, Denver, CO<br>phone: 303-270-0000<br>website: http://www.astrahealthcare.net/home-health-care-covid-vaccination-scheduling<br>vaccine type(s): Moderna<br>notes: Bills for vaccine administration]]></description>
@@ -19038,7 +19006,7 @@
       <Placemark>
         <name>UCHealth Poudre Valley Hospital</name>
         <address>1024 S. Lemay Avenue Fort Collins, CO 80524</address>
-        <description><![CDATA[PIN: 6035<br>county: Larimer<br>type: Hospital<br>address: 1024 S. Lemay Avenue Fort Collins, CO 80524<br>phone: (970) 495-7000<br>website: https://www.uchealth.org/locations/uchealth-poudre-valley-hospital/<br>vaccine type(s): Moderna, Janssen<br>notes: ]]></description>
+        <description><![CDATA[PIN: 6035<br>county: Larimer<br>type: Hospital<br>address: 1024 S. Lemay Avenue Fort Collins, CO 80524<br>phone: (970) 495-7000<br>website: https://www.uchealth.org/locations/uchealth-poudre-valley-hospital/<br>vaccine type(s): Pfizer<br>notes: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="PIN">
@@ -19060,7 +19028,7 @@
             <value>https://www.uchealth.org/locations/uchealth-poudre-valley-hospital/</value>
           </Data>
           <Data name="vaccine type(s)">
-            <value>Moderna, Janssen</value>
+            <value>Pfizer</value>
           </Data>
           <Data name="notes">
             <value/>
