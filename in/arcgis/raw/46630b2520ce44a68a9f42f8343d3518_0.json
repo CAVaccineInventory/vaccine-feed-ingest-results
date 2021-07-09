@@ -973,7 +973,7 @@
                 "Site_Address": "155 Indiana Ave, Ste 104, Valparaiso, IN 46383",
                 "Site_County": "Porter",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "Porter County HD VAX",
+                "Site_Name": "Porter County Expo Center VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are available.",
                 "Site_Type": "Local Health Department",
@@ -6430,38 +6430,6 @@
                 },
                 "x": -86.16001852274276,
                 "y": 39.618667112639415
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "1ff55995-66d1-4b35-bcf8-7bf84382fee1",
-                "ID": "ISDH1292",
-                "IsView": 1,
-                "Name": "PILL BOX WARSAW VAX",
-                "OBJECTID": 347,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2306 Dubois Dr, Warsaw, IN 46580",
-                "Site_County": "Kosciusko",
-                "Site_Location_Info": null,
-                "Site_Name": "PILL BOX WARSAW VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.82551832862846,
-                "y": 41.246223394995816
             }
         },
         {
@@ -11971,38 +11939,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "55371b62-5ee1-43cb-be7c-57073aacb2ac",
-                "ID": "ISDH1293",
-                "IsView": 1,
-                "Name": "Pill Box Pharmacy",
-                "OBJECTID": 569,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "903 North Ridge Rd, Albion, IN 46701",
-                "Site_County": "Noble",
-                "Site_Location_Info": null,
-                "Site_Name": "PILL BOX ALBION VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Johnson & Johnson",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.42313242455403,
-                "y": 41.40791796355881
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "a1a536b3-f583-4b75-925a-c9fbb6405b49",
                 "ID": "ISDH1361",
                 "IsView": 1,
@@ -17054,38 +16990,6 @@
                 },
                 "x": -85.98750047089504,
                 "y": 39.78280306898983
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "705db995-df5b-43bd-92e7-044b150d7e34",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Dearborn Co HD Mass VAX",
-                "OBJECTID": 760,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "13950 Wilson Creek Rd, Aurora, IN 47001",
-                "Site_County": "Dearborn",
-                "Site_Location_Info": null,
-                "Site_Name": "Dearborn Co HD Mass VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -84.89257998300836,
-                "y": 39.07541853233285
             }
         },
         {
@@ -33854,6 +33758,70 @@
                 },
                 "x": -85.48184655873985,
                 "y": 40.87480617054987
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "5bb71344-38e6-42b6-9f51-64482957beba",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Shipshewana VAX",
+                "OBJECTID": 1331,
+                "Promote_Name": "Shipshewana VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46565</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "270 N. Morton St, Shipshewana, IN 46565",
+                "Site_County": "LaGrange",
+                "Site_Location_Info": "This is a mobile clinic July 13 & 14, and August 3 & 4, 9am – 5pm. This clinic has Johnson & Johnson and Pfizer",
+                "Site_Name": "Shipshewana VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.57802030542842,
+                "y": 41.67794833988007
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "447f2adc-3336-4759-a8b8-af03d819d7a0",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Winamac City Park VAX",
+                "OBJECTID": 1332,
+                "Promote_Name": "Winamac City Park VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46996</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "262 E Old State Road 14  Winamac, IN 46996",
+                "Site_County": "Pulaski",
+                "Site_Location_Info": "This is a mobile clinic July 15 & 16, 8am – 8pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Winamac City Park VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.60054628299426,
+                "y": 41.04897630696673
             }
         }
     ],
