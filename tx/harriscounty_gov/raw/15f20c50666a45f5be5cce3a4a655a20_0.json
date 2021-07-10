@@ -14725,6 +14725,857 @@
                 "x": -95.1256690337908,
                 "y": 29.663068014040142
             }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625937568941,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625937568941,
+                "Editor": "COVIDPublicHCPH",
+                "address": "12660 Sandpiper Dr, Houston, TX 77035",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-09T08:38:03.341-05:00",
+                "globalid": "8e467170-cba7-437d-83d2-264cae69ac0c",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Bethel's Family",
+                "lon": null,
+                "notes": null,
+                "objectid": 458,
+                "opendate": 1626022800000,
+                "opendate_str": "Sunday, July 11th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 2:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 4",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.50411598547554,
+                "y": 29.63957001904004
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625937622450,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625937622450,
+                "Editor": "COVIDPublicHCPH",
+                "address": "2101 Summer St., Houston, TX 77007",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-10T12:19:42.023-05:00",
+                "globalid": "692f7fd9-1a76-4a6a-84b1-f74ff108c07f",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Buffalo Bayou Brewing Company",
+                "lon": null,
+                "notes": null,
+                "objectid": 459,
+                "opendate": 1626022800000,
+                "opendate_str": "Sunday, July 11th",
+                "opendatefilter": null,
+                "operatinghours": "11:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna",
+                "vdu_no": "VDU 9",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.37984597281547,
+                "y": 29.77257401671845
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625937716175,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625937716175,
+                "Editor": "COVIDPublicHCPH",
+                "address": "2508 Clay St, Houston, TX 77003",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-10T12:21:12.768-05:00",
+                "globalid": "8e668d01-f19c-4852-82fc-28ba82df8ca3",
+                "lat": null,
+                "layer_id": 0,
+                "location": "St. Nicholas Catholic Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 460,
+                "opendate": 1626022800000,
+                "opendate_str": "Sunday, July 11th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 3:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
+                "vdu_no": "VDU 13",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.35418796136705,
+                "y": 29.745768983729995
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625937843989,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625937843989,
+                "Editor": "COVIDPublicHCPH",
+                "address": "10918 ½ Bentely, Houston , TX 77093",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-10T12:23:03.554-05:00",
+                "globalid": "1350d453-0f56-45ad-8296-19fdbb48d2ad",
+                "lat": null,
+                "layer_id": 0,
+                "location": "PCT2- NE Community Center",
+                "lon": null,
+                "notes": null,
+                "objectid": 461,
+                "opendate": 1626541200000,
+                "opendate_str": "Monday - Saturday",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,Pfizer,JohnsonJohnson,Multiple",
+                "vdu_no": "VDU 1",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.33515601201688,
+                "y": 29.874297003203207
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625937911589,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625937911589,
+                "Editor": "COVIDPublicHCPH",
+                "address": "7340 Spencer Hwy, Pasadena, TX 77505",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-10T12:24:34.210-05:00",
+                "globalid": "aacb357c-8a51-44ee-8929-98d3fa157c72",
+                "lat": null,
+                "layer_id": 0,
+                "location": "PCT2  - East Harris County Activity Center",
+                "lon": null,
+                "notes": null,
+                "objectid": 462,
+                "opendate": 1626541200000,
+                "opendate_str": "Monday - Saturday",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,Pfizer,JohnsonJohnson,Multiple",
+                "vdu_no": "VDU 2",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.1256690337908,
+                "y": 29.663068014040142
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625937989782,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625937989782,
+                "Editor": "COVIDPublicHCPH",
+                "address": "5324 Atascocita Rd, Humble, TX 77346",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-07-10T12:25:47.071-05:00",
+                "globalid": "cdfd3635-9f4a-47e0-8979-bbf7ba7d8718",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Big City Wings- Atascocita",
+                "lon": null,
+                "notes": null,
+                "objectid": 463,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 4",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.19393603093638,
+                "y": 29.98725500888528
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938033927,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938033927,
+                "Editor": "COVIDPublicHCPH",
+                "address": "21322 Kuykendahl Rd, Spring, TX 77388",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-07-10T12:26:39.434-05:00",
+                "globalid": "ea1d0b2c-2bbb-43d8-8950-e091d12326e7",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Big City Wings Spring",
+                "lon": null,
+                "notes": null,
+                "objectid": 464,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 5",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.51664097957156,
+                "y": 30.078661004118
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938128864,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938128864,
+                "Editor": "COVIDPublicHCPH",
+                "address": "3020 Mangum Rd, Houston, TX 77092",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First",
+                "entrydate": "2021-07-10T12:27:23.039-05:00",
+                "globalid": "ec2dab95-8ec5-48de-8c75-0f5de0f9e944",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Del Mar Lanes",
+                "lon": null,
+                "notes": null,
+                "objectid": 465,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "9:00 AM - 6:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 6",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.4582430028628,
+                "y": 29.816015995953222
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938171393,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938171393,
+                "Editor": "COVIDPublicHCPH",
+                "address": "5402 Hwy 6, Houston, TX 77084",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-07-10T12:28:55.368-05:00",
+                "globalid": "6331f014-004c-4c98-8b9b-db3141454975",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Big City Wings",
+                "lon": null,
+                "notes": null,
+                "objectid": 466,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 9",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.64433499967882,
+                "y": 29.855583985268872
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938220823,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938220823,
+                "Editor": "COVIDPublicHCPH",
+                "address": "7613 Wade Rd, Baytown, TX 77521",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-10T12:29:40.992-05:00",
+                "globalid": "93ec5c44-7ee0-48e8-8233-765ed9818aca",
+                "lat": null,
+                "layer_id": 0,
+                "location": "J.D Walker Community Center",
+                "lon": null,
+                "notes": null,
+                "objectid": 467,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "10:00 AM - 2:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
+                "vdu_no": "VDU 10",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.01686596115862,
+                "y": 29.80685823465457
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938271463,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938271463,
+                "Editor": "COVIDPublicHCPH",
+                "address": "830 Turney Dr, Houston, TX 77038",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-10T12:30:28.969-05:00",
+                "globalid": "50a10ff4-d186-45dc-806e-cda24c31f99b",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Word of Life Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 468,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
+                "vdu_no": "VDU 11",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.41679097126088,
+                "y": 29.90059099155506
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938320728,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938320728,
+                "Editor": "COVIDPublicHCPH",
+                "address": "10903 Jones Rd, Houston, TX 77065",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-07-10T12:31:20.413-05:00",
+                "globalid": "efabc6f7-8f1a-43bb-80f8-e9a0205d163f",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Big City Wings -Jones Rd",
+                "lon": null,
+                "notes": null,
+                "objectid": 469,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 12",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.58605504016676,
+                "y": 29.930393015933404
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938372190,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938372190,
+                "Editor": "COVIDPublicHCPH",
+                "address": "1922 Pleasant Village Dr, Houston, TX 77029",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Second",
+                "entrydate": "2021-07-10T12:32:10.177-05:00",
+                "globalid": "4f2cb640-4bfc-4167-8846-8c1ee823fb9f",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Pleasant Village Apartments",
+                "lon": null,
+                "notes": null,
+                "objectid": 470,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "9:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 13",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.16994999134204,
+                "y": 30.04413032445875
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938423325,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938423325,
+                "Editor": "COVIDPublicHCPH",
+                "address": "7620 Katy Fwy #460, Houston, TX 77024",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-07-10T12:33:01.977-05:00",
+                "globalid": "1795b03c-9bd0-4795-8d27-5322f78e7ae2",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Big City Wings Marqe",
+                "lon": null,
+                "notes": null,
+                "objectid": 471,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 14",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.46492798974036,
+                "y": 29.786102995176844
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938464995,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938464995,
+                "Editor": "COVIDPublicHCPH",
+                "address": "1522 Kingwood Dr, Kingwood, TX 77339",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "Single",
+                "entrydate": "2021-07-10T12:33:52.571-05:00",
+                "globalid": "ced0aa00-05be-4d6e-870f-bd3838aac4d4",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Big City Wings - Kingwood",
+                "lon": null,
+                "notes": null,
+                "objectid": 472,
+                "opendate": 1626109200000,
+                "opendate_str": "Monday, July 12th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "JohnsonJohnson",
+                "vdu_no": "VDU 15",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.23152903431632,
+                "y": 30.04880801776833
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938517515,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938517515,
+                "Editor": "COVIDPublicHCPH",
+                "address": "600 Pecore St., Houston, TX 77009",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-10T12:34:33.875-05:00",
+                "globalid": "e02dfd80-6351-4065-8b6f-2e70037b27b6",
+                "lat": null,
+                "layer_id": 0,
+                "location": "St. Mark's United Methodist Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 473,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna",
+                "vdu_no": "VDU 6",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.3777589627438,
+                "y": 29.790253001167542
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938571062,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938571062,
+                "Editor": "COVIDPublicHCPH",
+                "address": "8060 Spencer Hwy., Pasadena, TX 77505",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second,Single",
+                "entrydate": "2021-07-10T12:35:28.632-05:00",
+                "globalid": "5d49ae3e-506b-4386-83db-85bd520b53a3",
+                "lat": null,
+                "layer_id": 0,
+                "location": "San Jac Central",
+                "lon": null,
+                "notes": null,
+                "objectid": 474,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,JohnsonJohnson",
+                "vdu_no": "VDU 7",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.1145800273468,
+                "y": 29.657285003763285
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938621384,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938621384,
+                "Editor": "COVIDPublicHCPH",
+                "address": "4170 W Greens Rd, Houston, TX 77066",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-10T12:36:18.833-05:00",
+                "globalid": "a3bac3b7-3797-4ee9-8ba6-4fff57501a16",
+                "lat": null,
+                "layer_id": 0,
+                "location": "New Destiny Praise and Worship",
+                "lon": null,
+                "notes": null,
+                "objectid": 475,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 8",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.48580404160816,
+                "y": 29.943640991087833
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938673581,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938673581,
+                "Editor": "COVIDPublicHCPH",
+                "address": "8950 Will Clayton Pkwy Suite A, Humble, TX 77338",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-10T12:37:15.537-05:00",
+                "globalid": "ac49f195-40b7-437b-80ab-1ff852599604",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Humble WIC",
+                "lon": null,
+                "notes": null,
+                "objectid": 476,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "11:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 9",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.24985698761878,
+                "y": 29.978515994725065
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938734819,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938734819,
+                "Editor": "COVIDPublicHCPH",
+                "address": "256 N Sam Houston Pkwy E #115, Houston, TX 77060",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-10T12:38:13.113-05:00",
+                "globalid": "4c943db3-3216-4c52-8b77-386bb1d24f91",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Horizon Outreach",
+                "lon": null,
+                "notes": null,
+                "objectid": 477,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
+                "vdu_no": "VDU 10",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.40468096519108,
+                "y": 29.939872990334347
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938780383,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938780383,
+                "Editor": "COVIDPublicHCPH",
+                "address": "2730 Nelwood Dr., Houston, TX 77038",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-10T12:39:01.794-05:00",
+                "globalid": "8e1b9919-fd0d-4c31-8c85-035ffc1c45bb",
+                "lat": null,
+                "layer_id": 0,
+                "location": "St. John Neumann ",
+                "lon": null,
+                "notes": null,
+                "objectid": 478,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 12",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.46060804066276,
+                "y": 29.93112299588096
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938829447,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938829447,
+                "Editor": "COVIDPublicHCPH",
+                "address": "824 Main St, Pasadena, TX 77506",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-10T12:39:48.167-05:00",
+                "globalid": "caf060fa-37a5-4359-8d81-1f61c1daf777",
+                "lat": null,
+                "layer_id": 0,
+                "location": "St. Pius Catholic Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 479,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 13",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.2094508300939,
+                "y": 29.698692679738787
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1625938878258,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1625938878258,
+                "Editor": "COVIDPublicHCPH",
+                "address": "16719 Clay Rd., Houston, TX 77084",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second,Single",
+                "entrydate": "2021-07-10T12:40:40.653-05:00",
+                "globalid": "770a69c0-11d7-441c-88e8-a7c4178e365d",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Bear Creek Branch Library",
+                "lon": null,
+                "notes": null,
+                "objectid": 480,
+                "opendate": 1626195600000,
+                "opendate_str": "Tuesday, July 13th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,JohnsonJohnson",
+                "vdu_no": "VDU 14",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.65535324419903,
+                "y": 29.83474715838499
+            }
         }
     ],
     "fields": [
