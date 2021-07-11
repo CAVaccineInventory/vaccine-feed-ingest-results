@@ -611,38 +611,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "42fe1bea-0c22-4b81-9d77-186c11aa9e62",
-                "ID": "ISDH936",
-                "IsView": 1,
-                "Name": "Columbus Regional Hospital",
-                "OBJECTID": 46,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1702 Keller Ave, Columbus, IN 47201-5337",
-                "Site_County": "Bartholomew",
-                "Site_Location_Info": "Keller Ave is west of hospital on 17 Street between Central Ave and Hawcreek Ave. Parking next to building.",
-                "Site_Name": "COLUMBUS REGIONAL KELLER AV VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.90055217066987,
-                "y": 39.21610818615245
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "04f9b51b-7f8f-46b2-a8e6-52fd5d1b64e3",
                 "ID": "ISDH1134",
                 "IsView": 1,
@@ -32803,38 +32771,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "876959bc-5da8-4bb2-8dc6-2c7659f8e180",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Ivy Tech Richmond VAX",
-                "OBJECTID": 1296,
-                "Promote_Name": "Ivy Tech Richmond VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47374</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "2357 Chester Blvd, Richmond, IN 47374",
-                "Site_County": "Wayne",
-                "Site_Location_Info": "This site has Pfizer and Johnson & Johnson. Final day, July 10, 9am – 1pm.",
-                "Site_Name": "Ivy Tech Richmond VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -84.87711382226769,
-                "y": 39.86926397094971
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "6742f951-b61f-4dca-9eb0-b1b8066be3d2",
                 "ID": null,
                 "IsView": 1,
@@ -33315,38 +33251,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "db5074cd-65d6-4981-8170-0d05db8847f9",
-                "ID": null,
-                "IsView": 1,
-                "Name": "St. Mary’s Church VAX",
-                "OBJECTID": 1315,
-                "Promote_Name": "St. Mary’s Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46204</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "311 N New Jersey St, Indianapolis, IN 46204",
-                "Site_County": "Marion",
-                "Site_Location_Info": "This is a mobile site July 10, 9am – 2pm.",
-                "Site_Name": "St. Mary’s Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.15019124635867,
-                "y": 39.771818583115355
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "afc8622f-c248-48f5-9147-57f020d97600",
                 "ID": null,
                 "IsView": 1,
@@ -33406,38 +33310,6 @@
                 },
                 "x": -85.83818786138966,
                 "y": 41.23352144618627
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "72f2802a-6869-404d-a7e9-1a26c8c42e02",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Perry County Fair VAX",
-                "OBJECTID": 1319,
-                "Promote_Name": "Perry County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47586</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "99 Roy Fenn Dr, Tell City, IN 47586",
-                "Site_County": "Perry",
-                "Site_Location_Info": "This is a mobile clinic July 9 & 10, Noon – 9pm.  This clinic has Pfizer and Johnson & Johnson",
-                "Site_Name": "Perry County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available July 9 & 10.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.75275315796956,
-                "y": 37.93217355034822
             }
         },
         {
@@ -33662,38 +33534,6 @@
                 },
                 "x": -85.2546662624078,
                 "y": 41.45043712729364
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "0e60a963-4b51-40c8-94c6-01728aff3496",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Mosey Down Main Street Vax",
-                "OBJECTID": 1328,
-                "Promote_Name": "Mosey Down Main Street VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47901</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "512 Main St, Lafayette, IN 47901",
-                "Site_County": "Tippecanoe",
-                "Site_Location_Info": "This is a one-day clinic on July 10, 6:00-11:00 pm.  This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Mosey Down Main Street VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.8913947866614,
-                "y": 40.41932390753037
             }
         },
         {
