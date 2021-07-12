@@ -419,38 +419,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "d19afdb2-c4bb-449a-81df-d88f720724a0",
-                "ID": "ISDH948",
-                "IsView": 1,
-                "Name": "Marion General Hospital",
-                "OBJECTID": 33,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "441 N Wabash Ave, Marion, IN 46952                                                                             ",
-                "Site_County": "Grant",
-                "Site_Location_Info": null,
-                "Site_Name": "MARION GENERAL HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.66554247997173,
-                "y": 40.56400786793316
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "6f4f9fee-95c3-4f5f-9f8d-b45d76cdde65",
                 "ID": "ISDH1009",
                 "IsView": 1,
@@ -32766,38 +32734,6 @@
                 },
                 "x": -86.24726075947177,
                 "y": 39.880975279276335
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "6742f951-b61f-4dca-9eb0-b1b8066be3d2",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Come as You Are Community Church VAX",
-                "OBJECTID": 1297,
-                "Promote_Name": "Come as You Are Community Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46816</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "7910 S. Anthony Blvd, Ft. Wayne, IN 46816",
-                "Site_County": "Allen",
-                "Site_Location_Info": "This is a mobile clinic June 14 – 16, 9am – 6pm. This clinic has Pfizer and Johnson & Johnson. 2nd doses of Pfizer July 6 & 7, 9am – 6pm, or J & J single dose.",
-                "Site_Name": "Come as You Are Community Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.1121590723032,
-                "y": 41.011336285113224
             }
         },
         {

@@ -51873,7 +51873,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "12dbc39d-aa0b-446c-865d-c6852f47c17b",
                 "Loc_ID": null,
