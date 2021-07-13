@@ -33648,7 +33648,7 @@
                 "Site_Name": "Winnebago Grand Design VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are available.",
-                "Site_Type": null,
+                "Site_Type": "Mobile",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Multi",
                 "Vaccine_Type": "Multi",
@@ -33726,6 +33726,70 @@
                 },
                 "x": -85.86991623467688,
                 "y": 39.224719833386196
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "729c41da-2fa5-4ec0-8e79-ff9e3d51b317",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Westside Leadership Academy VAX",
+                "OBJECTID": 1336,
+                "Promote_Name": "Westside Leadership Academy VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46406</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "W. 9th Ave. & Gerry Street  Gary, IN  46406",
+                "Site_County": "Lake",
+                "Site_Location_Info": "This is a one day mobile clinic on July 29, 9am – 3pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Westside Leadership Academy VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.40594438719494,
+                "y": 41.59522082473409
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "44c468b3-0996-4712-90ab-12d3077439bf",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Gibson County Fair VAX",
+                "OBJECTID": 1337,
+                "Promote_Name": "Gibson County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47670</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "709 N. Embree St, Princeton, IN 47670",
+                "Site_County": "Gibson",
+                "Site_Location_Info": "This is a 2-day mobile clinic on July 22, and then on August 18. Hours are 9am – 3pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Gibson County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.58111863522262,
+                "y": 38.362091324476154
             }
         }
     ],
