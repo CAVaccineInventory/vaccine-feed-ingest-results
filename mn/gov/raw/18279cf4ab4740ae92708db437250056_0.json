@@ -33931,7 +33931,7 @@
                 "ProviderName": "CentraCare",
                 "SaturdayEnd": null,
                 "SaturdayStart": null,
-                "SiteName": "Saint Cloud",
+                "SiteName": "Plaza Pediatrics",
                 "StartDate": null,
                 "State": "MN",
                 "SundayEnd": null,
@@ -33944,8 +33944,8 @@
                 "TuesdayEnd": "5:00pm",
                 "TuesdayStart": "8:00am",
                 "URL": "https://www.centracare.com/online-appointment-scheduling/covid-19-vaccination/",
-                "UpdateDate": "2021-05-20 10:11:38",
-                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17|Minnesotans ages 18+",
+                "UpdateDate": "2021-07-12 14:22:50",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
                 "WednesdayEnd": "5:00pm",
                 "WednesdayStart": "8:00am",
                 "Zip": "56303",
@@ -33962,8 +33962,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -94.20564216325585,
-                "y": 45.58552345645856
+                "x": -94.2071449636515,
+                "y": 45.58291700462948
             }
         },
         {

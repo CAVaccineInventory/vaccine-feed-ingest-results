@@ -54599,6 +54599,181 @@
                 "x": -79.3691182506127,
                 "y": 33.68455040071035
             }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "76f324dd-f6c7-4290-a0fc-b6525abf73f4",
+                "Loc_ID": null,
+                "OBJECTID": 41511,
+                "Phone_Sec": "Wed-Fri 8am-3:30pm",
+                "Region": "UPSTATE",
+                "SiteAddress": "2 Innovation Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": "864-351-9257",
+                "SiteState": "SC",
+                "SiteZip": "29607",
+                "URL": null,
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "Bon Secours St Francis @ Millennium Campus",
+                "loc_type1": "Hospital",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.31822615184268,
+                "y": 34.80308397793681
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "cbd7e810-bfa4-48ee-868c-bf4ee7ed5d32",
+                "Loc_ID": null,
+                "OBJECTID": 41512,
+                "Phone_Sec": "August 5th",
+                "Region": "MIDLANDS",
+                "SiteAddress": "950 Jackson Avenue",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": "803-545-3100",
+                "SiteState": "SC",
+                "SiteZip": "29203",
+                "URL": null,
+                "V_Manufacturer": "PZR, MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "City of Columbia @ Hyatt Park",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.04186466012231,
+                "y": 34.03895136094491
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "ac374dc7-fd53-4894-a74b-d3c09c7ea8d6",
+                "Loc_ID": null,
+                "OBJECTID": 41513,
+                "Phone_Sec": "August 11th",
+                "Region": "MIDLANDS",
+                "SiteAddress": "2300 Greene Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": "803-545-3100",
+                "SiteState": "SC",
+                "SiteZip": "29205",
+                "URL": null,
+                "V_Manufacturer": "PZR, MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "City of Columbia @ Martin Luther King Jr. Park",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.0137111416957,
+                "y": 34.00233740466257
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0d368bc7-5892-4b25-8b9e-0c9cf7b1a157",
+                "Loc_ID": null,
+                "OBJECTID": 41514,
+                "Phone_Sec": "August 24th",
+                "Region": "MIDLANDS",
+                "SiteAddress": "1500 Fairview Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": "803-545-3100",
+                "SiteState": "SC",
+                "SiteZip": "29205",
+                "URL": null,
+                "V_Manufacturer": "PZR, MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "City of Columbia @ Melrose Park",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.00307958247276,
+                "y": 34.00902580348975
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "d077923f-352e-4976-b1b3-e3fde552de99",
+                "Loc_ID": null,
+                "OBJECTID": 41515,
+                "Phone_Sec": "August 26",
+                "Region": "MIDLANDS",
+                "SiteAddress": "6500 Olde Knight Parkway",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": "803-545-3100",
+                "SiteState": "SC",
+                "SiteZip": "29209",
+                "URL": null,
+                "V_Manufacturer": "PZR, MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "City of Columbia @ Woodland Park",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.96302280247357,
+                "y": 33.972061088914245
+            }
         }
     ],
     "fields": [

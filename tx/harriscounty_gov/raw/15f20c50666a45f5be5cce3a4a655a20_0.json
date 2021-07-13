@@ -15655,13 +15655,13 @@
             "attributes": {
                 "CreationDate": 1626096059048,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1626096059048,
+                "EditDate": 1626126621550,
                 "Editor": "COVIDPublicHCPH",
                 "address": "11331 Airline Dr, Houston, TX 77037",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Second",
-                "entrydate": "2021-07-12T08:19:57.145-05:00",
+                "entrydate": "2021-07-12T16:50:17.542-05:00",
                 "globalid": "182f2d68-2305-433f-80ff-4cb7b58711ec",
                 "lat": null,
                 "layer_id": 0,
@@ -15676,7 +15676,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer",
-                "vdu_no": "VDU 6",
+                "vdu_no": "VDU 8",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {
@@ -15727,52 +15727,15 @@
         },
         {
             "attributes": {
-                "CreationDate": 1626096162114,
-                "Creator": "COVIDPublicHCPH",
-                "EditDate": 1626096162114,
-                "Editor": "COVIDPublicHCPH",
-                "address": "4659 Telephone Rd, Houston, TX 77087",
-                "agency": "Harris County Public Health",
-                "closedatefilter": null,
-                "dose": "First,Single",
-                "entrydate": "2021-07-12T08:21:59.197-05:00",
-                "globalid": "b3a495d2-5ddf-474b-8376-8a3a24d04714",
-                "lat": null,
-                "layer_id": 0,
-                "location": "Spanky's Homemade Pizza & Bar",
-                "lon": null,
-                "notes": null,
-                "objectid": 485,
-                "opendate": 1626282000000,
-                "opendate_str": "Wednesday, July 14th",
-                "opendatefilter": null,
-                "operatinghours": "9:00 AM - 5:00 PM",
-                "phone": "832-927-8787",
-                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
-                "typeofvaccine": "Pfizer,JohnsonJohnson",
-                "vdu_no": "VDU 8",
-                "website": "https://vacstrac.hctx.net/landing"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -95.2995750006752,
-                "y": 29.69486199770814
-            }
-        },
-        {
-            "attributes": {
                 "CreationDate": 1626096212606,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1626096212606,
+                "EditDate": 1626126661058,
                 "Editor": "COVIDPublicHCPH",
                 "address": "5555 Antoine Dr , Houston, TX 77091",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First",
-                "entrydate": "2021-07-12T08:22:46.222-05:00",
+                "entrydate": "2021-07-12T16:50:56.821-05:00",
                 "globalid": "16397a24-b0b7-4ce7-855d-b647f01d8b8b",
                 "lat": null,
                 "layer_id": 0,
@@ -15787,7 +15750,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer",
-                "vdu_no": "VDU 9",
+                "vdu_no": "VDU 10",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {
@@ -15803,13 +15766,13 @@
             "attributes": {
                 "CreationDate": 1626096262339,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1626096262339,
+                "EditDate": 1626126644443,
                 "Editor": "COVIDPublicHCPH",
                 "address": "17835 Hufsmith - Kohrville Rd, Tomball, TX 77375",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Second,Single",
-                "entrydate": "2021-07-12T08:23:37.542-05:00",
+                "entrydate": "2021-07-12T16:50:40.665-05:00",
                 "globalid": "b991d412-fa08-4435-86ad-ae6afc7c4ee1",
                 "lat": null,
                 "layer_id": 0,
@@ -15824,7 +15787,7 @@
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer,JohnsonJohnson",
-                "vdu_no": "VDU 10",
+                "vdu_no": "VDU 9",
                 "website": "https://vacstrac.hctx.net/landing"
             },
             "geometry": {
@@ -16722,6 +16685,43 @@
                 },
                 "x": -95.45681003269593,
                 "y": 29.70660198466228
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1626126718063,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1626126718063,
+                "Editor": "COVIDPublicHCPH",
+                "address": "7900 Fuqua St, Houston , TX 77075",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Single",
+                "entrydate": "2021-07-12T16:51:09.545-05:00",
+                "globalid": "b82eba3c-b215-4ac7-8b8b-a3a3d612217f",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Covenant of Faith United Methodist Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 512,
+                "opendate": 1626454800000,
+                "opendate_str": "Friday, July 16th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
+                "vdu_no": "VDU 10",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.28015999834992,
+                "y": 29.611288010893063
             }
         }
     ],

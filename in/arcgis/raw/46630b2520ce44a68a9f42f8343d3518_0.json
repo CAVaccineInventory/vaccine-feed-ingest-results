@@ -1258,10 +1258,10 @@
                 "OBJECTID": 140,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "2671 W Clark St, Rensselaer, IN 47978",
+                "Site_Address": "910 S Sparling Ave #1, Rensselaer, IN 47978",
                 "Site_County": "Jasper",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "JASPER CO FAIRGROUNDS COVID VAX",
+                "Site_Name": "Jasper Co HD VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
@@ -1276,8 +1276,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -87.18391463542031,
-                "y": 40.937376879355945
+                "x": -87.16167912268685,
+                "y": 40.923025694974285
             }
         },
         {
@@ -1566,6 +1566,38 @@
                 },
                 "x": -86.42893154766243,
                 "y": 39.42524982978811
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "aeadf582-0b39-43df-aaae-e0981b6eb79a",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Gibson County Local Health Department",
+                "OBJECTID": 150,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "203 S Prince St, Ste. A, Princeton, IN 47670",
+                "Site_County": "Gibson",
+                "Site_Location_Info": null,
+                "Site_Name": "GIBSON CO HD COVID",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Call 812-385-3831 for an appointment. No Walk-ins accepted. This clinic has Moderna, Pfizer, and Johnson & Johnson. Confirm vaccine type when calling.",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.56654931094961,
+                "y": 38.35366207923786
             }
         },
         {
@@ -33598,6 +33630,102 @@
                 },
                 "x": -86.60054628299426,
                 "y": 41.04897630696673
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0cde05ad-51c9-4979-8003-baec3440c09a",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Winnebago Grand Design VAX",
+                "OBJECTID": 1333,
+                "Promote_Name": "Winnebago Grand Design VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46540</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "201 14th St, Middlebury, IN 46540",
+                "Site_County": "Elkhart",
+                "Site_Location_Info": "This is a 2-day mobile clinic on July 22, and then on August 18. Hours are 9am – 3pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Winnebago Grand Design VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Multi",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.6924673797163,
+                "y": 41.686650710793295
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "43442fcb-88bd-4081-9453-048fb4f843e8",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Jasper County Fair VAX",
+                "OBJECTID": 1334,
+                "Promote_Name": "Jasper County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47978</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "2671 W. Clark St, Rensselaer, IN 47978",
+                "Site_County": "Jasper",
+                "Site_Location_Info": "This is a mobile clinic July 29 – 31, noon – 10pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Jasper County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.18549375098205,
+                "y": 40.94050020679204
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "2ed32787-a87b-406a-abf5-a6de1a6b3844",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Bartholomew Co HD VAX",
+                "OBJECTID": 1335,
+                "Promote_Name": "Bartholomew Co HD VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47203</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "2625 Fox Pointe Dr, Columbus, IN 47203",
+                "Site_County": "Bartholomew",
+                "Site_Location_Info": "This is a one day mobile clinic on July 24, 1 – 4pm.",
+                "Site_Name": "Bartholomew Co HD VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Johnson & Johnson",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.86991623467688,
+                "y": 39.224719833386196
             }
         }
     ],
