@@ -35345,57 +35345,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Walk-ins are welcome. We will be offering both the Pfizer (12+ 2 dose vaccine) and Johnson and Johnson (18+ 1 dose vaccine)\r\nJuly 9th Registration Link: https://prepmod.health.state.mn.us//appointment/en/reg/6151230932\r\nJuly 10th Registration Link: https://prepmod.health.state.mn.us//appointment/en/reg/1261305892",
-                "AddrLine1": "28651 County Road 33",
-                "City": "Utica",
-                "County": "Winona",
-                "EndDate": null,
-                "FridayEnd": "7:00pm",
-                "FridayStart": "4:00pm",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6484,
-                "Phone": null,
-                "ProviderName": "Winona County Health and Human Services",
-                "SaturdayEnd": "4:00pm",
-                "SaturdayStart": "12:00pm",
-                "SiteName": "Winona County Fair",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": null,
-                "TestingRequirements": "Appointment|No appointment necessary",
-                "TestingTypes": "Johnson & Johnson (age 18+)|Pfizer (age 12+)|COVID-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": null,
-                "UpdateDate": "2021-07-06 12:59:34",
-                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17|Minnesotans ages 18+",
-                "WednesdayEnd": "Closed",
-                "WednesdayStart": "Closed",
-                "Zip": "55979",
-                "globalid": "112609f9-2d7a-44ff-9f84-402c7ac1ee50",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -91.95851402914084,
-                "y": 43.926335011574594
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": null,
                 "AddrLine1": "200 South Ave",
                 "City": "Bloomington",
@@ -35545,6 +35494,57 @@
                 },
                 "x": -93.24327318835348,
                 "y": 44.85365909121171
+            }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": "Winona County Health and Human Services will be hosting a pop-up COVID-19 vaccine clinic the 3rd Saturday of each month at the City of Winona Farmer's Market stating 7/17/21. The clinic will be from 7:30 AM - 12:00 PM. Both the Pfizer and Johnson and Johnson vaccine will be offered. Walk-ins are welcome.",
+                "AddrLine1": "1 Main St.",
+                "City": "Winona",
+                "County": "Winona",
+                "EndDate": null,
+                "FridayEnd": "Closed",
+                "FridayStart": "Closed",
+                "MondayEnd": "Closed",
+                "MondayStart": "Closed",
+                "OBJECTID": 6488,
+                "Phone": "(507) 457-6430",
+                "ProviderName": "Winona County Health and Human Services",
+                "SaturdayEnd": "12:00pm",
+                "SaturdayStart": "7:30am",
+                "SiteName": "City of Winona Farmer's Market",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": "Closed",
+                "SundayStart": "Closed",
+                "TestingOptions": null,
+                "TestingRequirements": "Appointment|No appointment necessary",
+                "TestingTypes": "Johnson & Johnson (age 18+)|Pfizer (age 12+)|COVID-19 Vaccine",
+                "ThursdayEnd": "Closed",
+                "ThursdayStart": "Closed",
+                "TuesdayEnd": "Closed",
+                "TuesdayStart": "Closed",
+                "URL": null,
+                "UpdateDate": "2021-07-13 10:00:51",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17|Minnesotans ages 18+",
+                "WednesdayEnd": "Closed",
+                "WednesdayStart": "Closed",
+                "Zip": "55987",
+                "globalid": "05ff0f18-8d8e-457b-82c6-4dda5ba88065",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -91.63705232549285,
+                "y": 44.054406108292554
             }
         }
     ],
