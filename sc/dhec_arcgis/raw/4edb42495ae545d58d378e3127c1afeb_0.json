@@ -54113,7 +54113,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "32210ace-5dbb-4fda-8ba4-a036d91a27be",
                 "Loc_ID": null,

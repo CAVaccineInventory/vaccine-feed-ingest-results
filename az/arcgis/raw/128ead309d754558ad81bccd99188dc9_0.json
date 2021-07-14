@@ -43759,6 +43759,46 @@
                 "x": -110.92924899930566,
                 "y": 31.360128019638417
             }
+        },
+        {
+            "attributes": {
+                "J_J": "0",
+                "Moderna": "2",
+                "Pfizer": "0",
+                "addr1": "9545 E Old Spanish Trl",
+                "addr2": null,
+                "begindate": null,
+                "city": "Tucson",
+                "county": "Pima",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "9545 E Old Spanish Trl Tucson, AZ 85748",
+                "globalid": "bc7884ca-a82a-4fff-871a-781204150134",
+                "layer_id": 0,
+                "loc_name": "NextCare Urgent Care",
+                "loc_type": "public",
+                "objectid": 7094,
+                "prereg_comments": "No appointment needed! Book an appointment or walk in. Use the following link to book your appointment: solvhealth.com/book-online/0OKL10",
+                "prereg_phone": "520-731-3666",
+                "prereg_prescreen": "Yes",
+                "prereg_website": "https://nextcare.com/locations/az/tucson-e-old-spanish-trail/",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "other",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": null,
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "Moderna",
+                "zip": "85748"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -110.78858498986278,
+                "y": 32.20830198014542
+            }
         }
     ],
     "fields": [

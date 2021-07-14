@@ -2444,14 +2444,14 @@
                 "Promote_Site": null,
                 "Site_Address": "1201 Wall St., Jeffersonville, IN 47130",
                 "Site_County": "Clark",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
+                "Site_Location_Info": null,
                 "Site_Name": "CLARK CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
+                "Vaccine_Type": "Pfizer",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -2959,7 +2959,7 @@
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
                 "Site_Name": "BROWN CO HD COVID VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": null,
                 "Site_Type": "Local Health Department",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
@@ -33790,6 +33790,38 @@
                 },
                 "x": -87.58111863522262,
                 "y": 38.362091324476154
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "60856656-4bc0-48c3-815f-a88a9aa530e4",
+                "ID": null,
+                "IsView": 1,
+                "Name": "NOBLE CO HD COVID VAX",
+                "OBJECTID": 1338,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2090 N State Road 9, Albion, IN 46701",
+                "Site_County": "Noble",
+                "Site_Location_Info": "This site has Moderna, Pfizer and Johnson & Johnson",
+                "Site_Name": "NOBLE CO HD COVID VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Local Health Department",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.4227456260744,
+                "y": 41.38306583953681
             }
         }
     ],
