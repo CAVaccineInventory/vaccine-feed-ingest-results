@@ -24411,7 +24411,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29577",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "Costco #338",
@@ -24446,7 +24446,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29414",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "Costco #360",
@@ -24481,7 +24481,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29607",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "Costco #1005",
@@ -24516,7 +24516,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29210",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "Costco #1232",
@@ -24551,7 +24551,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29466",
                 "URL": "https://www.costco.com/covid-vaccine.html",
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "Costco #1319",
@@ -25762,7 +25762,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": "don@barnwellsc.com",
                 "GlobalID": "e6de8b5b-3352-4c93-a06d-1e1e47999381",
                 "Loc_ID": 1463,
@@ -49037,7 +49037,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "a320f7d4-c5f6-4c4d-8777-d9e6dff507bb",
                 "Loc_ID": null,
@@ -53912,10 +53912,10 @@
                 "SiteAddress": "706 14th Ave S",
                 "SiteAddressDetail": null,
                 "SiteCity": "North Myrtle Beach",
-                "SitePhone": null,
+                "SitePhone": "(866) 365-8110",
                 "SiteState": "SC",
                 "SiteZip": "29582",
-                "URL": null,
+                "URL": "https://cvas.dhec.sc.gov/",
                 "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_covid_id": null,
@@ -54773,6 +54773,286 @@
                 },
                 "x": -80.96302280247357,
                 "y": 33.972061088914245
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "2fe39a41-449f-485e-bda9-c52de2561377",
+                "Loc_ID": null,
+                "OBJECTID": 41911,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "8732 US Hwy 17 Byp S",
+                "SiteAddressDetail": null,
+                "SiteCity": "Myrtle Beach",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29588",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Surfside Presbyterian Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.99115292308443,
+                "y": 33.63903301802145
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "e12c08b5-c907-4742-ba94-acde6e370f08",
+                "Loc_ID": null,
+                "OBJECTID": 41912,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "327 E McLaurin Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "McColl",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29570",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ McColl Church of God",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.54111282034711,
+                "y": 34.66793491363114
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "ffd810b3-7c0b-4b78-aee2-3559793cd7c0",
+                "Loc_ID": null,
+                "OBJECTID": 41913,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "100 E Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Pamplico",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29583",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Pamplico Public Library",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.56949057968774,
+                "y": 33.995769478882835
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "d8748154-39aa-44d8-9e49-883234e4527f",
+                "Loc_ID": null,
+                "OBJECTID": 41914,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "2035 SC-261",
+                "SiteAddressDetail": null,
+                "SiteCity": "Wedgefield",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29168",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": null,
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Sumter County Fire Station #7",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.51787220472505,
+                "y": 33.89443333429551
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "76e0ed60-ad39-4864-be7c-682dced3594e",
+                "Loc_ID": null,
+                "OBJECTID": 41915,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "2401 Claussen Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29505",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Greenwood Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.72397710183822,
+                "y": 34.14876190595072
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "45bebc63-fad1-4b07-ba96-a94a9c661e76",
+                "Loc_ID": null,
+                "OBJECTID": 41916,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "809 Sandy Bluff Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Mullins",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29574",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Mullins Presbyterian Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.24743089004733,
+                "y": 34.19602224957225
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "a6beec03-523d-4a8e-938b-a8d247424a08",
+                "Loc_ID": null,
+                "OBJECTID": 41917,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1001 5th Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Conway",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29526",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ First United Methodist Church of Conway",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.04797879003343,
+                "y": 33.83684894525811
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "63b1efd7-2002-4709-a130-fc8ac5bdfd09",
+                "Loc_ID": null,
+                "OBJECTID": 41918,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "514 Mullins St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Nichols",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29581",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Nichols Fire Department",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.15153988597513,
+                "y": 34.22725959220372
             }
         }
     ],

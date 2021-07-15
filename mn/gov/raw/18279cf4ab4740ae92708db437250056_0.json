@@ -27960,7 +27960,7 @@
                 "MondayEnd": "9:00pm",
                 "MondayStart": "9:00am",
                 "OBJECTID": 1755,
-                "Phone": "(651) 439-0557",
+                "Phone": "(651) 774-7772",
                 "ProviderName": "Cub Pharmacy",
                 "SaturdayEnd": "6:00pm",
                 "SaturdayStart": "9:00am",
@@ -27977,7 +27977,7 @@
                 "TuesdayEnd": "9:00pm",
                 "TuesdayStart": "9:00am",
                 "URL": "https://www.cub.com/pharmacy/services/covid-testing-information.html",
-                "UpdateDate": "2021-04-16 10:38:55",
+                "UpdateDate": "2021-07-13 13:26:11",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": "9:00pm",
                 "WednesdayStart": "9:00am",
@@ -27995,8 +27995,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -93.04479602400436,
-                "y": 44.976390001818714
+                "x": -93.04480197515562,
+                "y": 44.976415985718575
             }
         },
         {
@@ -35851,6 +35851,108 @@
                 },
                 "x": -93.24835196754351,
                 "y": 44.9697439907909
+            }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "11800 Town Center Drive",
+                "City": "St Michael",
+                "County": "Wright",
+                "EndDate": null,
+                "FridayEnd": null,
+                "FridayStart": null,
+                "MondayEnd": null,
+                "MondayStart": null,
+                "OBJECTID": 6495,
+                "Phone": "(763) 497-8936",
+                "ProviderName": "Minnesota Department of Health",
+                "SaturdayEnd": null,
+                "SaturdayStart": null,
+                "SiteName": "Crow River Center",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": null,
+                "SundayStart": null,
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "No appointment necessary",
+                "TestingTypes": "Pfizer (age 12+)|COVID-19 Vaccine",
+                "ThursdayEnd": null,
+                "ThursdayStart": null,
+                "TuesdayEnd": null,
+                "TuesdayStart": null,
+                "URL": null,
+                "UpdateDate": "2021-07-14 15:10:07",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17|Minnesotans ages 18+",
+                "WednesdayEnd": "6:30pm",
+                "WednesdayStart": "2:00pm",
+                "Zip": "55376",
+                "globalid": "89608e1d-93aa-4d19-be65-a64fca0c04be",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -93.65043395834527,
+                "y": 45.21348801684263
+            }
+        },
+        {
+            "attributes": {
+                "AdditionalHoursInfo": null,
+                "AddrLine1": "30 Cedar Ct",
+                "City": "Annandale",
+                "County": "Wright",
+                "EndDate": null,
+                "FridayEnd": null,
+                "FridayStart": null,
+                "MondayEnd": null,
+                "MondayStart": null,
+                "OBJECTID": 6496,
+                "Phone": null,
+                "ProviderName": "Minnesota Department of Health",
+                "SaturdayEnd": "2:00pm",
+                "SaturdayStart": "10:00am",
+                "SiteName": "Annandale City Administration",
+                "StartDate": null,
+                "State": "MN",
+                "SundayEnd": null,
+                "SundayStart": null,
+                "TestingOptions": "Indoor vaccination",
+                "TestingRequirements": "Appointment|No appointment necessary",
+                "TestingTypes": "Pfizer (age 12+)|COVID-19 Vaccine",
+                "ThursdayEnd": null,
+                "ThursdayStart": null,
+                "TuesdayEnd": null,
+                "TuesdayStart": null,
+                "URL": null,
+                "UpdateDate": "2021-07-14 15:13:56",
+                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17|Minnesotans ages 18+",
+                "WednesdayEnd": null,
+                "WednesdayStart": null,
+                "Zip": "55302",
+                "globalid": "eade7eb5-c1e1-4e30-b05f-a88d38d9ec17",
+                "is_Active": "Active",
+                "language": null,
+                "layer_id": 0,
+                "service_item_id": "18279cf4ab4740ae92708db437250056",
+                "site_type": "Vaccination",
+                "siteid": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -94.11586897173704,
+                "y": 45.26278400107415
             }
         }
     ],
