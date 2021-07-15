@@ -33823,6 +33823,102 @@
                 "x": -85.4227456260744,
                 "y": 41.38306583953681
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "fc89398c-c585-4c9c-a281-bd78fc75652b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "State House Market VAX",
+                "OBJECTID": 1339,
+                "Promote_Name": "State House Market VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46204</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "430 Robert D. Orr Plaza, Indianapolis, IN 46204",
+                "Site_County": "Marion",
+                "Site_Location_Info": "This is a mobile site every Thursday starting July 15 through October. Hours: 10:30am – 1:30pm. This clinic has Johnson & Johnson and Pfizer",
+                "Site_Name": "State House Market VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.16514829954814,
+                "y": 39.76832058564646
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0aeb202c-80d5-415d-b3f8-1f84e1e4ce47",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Franciscan Coolspring Health Ctr",
+                "OBJECTID": 1340,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1225 E. Coolspring Ave, Michigan City, IN 46360",
+                "Site_County": "LaPorte",
+                "Site_Location_Info": null,
+                "Site_Name": "Franciscan Coolspring Health Ctr",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-ins only. Call 219-879-6531 to verify hours.",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.87736966709461,
+                "y": 41.69267614928544
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "cf92d255-0eb5-4f9e-a4ae-276d097669c8",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Rolling into Roanoke VAX",
+                "OBJECTID": 1341,
+                "Promote_Name": "Rolling into Roanoke VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46783</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "126 N Main St, Roanoke, IN 46783",
+                "Site_County": "Huntington",
+                "Site_Location_Info": "This is a mobile site, July 24, 10am – 3pm.  This clinic has Johnson & Johnson and Pfizer",
+                "Site_Name": "Rolling into Roanoke VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.37321106245633,
+                "y": 40.961706925383474
+            }
         }
     ],
     "fields": [
