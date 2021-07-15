@@ -4291,38 +4291,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "820c4b65-914d-4e31-936d-38378cfd9e69",
-                "ID": "ISDH1221",
-                "IsView": 1,
-                "Name": "IU Health - Jay",
-                "OBJECTID": 266,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "500 W Votaw St, Portland, IN 47371",
-                "Site_County": "Jay",
-                "Site_Location_Info": null,
-                "Site_Name": "IU HEALTH JAY HOSPITAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -84.98493328146041,
-                "y": 40.441306143049516
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "09fe651b-c367-4fb7-a2da-afce3ef659f7",
                 "ID": "ISDH1224",
                 "IsView": 1,
