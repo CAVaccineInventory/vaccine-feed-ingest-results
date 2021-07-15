@@ -16311,7 +16311,7 @@ var unfiltered = [
     "id": 483,
     "xParent": 11,
     "NumChildren": 0,
-    "inactive": "",
+    "inactive": "TRUE",
     "organization": "",
     "name": "Walmart #5930",
     "addr1": "88 E Orangethorpe Ave",

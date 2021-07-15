@@ -11783,57 +11783,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Vaccinations occur on Tuesday through Friday only.",
-                "AddrLine1": "408 Minnesota Ave NW",
-                "City": "Bemidji",
-                "County": "Beltrami",
-                "EndDate": null,
-                "FridayEnd": "6:00pm",
-                "FridayStart": "9:00am",
-                "MondayEnd": "6:00pm",
-                "MondayStart": "9:00am",
-                "OBJECTID": 884,
-                "Phone": "(218) 444-3000",
-                "ProviderName": "Iverson Corner Drug",
-                "SaturdayEnd": "3:00pm",
-                "SaturdayStart": "9:00am",
-                "SiteName": "Bemidji",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor vaccination",
-                "TestingRequirements": "Appointment",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "6:00pm",
-                "ThursdayStart": "9:00am",
-                "TuesdayEnd": "6:00pm",
-                "TuesdayStart": "9:00pm",
-                "URL": "www.iversoncornerdrug.com",
-                "UpdateDate": "2021-03-26 16:06:28",
-                "VaccinationGroups": "General Public|People age 65 years and older|Health care personnel|E-12 school staff and child care workers|Eligible essential workers|People age 50 and over in multigenerational housing|People with one of these specific medical conditions [1]|People age 45-64 with one or more of these underlying medical conditions [2]|People age 16-44 with two or more of these underlying medical conditions [3]|Food processing plant workers",
-                "WednesdayEnd": "6:00pm",
-                "WednesdayStart": "9:00am",
-                "Zip": "56601",
-                "globalid": "ec2c4951-f28b-4e0b-9fd8-c8029bd723c8",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -94.8825520160061,
-                "y": 47.47202900120618
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": null,
                 "AddrLine1": "121 W Lake St",
                 "City": "Chisholm",

@@ -556,7 +556,7 @@
                 "Promote_Site": null,
                 "Site_Address": "1801 W 86th St, Indianapolis, IN 46260                  ",
                 "Site_County": "Marion",
-                "Site_Location_Info": "Located in the SIM Center. Please wear clothing that makes vaccination easier.",
+                "Site_Location_Info": "This location is the William K. Nasser, MD, Healthcare Education and Simulation Center. Please wear clothing that makes vaccination easier.",
                 "Site_Name": "ASCENSION ST VINCENT INDPLS VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are now available.",
@@ -33918,6 +33918,38 @@
                 },
                 "x": -85.37321106245633,
                 "y": 40.961706925383474
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "31adabec-8912-42f6-aed6-3fb7d0d19f68",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Ascension St V Public Mobile VAX",
+                "OBJECTID": 1342,
+                "Promote_Name": "Ascension St V Public Mobile VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46208</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "2701 N. California St, Indianapolis, IN 46208",
+                "Site_County": "Marion",
+                "Site_Location_Info": "Christ Our King Christian Church. This is a mobile clinic July 21, 26 & 26; and August 2, 4, 9, 11 & 16. Hours: 11:40am – 3:30pm.",
+                "Site_Name": "Ascension St V Public Mobile VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.17046154410703,
+                "y": 39.80553858298928
             }
         }
     ],

@@ -6745,9 +6745,9 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>Pharmaca Integrative Pharmacy, Inc.</name>
+        <name>Pharmaca - Greenwood Village</name>
         <address>5910 S University Blvd Blvd Ste E2, Littleton, CO</address>
-        <description><![CDATA[VTrcks PIN: 7136<br>county: Arapahoe<br>type: Pharmacy<br>address: 5910 S University Blvd Blvd Ste E2, Littleton, CO<br>phone: (303) 798-0388<br>website: Https://Pharmaca.As.Me/Greenwoodvillage<br>Medication Name: Moderna]]></description>
+        <description><![CDATA[VTrcks PIN: 7136<br>county: Arapahoe<br>type: Pharmacy<br>address: 5910 S University Blvd Blvd Ste E2, Littleton, CO<br>phone: (303) 798-0388<br>website: https://www.pharmacarx.com/pharmaca-integrative-pharmacy-greenwood-village/<br><br>Medication Name: Pfizer]]></description>
         <styleUrl>#icon-1899-097138</styleUrl>
         <ExtendedData>
           <Data name="VTrcks PIN">
@@ -6766,10 +6766,11 @@
             <value>(303) 798-0388</value>
           </Data>
           <Data name="website">
-            <value>Https://Pharmaca.As.Me/Greenwoodvillage</value>
+            <value>https://www.pharmacarx.com/pharmaca-integrative-pharmacy-greenwood-village/
+</value>
           </Data>
           <Data name="Medication Name">
-            <value>Moderna</value>
+            <value>Pfizer</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -7385,7 +7386,7 @@
       <Placemark>
         <name>Pharmaca Integrative Pharmacy, Inc.</name>
         <address>2700 Broadway St, Boulder, CO</address>
-        <description><![CDATA[VTrcks PIN: 7132<br>county: Boulder<br>type: Pharmacy<br>address: 2700 Broadway St, Boulder, CO<br>phone: (303) 442-1972<br>website: https://pharmaca.as.me/broadway<br>Medication Name: Moderna]]></description>
+        <description><![CDATA[VTrcks PIN: 7132<br>county: Boulder<br>type: Pharmacy<br>address: 2700 Broadway St, Boulder, CO<br>phone: (303) 442-1972<br>website: https://pharmaca.as.me/broadway<br>Medication Name: Pfizer]]></description>
         <styleUrl>#icon-1899-097138</styleUrl>
         <ExtendedData>
           <Data name="VTrcks PIN">
@@ -7407,7 +7408,7 @@
             <value>https://pharmaca.as.me/broadway</value>
           </Data>
           <Data name="Medication Name">
-            <value>Moderna</value>
+            <value>Pfizer</value>
           </Data>
         </ExtendedData>
       </Placemark>
