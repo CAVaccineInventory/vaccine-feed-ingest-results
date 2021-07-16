@@ -51767,7 +51767,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8e580be9-2e29-4840-b2be-cfc83590cf65",
                 "Loc_ID": null,
@@ -54287,7 +54287,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "8dcb5b63-5f6b-4dbc-a265-0c7718c39028",
                 "Loc_ID": null,
