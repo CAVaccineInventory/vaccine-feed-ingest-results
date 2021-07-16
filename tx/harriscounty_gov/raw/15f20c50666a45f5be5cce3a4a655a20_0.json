@@ -16284,13 +16284,13 @@
             "attributes": {
                 "CreationDate": 1626097175410,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1626097175410,
+                "EditDate": 1626384756904,
                 "Editor": "COVIDPublicHCPH",
                 "address": "7211 Northline Dr, Houston , TX 77076",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "First,Single",
-                "entrydate": "2021-07-12T08:38:42.806-05:00",
+                "entrydate": "2021-07-15T16:32:29.585-05:00",
                 "globalid": "917ebf15-e50a-4756-85f0-438301700aa3",
                 "lat": null,
                 "layer_id": 0,
@@ -16301,7 +16301,7 @@
                 "opendate": 1626454800000,
                 "opendate_str": "Friday, July 16th",
                 "opendatefilter": null,
-                "operatinghours": "8:00 AM - 5:00 PM",
+                "operatinghours": "9:00 AM - 5:00 PM",
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer,JohnsonJohnson",
@@ -16722,6 +16722,43 @@
                 },
                 "x": -95.28015999834992,
                 "y": 29.611288010893063
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1626384253143,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1626384558924,
+                "Editor": "COVIDPublicHCPH",
+                "address": "110 Isaacks Rd, Humble, TX 77338",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-15T16:28:29.544-05:00",
+                "globalid": "68af0b95-e68d-43a0-89b9-416fc4535e36",
+                "lat": null,
+                "layer_id": 0,
+                "location": "St. Mary Magdalene ",
+                "lon": null,
+                "notes": null,
+                "objectid": 513,
+                "opendate": 1626454800000,
+                "opendate_str": "Friday, July 16th",
+                "opendatefilter": null,
+                "operatinghours": "10:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna",
+                "vdu_no": "VDU 9",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.25649696367633,
+                "y": 29.992378992024985
             }
         }
     ],

@@ -451,38 +451,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "046dbb2a-2428-4b3a-9172-fbc5ece6ed2a",
-                "ID": "ISDH977",
-                "IsView": 1,
-                "Name": "St. Joseph Regional Medical Center-Mishawaka Campus",
-                "OBJECTID": 39,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "5215 Holy Cross Pkwy, Mishawaka, IN 46545",
-                "Site_County": "St. Joseph",
-                "Site_Location_Info": null,
-                "Site_Name": "ST JOSEPH REG MED CTR MISHWKA VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.17362418064127,
-                "y": 41.70706543000982
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "f169ecfa-872e-46de-8802-cec231943cec",
                 "ID": "ISDH971",
                 "IsView": 1,
