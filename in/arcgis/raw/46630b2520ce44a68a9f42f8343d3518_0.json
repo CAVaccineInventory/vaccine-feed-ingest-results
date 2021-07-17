@@ -33411,38 +33411,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "04517232-1791-44c1-82d6-e309630886d0",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Noble County Fair VAX",
-                "OBJECTID": 1327,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "580 North Fair St., Merchants Bldg., Kendallville, IN 46755",
-                "Site_County": "Noble",
-                "Site_Location_Info": "This clinic will operate on July 15-16 from 3:00-8:00 pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Noble County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.2546662624078,
-                "y": 41.45043712729364
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "51311bbb-1a69-4590-9616-f1bec0ccd02b",
                 "ID": null,
                 "IsView": 1,
@@ -33534,38 +33502,6 @@
                 },
                 "x": -85.57802030542842,
                 "y": 41.67794833988007
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "447f2adc-3336-4759-a8b8-af03d819d7a0",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Winamac City Park VAX",
-                "OBJECTID": 1332,
-                "Promote_Name": "Winamac City Park VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46996</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "262 E Old State Road 14  Winamac, IN 46996",
-                "Site_County": "Pulaski",
-                "Site_Location_Info": "This is a mobile clinic July 15 & 16, 8am – 8pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Winamac City Park VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.60054628299426,
-                "y": 41.04897630696673
             }
         },
         {
