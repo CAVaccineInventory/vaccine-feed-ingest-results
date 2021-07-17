@@ -55054,6 +55054,146 @@
                 "x": -79.15153988597513,
                 "y": 34.22725959220372
             }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "0f1cc8a4-b76f-410b-867c-3eef1e525eca",
+                "Loc_ID": null,
+                "OBJECTID": 42311,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "202 N Marion St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Latta",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29565",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Latta Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.4336867329821,
+                "y": 34.34020840683132
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "e3ae1102-100b-4928-96bf-69dbcb3c54f3",
+                "Loc_ID": null,
+                "OBJECTID": 42312,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "800 Salterstown Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Sumter",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29153",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Salterstown Community Center",
+                "loc_type1": "Mobile Vaccine Unit",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.31355044965926,
+                "y": 33.94480729845162
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "f6df0391-5570-4001-a66d-6df5320515ee",
+                "Loc_ID": null,
+                "OBJECTID": 42313,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1010 32nd Ave S",
+                "SiteAddressDetail": null,
+                "SiteCity": "Atlantic Beach",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29582",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Atlantic Beach Community Center",
+                "loc_type1": "Mobile Vaccine Unit",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.72119404291288,
+                "y": 33.80646540022639
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "01d42080-a605-4435-bfa6-259d68b596b8",
+                "Loc_ID": null,
+                "OBJECTID": 42314,
+                "Phone_Sec": null,
+                "Region": null,
+                "SiteAddress": "126 Pearl St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Darlington",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29532",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Trinity United Methodist Church",
+                "loc_type1": "Mobile Vaccine Unit",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.87264758901358,
+                "y": 34.30226892920422
+            }
         }
     ],
     "fields": [

@@ -33887,6 +33887,70 @@
                 "x": -86.17046154410703,
                 "y": 39.80553858298928
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "eafb42c4-2a25-4d9e-a2d2-5c9682326afe",
+                "ID": null,
+                "IsView": 1,
+                "Name": "New Haven Fire Dept. VAX",
+                "OBJECTID": 1344,
+                "Promote_Name": "New Haven Fire Dept. VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46774</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "910 Hartzell Rd, New Haven, IN 46774",
+                "Site_County": "Allen",
+                "Site_Location_Info": "This is a mobile clinic July 22 & 23, 9am – 6pm. This clinic has Pfizer and Johnson & Johnson",
+                "Site_Name": "New Haven Fire Dept. VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.03125914059912,
+                "y": 41.06800014923121
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "7e5413a0-695c-49ba-bd8d-281074b6370a",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Pike County Fair VAX",
+                "OBJECTID": 1345,
+                "Promote_Name": "Pike County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47567</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "801 E. Main St, Petersburg, IN 47567",
+                "Site_County": "Pike",
+                "Site_Location_Info": "This is a mobile clinic July 28 – 31, 5 – 9pm. This clinic has Pfizer and Johnson & Johnson.",
+                "Site_Name": "Pike County Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.2789549527264,
+                "y": 38.49164017684425
+            }
         }
     ],
     "fields": [
