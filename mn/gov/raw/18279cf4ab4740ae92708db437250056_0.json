@@ -35396,57 +35396,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": null,
-                "AddrLine1": "200 South Ave",
-                "City": "Bloomington",
-                "County": null,
-                "EndDate": "2021-07-17",
-                "FridayEnd": "7:30pm",
-                "FridayStart": "3:00pm",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6487,
-                "Phone": "(855) 612-0677",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "2:30pm",
-                "SaturdayStart": "10:00am",
-                "SiteName": "Bloomington - Mall of America",
-                "StartDate": "2021-07-14",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Walk-ins for Minnesotans ages 12+; parental consent needed for ages 12-17",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "7:30pm",
-                "ThursdayStart": "3:00pm",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "https://www.primarybio.com/r/vaxmn?registration_type=general_public",
-                "UpdateDate": "2021-07-08 14:39:14",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "7:30pm",
-                "WednesdayStart": "3:00pm",
-                "Zip": "55425",
-                "globalid": "2a609cb8-6ed0-4759-8e1e-e51403e0e4d3",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20351
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -93.24327318835348,
-                "y": 44.85365909121171
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": "Winona County Health and Human Services will be hosting a pop-up COVID-19 vaccine clinic the 3rd Saturday of each month at the City of Winona Farmer's Market stating 7/17/21. The clinic will be from 7:30 AM - 12:00 PM. Both the Pfizer and Johnson and Johnson vaccine will be offered. Walk-ins are welcome.",
                 "AddrLine1": "1 Main St.",
                 "City": "Winona",

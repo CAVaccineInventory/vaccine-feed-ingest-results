@@ -14019,38 +14019,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "97c5515f-379e-433d-b8f1-bd35dd2b3202",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Tipton County Fair VAX",
-                "OBJECTID": 649,
-                "Promote_Name": "Tipton County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46072</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1200 S Main St, Tipton, IN 46072",
-                "Site_County": "Tipton",
-                "Site_Location_Info": "This is a mobile clinic July 16, 4 – 9pm and July 17, Noon – 10pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Tipton County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.04125065303143,
-                "y": 40.26848641883327
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "084c73ad-ae2b-438b-9813-3f0dc42b5fe3",
                 "ID": null,
                 "IsView": 1,
@@ -33150,38 +33118,6 @@
                 },
                 "x": -85.87667445795793,
                 "y": 41.60647991790694
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "23633004-bd63-4253-bbdb-4cdce53a408c",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Kosciusko County Fair VAX",
-                "OBJECTID": 1318,
-                "Promote_Name": "Kosciusko County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46580</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1400 E Smith St, Warsaw, IN 46580",
-                "Site_County": "Kosciusko",
-                "Site_Location_Info": "This is a mobile clinic July 14 – 17, 10am – 7pm. This clinic has Pfizer and Johnson & Johnson",
-                "Site_Name": "Kosciusko County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available July 14 - 17.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.83818786138966,
-                "y": 41.23352144618627
             }
         },
         {
