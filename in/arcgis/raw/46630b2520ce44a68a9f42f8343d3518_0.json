@@ -32931,38 +32931,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "714f111d-02df-4f5b-9193-8bf0efa1633b",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Noble Co East Noble MS Mass VAX",
-                "OBJECTID": 1311,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "415 Drake Rd, Kendallville, IN 46755",
-                "Site_County": "Noble",
-                "Site_Location_Info": "This clinic will be open June 28 & July 19, 3-6pm both days. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Noble Co East Noble MS Mass VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.27219374768079,
-                "y": 41.43675859366426
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "468863ba-ec9c-412f-b062-60c7aa1641c3",
                 "ID": null,
                 "IsView": 1,
