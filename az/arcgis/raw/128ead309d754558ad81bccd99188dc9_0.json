@@ -44199,6 +44199,46 @@
                 "x": -112.07106940079063,
                 "y": 33.37456425373182
             }
+        },
+        {
+            "attributes": {
+                "J_J": "1",
+                "Moderna": "0",
+                "Pfizer": "0",
+                "addr1": "450 S Haskell Ave",
+                "addr2": null,
+                "begindate": null,
+                "city": "Willcox",
+                "county": "Cochise",
+                "enddate": null,
+                "event_yn": "No",
+                "full_address": "450 S Haskell Ave Willcox, AZ 85643",
+                "globalid": "4de4aaa3-45a3-4b7f-8498-7a7933299484",
+                "layer_id": 0,
+                "loc_name": "Cochise County Health department , Willcox Site",
+                "loc_type": "public",
+                "objectid": 7107,
+                "prereg_comments": "Covid Vaccinations will be provided every Wednesday starting on the 28th of July until further notice.The hours of administration of Vaccines are: 9pm -1200pm and 1pm- 3pm.Walk -ins are welcome. The vaccination is only available for adults 18 years old and older. The vaccine available is Janssen (Johnson & Johnson)",
+                "prereg_phone": "520-384-7100",
+                "prereg_prescreen": "No",
+                "prereg_website": "https://www.cochise.az.gov/AlertCenter.aspx?AID=COVID19-Information-10",
+                "service_item_id": "128ead309d754558ad81bccd99188dc9",
+                "site_category": "pod_cty",
+                "site_type": "other",
+                "spanish_staff_y_n": "Yes",
+                "state": "AZ",
+                "transportation_access": "walk_through",
+                "vaccine_manufacturer": "J_J",
+                "zip": "85643"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -109.83536998245552,
+                "y": 32.248735221946255
+            }
         }
     ],
     "fields": [
