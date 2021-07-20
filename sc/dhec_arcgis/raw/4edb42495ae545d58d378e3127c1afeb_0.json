@@ -52818,7 +52818,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "023ccb09-9bb9-4bdc-a77e-285d8fa31345",
                 "Loc_ID": null,

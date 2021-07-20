@@ -451,38 +451,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "62e61e08-ee0d-4376-a6c6-8e4f811baf37",
-                "ID": "ISDH962",
-                "IsView": 1,
-                "Name": "The Methodist Hospitals- Southlake Campus",
-                "OBJECTID": 42,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "200 E 89th Ave, Merrillville, IN 46410 (CACS Conference Room)",
-                "Site_County": "Lake",
-                "Site_Location_Info": null,
-                "Site_Name": "THE METHODIST HOSP SOUTHLAKE VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.33271114717887,
-                "y": 41.4573066990838
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "1f6aea57-7e9a-4a85-9c57-035350ce20b1",
                 "ID": "ISDH965",
                 "IsView": 1,
@@ -1546,7 +1514,7 @@
                 "OBJECTID": 152,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "1201 Church St, New Castle, IN 47362",
+                "Site_Address": "1201 Race St, New Castle, IN 47362",
                 "Site_County": "Henry",
                 "Site_Location_Info": null,
                 "Site_Name": "HENRY CO HD COVID VAX",
@@ -1564,8 +1532,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.37132171084549,
-                "y": 39.92955913049498
+                "x": -85.37144509246018,
+                "y": 39.930521710525525
             }
         },
         {
