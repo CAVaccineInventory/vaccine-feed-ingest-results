@@ -2943,7 +2943,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "881725e6-bc5c-4ab8-b838-04f983bacb50",
                 "Loc_ID": 193,
@@ -2953,7 +2953,7 @@
                 "SiteAddress": "3217 Devine Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Columbia ",
-                "SitePhone": "",
+                "SitePhone": "803-849-1500",
                 "SiteState": "SC",
                 "SiteZip": "29205",
                 "URL": null,
@@ -9418,7 +9418,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "90704b7d-6db5-4dc0-8b57-340b07535410",
                 "Loc_ID": 192,
@@ -9428,7 +9428,7 @@
                 "SiteAddress": "138 A AMICKS FERRY",
                 "SiteAddressDetail": null,
                 "SiteCity": "CHAPIN",
-                "SitePhone": "",
+                "SitePhone": "803-345-1114",
                 "SiteState": "SC",
                 "SiteZip": "29036",
                 "URL": null,
@@ -9838,7 +9838,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "c3b47e44-6483-4e70-a925-664ef5a259ba",
                 "Loc_ID": 196,
@@ -9848,7 +9848,7 @@
                 "SiteAddress": "178 Wren Street",
                 "SiteAddressDetail": null,
                 "SiteCity": "Barnwell",
-                "SitePhone": "",
+                "SitePhone": "803-259-1234",
                 "SiteState": "SC",
                 "SiteZip": "29812",
                 "URL": null,
@@ -9873,7 +9873,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "485f7bbd-8bdb-45b8-8fe2-cae6fe641e35",
                 "Loc_ID": 194,
@@ -9883,7 +9883,7 @@
                 "SiteAddress": "19354 SOLOMON BLATT AVE",
                 "SiteAddressDetail": null,
                 "SiteCity": "BLACKVILLE",
-                "SitePhone": "",
+                "SitePhone": "803-284-3372",
                 "SiteState": "SC",
                 "SiteZip": "29817",
                 "URL": null,
@@ -10993,7 +10993,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8d4fc890-1d77-4546-8e89-930cfbfbf49f",
                 "Loc_ID": 189,
@@ -11003,7 +11003,7 @@
                 "SiteAddress": "1118 Mack St",
                 "SiteAddressDetail": null,
                 "SiteCity": "Gaston",
-                "SitePhone": "",
+                "SitePhone": "803-939-8489 ",
                 "SiteState": "SC",
                 "SiteZip": "29053",
                 "URL": null,
@@ -11658,7 +11658,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "bb3a74d1-3279-4cef-92bc-132ffcc03252",
                 "Loc_ID": 190,
@@ -11668,7 +11668,7 @@
                 "SiteAddress": "221 Latitude Lan suite 109",
                 "SiteAddressDetail": null,
                 "SiteCity": "Lake Wylie",
-                "SitePhone": "",
+                "SitePhone": "803-831-2044",
                 "SiteState": "SC",
                 "SiteZip": "29710",
                 "URL": null,
@@ -13898,7 +13898,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "878abb97-0171-4478-9b78-bb0ea4307571",
                 "Loc_ID": 184,
@@ -13908,7 +13908,7 @@
                 "SiteAddress": "634 A Pine Ridge Dr",
                 "SiteAddressDetail": null,
                 "SiteCity": "West Columbia",
-                "SitePhone": "",
+                "SitePhone": "803-955-3404",
                 "SiteState": "SC",
                 "SiteZip": "29172",
                 "URL": null,
@@ -15963,7 +15963,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "dee1b749-259c-4976-8183-3f3388d64865",
                 "Loc_ID": 195,
@@ -15973,7 +15973,7 @@
                 "SiteAddress": "1628 Charleston Hwy ",
                 "SiteAddressDetail": null,
                 "SiteCity": "West Columbia ",
-                "SitePhone": "",
+                "SitePhone": "803-849-1777",
                 "SiteState": "SC",
                 "SiteZip": "29169",
                 "URL": null,
@@ -52853,7 +52853,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1f86ee2d-1d77-4e34-83b9-5d530c9c4687",
                 "Loc_ID": null,

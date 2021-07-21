@@ -35396,8 +35396,8 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Winona County Health and Human Services will be hosting a pop-up COVID-19 vaccine clinic the 3rd Saturday of each month at the City of Winona Farmer's Market stating 7/17/21. The clinic will be from 7:30 AM - 12:00 PM. Both the Pfizer and Johnson and Johnson vaccine will be offered. Walk-ins are welcome.",
-                "AddrLine1": "1 Main St.",
+                "AdditionalHoursInfo": "This event occurs on the 3rd Saturday of each month at the City of Winona Farmer's Market from 7:30 AM - 12 PM. Both the Pfizer (12+, 2 doses) and Johnson & Johnson (18+, 1 dose) COVID-19 vaccines are available. Walk-ins are welcome. The registration link will be posted one week before the event.",
+                "AddrLine1": "Levee Park",
                 "City": "Winona",
                 "County": "Winona",
                 "EndDate": null,
@@ -35417,13 +35417,13 @@
                 "SundayStart": "Closed",
                 "TestingOptions": null,
                 "TestingRequirements": "Appointment|No appointment necessary",
-                "TestingTypes": "Johnson & Johnson (age 18+)|Pfizer (age 12+)|COVID-19 Vaccine",
+                "TestingTypes": "Johnson & Johnson (age 18+)|Pfizer (age 12+)",
                 "ThursdayEnd": "Closed",
                 "ThursdayStart": "Closed",
                 "TuesdayEnd": "Closed",
                 "TuesdayStart": "Closed",
-                "URL": null,
-                "UpdateDate": "2021-07-13 10:00:51",
+                "URL": "https://www.co.winona.mn.us/page/3756",
+                "UpdateDate": "2021-07-20 09:12:08",
                 "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17|Minnesotans ages 18+",
                 "WednesdayEnd": "Closed",
                 "WednesdayStart": "Closed",
@@ -35441,8 +35441,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -91.63705232549285,
-                "y": 44.054406108292554
+                "x": -91.63413999999996,
+                "y": 44.05398000000008
             }
         },
         {
