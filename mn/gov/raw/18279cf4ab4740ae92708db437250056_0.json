@@ -15455,10 +15455,10 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "We will have 1st and 2nd vaccines of Moderna available on June 24th.",
+                "AdditionalHoursInfo": "We give Johnson & Johnson vaccine every Thursday between 10am and 4pm.  We also provide 1st and 2nd dose of Moderna at the same time. \r\nNo appointment necessary. Vaccine and paper work takes about 20 minutes.   vaccine itself only takes 10 seconds.",
                 "AddrLine1": "318 Grant Ave",
                 "City": "Eveleth",
-                "County": "st louis",
+                "County": "st. louis",
                 "EndDate": null,
                 "FridayEnd": "5:30pm",
                 "FridayStart": "9:00am",
@@ -15476,13 +15476,13 @@
                 "SundayStart": "Closed",
                 "TestingOptions": "Indoor vaccination",
                 "TestingRequirements": "No appointment necessary",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "5:30pm",
-                "ThursdayStart": "9:00am",
+                "TestingTypes": "Johnson & Johnson (age 18+)|Moderna (age 18+)",
+                "ThursdayEnd": "4:00pm",
+                "ThursdayStart": "10:00am",
                 "TuesdayEnd": "5:30pm",
                 "TuesdayStart": "9:00am",
                 "URL": null,
-                "UpdateDate": "2021-06-20 14:07:00",
+                "UpdateDate": "2021-07-19 15:54:36",
                 "VaccinationGroups": "Minnesotans ages 18+",
                 "WednesdayEnd": "5:30pm",
                 "WednesdayStart": "9:00am",
@@ -15500,8 +15500,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -92.53959499883446,
-                "y": 47.46300701399474
+                "x": -92.53959600466284,
+                "y": 47.46300600816636
             }
         },
         {
@@ -28971,57 +28971,6 @@
         {
             "attributes": {
                 "AdditionalHoursInfo": null,
-                "AddrLine1": "179 Robie Street East",
-                "City": "St Paul",
-                "County": "Ramsey",
-                "EndDate": null,
-                "FridayEnd": "Closed",
-                "FridayStart": "Closed",
-                "MondayEnd": "4:00pm",
-                "MondayStart": "10:00am",
-                "OBJECTID": 3204,
-                "Phone": null,
-                "ProviderName": "Saint Paul Ramsey County Public Health",
-                "SaturdayEnd": "Closed",
-                "SaturdayStart": "Closed",
-                "SiteName": "The Wellstone Center",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor vaccination",
-                "TestingRequirements": "Appointment",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "Closed",
-                "ThursdayStart": "Closed",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "ramseycounty.us/covidvaccine",
-                "UpdateDate": "2021-04-23 09:41:01",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "Closed",
-                "WednesdayStart": "Closed",
-                "Zip": "55107",
-                "globalid": "841454d8-c3aa-4195-b913-7037c6eea29c",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -93.07661800322896,
-                "y": 44.930687004202355
-            }
-        },
-        {
-            "attributes": {
-                "AdditionalHoursInfo": null,
                 "AddrLine1": "1021 Bandana Blvd E #100",
                 "City": "St. Paul",
                 "County": null,
@@ -31122,7 +31071,7 @@
                 "MondayEnd": null,
                 "MondayStart": null,
                 "OBJECTID": 6271,
-                "Phone": "(651) 592-1027",
+                "Phone": "(612) 262-5533",
                 "ProviderName": "Allina Health",
                 "SaturdayEnd": null,
                 "SaturdayStart": null,
@@ -31139,7 +31088,7 @@
                 "TuesdayEnd": null,
                 "TuesdayStart": null,
                 "URL": "https://www.allinahealth.org/coronavirus-covid-19/vaccines",
-                "UpdateDate": "2021-04-30 10:09:45",
+                "UpdateDate": "2021-07-19 16:18:21",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": null,
                 "WednesdayStart": null,
@@ -31157,8 +31106,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -92.9300959654758,
-                "y": 44.91868998618736
+                "x": -92.93009102015294,
+                "y": 44.91870599562242
             }
         },
         {
@@ -31190,7 +31139,7 @@
                 "TuesdayEnd": null,
                 "TuesdayStart": null,
                 "URL": "https://www.allinahealth.org/coronavirus-covid-19/vaccines",
-                "UpdateDate": "2021-04-30 10:16:09",
+                "UpdateDate": "2021-07-19 16:19:08",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": null,
                 "WednesdayStart": null,
@@ -31208,8 +31157,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -92.9300959654758,
-                "y": 44.91868998618736
+                "x": -92.93009102015294,
+                "y": 44.91870599562242
             }
         },
         {
