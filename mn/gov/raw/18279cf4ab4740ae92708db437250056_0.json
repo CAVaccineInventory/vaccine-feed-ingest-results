@@ -2552,57 +2552,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "Hours of operation are subject to change. Vaccine program appointment access will expand consistent with State allocations of vaccine. Patients will be notified when they can schedule a COVID-19 vaccination appointment. All patients are encouraged to check the Essentia Health website at https://www.essentiahealth.org/covid-19/ for more information.",
-                "AddrLine1": "1600 Miller Trunk Hwy Suite F02D",
-                "City": "Duluth",
-                "County": null,
-                "EndDate": null,
-                "FridayEnd": "7:00pm",
-                "FridayStart": "7:00am",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 525,
-                "Phone": "(833) 494-0836",
-                "ProviderName": "Essentia Health",
-                "SaturdayEnd": "7:00pm",
-                "SaturdayStart": "7:00am",
-                "SiteName": "Duluth - Miller Hill Mall",
-                "StartDate": null,
-                "State": "MN",
-                "SundayEnd": "7:00pm",
-                "SundayStart": "7:00am",
-                "TestingOptions": null,
-                "TestingRequirements": "Appointment",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "7:00pm",
-                "ThursdayStart": "7:00am",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "https://www.essentiahealth.org/covid-19/covid-19-vaccine-information/",
-                "UpdateDate": "2021-03-30 13:45:44",
-                "VaccinationGroups": "General Public",
-                "WednesdayEnd": "7:00pm",
-                "WednesdayStart": "7:00am",
-                "Zip": "55811",
-                "globalid": "5dde90c3-d6e9-4776-ae20-43b0f9127a86",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": null
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -92.15951600678244,
-                "y": 46.804319008628056
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": null,
                 "AddrLine1": "15 4th Ave E",
                 "City": "Ada",
