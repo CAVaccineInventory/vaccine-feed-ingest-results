@@ -1857,7 +1857,7 @@
         },
         {
             "attributes": {
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "dabd94aa-86f7-44a4-aac7-32bb3d0a1679",
                 "Loc_ID": 625,
@@ -1871,7 +1871,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29072",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "MOD, JJ",
                 "layer_id": 0,
                 "loc_covid_id": null,
                 "loc_name": "LEXINGTON PHARMACY",
@@ -52957,7 +52957,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "3600c1ae-490a-41b7-af3e-b22397c51c63",
                 "Loc_ID": null,
@@ -53027,7 +53027,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "60ff9739-8ead-4287-a487-8079306ad3a3",
                 "Loc_ID": null,
@@ -55057,7 +55057,7 @@
         },
         {
             "attributes": {
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "0f1cc8a4-b76f-410b-867c-3eef1e525eca",
                 "Loc_ID": null,
@@ -55193,6 +55193,286 @@
                 },
                 "x": -79.87264758901358,
                 "y": 34.30226892920422
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "2c74d05b-ff45-4a90-b34e-bf863707ad28",
+                "Loc_ID": null,
+                "OBJECTID": 42711,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "2410 Hwy 301 N",
+                "SiteAddressDetail": null,
+                "SiteCity": "Hamer",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29547",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Hamer Church of God",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.33588208465568,
+                "y": 34.456864640853894
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "f596683b-d44f-40c8-8aee-e9115e0f1633",
+                "Loc_ID": null,
+                "OBJECTID": 42712,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "897 3rd Loop Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29505",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Peace Freewill Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.78276626196805,
+                "y": 34.149066728525895
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "8084a1fa-9b6a-40ba-8292-26ccccdad0ea",
+                "Loc_ID": null,
+                "OBJECTID": 42713,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1569 Hwy 9 E",
+                "SiteAddressDetail": null,
+                "SiteCity": "Longs",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29568",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Living Water Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.69914719774351,
+                "y": 33.90206862482637
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "c579ec9a-05f2-4a65-83c7-40456d26dfa8",
+                "Loc_ID": null,
+                "OBJECTID": 42714,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1000 Baltimore Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Myrtle Beach",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29579",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Berkshire Forest",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.9220874996418,
+                "y": 33.743132778779795
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "9bb4c753-3ded-4754-82e4-7aa448dfb592",
+                "Loc_ID": null,
+                "OBJECTID": 42715,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1780 Main St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Alcolu",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29001",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Clarendon Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.21623001443976,
+                "y": 33.74952389668829
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "6f6b32b4-9f59-41ab-8fc3-f0ad5631513f",
+                "Loc_ID": null,
+                "OBJECTID": 42716,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "950 Crabtree Ln Bldg 600",
+                "SiteAddressDetail": null,
+                "SiteCity": "Myrtle Beach",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29577",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ HGTC Grand Strand Campus Job Fair",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.94209884057852,
+                "y": 33.6632916976007
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "97401dc0-9efa-45e1-bd2c-0c0e32f60caf",
+                "Loc_ID": null,
+                "OBJECTID": 42717,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "671 Zion Church Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Pageland",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29728",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Zion United Methodist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.35885072255405,
+                "y": 34.74683598502861
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "f2d4794e-fd90-451e-ad37-a2d1ecfca721",
+                "Loc_ID": null,
+                "OBJECTID": 42718,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1228 Oakland Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29506",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ North Florence Community Back to School Bash",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.75338643405274,
+                "y": 34.2116558389846
             }
         }
     ],
