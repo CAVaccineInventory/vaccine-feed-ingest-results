@@ -18097,24 +18097,24 @@
             "attributes": {
                 "CreationDate": 1626715784268,
                 "Creator": "COVIDPublicHCPH",
-                "EditDate": 1626715784268,
+                "EditDate": 1626967124309,
                 "Editor": "COVIDPublicHCPH",
-                "address": "5555 Hermann Park Dr, Houston, TX 77030",
+                "address": "6221 Main St, Houston, TX 77030",
                 "agency": "Harris County Public Health",
                 "closedatefilter": null,
                 "dose": "Second",
-                "entrydate": "2021-07-19T12:27:52.243-05:00",
+                "entrydate": "2021-07-22T10:17:43.963-05:00",
                 "globalid": "6e472f2c-aff6-41a5-8a97-fcf6639994ed",
                 "lat": null,
                 "layer_id": 0,
-                "location": "Museum of Natural Science",
+                "location": "Palmer Memorial Episcopal Church",
                 "lon": null,
                 "notes": null,
                 "objectid": 550,
                 "opendate": 1626973200000,
                 "opendate_str": "Thursday, July 22nd",
                 "opendatefilter": null,
-                "operatinghours": "9:00 AM - 5:00 PM",
+                "operatinghours": "10:00 AM - 5:00 PM",
                 "phone": "832-927-8787",
                 "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
                 "typeofvaccine": "Pfizer",
@@ -18126,8 +18126,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -95.38960401685424,
-                "y": 29.72211998874419
+                "x": -95.396395034807,
+                "y": 29.71627499429336
             }
         },
         {
