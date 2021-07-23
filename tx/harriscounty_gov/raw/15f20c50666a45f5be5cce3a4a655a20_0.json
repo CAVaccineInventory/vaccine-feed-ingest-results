@@ -18832,6 +18832,117 @@
                 "x": -95.32787498800452,
                 "y": 29.779967986876137
             }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1626986621859,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1626986621859,
+                "Editor": "COVIDPublicHCPH",
+                "address": "4000 Sumpter St., Houston, TX 77020",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second,Single",
+                "entrydate": "2021-07-22T15:42:19.197-05:00",
+                "globalid": "74e46137-07b1-46b8-823b-51c2ae682677",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Our Mother of Mercy Catholic Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 570,
+                "opendate": 1627232400000,
+                "opendate_str": "Sunday, July 25th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer,JohnsonJohnson",
+                "vdu_no": "VDU 3",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.3299520236114,
+                "y": 29.780267011271917
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1626986691845,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1626986691845,
+                "Editor": "COVIDPublicHCPH",
+                "address": "18223 Point Lookout Dr., Houston, TX 77058",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-22T15:43:46.107-05:00",
+                "globalid": "e958db0e-d7e7-4525-8d18-88a780781e75",
+                "lat": null,
+                "layer_id": 0,
+                "location": " St. Paul the Apostle Catholic Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 571,
+                "opendate": 1627232400000,
+                "opendate_str": "Sunday, July 25th",
+                "opendatefilter": null,
+                "operatinghours": "8:00 AM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna",
+                "vdu_no": "VDU 8",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.09374743279014,
+                "y": 29.546500824182385
+            }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1626986770790,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1626986770790,
+                "Editor": "COVIDPublicHCPH",
+                "address": "2101 Summer St, Houston, TX 77007",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second,Single",
+                "entrydate": "2021-07-22T15:44:56.008-05:00",
+                "globalid": "e2c21802-39cf-4a22-8687-7a3ba9db20ad",
+                "lat": null,
+                "layer_id": 0,
+                "location": "Buffalo Bayou Brewery",
+                "lon": null,
+                "notes": null,
+                "objectid": 572,
+                "opendate": 1627232400000,
+                "opendate_str": "Sunday, July 25th",
+                "opendatefilter": null,
+                "operatinghours": "11:00 AM - 6:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Moderna,JohnsonJohnson",
+                "vdu_no": "VDU 9",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.37984597281547,
+                "y": 29.77257401671845
+            }
         }
     ],
     "fields": [
