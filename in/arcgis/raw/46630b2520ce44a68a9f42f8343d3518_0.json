@@ -33759,6 +33759,38 @@
                 "x": -86.14909624942679,
                 "y": 40.06337694101466
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "0741e5f4-057a-4ee9-b4da-27165e7c8445",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Friends of Downtown VAX",
+                "OBJECTID": 1347,
+                "Promote_Name": "Friends of Downtown VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47901</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "436 Main St, Lafayette, IN 47901",
+                "Site_County": "Tippecanoe",
+                "Site_Location_Info": "This is a one day mobile July 24, clinic 5 – 11pm.  This clinic offers Johnson & Johnson and Pfizer.",
+                "Site_Name": "Friends of Downtown VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.89263081592168,
+                "y": 40.41919898093958
+            }
         }
     ],
     "fields": [
