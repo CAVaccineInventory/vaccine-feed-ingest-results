@@ -41247,7 +41247,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29316",
                 "URL": null,
-                "V_Manufacturer": "MOD",
+                "V_Manufacturer": "PZR, MOD, JJ",
                 "layer_id": 0,
                 "loc_name": "Boiling Springs Pharmacy",
                 "loc_type1": "Pharmacy – independent",
@@ -78508,7 +78508,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "7c67189e-6f82-4990-af97-5c63cecbf999",
                 "Loc_ID": null,
@@ -80363,7 +80363,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "63b1efd7-2002-4709-a130-fc8ac5bdfd09",
                 "Loc_ID": null,
@@ -80813,6 +80813,111 @@
                 },
                 "x": -79.75338643405274,
                 "y": 34.2116558389846
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "8178af49-3489-4a74-82a3-1ca2f26157cf",
+                "Loc_ID": null,
+                "OBJECTID": 43111,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "2084 Thurgood Marshall Hwy",
+                "SiteAddressDetail": null,
+                "SiteCity": "Kingstree",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29556",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Williamsburg Music Festival",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.8116907010837,
+                "y": 33.656066491547676
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "c32b5166-a67c-4331-acf8-23d867a19da3",
+                "Loc_ID": null,
+                "OBJECTID": 43112,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "6304 White Horse Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Greenville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29611",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Supermecado El Sol",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -82.46137854291038,
+                "y": 34.86043750222183
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "67d771d9-13e8-4a3c-ae3a-29a8c09de11a",
+                "Loc_ID": null,
+                "OBJECTID": 43113,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "117 W Church St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Jefferson",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29718",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Jefferson Community Building",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.38883329954547,
+                "y": 34.65643904363213
             }
         }
     ],
