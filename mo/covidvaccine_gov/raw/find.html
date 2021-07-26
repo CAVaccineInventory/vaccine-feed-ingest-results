@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,15 +44,15 @@ ga('send', 'pageview');
 </style>
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
-      <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-      <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
 </head>
 <body onhashchange="refresh(window.location.hash)">
 
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDBPNN6"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDBPNN6"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <!--<div id="primaryNavbar" class="navbar navbar-expand-lg fixed-top navbar-light bg-light">-->
 <!--<div id="primaryNavbar" class="navbar navbar-expand-md navbar-transparent" style="position:absolute;width:100%;">-->
@@ -78,6 +79,7 @@ ga('send', 'pageview');
                         <a class="dropdown-item" href="/vaccinators">Vaccinators</a>
                         <a class="dropdown-item" href="/toolkit">Toolkit</a>
                         <a class="dropdown-item" href="/ride">Get a Ride</a>
+                        <a class="dropdown-item" href="/find/#events">Local Vaccination Events</a>
                       </div>
                     </div>
 
@@ -150,22 +152,20 @@ ga('send', 'pageview');
                             <h2>GET A VACCINE</h2>
                             <div>Choice is a powerful thing. We recognize the tremendous impact COVID-19 has had on our communities. You have the choice to help our society shape our new path forward beyond COVID-19.</div>
                             <div class="input-group mt-4  mb-3">
-                            <div class="input-group-prepend">
-                              <span class="input-group-text"><i class="fas fa-search"></i></span>
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-search"></i></span>
+                                </div>
+                                <select id="options" onchange="lookingGlass()" class="custom-select">
+                                    <option value="">Find A Vaccine</option>
+                                    <option value="vaccine-finder">VaccineFinder.org</option>
+                                    <option value="events">Local Vaccination Events</option>
+                                    <option value="navigator">Missouri's Vaccine Navigator</option>
+                                    <!-- <option value="map">Missouri's Local Vaccinators</option> -->
+                                </select>
                             </div>
-                            <select id="options" onchange="lookingGlass()" class="custom-select">
-                              <option value="">Find A Vaccine</option>
-                              <option value="vaccine-finder">VaccineFinder.org</option>
-                              <!-- <option value="events">State Supported Events</option> -->
-                              <option value="navigator">Missouri's Vaccine Navigator</option>
-                              <!-- <option value="map">Missouri's Local Vaccinators</option> -->
-                            </select>
-                          </div>
-                          <div class="mt-4">
-                              <a href="/win" class="btn btn-custom-primary mr-2 mb-2">Enter to Win $10,000</a>
-                            <a href="https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/community-test.php"
-                               target="_blank" class="btn btn-custom-primary mb-2">Get Tested for COVID-19</a>
-                          </div>
+                            <div class="mt-4">
+                                <a href="https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/community-test.php" target="_blank" class="btn btn-custom-primary">Get Tested for COVID-19</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -175,401 +175,693 @@ ga('send', 'pageview');
 
     <div class="container dark" style="margin-top:25px;">
 
-<!-- Start of vaccineFinder -->
-    <div id="display_vf">
-      <h2 class="dark centered">VaccineFinder.org</h2><hr>
-      <div class="card mb-4">
-        <div class="card-header white-text bg-pink"><h2 class="card-title">Find Covid-19 Vaccines Near You</h2></div>
-      <div class="card-body">
-        <div class="row">
-        <div class="col-md-6 float-right">
-          <div id="errors" ></div>
-                  <label class="equity-list" for="moderna">Vaccines</label><br>
-                <div class="form-check-inline">
-              <label class="form-check-label" for="moderna">
-                <input type="checkbox" class="form-check-input medications" id="moderna" name="moderna" value="779bfe52-0dd8-4023-a183-457eb100fccc">Moderna
-              </label>
-            </div>
-            <div class="form-check-inline">
-              <label class="form-check-label" for="pfizer">
-                <input type="checkbox" class="form-check-input medications" id="pfizer" name="pfizer" value="a84fb9ed-deb4-461c-b785-e17c782ef88b">Pfizer
-              </label>
-            </div>
-            <div class="form-check-inline">
-              <label class="form-check-label" for="johnson">
-                <input type="checkbox" class="form-check-input medications" id="johnson" name="johnson" value="784db609-dc1f-45a5-bad6-8db02e79d44f">Johnson & Johnson's Janssen
-              </label>
-            </div>
-            <div class="form-group">
-              <label class="mt-4 equity-list" for="zip_code">Zip Code</label><br>
-              <input type="number" id="zip_code" maxlength="5" title="Please type a 5 digit zip code" required>
-            </div>
-            <div class="form-gorup">
-              <label  for="rad" class="equity-list">Search Radius</label><br>
-              <select id="rad" required>
-                <option value="1">1</option>
-                <option value="5">5</option>
-                <option value="10">10</option>
-                <option value="25" selected>25</option>
-                <option value="50">50</option>
-              </select>
-            </div>
-            <button class="btn btn-custom-primary mt-4" id="sub" onClick="formatVaccine()">Submit</button>
-              </div>
-              <div class="col-md-6">
-                  <img src="/img/icon-map.png" class="img-fluid col-md-10 float-right mb-4" alt="map">
-              </div>
-            </div>
-            </div>
-        </div>
-      </div>
-      <!-- End of VaccineFinder -->
-
-
-
-      <!-- Start of Navigator -->
-      <div id="display_mvn">
-        <div class="container">
-          <h2 class="dark centered">Missouri's Vaccine Navigator</h2><hr>
-          <img class="img-fluid col-md-10 offset-md-1" style="margin-top:25px;" src="/img/Nagivator-Logo.png" alt="Navigator logo">
-          <div class="centered">
-            <p class="col-md-8 offset-md-2 mt-4 dark">The Missouri Vaccine Navigator is intended to help individuals navigate the COVID-19 vaccination process. This tool may not capture every event in your area, so we encourage you to engage with your local public health officials and health care facilities to learn more.</p>
-            <!-- <div class="alert alert-custom-info col-md-8 offset-md-2 white-text"><strong>Important Note:</strong>  We encourage individuals to register online if they have the ability. To ensure that the vaccine is available to all, regardless of internet and computer access, we have staff available to help individuals register through our COVID-19 hotline at
-	             (877) 435-8411.</div> -->
-            <a href='https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt' target="_blank" class="btn btn-custom-primary mb-4 mt-4 col-md-6">REGISTER NOW</a>
-            <div class="row centered">
-                <a href='https://modhss.iad1.qualtrics.com/jfe/form/SV_8IfbBbQEAdzIxue' target="_blank" class="btn btn-custom-primary offset-md-2 mb-4 col-md-4 ">Update my Information</a>
-                <a href='https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa ' target="_blank" class="btn btn-custom-primary mb-4 ml-1 col-md-4 ">Make an Appointment</a>
-            </div>
-          </div>
-
-
-          <div class="alert alert-custom-info white-text centered">
-            <h2>Important Note:</h2>
-            We encourage individuals to register online if they have the ability. To ensure that the vaccine is available to all Missourians, regardless of internet and computer access, we have staff available to help individuals register through our COVID-19 hotline at <span class=" d-none d-sm-none d-md-block">(877) 435-8411.</span><a href="tel:8774358411" class=" d-sm-block d-md-none d-lg-none d-xl-none white-text">(877) 435-8411.</a>
-          </div>
-          <div class="col-md-12">
-          <div class="row">
-            <div class="jumbotron centered col-md-5 ">
-              <p class="purple-haze">
-                    Step 1
-                </p>
-                <h3 class="dark">Registration</h3><p class="dark">Sign up to receive a patient ID number, which will help you enter the scheduling feature of the Navigator.</p>
-                <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_1" >learn more</button>
-
-            </div>
-            <div class="jumbotron centered col-md-5 offset-md-2">
-                <p class="purple-haze">
-                    Step 2
-                </p>
-                <h3 class="dark">Schedule</h3><p class="dark"> Identify events in your area, and Make an Appointment.</p><br>
-                <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_2" >learn more</button>
-
-            </div>
-          </div>
-          <div class="row">
-            <div class="jumbotron centered col-md-5 ">
-              <p class="purple-haze">
-                  Step 3
-                </p>
-                <h3 class="dark">Begin Vaccination</h3><p class="dark">Receive Dose 1 of the COVID-19 <br>vaccine.</p>
-                <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_3" >learn more</button>
-
-            </div>
-            <div class="jumbotron centered col-md-5 offset-md-2">
-              <p class="purple-haze">
-                Step 4
-                </p>
-                <h3 class="dark">Get Second Dose</h3><p class="dark">Return to the same provider for Dose 2 of the vaccine (Moderna or Pfizer only).</p>
-                <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_4" >learn more</button>
-            </div>
-          </div>
-
-          <h2 id="faq" class="fact-heading">Resident FAQs</h2>
-          <div class="accordion mb-5" id="accordionExamplec">
-
-
-              <div class="card">
-                  <div class="card-header" id="headingThreec" data-toggle="collapse" tabindex="0"
-                       data-target="#collapseThreec" aria-expanded="false" aria-controls="collapseThreec">
-                      <h4>
-                        What happens if I do not have an email?
-                          <span class="accordion-arrows float-right">
-                              <i class="fas fa-angle-up hide"></i>
-                              <i class="fas fa-angle-down"></i>
-                          </span>
-                      </h4>
-                  </div>
-                  <div id="collapseThreec" class="collapse" aria-labelledby="headingThreec" data-parent="#accordionExamplec">
-                      <div class="card-body dark">
-                          If you do not have an email, please provide a cell phone or landline so our COVID-19
-                        Hotline team can reach out to you to schedule your appointment
-                          for you when you are eligible.
-                          <ul class="igul dark">
-                            <li>If you provided a cell phone number for a smart phone, then you will still receive all the scheduled appointment and vaccination received confirmations</li>
-                            <li>If you provided only a landline or cell phone number for a non-smart phone, then you will need to contact the COVID-19 Hotline at (877) 435-8411 to have your scheduled appointment or vaccination confirmation information provided verbally over the phone</li>
-                          </ul>
-                      </div>
-                  </div>
-              </div>
-
-
-                <div class="card">
-                  <div class="card-header" id="headingThree-RFS" data-toggle="collapse" tabindex="0"
-                       data-target="#collapseThree-RFS" aria-expanded="false" aria-controls="collapseThree-RFS">
-                      <h4>
-                        What do I do if I do not see any available appointments?
-                          <span class="accordion-arrows float-right">
-                              <i class="fas fa-angle-up hide"></i>
-                              <i class="fas fa-angle-down"></i>
-                          </span>
-                      </h4>
-                  </div>
-                  <div id="collapseThree-RFS" class="collapse" aria-labelledby="headingThree-RFS" data-parent="#accordionExamplec">
-                      <div class="card-body dark">
-                        •	If there are no appointments on your scheduling page, select “None of these appointments work for me” to receive a reminder to schedule at a later date. Additionally, new appointments are added every day so please check back periodically using the scheduling link provided in your invite email or <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa " target="_blank">click here</a>.
-                      </div>
-                  </div>
-              </div>
-            </div>
-
-
-          <!-- The Modal 1-->
-          <div class="modal" id="step_1">
-            <div class="modal-dialog ">
-              <div class="modal-content">
-
-                <!-- Modal Header -->
-                <div class="modal-header bg-purple">
-                  <div  class="modal-title white-text centered">
-                    <h4>Step 1:</h4>
-                      Complete registration to receive a patient ID number.
-                    </div>
-
-                  <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
-                </div>
-
-                <!-- Modal body -->
-                <div class="modal-body">
-                  <ul class="igul dark">
-
-                    <li>Complete the online form to register for a COVID-19 vaccine</li>
-                    <li>You will be asked to provide the following:
-                        <ul>
-                          <li>Information about you and your medical history</li>
-                          <li>Contact information you check often, so you can be reached to make an appointment</li>
-                        </ul>
-                    </li>
-                    <li>All information is confidential and will only be shared as appropriate</li>
-                    <li>You will receive an email confirmation once your registration is successfully completed</li>
-                    <li><a id="nav_faq" >Click here to view our frequently asked questions</a></li>
-                    <li><a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">Click here to register</a></li>
-
-
-                  </ul>
-                </div>
-
-                <!-- Modal footer -->
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
-                </div>
-
-              </div>
-            </div>
-          </div>
-
-          <!-- The Modal 2-->
-    <div class="modal" id="step_2">
-      <div class="modal-dialog ">
-        <div class="modal-content">
-
-          <!-- Modal Header -->
-          <div class="modal-header bg-purple">
-            <div  class="modal-title white-text centered">
-              <h4>Step 2:</h4>
-                Make an Appointment
-              </div>
-            <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
-          </div>
-
-          <!-- Modal body -->
-          <div class="modal-body">
-            <ul class="igul dark">
-              <li>You will get a text or email from our system to Make an Appointment. You can also Make an Appointment using your patient ID number by <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa " target="_blank">clicking here.</a></li>
-              <li>Once you make your appointment, you will be asked to print a confirmation to bring to your appointment
-                <ul>
-                  <li>If you do not have access to a printer, you may also show your confirmation using a device with internet access</li>
-                </ul>
-              </li>
-            </ul>
-
-          </div>
-
-          <!-- Modal footer -->
-          <div class="modal-footer">
-            <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <!-- The Modal 3-->
-    <div class="modal" id="step_3">
-      <div class="modal-dialog ">
-        <div class="modal-content">
-
-          <!-- Modal Header -->
-          <div class="modal-header bg-purple">
-            <div  class="modal-title white-text centered">
-              <h4>Step 3:</h4>
-                Receive dose 1 of the COVID-19 vaccine
-              </div>
-            <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
-          </div>
-
-          <!-- Modal body -->
-          <div class="modal-body">
-            <ul class="igul dark">
-              <li>	Bring your confirmation information to your appointment by printing or ensuring easy access from your device</li>
-              <li>	At your scheduled time and date, go to the designated location and follow instructions</li>
-              <li>	Please wear your face covering and remember to stay 6 feet apart</li>
-            </ul>
-          </div>
-
-          <!-- Modal footer -->
-          <div class="modal-footer">
-            <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <!-- The Modal 4-->
-    <div class="modal" id="step_4">
-      <div class="modal-dialog ">
-        <div class="modal-content">
-
-          <!-- Modal Header -->
-          <div class="modal-header bg-purple">
-            <div  class="modal-title white-text centered">
-              <h4>Step 4:</h4>
-                Receive dose 2 of the COVID-19 vaccine
-              </div>
-            <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
-          </div>
-
-          <!-- Modal body -->
-          <div class="modal-body">
-            <ul class="igul dark">
-              <li>You need two doses of the Pfizer and Moderna vaccines to protect you from the virus. A second dose of Pfizer can be scheduled at least 21 days after the first dose, and a second dose of Moderna can be scheduled at least 28 days after the first dose. Johnson & Johnson’s Janssen vaccine is one dose only.</li>
-              <li>You will receive a text or email with instructions on returning for your second dose</li>
-              <li>Continue to practice the 3 Ws:
-                  <ul>
-                    <li>Wash your hands</li>
-                    <li>Wear your face covering</li>
-                    <li>Watch your distance</li>
-                  </ul>
-              </li>
-            </ul>
-          </div>
-
-          <!-- Modal footer -->
-          <div class="modal-footer">
-            <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-
-
-
-          </div>
-        </div>
-      </div>
-      <!-- End of Navigator -->
-
-      <!-- Start of Local Vaccinators(was /map) -->
-      <!-- <div id="display_mlv">
-        <div class="container">
-          <h2 class="dark centered">Missouri's Local Vaccinators</h2><hr>
-            <div class="row">
-                <div class="col">
-                    <div class="alert alert-custom-info mt-4"style="color:white;">
-                        <p>
-                            <i class="fas fa-info-circle" style="font-size:30px; "></i><br>
-                            The state of Missouri is still experiencing a limited supply of COVID-19 vaccines.
-                            Call providers or visit their website before visiting.
-                        </p>
-                        <p>Because vaccinators are listed here does </strong>NOT</strong> mean:</p>
-                        <ol>
-                            <li>The identified provider has any vaccine on hand or ability to order at this time.</li>
-                            <li>The identified provider has an intent to publicly distribute vaccine.</li>
-                        </ol>
-                        <div class='centered'>
-                            <a href="/find/Approved-Vaccinators.pdf" class="btn btn-custom-primary" target="_blank">Printable Map Directory<br>(sorted by county)</a>
+        <!-- Start of vaccineFinder -->
+        <div id="display_vf">
+            <h2 class="dark centered">VaccineFinder.org</h2><hr>
+            <div class="card mb-4">
+                <div class="card-header white-text bg-pink"><h2 class="card-title">Find Covid-19 Vaccines Near You</h2></div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6 float-right">
+                            <div id="errors" ></div>
+                            <label class="equity-list" for="moderna">Vaccines</label><br>
+                            <div class="form-check-inline">
+                                <label class="form-check-label" for="moderna">
+                                    <input type="checkbox" class="form-check-input medications" id="moderna" name="moderna" value="779bfe52-0dd8-4023-a183-457eb100fccc">Moderna
+                                </label>
+                            </div>
+                            <div class="form-check-inline">
+                                <label class="form-check-label" for="pfizer">
+                                    <input type="checkbox" class="form-check-input medications" id="pfizer" name="pfizer" value="a84fb9ed-deb4-461c-b785-e17c782ef88b">Pfizer
+                                </label>
+                            </div>
+                            <div class="form-check-inline">
+                                <label class="form-check-label" for="johnson">
+                                    <input type="checkbox" class="form-check-input medications" id="johnson" name="johnson" value="784db609-dc1f-45a5-bad6-8db02e79d44f">Johnson & Johnson's Janssen
+                                </label>
+                            </div>
+                            <div class="form-group">
+                                <label class="mt-4 equity-list" for="zip_code">Zip Code</label><br>
+                                <input type="number" id="zip_code" maxlength="5" title="Please type a 5 digit zip code" required>
+                            </div>
+                            <div class="form-gorup">
+                                <label  for="rad" class="equity-list">Search Radius</label><br>
+                                <select id="rad" required>
+                                    <option value="1">1</option>
+                                    <option value="5">5</option>
+                                    <option value="10">10</option>
+                                    <option value="25" selected>25</option>
+                                    <option value="50">50</option>
+                                </select>
+                            </div>
+                            <button class="btn btn-custom-primary mt-4" id="sub" onClick="formatVaccine()">Submit</button>
+                        </div>
+                        <div class="col-md-6">
+                            <img src="/img/icon-map.png" class="img-fluid col-md-10 float-right mb-4" alt="map">
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
+        <!-- End of VaccineFinder -->
+
+        <!-- Start of Events -->
+        <div id="display_mve">
+            <div class="container">
+                <h2 class="dark centered">Local Vaccination Events</h2><hr>
+                <ul class="h-w-pipes text-center" style="margin-top:25px;">
+                    <li class="">
+                        <a href="#region_a">Region A</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_b">Region B</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_c">Region C</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_d">Region D</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_e">Region E</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_f">Region F</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_g">Region G</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_h">Region H</a>
+                    </li>
+                    <li class="">
+                        <a href="#region_i">Region I</a>
+                    </li>
+
+                </ul>
+                <div class="alert alert-custom-info white-text centered mt-4">
+                    Click a county below to find events in your region, choose the event that works for you and then click the button to learn more from that local vaccination site.
+                </div>
+                <div class="row ">
+                    <div class="legend col-md-2 offset-md-3 d-none d-sm-block d-sm-none d-md-block" style="margin-top:7%">
+                        <h2 class="dark">Regions</h2>
+
+                        <p class="dark"><span style="background-color:#7c4ba4">&nbsp;&nbsp;&nbsp;&nbsp;</span> A<br>
+                            <span style="background-color:#bd4b35">&nbsp;&nbsp;&nbsp;&nbsp;</span> B<br>
+                            <span style="background-color:#1d5ecd">&nbsp;&nbsp;&nbsp;&nbsp;</span> C<br>
+                            <span style="background-color:#47235c">&nbsp;&nbsp;&nbsp;&nbsp;</span> D<br>
+                            <span style="background-color:#2b4b8a">&nbsp;&nbsp;&nbsp;&nbsp;</span> E<br>
+                            <span style="background-color:#f7bf13">&nbsp;&nbsp;&nbsp;&nbsp;</span> F<br>
+                            <span style="background-color:#7e661c">&nbsp;&nbsp;&nbsp;&nbsp;</span> G<br>
+                            <span style="background-color:#fa6043">&nbsp;&nbsp;&nbsp;&nbsp;</span> H<br>
+                            <span style="background-color:#c69b13">&nbsp;&nbsp;&nbsp;&nbsp;</span> I</p>
+                    </div>
+                    <div class="col-md-6  d-none d-sm-block d-sm-none d-md-block">
+                        <svg width="500" height="600" style="margin-top:0%;" class="float-left" ></svg>
+                    </div>
+                    <div class="col-md-6  d-block d-sm-block d-md-none d-lg-none d-xl-none">
+                        <img class="img-fluid" src="/img/events-map.png">
+                    </div>
+                </div>
+            </div>
+            <script>
+
+                var RGB = {
+                    h:'#fa6043',
+                    b:'#bd4b35',
+                    a:'#7c4ba4',
+                    f:'#f7bf13',
+                    c:'#1d5ecd',
+                    d:'#47235c',
+                    i:'#c69b13',
+                    g:'#7e661c',
+                    e:'#2b4b8a',
+                };
 
 
-          <div class="embed-responsive embed-responsive-1by1 ">
-            <iframe class="embed-responsive-item" src="https://arcg.is/140SvG" allowfullscreen></iframe>
+                /*----------------------Start of Heat Map marquee-------------------------*/
+                /*D3 select element "svg"....sets var width and height to the specified height and width that is on tag*/
+                var svg = d3.select('svg');
+
+                //.map() creates an array
+                var Project = d3.map();
+                //https://github.com/d3/d3-geo/blob/master/README.md#geoPath....create a new geographic path generator
+                var path = d3.geoPath();
+
+                //https://github.com/d3/d3-geo/blob/master/README.md#scaleLinear.....Create a quantitative linear/straight scale
+                //.domain... Create the input domain
+                //.rangeRound... set the output range and enable rounding
+
+                var x = d3.scaleLinear()
+                    .domain([1, 2])
+                    .rangeRound([839, 860]);
+
+                //https://github.com/d3/d3-scale/blob/master/README.md#scaleThreshold.....create an arbitrary quantizing linear scale.
+                //d3.schemeBlues[9].... different shade of blue
+                var color = d3.scaleThreshold().domain(d3.range(0, 4)).range(RGB);
+
+                //append all "g" tags in the svg tag then giv a class of "key" and transform to translate(0,40) (rotation)
+                var g = svg.append('g').attr('class', 'key').attr('transform', 'translate(-600,40)');
+
+
+                d3.queue()
+                    .defer(d3.json, '/inc/Missouri.json')
+
+                    .await(ready);
+
+
+
+                function ready(error, missouri) {
+
+                    if (error) {
+                        throw error;
+                    }
+                    var x = 0;
+                    // var cincr = 0;
+                    svg.append('g')
+                        .attr('class', 'counties')
+                        .selectAll('path')
+                        .data(topojson.feature(missouri, missouri.objects.counties).features)
+                        .enter()
+                        .append('path')
+                        .attr('transform', 'translate(-1970,-900) scale(4)')
+
+                        .attr('fill', function(d) {
+                            // return RGB[Math.floor(Math.random()*4)];
+                            return RGB[d.id];
+                        })
+
+                        .attr('d', path)
+                        .attr('id',function(d){return d.id;})
+                        .attr('style', 'stroke:white; stroke-width:.3px')
+                        .attr('onclick',function(d){return "window.location.assign('/find/#region_"+d.id+"')";})
+                        .append('title').text(function(d){return "Region "+d.id.toUpperCase();})
+                    /*--------------------End of Heat Map ------------------------- */
+                }
+            </script>
+
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_a">
+                            <div class="card-body">
+                                <h4 class="card-title">Region A</h4>
+                                <hr>
+                                <p class="italic">Greater Kansas City Area</p>
+                                <hr>
+                                <p class="card-text">
+
+                                                                        <div class="alert alert-custom-info white-text text-center">
+    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a>.
+</div>                                                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of Region A -->
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_b">
+                            <div class="card-body">
+                                <h4 class="card-title">Region B</h4><hr><p class="italic">Northeast Missouri</p><hr>
+                                <p class="card-text">
+                                                                            <div class="alert alert-custom-info white-text text-center">
+    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a>.
+</div>                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of Region B -->
+                <!-- end of Region B -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_c">
+                            <div class="card-body">
+                                <h4 class="card-title">Region C</h4><hr><p class="italic">Greater St. Louis Area</p><hr>
+                                <p class="card-text">
+                                                                            <div class="row">
+                                            <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">St. Charles<hr>Pfizer and Moderna</div><hr>Jul. 26 from 7:00 am – 1:00 pm<br/><br/>Visionary Vaccination & Health Services<br>2757 Plaza Way, Suite 130<br>St. Charles MO<br><br>Accessibility: Walk-thru <br><div class="alert alert-custom-info mt-4 white-text"><strong>NOTE:</strong> Monday, Wednesday and Friday clinic</div></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="http://www.visionaryvaccinationandhealthservices.com">LOCAL REGISTRATION</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">St. Charles<hr>Pfizer and Moderna</div><hr>Jul. 26 from 1:00 pm – 7:00 pm<br/><br/>Visionary Vaccination & Health Services<br>2757 Plaza Way<br>St. Charles MO<br><br>Accessibility: Walk-thru <br><div class="alert alert-custom-info mt-4 white-text"><strong>NOTE:</strong> Tuesday and Thursday clinic</div></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="http://www.visionaryvaccinationandhealthservices.com">LOCAL REGISTRATION</a></div></div></div></div>                                        </div>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Region c -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_d">
+                            <div class="card-body">
+                                <h4 class="card-title">Region D</h4><hr><p class="italic">Southwest Missouri</p><hr>
+                                <p class="card-text">
+                                                                    <div class="row">
+                                    <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Webster<hr>Moderna and Johnson & Johnson</div><hr>Jul. 26 from 3:00 pm – 4:00 pm<br/><br/>Webster County Health Unit<br>233 E. Washington Street<br>Marshfield MO<br><br>Accessibility: Walk-thru <br><div class="alert alert-custom-info mt-4 white-text"><strong>NOTE:</strong> Weekday clinic (M-F). Call (417) 859-2532.</div></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">LOCAL REGISTRATION</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Greene<hr>Pfizer, Moderna and Johnson & Johnson</div><hr>Jul. 31 from 1:00 pm – 4:00 pm<br/><br/>Missouri State University (Parking Lot 39)<br>699 E. Walnut<br>Springfield MO<br><br>Accessibility: Drive-thru <br><div class="alert alert-custom-info mt-4 white-text"><strong>NOTE:</strong> Enter from Walnut Street between John Q. Hammons Parkway and Kimbrough.</div></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">WALK-IN CLINIC<br>(No appointment required)</a></div></div></div></div>                                </div>
+                                
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of region D -->
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_e" >
+                            <div class="card-body">
+                                <h4 class="card-title">Region E</h4><hr><p class="italic">Southeast Missouri</p><hr>
+                                <p class="card-text">
+                                                                    <div class="row">
+                                    <div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Mississippi<hr>Moderna</div><hr>Jul. 26 from 10:00 am – 3:30 pm<br/><br/>Mississippi County Health Department<br>1200 East Marshall ST<br>Charleston MO<br><br>Accessibility: Walk-thru <br><div class="alert alert-custom-info mt-4 white-text"><strong>NOTE:</strong> Wednesday clinic. Call (573) 683-2191.</div></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">LOCAL REGISTRATION</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Pemiscot<hr>Moderna and Johnson & Johnson</div><hr>Jul. 26 from 8:00 am – 4:00 pm<br/><br/>Pemiscot County Health Center<br>810 East Reed Street<br>Hayti MO<br><br>Accessibility: Walk-thru <br><div class="alert alert-custom-info mt-4 white-text"><strong>NOTE:</strong> Weekday clinic (M-F). Call (573) 359-1656.</div></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="">LOCAL REGISTRATION</a></div></div></div></div><div class="col-md-4 dark mb-3"><div class="card h-100"><div class="card-body"><div class="card-title">Bollinger<hr>Moderna</div><hr>Jul. 26 from 8:30 am – 3:30 pm<br/><br/>Bollinger County Health Center<br>107 Hwy 51 N<br>Marble Hill MO<br><br>Accessibility: Walk-thru and drive-thru<br><div class="alert alert-custom-info mt-4 white-text"><strong>NOTE:</strong> Wednesday clinic</div></div><div class="card-footer"><div class="centered"><a class="btn btn-custom-primary w-100" href="https://forms.gle/QKwkuAp49juXEXgu9">LOCAL REGISTRATION</a></div></div></div></div>                                </div>
+                                                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- end of Region E -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_f">
+                            <div class="card-body">
+                                <h4 class="card-title">Region F</h4><hr><p class="italic">Mid-Missouri</p><hr>
+                                <p class="card-text">
+
+                                                                        <div class="alert alert-custom-info white-text text-center">
+    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a>.
+</div>                                                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of Region F -->
+
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_g">
+                            <div class="card-body">
+                                <h4 class="card-title">Region G</h4><hr><p class="italic">South Central Missouri</p><hr>
+                                <p class="card-text">
+                                                                        <div class="alert alert-custom-info white-text text-center">
+    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a>.
+</div>                                                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- end of region G -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_h">
+                            <div class="card-body">
+                                <h4 class="card-title">Region H</h4><hr><p class="italic">Northwest Missouri</p><hr>
+                                <p class="card-text">
+
+                                                                        <div class="alert alert-custom-info white-text text-center">
+    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a>.
+</div>                                                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of region H -->
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card bg-light dark mt-4" id="region_i">
+                            <div class="card-body">
+                                <h4 class="card-title">Region I</h4><hr><p class="italic">South Central Missouri</p><hr>
+                                <p class="card-text">
+
+                                                                        <div class="alert alert-custom-info white-text text-center">
+    To view vaccination opportunities in this area, please use the <a href="/find/#vaccine-finder" class="white-link">VaccineFinder tool</a>.
+</div>                                                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of region I -->
+            </div>
+        </div>
+        <!-- End of Events -->
+
+        <!-- Start of Navigator -->
+        <div id="display_mvn">
+            <div class="container">
+                <h2 class="dark centered">Missouri's Vaccine Navigator</h2><hr>
+                <img class="img-fluid col-md-10 offset-md-1" style="margin-top:25px;" src="/img/Nagivator-Logo.png" alt="Navigator logo">
+                <div class="centered">
+                    <p class="col-md-8 offset-md-2 mt-4 dark">The Missouri Vaccine Navigator is intended to help individuals navigate the COVID-19 vaccination process. This tool may not capture every event in your area, so we encourage you to engage with your local public health officials and health care facilities to learn more.</p>
+                    <!-- <div class="alert alert-custom-info col-md-8 offset-md-2 white-text"><strong>Important Note:</strong>  We encourage individuals to register online if they have the ability. To ensure that the vaccine is available to all, regardless of internet and computer access, we have staff available to help individuals register through our COVID-19 hotline at
+                         (877) 435-8411.</div> -->
+                    <a href='https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt' target="_blank" class="btn btn-custom-primary mb-4 mt-4 col-md-6">REGISTER NOW</a>
+                    <div class="row centered">
+                        <a href='https://modhss.iad1.qualtrics.com/jfe/form/SV_8IfbBbQEAdzIxue' target="_blank" class="btn btn-custom-primary offset-md-2 mb-4 col-md-4 ">Update my Information</a>
+                        <a href='https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa ' target="_blank" class="btn btn-custom-primary mb-4 ml-1 col-md-4 ">Make an Appointment</a>
+                    </div>
+                </div>
+
+
+                <div class="alert alert-custom-info white-text centered">
+                    <h2>Important Note:</h2>
+                    We encourage individuals to register online if they have the ability. To ensure that the vaccine is available to all Missourians, regardless of internet and computer access, we have staff available to help individuals register through our COVID-19 hotline at <span class=" d-none d-sm-none d-md-block">(877) 435-8411.</span><a href="tel:8774358411" class=" d-sm-block d-md-none d-lg-none d-xl-none white-text">(877) 435-8411.</a>
+                </div>
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="jumbotron centered col-md-5 ">
+                            <p class="purple-haze">
+                                Step 1
+                            </p>
+                            <h3 class="dark">Registration</h3><p class="dark">Sign up to receive a patient ID number, which will help you enter the scheduling feature of the Navigator.</p>
+                            <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_1" >learn more</button>
+
+                        </div>
+                        <div class="jumbotron centered col-md-5 offset-md-2">
+                            <p class="purple-haze">
+                                Step 2
+                            </p>
+                            <h3 class="dark">Schedule</h3><p class="dark">Identify events in your area, and Make an Appointment.</p><br>
+                            <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_2" >learn more</button>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="jumbotron centered col-md-5 ">
+                            <p class="purple-haze">
+                                Step 3
+                            </p>
+                            <h3 class="dark">Begin Vaccination</h3><p class="dark">Receive Dose 1 of the COVID-19 <br>vaccine.</p>
+                            <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_3" >learn more</button>
+
+                        </div>
+                        <div class="jumbotron centered col-md-5 offset-md-2">
+                            <p class="purple-haze">
+                                Step 4
+                            </p>
+                            <h3 class="dark">Get Second Dose</h3><p class="dark">Return to the same provider for Dose 2 of the vaccine (Moderna or Pfizer only).</p>
+                            <button class="col-sm-12 col-xs-12 col-md-12  btn btn-custom-primary mt-4" data-toggle="modal" data-target="#step_4" >learn more</button>
+                        </div>
+                    </div>
+
+                    <h2 id="faq" class="fact-heading">Resident FAQs</h2>
+                    <div class="accordion mb-5" id="accordionExamplec">
+
+
+                        <div class="card">
+                            <div class="card-header" id="headingThreec" data-toggle="collapse" tabindex="0"
+                                 data-target="#collapseThreec" aria-expanded="false" aria-controls="collapseThreec">
+                                <h4>
+                                    What happens if I do not have an email?
+                                    <span class="accordion-arrows float-right">
+                              <i class="fas fa-angle-up hide"></i>
+                              <i class="fas fa-angle-down"></i>
+                          </span>
+                                </h4>
+                            </div>
+                            <div id="collapseThreec" class="collapse" aria-labelledby="headingThreec" data-parent="#accordionExamplec">
+                                <div class="card-body dark">
+                                    If you do not have an email, please provide a cell phone or landline so our COVID-19
+                                    Hotline team can reach out to you to schedule your appointment
+                                    for you when you are eligible.
+                                    <ul class="igul dark">
+                                        <li>If you provided a cell phone number for a smart phone, then you will still receive all the scheduled appointment and vaccination received confirmations</li>
+                                        <li>If you provided only a landline or cell phone number for a non-smart phone, then you will need to contact the COVID-19 Hotline at (877) 435-8411 to have your scheduled appointment or vaccination confirmation information provided verbally over the phone</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="card">
+                            <div class="card-header" id="headingThree-RFS" data-toggle="collapse" tabindex="0"
+                                 data-target="#collapseThree-RFS" aria-expanded="false" aria-controls="collapseThree-RFS">
+                                <h4>
+                                    What do I do if I do not see any available appointments?
+                                    <span class="accordion-arrows float-right">
+                              <i class="fas fa-angle-up hide"></i>
+                              <i class="fas fa-angle-down"></i>
+                          </span>
+                                </h4>
+                            </div>
+                            <div id="collapseThree-RFS" class="collapse" aria-labelledby="headingThree-RFS" data-parent="#accordionExamplec">
+                                <div class="card-body dark">
+                                    •	If there are no appointments on your scheduling page, select “None of these appointments work for me” to receive a reminder to schedule at a later date. Additionally, new appointments are added every day so please check back periodically using the scheduling link provided in your invite email or <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa " target="_blank">click here</a>.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- The Modal 1-->
+                    <div class="modal" id="step_1">
+                        <div class="modal-dialog ">
+                            <div class="modal-content">
+
+                                <!-- Modal Header -->
+                                <div class="modal-header bg-purple">
+                                    <div  class="modal-title white-text centered">
+                                        <h4>Step 1:</h4>
+                                        Complete registration to receive a patient ID number.
+                                    </div>
+
+                                    <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
+                                </div>
+
+                                <!-- Modal body -->
+                                <div class="modal-body">
+                                    <ul class="igul dark">
+
+                                        <li>Complete the online form to register for a COVID-19 vaccine</li>
+                                        <li>You will be asked to provide the following:
+                                            <ul>
+                                                <li>Information about you and your medical history</li>
+                                                <li>Contact information you check often, so you can be reached to make an appointment</li>
+                                            </ul>
+                                        </li>
+                                        <li>All information is confidential and will only be shared as appropriate</li>
+                                        <li>You will receive an email confirmation once your registration is successfully completed</li>
+                                        <li><a id="nav_faq" >Click here to view our frequently asked questions</a></li>
+                                        <li><a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_231d5TxZxkGedCt" target="_blank">Click here to register</a></li>
+
+
+                                    </ul>
+                                </div>
+
+                                <!-- Modal footer -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- The Modal 2-->
+                    <div class="modal" id="step_2">
+                        <div class="modal-dialog ">
+                            <div class="modal-content">
+
+                                <!-- Modal Header -->
+                                <div class="modal-header bg-purple">
+                                    <div  class="modal-title white-text centered">
+                                        <h4>Step 2:</h4>
+                                        Make an Appointment
+                                    </div>
+                                    <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
+                                </div>
+
+                                <!-- Modal body -->
+                                <div class="modal-body">
+                                    <ul class="igul dark">
+                                        <li>You will get a text or email from our system to Make an Appointment. You can also Make an Appointment using your patient ID number by <a href="https://modhss.iad1.qualtrics.com/jfe/form/SV_2f55QmF3Cq7VTAa " target="_blank">clicking here.</a></li>
+                                        <li>Once you make your appointment, you will be asked to print a confirmation to bring to your appointment
+                                            <ul>
+                                                <li>If you do not have access to a printer, you may also show your confirmation using a device with internet access</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+
+                                </div>
+
+                                <!-- Modal footer -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- The Modal 3-->
+                    <div class="modal" id="step_3">
+                        <div class="modal-dialog ">
+                            <div class="modal-content">
+
+                                <!-- Modal Header -->
+                                <div class="modal-header bg-purple">
+                                    <div  class="modal-title white-text centered">
+                                        <h4>Step 3:</h4>
+                                        Receive dose 1 of the COVID-19 vaccine
+                                    </div>
+                                    <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
+                                </div>
+
+                                <!-- Modal body -->
+                                <div class="modal-body">
+                                    <ul class="igul dark">
+                                        <li>	Bring your confirmation information to your appointment by printing or ensuring easy access from your device</li>
+                                        <li>	At your scheduled time and date, go to the designated location and follow instructions</li>
+                                        <li>	Please wear your face covering and remember to stay 6 feet apart</li>
+                                    </ul>
+                                </div>
+
+                                <!-- Modal footer -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- The Modal 4-->
+                    <div class="modal" id="step_4">
+                        <div class="modal-dialog ">
+                            <div class="modal-content">
+
+                                <!-- Modal Header -->
+                                <div class="modal-header bg-purple">
+                                    <div  class="modal-title white-text centered">
+                                        <h4>Step 4:</h4>
+                                        Receive dose 2 of the COVID-19 vaccine
+                                    </div>
+                                    <button type="button" class="close white-text" data-dismiss="modal">&times;</button>
+                                </div>
+
+                                <!-- Modal body -->
+                                <div class="modal-body">
+                                    <ul class="igul dark">
+                                        <li>You need two doses of the Pfizer and Moderna vaccines to protect you from the virus. A second dose of Pfizer can be scheduled at least 21 days after the first dose, and a second dose of Moderna can be scheduled at least 28 days after the first dose. Johnson & Johnson’s Janssen vaccine is one dose only.</li>
+                                        <li>You will receive a text or email with instructions on returning for your second dose</li>
+                                        <li>Continue to practice the 3 Ws:
+                                            <ul>
+                                                <li>Wash your hands</li>
+                                                <li>Wear your face covering</li>
+                                                <li>Watch your distance</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <!-- Modal footer -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-custom-primary" data-dismiss="modal">Close</button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        </div>
+        <!-- End of Navigator -->
+
+        <!-- Start of Local Vaccinators(was /map) -->
+        <!-- <div id="display_mlv">
+          <div class="container">
+            <h2 class="dark centered">Missouri's Local Vaccinators</h2><hr>
+              <div class="row">
+                  <div class="col">
+                      <div class="alert alert-custom-info mt-4"style="color:white;">
+                          <p>
+                              <i class="fas fa-info-circle" style="font-size:30px; "></i><br>
+                              The state of Missouri is still experiencing a limited supply of COVID-19 vaccines.
+                              Call providers or visit their website before visiting.
+                          </p>
+                          <p>Because vaccinators are listed here does </strong>NOT</strong> mean:</p>
+                          <ol>
+                              <li>The identified provider has any vaccine on hand or ability to order at this time.</li>
+                              <li>The identified provider has an intent to publicly distribute vaccine.</li>
+                          </ol>
+                          <div class='centered'>
+                              <a href="/find/Approved-Vaccinators.pdf" class="btn btn-custom-primary" target="_blank">Printable Map Directory<br>(sorted by county)</a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
           </div>
-      </div> -->
-      <!-- End of Local Vaccinators(was /map) -->
-      <!-- Start of More info -->
-      <div class="centered"><h3 class="dark">There are two ways to get the vaccine. It’s your choice.<br>
-      Have more questions? Call us at 877-435-8411.</h3></div>
-      <!-- <h2 class="dark centered" id="moinfo">More Information</h2><hr> -->
 
-      <div class="row centered col-md-12 mt-4 mb-4">
-        <!-- <div class="col-md-4">
-          <figure class="figure">
-            <img src="/img/album-mve.png" class="figure-img img-fluid rounded" alt="">
-            <figcaption class="figure-caption text-center pl-1 pr-1">More events are now taking walk-ins. Find an event, big or small, here.
-               <br><a class="btn btn-gray" onclick="refresh('events')">Find a Vaccine</a></figcaption>
-          </figure>
+
+            <div class="embed-responsive embed-responsive-1by1 ">
+              <iframe class="embed-responsive-item" src="https://arcg.is/140SvG" allowfullscreen></iframe>
+            </div>
         </div> -->
+        <!-- End of Local Vaccinators(was /map) -->
+        <!-- Start of More info -->
+        <div class="centered"><h3 class="dark">There are two ways to get the vaccine. It’s your choice.<br>
+                Have more questions? Call us at 877-435-8411.</h3></div>
+        <!-- <h2 class="dark centered" id="moinfo">More Information</h2><hr> -->
 
-        <div class="col-md-4 offset-md-2">
-          <figure class="figure">
-            <img src="/img/album-mvn.png" class="figure-img img-fluid rounded" alt="">
-            <figcaption class="figure-caption text-center pl-1 pr-1">Register on the Navigator and we will reach out to you with available appointments.<br><br>
-               <a class="btn btn-gray" onclick="refresh('navigator')">Find a Vaccine</a></figcaption>
-          </figure>
+        <div class="row centered col-md-12 mt-4 mb-4">
+            <div class="col-md-4 mb-2">
+              <figure class="figure h-100">
+                <img src="/img/album-mve2.jpg" class="figure-img img-fluid rounded" alt="">
+                <figcaption class="figure-caption text-center pl-1 pr-1">More events are now taking walk-ins. Find an event, big or small, here.
+                   <br><br/><br/>
+                    <a class="btn btn-gray" onclick="refresh('events')">Find a Vaccine</a></figcaption>
+              </figure>
+            </div>
+
+            <div class="col-md-4 mb-2">
+                <figure class="figure h-100">
+                    <img src="/img/album-vf2.jpg" class="figure-img img-fluid rounded" alt="">
+                    <figcaption class="figure-caption text-center pl-1 pr-1">Check out the most up-to-date list of vaccinators with supply in your area to schedule with them directly.
+                        <br><br/>
+                        <a class="btn btn-gray" onclick="refresh('vaccine-finder')">Find a Vaccine</a></figcaption>
+                </figure>
+            </div>
+
+            <div class="col-md-4 mb-2">
+                <figure class="figure h-100">
+                    <img src="/img/album-mvn2.jpg" class="figure-img img-fluid rounded" alt="">
+                    <figcaption class="figure-caption text-center pl-1 pr-1">
+                        The Missouri Vaccine Navigator will be phased out starting in August because of a significant
+                        increase in vaccine access since early 2021.<br/>
+                        <a class="btn btn-gray" onclick="refresh('navigator')">Find a Vaccine</a></figcaption>
+                </figure>
+            </div>
+
+            <!-- <div class="col-md-3">
+              <figure class="figure">
+                <img src="/img/album-mlv.png" class="figure-img img-fluid rounded" alt="">
+                <figcaption class="figure-caption text-center pl-1 pr-1">Our vaccinator map can help you and your family identify local providers. Call providers before visiting.<br>
+                  <a class="btn btn-gray" onclick="refresh('map')">Find a Vaccine</a></figcaption>
+              </figure>
+            </div> -->
+
+
         </div>
-
-      <!-- <div class="col-md-3">
-        <figure class="figure">
-          <img src="/img/album-mlv.png" class="figure-img img-fluid rounded" alt="">
-          <figcaption class="figure-caption text-center pl-1 pr-1">Our vaccinator map can help you and your family identify local providers. Call providers before visiting.<br>
-            <a class="btn btn-gray" onclick="refresh('map')">Find a Vaccine</a></figcaption>
-        </figure>
-      </div> -->
-
-      <div class="col-md-4">
-        <figure class="figure">
-          <img src="/img/album-vf.png" class="figure-img img-fluid rounded" alt="">
-          <figcaption class="figure-caption text-center pl-1 pr-1">Check out the most up-to-date list of vaccinators with supply in your area to schedule with them directly.
-            <br><a class="btn btn-gray" onclick="refresh('vaccine-finder')">Find a Vaccine</a></figcaption>
-        </figure>
-       </div>
-      </div>
-      <div class="col-md-8 offset-md-2 centered">Missouri is now vaccinating those age 12 and up.<br><a href="/facts/" class="btn btn-custom-primary centered mt-4">Get the Facts</a></div>
-      <!-- End of More info -->
+        <div class="col-md-8 offset-md-2 centered">Missouri is now vaccinating those age 12 and up.<br><a href="/facts/" class="btn btn-custom-primary centered mt-4">Get the Facts</a></div>
+        <!-- End of More info -->
     </div>
 
 
 </div>
 
-    <footer>
+<footer>
     <div id="socialMediaContainer">
         <div class="container text-center">
             <a href="https://www.facebook.com/HealthyLivingMo/">
@@ -599,7 +891,7 @@ ga('send', 'pageview');
     </div>
 </footer>
 
-    <button id="backToTopButton" class="btn btn-custom-primary">
+<button id="backToTopButton" class="btn btn-custom-primary">
     <i class="fas fa-angle-up"></i>
     <br/>
     <span style="">Top</span>
@@ -855,141 +1147,139 @@ ga('send', 'pageview');
 
 <script>
 
-  function refresh(hash){
-    if(!hash.includes("#")){
-      hash= "#"+hash;
+    function refresh(hash){
+        if(!hash.includes("#")){
+            hash= "#"+hash;
+        }
+        hash = hash.toLowerCase();
+        if(hash == '#events' || hash == '#navigator' || hash == '#map' || hash == '#vaccine-finder'){
+            window.location.assign('/find/'+hash);
+            location.reload();
+            $('#backToTopButton').click();
+        }
     }
-    hash = hash.toLowerCase();
-    if(hash == '#navigator' || hash == '#map' || hash == '#vaccine-finder'){
-      // below was for if events come back
-    // if(hash == '#events' || hash == '#navigator' || hash == '#map' || hash == '#vaccine-finder'){
-      window.location.assign('/find/'+hash);
-      location.reload();
-      $('#backToTopButton').click();
-      }
-    }
-  $(document).ready(function(){
-    $('#map').click(function(){
-      window.location.assign('/find/#map');
-      location.reload();
+    $(document).ready(function(){
+        $('#map').click(function(){
+            window.location.assign('/find/#map');
+            location.reload();
+        });
+        $('#nav_faq').click(function(){
+            $('#step_1').modal('hide');
+            window.location.assign('/find/#faq');
+        });
     });
-    $('#nav_faq').click(function(){
-      $('#step_1').modal('hide');
-      window.location.assign('/find/#faq');
-    });
-  });
     function lookingGlass(){
-      var selected_option = $('#options').find(":selected").val()
-      window.location.assign('/find/#'+selected_option);
-      location.reload();
+        var selected_option = $('#options').find(":selected").val()
+        window.location.assign('/find/#'+selected_option);
+        location.reload();
     }
-  $(document).ready(function(){
-    $('#display_vf').hide();
-    // $('#display_mve').hide();
-    $('#display_mvn').hide();
-    $('#display_mlv').hide();
-    var anchor;
-    anchor = window.location.hash;
-    if(anchor == "" ){
-      $('#options>option:eq(0)').prop('selected', true);
-    }else if(anchor == "#vaccine-finder"){
-        $('#options>option:eq(1)').prop('selected', true);
-        $('#display_vf').show();
-    // }else if(anchor == '#events'){
-    //   $('#options>option:eq(2)').prop('selected', true);
-    //   $('#display_mve').show();
-    }else if(anchor == '#navigator'){
-      $('#options>option:eq(3)').prop('selected', true);
-      $('#display_mvn').show();
-    }else if(anchor == '#map'){
-      $('#options>option:eq(4)').prop('selected', true);
-      $('#display_mlv').show();
-    }
-  });
-
-  function formatVaccine(){
-    var error=0;
-    var vac_count=0;
-    var msg="";
-    var medications="";
-    var radius="";
-    var zip;
-    var url="https://vaccinefinder.org/results/?"
-
-    if($('input#moderna').is(':checked')){
-      if($('input#moderna').attr('value') == '779bfe52-0dd8-4023-a183-457eb100fccc'){
-        medications += $('input#moderna').attr('value')+','
-        vac_count++
-      }else{
-        error++
-        msg="Whoops!, looks like something has gone wrong. Please try again."
-      }
-    }
-    if($('input#pfizer').is(':checked')){
-      if($('input#pfizer').attr('value') == 'a84fb9ed-deb4-461c-b785-e17c782ef88b'){
-        medications += $('input#pfizer').attr('value')+','
-        vac_count++
-      }else{
-        error++
-        msg="Whoops!, looks like something has gone wrong. Please try again."
-      }
-    }
-    if($('input#johnson').is(':checked')){
-      if($('input#johnson').attr('value') == '784db609-dc1f-45a5-bad6-8db02e79d44f'){
-        medications += $('input#johnson').attr('value')+',';
-        vac_count++
-      }else{
-        error++
-        msg="Whoops!, looks like something has gone wrong. Please try again."
-      }
-    }
-    if(vac_count<=0){
-      error++
-      msg= 'Please select a vaccine, and try again.';
-    }
-
-    if(parseInt($('#zip_code').val())>=63001 && parseInt($('#zip_code').val())<=65899){
-        zip=$('#zip_code').val();
+    $(document).ready(function(){
+        $('#display_vf').hide();
+        $('#display_mve').hide();
+        $('#display_mvn').hide();
+        $('#display_mlv').hide();
+        var anchor;
+        anchor = window.location.hash;
+        if(anchor == "" ){
+            $('#options>option:eq(0)').prop('selected', true);
+        }else if(anchor == "#vaccine-finder"){
+            $('#options>option:eq(1)').prop('selected', true);
+            $('#display_vf').show();
+        }else if(anchor == '#events'){
+            $('#options>option:eq(2)').prop('selected', true);
+            $('#display_mve').show();
+        }else if(anchor == '#navigator'){
+            $('#options>option:eq(3)').prop('selected', true);
+            $('#display_mvn').show();
+        }else if(anchor == '#map'){
+            $('#options>option:eq(4)').prop('selected', true);
+            $('#display_mlv').show();
         }
-    else{
-      error++
-      msg = 'Please select a zipcode between (63001)-(65899)';
-    }
-    if(parseInt($('#rad').val())>=1 && parseInt($('#rad').val())<=50){
-          if(parseInt($('#rad').val())==1){
-            radius=$('#rad').val();
-          }
-          if(parseInt($('#rad').val())>1 && parseInt($('#rad').val())<=5){
-            radius=5;
-          }
-          if(parseInt($('#rad').val())>5 && parseInt($('#rad').val())<=10){
-            radius=10;
-          }
-          if(parseInt($('#rad').val())>10 && parseInt($('#rad').val())<=25){
-            radius=25;
-          }
-          if(parseInt($('#rad').val())>=50){
-            radius=50;
-          }
+    });
+
+    function formatVaccine(){
+        var error=0;
+        var vac_count=0;
+        var msg="";
+        var medications="";
+        var radius="";
+        var zip;
+        var url="https://vaccinefinder.org/results/?"
+
+        if($('input#moderna').is(':checked')){
+            if($('input#moderna').attr('value') == '779bfe52-0dd8-4023-a183-457eb100fccc'){
+                medications += $('input#moderna').attr('value')+','
+                vac_count++
+            }else{
+                error++
+                msg="Whoops!, looks like something has gone wrong. Please try again."
+            }
+        }
+        if($('input#pfizer').is(':checked')){
+            if($('input#pfizer').attr('value') == 'a84fb9ed-deb4-461c-b785-e17c782ef88b'){
+                medications += $('input#pfizer').attr('value')+','
+                vac_count++
+            }else{
+                error++
+                msg="Whoops!, looks like something has gone wrong. Please try again."
+            }
+        }
+        if($('input#johnson').is(':checked')){
+            if($('input#johnson').attr('value') == '784db609-dc1f-45a5-bad6-8db02e79d44f'){
+                medications += $('input#johnson').attr('value')+',';
+                vac_count++
+            }else{
+                error++
+                msg="Whoops!, looks like something has gone wrong. Please try again."
+            }
+        }
+        if(vac_count<=0){
+            error++
+            msg= 'Please select a vaccine, and try again.';
+        }
+
+        if(parseInt($('#zip_code').val())>=63001 && parseInt($('#zip_code').val())<=65899){
+            zip=$('#zip_code').val();
+        }
+        else{
+            error++
+            msg = 'Please select a zipcode between (63001)-(65899)';
+        }
+        if(parseInt($('#rad').val())>=1 && parseInt($('#rad').val())<=50){
+            if(parseInt($('#rad').val())==1){
+                radius=$('#rad').val();
+            }
+            if(parseInt($('#rad').val())>1 && parseInt($('#rad').val())<=5){
+                radius=5;
+            }
+            if(parseInt($('#rad').val())>5 && parseInt($('#rad').val())<=10){
+                radius=10;
+            }
+            if(parseInt($('#rad').val())>10 && parseInt($('#rad').val())<=25){
+                radius=25;
+            }
+            if(parseInt($('#rad').val())>=50){
+                radius=50;
+            }
 
         }
-    else{
-      error++
-      msg = 'Please select a range from 1-50 miles';
-    }
+        else{
+            error++
+            msg = 'Please select a range from 1-50 miles';
+        }
 
-    if(error >= 1){
-        $('#errors').html('<div class="alert alert-custom-info white-text">'+msg+'</div>');
-    }else{
-    url += 'zipcode='+zip+'&medications='+medications+'&radius='+radius;
-    findVaccine(url);
+        if(error >= 1){
+            $('#errors').html('<div class="alert alert-custom-info white-text">'+msg+'</div>');
+        }else{
+            url += 'zipcode='+zip+'&medications='+medications+'&radius='+radius;
+            findVaccine(url);
+        }
     }
-  }
-  function findVaccine(url){
-      window.open(url,'_blank');
+    function findVaccine(url){
+        window.open(url,'_blank');
     }
 
 </script>
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=94993219"></script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2106668883"></script>
 </body>
 </html>
