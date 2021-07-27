@@ -22851,38 +22851,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "5360cf66-e3af-408c-b35e-b1d2daf9ecf4",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Hobart High School VAX",
-                "OBJECTID": 969,
-                "Promote_Name": "Hobart High School VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46342</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "2211 E. 10th St, Hobart, IN 46342",
-                "Site_County": "Lake",
-                "Site_Location_Info": "This is a mobile site June 14 – 17, 9am – 6pm. This site has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Hobart High School VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.23197417207865,
-                "y": 41.51952473610122
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "5f5e5280-df0c-453e-88f0-6c1a9e8c6e73",
                 "ID": null,
                 "IsView": 1,
@@ -32323,38 +32291,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "e386f94b-ea0e-40e4-856c-823e396cdc3b",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Mt Pisgah Baptist Church VAX",
-                "OBJECTID": 1278,
-                "Promote_Name": "Mt Pisgah Baptist Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46176</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "3718 E. Blue Ridge Rd, Shelbyville, IN 46176",
-                "Site_County": "Shelby",
-                "Site_Location_Info": "This is a mobile site June 23 – 25, 9am – 6pm.",
-                "Site_Name": "Mt Pisgah Baptist Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.7097997814594,
-                "y": 39.51996487655095
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "8df4d884-c47a-407a-bb1f-9ac1fcb363d5",
                 "ID": null,
                 "IsView": 1,
@@ -32611,134 +32547,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "14e26d67-62ee-49b2-9885-b82d960ee041",
-                "ID": null,
-                "IsView": 1,
-                "Name": "MONROE COUNTY",
-                "OBJECTID": 1301,
-                "Promote_Name": "Harrodsburg Community Center VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47403</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1002 W. Popcorn Road, Bloomington, IN  47403",
-                "Site_County": "Monroe",
-                "Site_Location_Info": "This is a mobile clinic June 23 – 25 and July 14 – 16, 9am to 6pm. This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Harrodsburg Community Center VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov/",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.54838412054059,
-                "y": 39.01223701482807
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "b7dca7d4-cbfd-4e63-bb87-9395d6fa4501",
-                "ID": "ISDH2087",
-                "IsView": 1,
-                "Name": "Spencer County 4-H Fair VAX",
-                "OBJECTID": 1302,
-                "Promote_Name": "Spencer County 4-H Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47611</a> ",
-                "Promote_Site": "Y",
-                "Site_Address": "1101 E County Road 800 N, CHRISNEY,  IN 47611",
-                "Site_County": "Spencer",
-                "Site_Location_Info": "This is a mobile clinic ONE day only, June 26, noon – 6pm.   This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Spencer County 4-H Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.03457085914356,
-                "y": 38.002819788550184
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "6ea25247-a9b9-4d44-b490-77a769dc5dfd",
-                "ID": "ISDH2088",
-                "IsView": 1,
-                "Name": "Minority Health Fair VAX",
-                "OBJECTID": 1303,
-                "Promote_Name": "Minority Health Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46225</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "Indiana Convention Center – Hall J, 100 S. Capital Ave, Indianapolis, IN  46225",
-                "Site_County": "Marion",
-                "Site_Location_Info": "This is a mobile clinic on July 16 & 17, 10am – 7pm and July 18 noon – 6pm.  This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Minority Health Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-ins accepted",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.16215479672941,
-                "y": 39.76485518701416
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "e085c184-1c89-490a-849d-3cc5f15bbe94",
-                "ID": "ISDH1945",
-                "IsView": 1,
-                "Name": "Allen Temple AME Church VAX",
-                "OBJECTID": 1304,
-                "Promote_Name": "Allen Temple AME Church VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46953</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "3440 S. Washington S., Marion, IN 46953",
-                "Site_County": "Grant",
-                "Site_Location_Info": "This is a mobile site June 23 & 24, 9am – 6pm. This clinic has Pfizer.",
-                "Site_Name": "Allen Temple AME Church VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.66300180557691,
-                "y": 40.52830201862512
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "a9b2ed01-0e3b-47b8-9131-4b9978898034",
                 "ID": "ISDH2062",
                 "IsView": 1,
@@ -32766,38 +32574,6 @@
                 },
                 "x": -85.0971029805271,
                 "y": 41.185791000638346
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "80f00d0e-ace1-4315-ad4e-b621d25b812e",
-                "ID": "ISDH2090",
-                "IsView": 1,
-                "Name": "Crawford County Fair VAX",
-                "OBJECTID": 1306,
-                "Promote_Name": "Crawford County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47140</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1095 IN-66 Marengo, IN  47140",
-                "Site_County": "Crawford",
-                "Site_Location_Info": "This is a mobile site June 24 & 25 4pm – 8pm and June 26 10am – 4pm. This site has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Crawford County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.35799911752152,
-                "y": 38.32011996480992
             }
         },
         {
