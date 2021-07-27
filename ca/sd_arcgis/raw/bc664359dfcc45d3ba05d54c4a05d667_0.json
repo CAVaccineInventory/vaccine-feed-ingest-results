@@ -3,11 +3,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290894100,
-                "GlobalID": "46ddc49c-54df-4155-b849-f1a8d9e477cb",
+                "EditDate": 1627387462523,
+                "GlobalID": "68acc3fe-abaf-48fb-bd0e-8089a3076d5f",
                 "Instructions": null,
                 "Notes": "covid19vaccine@rchsd.org",
-                "OBJECTID": 42155,
+                "OBJECTID": 43051,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Rady's",
                 "fulladdr": "8001 Frost Street, San Diego, CA 92123",
@@ -38,11 +38,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290897450,
-                "GlobalID": "1e2f821d-6dce-40c4-8ec3-813689468e66",
+                "EditDate": 1627387467638,
+                "GlobalID": "13ccab98-0164-4ad3-a365-4c429286eb73",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42169,
+                "OBJECTID": 43065,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "690 Oxford St, Chula Vista, CA 91911",
@@ -73,11 +73,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290898739,
-                "GlobalID": "a65a597d-68e1-48b3-94d3-e2b2f7397ed2",
+                "EditDate": 1627387468904,
+                "GlobalID": "07e75f65-a20f-4e1d-abe8-c57617a7ab61",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42173,
+                "OBJECTID": 43069,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "367 N. Magnolia Ave, El Cajon, CA 92020",
@@ -108,11 +108,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290903038,
-                "GlobalID": "b8186b6d-5c21-482a-b134-a969682c7a09",
+                "EditDate": 1627387474555,
+                "GlobalID": "b863d243-904d-4862-94e6-3fb014e43e3c",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42189,
+                "OBJECTID": 43085,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "1401 Hanson Ln, Ramona, CA 92065",
@@ -121,8 +121,8 @@
                 "municipality": "Ramona",
                 "name": "Operation Collaboration - Ramona High School",
                 "name_spanish": "Sitios del consorcio Operation Collaboration - Escuela Preparatoria de Ramona",
-                "operhours": "Monday 07/26: 9 AM - 4 PM",
-                "operhours_spanish": "lunes 07/26: 9 AM - 4 PM",
+                "operhours": "Monday 08/02: 9 AM - 4 PM",
+                "operhours_spanish": "lunes 08/02: 9 AM - 4 PM",
                 "partnership_desc": "Operation Collaboration",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
@@ -143,11 +143,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290905204,
-                "GlobalID": "6addbffb-85c3-47d2-8088-13f7c989c296",
+                "EditDate": 1627387476636,
+                "GlobalID": "9e4ceb4f-e55b-49c1-bb1e-ca54bdcf1f0e",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42195,
+                "OBJECTID": 43091,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "2001 Tavern Rd, Alpine, CA 91901",
@@ -178,11 +178,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290905779,
-                "GlobalID": "f64f23ac-6b55-4e7d-be82-f8fcb47545f3",
+                "EditDate": 1627387477382,
+                "GlobalID": "18594b36-9ecd-4da0-812b-63d57d55b259",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42197,
+                "OBJECTID": 43093,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "28751 Cole Grade Rd, Valley Center, CA 92082",
@@ -213,11 +213,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290907332,
-                "GlobalID": "7b95757e-c984-49b3-a405-fa843933f993",
+                "EditDate": 1627387479607,
+                "GlobalID": "5ee5205a-6df0-4d3f-b334-e6eed92508d3",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42203,
+                "OBJECTID": 43099,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "600 North Santa Fe Ave, Vista, CA 92084",
@@ -248,11 +248,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290915666,
-                "GlobalID": "afc90bf3-10cd-41df-a04a-04caf4894e92",
+                "EditDate": 1627387487391,
+                "GlobalID": "4f4ff6c9-1b37-443c-934a-6fb5e6bb9f66",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42229,
+                "OBJECTID": 43125,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "1636 E. Mission Rd, Fallbrook, CA 92028",
@@ -283,11 +283,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290916493,
-                "GlobalID": "41c85ce8-f40e-4d28-91a7-d1930cfe5475",
+                "EditDate": 1627387487984,
+                "GlobalID": "95838377-2d8f-4cd1-8a8f-6b052f29848a",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42231,
+                "OBJECTID": 43127,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "1701 Mission Ave, Oceanside, CA 92058",
@@ -318,11 +318,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290918270,
-                "GlobalID": "815fb02d-224a-4e0c-942a-9793ed6f7474",
+                "EditDate": 1627387489962,
+                "GlobalID": "26a825ab-b6d2-48c7-8272-9ea25ffd4d8f",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42239,
+                "OBJECTID": 43135,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "4343 Ocean View Blvd, San Diego, CA 92113",
@@ -353,11 +353,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290930483,
-                "GlobalID": "63abebbd-6401-4e63-97f0-42ec8be7b598",
+                "EditDate": 1627387500687,
+                "GlobalID": "06006501-f4e8-4ad8-912d-d60ba4f4164f",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42277,
+                "OBJECTID": 43173,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "404 Euclid Ave, San Diego, 92114",
@@ -388,11 +388,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290937969,
-                "GlobalID": "4d3440f9-9486-49cc-959f-fda45fcf2ee7",
+                "EditDate": 1627387506943,
+                "GlobalID": "276ba4ca-0264-4b28-ae4c-efe7d447c634",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42299,
+                "OBJECTID": 43195,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "836 Kempton St, Spring Valley, CA 91977",
@@ -423,11 +423,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290957982,
-                "GlobalID": "63a17576-d2b8-44f1-89ab-91f0cbad846f",
+                "EditDate": 1627387526867,
+                "GlobalID": "6f335430-6e0f-451f-ad3b-6ff0afa05962",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42365,
+                "OBJECTID": 43261,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "649 W. Mission Ave, Escondido, CA 92025",
@@ -458,11 +458,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290996668,
-                "GlobalID": "f24246ba-8d14-4b08-974d-3f93160c0dc8",
+                "EditDate": 1627387559461,
+                "GlobalID": "bf38005e-d4ab-4ebe-975f-22e224c096c3",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42479,
+                "OBJECTID": 43375,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Sharp",
                 "fulladdr": "8851 Center Drive, Suite 600 La Mesa, CA 91942",
@@ -493,11 +493,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290997735,
-                "GlobalID": "327c145c-c3b1-4658-99fe-4632849f8ce5",
+                "EditDate": 1627387559953,
+                "GlobalID": "9b0b206d-bc60-45bd-ae69-522c929ec40c",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42481,
+                "OBJECTID": 43377,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Sharp",
                 "fulladdr": "230 Prospect Place, Suite 110, Coronado, CA 92118",
@@ -528,11 +528,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627290999447,
-                "GlobalID": "4d23772c-c94b-496f-ab20-822e8c664c89",
+                "EditDate": 1627387560869,
+                "GlobalID": "4102c039-2e4b-4371-9090-e3171d3e1147",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42485,
+                "OBJECTID": 43381,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "5560 Overland Ave, San Diego, CA 92123",
@@ -563,11 +563,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627291003497,
-                "GlobalID": "69dc863d-271a-4ea2-9320-7d80204cb49a",
+                "EditDate": 1627387564094,
+                "GlobalID": "c7503f06-d8a4-4ee6-9373-895161a14956",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42497,
+                "OBJECTID": 43393,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "1 Tiger Way, San Marcos, CA 92069",
@@ -598,46 +598,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627291007747,
-                "GlobalID": "43eb1541-f2ad-4c93-8798-92d38f10ef39",
+                "EditDate": 1627387568390,
+                "GlobalID": "479e13fe-e826-4d32-86c6-89fb86b31679",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 42509,
-                "agencytype": "Walk-Thru",
-                "county_partner_type": "Operation Collaboration",
-                "fulladdr": "14615 Otay Lakes Rd. Jamul, CA 91935",
-                "instructions_spanish": null,
-                "layer_id": 0,
-                "municipality": "Jamul",
-                "name": "Operation Collaboration - Pio Pico Campground",
-                "name_spanish": "Sitios de consorcio Operation Collaboration - Terreno de campamento Pio Pico",
-                "operhours": "Sunday 07/25: 9 AM - 4 PM",
-                "operhours_spanish": "domingo 07/25: 9 AM - 4 PM",
-                "partnership_desc": "Operation Collaboration",
-                "phone": null,
-                "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": null,
-                "url_scheduling": "https://myturn.ca.gov/",
-                "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
-                "zip": "91935"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -116.85490964303155,
-                "y": 32.652047678770366
-            }
-        },
-        {
-            "attributes": {
-                "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627291009483,
-                "GlobalID": "38cf5bcc-b091-406c-b2a2-fa9e4dce15ff",
-                "Instructions": null,
-                "Notes": null,
-                "OBJECTID": 42513,
+                "OBJECTID": 43409,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Sharp",
                 "fulladdr": "752 Medical Center Court, Suite 105, Chula Vista, CA 91911",
@@ -663,6 +628,41 @@
                 },
                 "x": -117.02394947004183,
                 "y": 32.61736940642947
+            }
+        },
+        {
+            "attributes": {
+                "DISPLAY_PUBLIC": "YES",
+                "EditDate": 1627387569194,
+                "GlobalID": "421ea39c-4420-4c45-9700-11fd3282718a",
+                "Instructions": null,
+                "Notes": null,
+                "OBJECTID": 43411,
+                "agencytype": "Walk-Thru",
+                "county_partner_type": "Operation Collaboration",
+                "fulladdr": "11555 Via Rancho San Diego, El Cajon, CA 92019",
+                "instructions_spanish": null,
+                "layer_id": 0,
+                "municipality": "El Cajon",
+                "name": "County Fire - Rancho San Diego Library",
+                "name_spanish": "Biblioteca de Rancho San Diego",
+                "operhours": "Sunday 08/01: 9 AM- 4 PM",
+                "operhours_spanish": "domingo 08/01: 9 AM - 4 PM",
+                "partnership_desc": "Operation Collaboration",
+                "phone": null,
+                "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
+                "status": null,
+                "url_scheduling": "https://myturn.ca.gov/",
+                "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
+                "zip": "92019"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -116.92894286309004,
+                "y": 32.749430396827236
             }
         }
     ],

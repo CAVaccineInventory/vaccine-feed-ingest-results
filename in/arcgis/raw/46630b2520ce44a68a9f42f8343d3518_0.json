@@ -781,7 +781,7 @@
                 "Site_Address": "155 Indiana Ave, Ste 104, Valparaiso, IN 46383",
                 "Site_County": "Porter",
                 "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "Porter County Expo Center VAX",
+                "Site_Name": "Porter County HD VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are available.",
                 "Site_Type": "Local Health Department",
@@ -33406,6 +33406,38 @@
                 },
                 "x": -86.14909624942679,
                 "y": 40.06337694101466
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "88bb7f6a-9d37-46e0-8962-6aa9e37ebe1b",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Porter County Fair",
+                "OBJECTID": 1348,
+                "Promote_Name": "Porter County Fair - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46383</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "215 E. Division Rd, Valparaiso, IN 46383",
+                "Site_County": "Porter",
+                "Site_Location_Info": "This is a mobile clinic July 22 – 31. Walk-ins only during fair hours.  Call the Porter Co. Health Dept. at 219-465-3525 for vaccine types.",
+                "Site_Name": "Porter County Fair",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": null,
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.02460651358886,
+                "y": 41.43580527331395
             }
         }
     ],
