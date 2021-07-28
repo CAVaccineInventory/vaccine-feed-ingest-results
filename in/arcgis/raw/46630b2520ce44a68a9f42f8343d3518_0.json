@@ -14531,38 +14531,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "a3515745-f6a5-4e58-812d-d4d9d6ebd90f",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Bartholomew Co HD Fair VAX",
-                "OBJECTID": 675,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "750 W 200 S, Columbus, IN 47201",
-                "Site_County": "Bartholomew",
-                "Site_Location_Info": "Bartholomew County Fairgrounds",
-                "Site_Name": "Bartholomew Co HD Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.93353515342083,
-                "y": 39.17369386576376
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "deefcfdf-0e59-4fe5-a081-b78f2b0145e2",
                 "ID": null,
                 "IsView": 1,
@@ -17359,8 +17327,8 @@
                 "Site_Location_Info": null,
                 "Site_Name": "Meridian Health Serv Peds VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": null,
+                "Site_Special_Inst": "Call 765-291-5437 to schedule an appointment or walk-in availability info. ",
+                "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
                 "Vaccine_Type": "Moderna",
@@ -22863,8 +22831,8 @@
                 "Site_Location_Info": null,
                 "Site_Name": "Meridian Health Services – N. Tillotson",
                 "Site_Phone": null,
-                "Site_Special_Inst": "No online appointments. Call: 765-288-1928  Walk-in appointments until 3pm each day the vaccine clinic is open.",
-                "Site_Type": "Primary Care",
+                "Site_Special_Inst": "No online scheduling. Call 765-288-8770 to schedule an appointment or walk-in availability info. ",
+                "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Moderna",
@@ -22895,8 +22863,8 @@
                 "Site_Location_Info": null,
                 "Site_Name": "Meridian Health Services – Ohio Ave.",
                 "Site_Phone": null,
-                "Site_Special_Inst": "No online appointments. Call:  765-641-7499 Walk-in appointments until 3pm each day the vaccine clinic is open.",
-                "Site_Type": "Primary Care",
+                "Site_Special_Inst": "No online scheduling. Call 765-641-7499 to schedule an appointment or walk-in availability info. ",
+                "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Moderna",
@@ -22927,8 +22895,8 @@
                 "Site_Location_Info": null,
                 "Site_Name": "Meridian Health Service – S. Main St.",
                 "Site_Phone": null,
-                "Site_Special_Inst": "No online appointments. Call:  765-768-3188 Walk-in appointments until 3pm each day the vaccine clinic is open.",
-                "Site_Type": "Primary Care",
+                "Site_Special_Inst": "No online scheduling. Call 765-768-3188 to schedule an appointment or walk-in availability info. ",
+                "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Moderna",
@@ -33155,38 +33123,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "44c468b3-0996-4712-90ab-12d3077439bf",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Gibson County Fair VAX",
-                "OBJECTID": 1337,
-                "Promote_Name": "Gibson County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47670</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "709 N. Embree St, Princeton, IN 47670",
-                "Site_County": "Gibson",
-                "Site_Location_Info": "This is a 2-day mobile clinic on July 22, and then on August 18. Hours are 9am – 3pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Gibson County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.58111863522262,
-                "y": 38.362091324476154
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "60856656-4bc0-48c3-815f-a88a9aa530e4",
                 "ID": null,
                 "IsView": 1,
@@ -33324,7 +33260,7 @@
                 "Promote_Site": "Y",
                 "Site_Address": "910 Hartzell Rd, New Haven, IN 46774",
                 "Site_County": "Allen",
-                "Site_Location_Info": "This clinic has Pfizer and Johnson & Johnson",
+                "Site_Location_Info": "This is a mobile clinic Aug. 12 – 14, 9am – 6pm. This clinic has Pfizer and Johnson & Johnson",
                 "Site_Name": "New Haven Fire Dept. VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments available.",
@@ -33470,6 +33406,102 @@
                 },
                 "x": -86.13996117041287,
                 "y": 39.83186751431099
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c9bc17df-abd3-4405-9e8c-966c7e312363",
+                "ID": null,
+                "IsView": 1,
+                "Name": "PharmaSave RX Pharmacy",
+                "OBJECTID": 1350,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "4638 S. Scatterfield Rd, Anderson, IN 46013",
+                "Site_County": "Madison",
+                "Site_Location_Info": "Walk-ins accepted. Call 765-374-3444 or visit the link below for more information.",
+                "Site_Name": "PharmaSave RX Pharmacy",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.pharmasaverx.com/immunizations",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.65206014870108,
+                "y": 40.0674731670174
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "fb567beb-ca4b-4b44-8e4e-437f57221b1e",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Witham Health Services – Pavilion Pharmacy",
+                "OBJECTID": 1351,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2705 N. Lebanon St, Lebanon, IN 46052",
+                "Site_County": "Boone",
+                "Site_Location_Info": "Walk-in hours Tues., Wed., & Thurs. 1 – 4pm. Call 765-483-3900 or visit the link below for more information.",
+                "Site_Name": "Witham Health Services – Pavilion Pharmacy",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "https://www.witham.org/visitors-and-patients/pavilion-pharmacy",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.47376978868289,
+                "y": 40.07808223576948
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "baedbee7-e927-480e-97e3-f5a5cf1a3fe9",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Tatum Family Health Ctr.",
+                "OBJECTID": 1352,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1619 W. 5th Ave, Gary, IN 46404",
+                "Site_County": "Lake",
+                "Site_Location_Info": "Call 219-886-4788 to make an appointment. No walk-ins at this time.  No online scheduling, but for more info visit the link below.",
+                "Site_Name": "Tatum Family Health Ctr.",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": "http://www.tatumfamilyhealth.com/",
+                "Symbology": "Regular",
+                "Vaccine_Type": "FRPP",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -87.35767707897278,
+                "y": 41.60179145014094
             }
         }
     ],
