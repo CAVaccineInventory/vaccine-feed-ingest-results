@@ -33420,11 +33420,11 @@
                 "Promote_Site": "Y",
                 "Site_Address": "215 E. Division Rd, Valparaiso, IN 46383",
                 "Site_County": "Porter",
-                "Site_Location_Info": "This is a mobile clinic July 22 – 31. Walk-ins only during fair hours.  Call the Porter Co. Health Dept. at 219-465-3525 for vaccine types.",
+                "Site_Location_Info": null,
                 "Site_Name": "Porter County Fair",
                 "Site_Phone": null,
-                "Site_Special_Inst": null,
-                "Site_Type": "Mobile",
+                "Site_Special_Inst": "This is a mobile clinic July 22 – 31. Walk-ins only during fair hours.  Call the Porter Co. Health Dept. at 219-465-3525 for vaccine types.",
+                "Site_Type": "Pharmacy",
                 "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Multi",
@@ -33438,6 +33438,38 @@
                 },
                 "x": -87.02460651358886,
                 "y": 41.43580527331395
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "ffe56f10-af96-4bd4-9b6b-511e9b325d60",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Indiana State Fair VAX",
+                "OBJECTID": 1349,
+                "Promote_Name": "Indiana State Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46205</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "1202 E. 38th St, Indianapolis, IN 46205",
+                "Site_County": "Marion",
+                "Site_Location_Info": "Hoosier Lottery Expo Hall. Walk-in clinic July 30 – Aug. 22.  HOURS: Fri., Sat., & Sun.: 9am – 8pm. Wed. & Thur.: 4 – 8pm. (The state fair is closed Mon. & Tues.)",
+                "Site_Name": "Indiana State Fair VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "This clinic operated by IU Health will offer Pfizer and Johnson & Johnson. (NOTE: The Indiana Dept. of Health will also be offering catch-up immunizations for school children on these dates.) The vaccine is free but patrons will need to purchase a ticket to enter the fair.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.13996117041287,
+                "y": 39.83186751431099
             }
         }
     ],
