@@ -21,7 +21,7 @@ var unfiltered = [
     "sweepstakes": "",
     "date": "",
     "time": "",
-    "link": "",
+    "link": "https://myturn.ca.gov/",
     "secondDose": "",
     "phone": "",
     "full": "",
