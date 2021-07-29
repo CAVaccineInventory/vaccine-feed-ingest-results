@@ -53884,7 +53884,7 @@
                 "V_Manufacturer": "PFR, JJ",
                 "layer_id": 0,
                 "loc_covid_id": null,
-                "loc_name": "DHEC Mobile Clinic @ Johns Island Farmer's Market",
+                "loc_name": "DHEC Mobile Clinic @ Sea Island Farmers' Market",
                 "loc_type1": "State Agency",
                 "ref_ID": null,
                 "service_item_id": "d5c82a2ca66440459d96d237390a852d",
@@ -54073,6 +54073,76 @@
                 },
                 "x": -79.93156842884201,
                 "y": 32.78653630047694
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "8c67d3d9-4bf6-47ea-bc6c-b838a25aa9f4",
+                "Loc_ID": null,
+                "OBJECTID": 43911,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "113 Bryan St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Summerville",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29483",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Albert Glover Funeral Home",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.18251699403982,
+                "y": 33.02592065872636
+            }
+        },
+        {
+            "attributes": {
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "cfeec3ba-efe2-475f-b726-cd1504fb44a6",
+                "Loc_ID": null,
+                "OBJECTID": 43912,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "8603 Old State Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Holly Hill",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29059",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_covid_id": null,
+                "loc_name": "DHEC Mobile Clinic @ Holly Hill Train Depot",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "d5c82a2ca66440459d96d237390a852d",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.41181610916362,
+                "y": 33.32199561931037
             }
         }
     ],
