@@ -44138,7 +44138,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "b8194f2f-46cb-4b56-98b8-fb76a8506556",
                 "Loc_ID": 1414,
@@ -44148,11 +44148,11 @@
                 "SiteAddress": "921B Oak Street",
                 "SiteAddressDetail": "",
                 "SiteCity": "Myrtle Beach",
-                "SitePhone": null,
+                "SitePhone": "843-918-1255",
                 "SiteState": "SC",
                 "SiteZip": "29577",
-                "URL": null,
-                "V_Manufacturer": null,
+                "URL": "https://myrtlebeachfiredepartment.setmore.com/",
+                "V_Manufacturer": "MOD",
                 "layer_id": 0,
                 "loc_name": "City of Myrtle Beach Fire Department",
                 "loc_type1": "Fire Department - Emergency Medical Services Agency",
@@ -78053,7 +78053,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "023ccb09-9bb9-4bdc-a77e-285d8fa31345",
                 "Loc_ID": null,
@@ -81198,6 +81198,76 @@
                 },
                 "x": -80.41181610916362,
                 "y": 33.32199561931037
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "7a461fbe-52f8-4cc7-a626-1e32486b9c27",
+                "Loc_ID": null,
+                "OBJECTID": 44311,
+                "Phone_Sec": "Aug 28th",
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "5794 Casper Padgett Way",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29406",
+                "URL": null,
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ Torneo De Basketball",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.0216654252701,
+                "y": 32.89687405493538
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "06d79d96-0f6f-4b52-a8da-a23198d1bad9",
+                "Loc_ID": null,
+                "OBJECTID": 44312,
+                "Phone_Sec": "Aug 29th",
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "801 S Jacob Smart Blvd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Ridgeland",
+                "SitePhone": "833-625-4584",
+                "SiteState": "SC",
+                "SiteZip": "29936",
+                "URL": null,
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "Palmetto Palace @ Jasper County Farmers Market",
+                "loc_type1": null,
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.00479928669284,
+                "y": 32.60635219188356
             }
         }
     ],

@@ -20830,6 +20830,43 @@
                 "x": -95.49684501974696,
                 "y": 29.632798991926393
             }
+        },
+        {
+            "attributes": {
+                "CreationDate": 1627594689210,
+                "Creator": "COVIDPublicHCPH",
+                "EditDate": 1627594689210,
+                "Editor": "COVIDPublicHCPH",
+                "address": "11011 Hall Rd, Houston, TX 77089",
+                "agency": "Harris County Public Health",
+                "closedatefilter": null,
+                "dose": "First,Second",
+                "entrydate": "2021-07-29T11:17:46.602-05:00",
+                "globalid": "ab308752-ba0f-4167-8e12-835e5ca9eab1",
+                "lat": null,
+                "layer_id": 0,
+                "location": "St Luke the Evangelist Catholic Church",
+                "lon": null,
+                "notes": null,
+                "objectid": 624,
+                "opendate": 1627664400000,
+                "opendate_str": "Friday, July 30th",
+                "opendatefilter": null,
+                "operatinghours": "2:00 PM - 5:00 PM",
+                "phone": "832-927-8787",
+                "service_item_id": "15f20c50666a45f5be5cce3a4a655a20",
+                "typeofvaccine": "Pfizer",
+                "vdu_no": "VDU 5",
+                "website": "https://vacstrac.hctx.net/landing"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -95.2333210013962,
+                "y": 29.592392016012397
+            }
         }
     ],
     "fields": [
