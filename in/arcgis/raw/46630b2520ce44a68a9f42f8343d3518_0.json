@@ -32963,38 +32963,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "3b4dea65-7c99-4110-adfc-fd72e7dad9e7",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Huntington County 4H Fair VAX",
-                "OBJECTID": 1330,
-                "Promote_Name": "Huntington County 4H Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46750</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "631 E. Taylor St, Huntington, IN 46750",
-                "Site_County": "Huntington",
-                "Site_Location_Info": "This is a mobile clinic July 28 & 29, 10am – 4pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Huntington County 4H Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.48184655873985,
-                "y": 40.87480617054987
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "5bb71344-38e6-42b6-9f51-64482957beba",
                 "ID": null,
                 "IsView": 1,
@@ -33086,38 +33054,6 @@
                 },
                 "x": -87.18549375098205,
                 "y": 40.94050020679204
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "729c41da-2fa5-4ec0-8e79-ff9e3d51b317",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Westside Leadership Academy VAX",
-                "OBJECTID": 1336,
-                "Promote_Name": "Westside Leadership Academy VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46406</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "W. 9th Ave. & Gerry Street  Gary, IN  46406",
-                "Site_County": "Lake",
-                "Site_Location_Info": "This is a one day mobile clinic on July 29, 9am – 3pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Westside Leadership Academy VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.40594438719494,
-                "y": 41.59522082473409
             }
         },
         {
