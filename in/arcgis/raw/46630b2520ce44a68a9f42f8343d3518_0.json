@@ -33439,6 +33439,70 @@
                 "x": -87.35767707897278,
                 "y": 41.60179145014094
             }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "559677ec-1332-4a8e-a636-a6b10d09fd80",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Jasper Strassenfest VAX",
+                "OBJECTID": 1353,
+                "Promote_Name": "Jasper Strassenfest VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47546</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "1 Courthouse Square, Jasper, IN  47546",
+                "Site_County": "Dubois",
+                "Site_Location_Info": "This is a mobile clinic Aug 5 & 6, 5 – 9pm and Aug 7, 10am – 9pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Jasper Strassenfest VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.9307952117225,
+                "y": 38.39148745111752
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d634f856-c83d-4e22-b9b6-545e2e093c4a",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Block Party at Flanner House VAX",
+                "OBJECTID": 1354,
+                "Promote_Name": "Block Party at Flanner House VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46208</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "2424 Dr. Martin Luther King Jr St, Indianapolis, IN 46208",
+                "Site_County": "Marion",
+                "Site_Location_Info": "This is a one day mobile clinic on Aug. 7, 11am – 5pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Block Party at Flanner House VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments available",
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.17161608464481,
+                "y": 39.80156371295638
+            }
         }
     ],
     "fields": [

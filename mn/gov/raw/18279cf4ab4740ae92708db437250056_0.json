@@ -4949,7 +4949,7 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": "All Mayo Clinic Rochester and Mayo Clinic Health System vaccination clinics will be closed on July 4 and July 5.\r\n\r\nHours may vary. Please call for an appointment.",
+                "AdditionalHoursInfo": "Hours may vary. Please call to schedule an appointment.",
                 "AddrLine1": "4111 W FRONTAGE HIGHWAY 52 RD NW",
                 "City": "Rochester",
                 "County": "Olmsted",
@@ -4976,7 +4976,7 @@
                 "TuesdayEnd": null,
                 "TuesdayStart": null,
                 "URL": "https://www.mayoclinic.org/",
-                "UpdateDate": "2021-06-18 11:13:22",
+                "UpdateDate": "2021-07-30 08:25:25",
                 "VaccinationGroups": "General Public",
                 "WednesdayEnd": null,
                 "WednesdayStart": null,
@@ -4994,8 +4994,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -92.50440902658944,
-                "y": 44.066028019444104
+                "x": -92.50438497052733,
+                "y": 44.06618199500542
             }
         },
         {
