@@ -259,38 +259,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "4ee74bfd-477f-4e84-9621-d5981c8259cd",
-                "ID": "ISDH952",
-                "IsView": 1,
-                "Name": "Hancock Regional",
-                "OBJECTID": 21,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "801 North State St, Greenfield, IN 46140",
-                "Site_County": "Hancock",
-                "Site_Location_Info": null,
-                "Site_Name": "HANCOCK REGIONAL VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.76945506632629,
-                "y": 39.79502195133067
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "8277a2c9-962a-428e-a87e-896f200d9006",
                 "ID": "ISDH943",
                 "IsView": 1,
@@ -19843,70 +19811,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "f6b29ff4-7790-4ab2-b02f-61ef681b8a75",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Reid Health UC Connersville VAX",
-                "OBJECTID": 868,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1475 E State Road 44, Connersville, IN 47331",
-                "Site_County": "Fayette",
-                "Site_Location_Info": null,
-                "Site_Name": "Reid Health UC Connersville VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.11098704312444,
-                "y": 39.63843260179912
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "a0d49309-d826-4900-a850-550050667a73",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Reid Health UC Richmond VAX",
-                "OBJECTID": 869,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "1501 Chester Blvd, Richmond, IN 47374",
-                "Site_County": "Wayne",
-                "Site_Location_Info": null,
-                "Site_Name": "Reid Health UC Richmond VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -84.8884250283326,
-                "y": 39.848574351836746
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "8510581a-34a2-4572-a099-7a8d1bf520fe",
                 "ID": null,
                 "IsView": 1,
@@ -32862,38 +32766,6 @@
                 },
                 "x": -86.02894382544694,
                 "y": 38.866892072689446
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "6657fbca-f7a1-4d9d-969c-62bd8c406b04",
-                "ID": null,
-                "IsView": 1,
-                "Name": "UNIVERSITY OF SOUTHERN INDIANA",
-                "OBJECTID": 1325,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "8600 University Blvd, Evansville, IN 47712",
-                "Site_County": "Vanderburgh",
-                "Site_Location_Info": "The USI Vaccination Clinic is in the University Health Center, located on the lower level of the Health Professions Center, room HP0091. Enter at the southwest corner of the building. There are signs to help guide you for parking and clinic location.",
-                "Site_Name": "USI University Health Center VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Clinic dates are on July 16th, 21th, and 30th; 9:00AM - 2:30PM.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.6773761077593,
-                "y": 37.96484836097707
             }
         },
         {
