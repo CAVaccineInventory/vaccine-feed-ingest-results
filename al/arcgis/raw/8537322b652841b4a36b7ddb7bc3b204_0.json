@@ -384,9 +384,9 @@
                 "f4": "Walk-In",
                 "f5": "5 North Medical Park Dr., Valley, AL  36854",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Tuesday's 8:30 a.m. - 3:00 p.m.",
+                "f7": "8:30am",
+                "f8": "4:30am",
+                "f9": "Monday - Friday. No appointment needed.  Call 334-756-0758 to assure Nurse availability.",
                 "layer_id": 0,
                 "objectId": 381,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
