@@ -32739,38 +32739,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "176c5334-3759-4c64-9235-689c7379181b",
-                "ID": null,
-                "IsView": 1,
-                "Name": "JACKSON COUNTY FAIR VAX",
-                "OBJECTID": 1323,
-                "Promote_Name": "JACKSON COUNTY FAIR VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47220</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "476 E. CR 100 S, Brownstone, IN 47220",
-                "Site_County": "Jackson",
-                "Site_Location_Info": "This is a mobile site July 29 – 31, noon – 9pm. This site has Johnson & Johnson and Pfizer.",
-                "Site_Name": "JACKSON COUNTY FAIR VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available July 29 - 31.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.02894382544694,
-                "y": 38.866892072689446
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "d0fcf750-0ecd-4b5f-baad-01b826533201",
                 "ID": null,
                 "IsView": 1,
@@ -32894,38 +32862,6 @@
                 },
                 "x": -85.68412570967998,
                 "y": 41.75602714127558
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "43442fcb-88bd-4081-9453-048fb4f843e8",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Jasper County Fair VAX",
-                "OBJECTID": 1334,
-                "Promote_Name": "Jasper County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47978</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "2671 W. Clark St, Rensselaer, IN 47978",
-                "Site_County": "Jasper",
-                "Site_Location_Info": "This is a mobile clinic July 29 – 31, noon – 10pm. This clinic has Johnson & Johnson and Pfizer.",
-                "Site_Name": "Jasper County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.18549375098205,
-                "y": 40.94050020679204
             }
         },
         {
@@ -33091,38 +33027,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "7e5413a0-695c-49ba-bd8d-281074b6370a",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Pike County Fair VAX",
-                "OBJECTID": 1345,
-                "Promote_Name": "Pike County Fair VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 47567</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "1213 SR 56, Petersburg, IN 47567",
-                "Site_County": "Pike",
-                "Site_Location_Info": "This is a mobile clinic July 28 – 31, 5 – 9pm. This clinic has Pfizer and Johnson & Johnson.",
-                "Site_Name": "Pike County Fair VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.24569556094194,
-                "y": 38.4393891145846
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "786cd66a-9a34-4bf8-be2e-b86acc756220",
                 "ID": null,
                 "IsView": 1,
@@ -33150,38 +33054,6 @@
                 },
                 "x": -86.14909624942679,
                 "y": 40.06337694101466
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "88bb7f6a-9d37-46e0-8962-6aa9e37ebe1b",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Porter County Fair",
-                "OBJECTID": 1348,
-                "Promote_Name": "Porter County Fair - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46383</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "215 E. Division Rd, Valparaiso, IN 46383",
-                "Site_County": "Porter",
-                "Site_Location_Info": null,
-                "Site_Name": "Porter County Fair",
-                "Site_Phone": null,
-                "Site_Special_Inst": "This is a mobile clinic July 22 – 31. Walk-ins only during fair hours.  Call the Porter Co. Health Dept. at 219-465-3525 for vaccine types.",
-                "Site_Type": "Pharmacy",
-                "Site_Zotec_Link": null,
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.02460651358886,
-                "y": 41.43580527331395
             }
         },
         {

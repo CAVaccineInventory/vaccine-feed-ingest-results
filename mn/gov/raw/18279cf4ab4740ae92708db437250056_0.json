@@ -35141,57 +35141,6 @@
         },
         {
             "attributes": {
-                "AdditionalHoursInfo": null,
-                "AddrLine1": "200 South Ave",
-                "City": "Bloomington",
-                "County": null,
-                "EndDate": "2021-07-31",
-                "FridayEnd": "7:30pm",
-                "FridayStart": "3:00pm",
-                "MondayEnd": "Closed",
-                "MondayStart": "Closed",
-                "OBJECTID": 6485,
-                "Phone": "(855) 612-0677",
-                "ProviderName": "No-Cost Community Sites",
-                "SaturdayEnd": "2:30pm",
-                "SaturdayStart": "10:00am",
-                "SiteName": "Bloomington - Mall of America",
-                "StartDate": "2021-07-28",
-                "State": "MN",
-                "SundayEnd": "Closed",
-                "SundayStart": "Closed",
-                "TestingOptions": "Indoor",
-                "TestingRequirements": "Walk-Ins",
-                "TestingTypes": "COVID-19 Vaccine",
-                "ThursdayEnd": "7:30pm",
-                "ThursdayStart": "3:00pm",
-                "TuesdayEnd": "Closed",
-                "TuesdayStart": "Closed",
-                "URL": "https://www.primarybio.com/r/vaxmn?registration_type=general_public",
-                "UpdateDate": "2021-07-22 16:23:45",
-                "VaccinationGroups": "Minnesotans ages 12+; parental consent needed for ages 12-17",
-                "WednesdayEnd": "7:30pm",
-                "WednesdayStart": "3:00pm",
-                "Zip": "55425",
-                "globalid": "c28ed5e0-be0c-4c45-88da-1b49d3cd179d",
-                "is_Active": "Active",
-                "language": null,
-                "layer_id": 0,
-                "service_item_id": "18279cf4ab4740ae92708db437250056",
-                "site_type": "Vaccination",
-                "siteid": 20349
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -93.24327318835348,
-                "y": 44.85365909121171
-            }
-        },
-        {
-            "attributes": {
                 "AdditionalHoursInfo": "This event occurs on the 3rd Saturday of each month at the City of Winona Farmer's Market from 7:30 AM - 12 PM. Both the Pfizer (12+, 2 doses) and Johnson & Johnson (18+, 1 dose) COVID-19 vaccines are available. Walk-ins are welcome. The registration link will be posted one week before the event.",
                 "AddrLine1": "Levee Park",
                 "City": "Winona",
