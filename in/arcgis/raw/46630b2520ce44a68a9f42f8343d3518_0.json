@@ -131,38 +131,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "efc275ec-1921-4255-9911-ce4df26f8b67",
-                "ID": "ISDH942",
-                "IsView": 1,
-                "Name": "Clark Memorial Hospital ",
-                "OBJECTID": 7,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "207 Sparks Ave Suite 002, Jeffersonville, IN 47130-3771",
-                "Site_County": "Clark",
-                "Site_Location_Info": "Enter main entrance of the Medical Arts Building.  Clinic is on the first floor.",
-                "Site_Name": "CLARK MEDICAL ARTS BUILDING VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Hospital",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.74840219514174,
-                "y": 38.28173865623302
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "ea453957-64e6-4188-a776-3645929b2ae0",
                 "ID": "ISDH964",
                 "IsView": 1,
@@ -362,12 +330,12 @@
                 "OBJECTID": 38,
                 "Promote_Name": null,
                 "Promote_Site": null,
-                "Site_Address": "323B Conrad Harcourt Way, Rushville, IN 46173-1161",
+                "Site_Address": "157 W Foster Heights Rd, Rushville, IN 46173",
                 "Site_County": "Rush",
                 "Site_Location_Info": "Rush Memorial Hospital Walk-In Care.",
-                "Site_Name": "RUSH MEM HOSP 323 CONRAD VAX",
+                "Site_Name": "RUSH MEM HOSP 157 W FOSTER VAX",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
+                "Site_Special_Inst": "Walk-in appointments are available.",
                 "Site_Type": "Hospital",
                 "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
                 "Symbology": "Regular",
@@ -380,8 +348,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -85.44152623280374,
-                "y": 39.62276461322129
+                "x": -85.44662242993219,
+                "y": 39.62971428185468
             }
         },
         {
@@ -492,12 +460,12 @@
                 "Promote_Site": null,
                 "Site_Address": "306 Oak Hill Circle, English, IN 47118",
                 "Site_County": "Crawford",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "CRAWFORD CO HD COVID VAX",
+                "Site_Location_Info": null,
+                "Site_Name": "Crawford Co HD Covid",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Special_Inst": "This clinic has Pfizer and Johnson & Johnson.  Call 812-338-2302 to schedule an appointment. NO walk-ins accepted. ",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Multi",
                 "layer_id": 0,
@@ -3234,7 +3202,7 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": "State",
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "727e2239-9a17-40ad-ac24-2d26235f444b",
                 "ID": "ISDH1158",
                 "IsView": 1,
@@ -3245,13 +3213,13 @@
                 "Site_Address": "1002 S Edgewood Drive, Knox 46534",
                 "Site_County": "Starke",
                 "Site_Location_Info": null,
-                "Site_Name": "KNOX WINAMAC CHC EDGEWD DR VAX",
+                "Site_Name": "Knox Winamac Comm Health Ctr",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Special_Inst": "Call our office at (574)-772-6030 to schedule a COVID vaccine.",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "FRPP",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -3650,7 +3618,7 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": "State",
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "f3e82f04-bc8d-436c-9890-374e468230c9",
                 "ID": "ISDH1174",
                 "IsView": 1,
@@ -3661,13 +3629,13 @@
                 "Site_Address": "6050 Sterling Creek Road, Portage 46368",
                 "Site_County": "Porter",
                 "Site_Location_Info": null,
-                "Site_Name": "NORTHSHORE HC PRTAGE STERCRK VAX",
+                "Site_Name": "NorthShore Health Strlng Crk Portage",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Special_Inst": "Call 219-763-8112 for hours, vaccine type or to make an appointment. Walk-ins welcome. ",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "FRPP",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -3714,7 +3682,7 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": "State",
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "d9aec04f-b89a-4957-a990-3b24cc2f559f",
                 "ID": "ISDH1176",
                 "IsView": 1,
@@ -3725,13 +3693,13 @@
                 "Site_Address": "6091 Broadway, Merrillville 46410",
                 "Site_County": "Lake",
                 "Site_Location_Info": null,
-                "Site_Name": "NORTHSHORE HC MERLVLLE BRDWAY VAX",
+                "Site_Name": "NorthShore Health Ctr Broadway ",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Special_Inst": "Call 219-763-8112 for hours, vaccine type or to make an appointment. Walk-ins welcome. ",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "FRPP",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -3778,7 +3746,7 @@
         },
         {
             "attributes": {
-                "FQHC_Registry_Stat": "State",
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "ac7689ab-7c2a-471a-a56a-365f8e2d375f",
                 "ID": "ISDH1219",
                 "IsView": 1,
@@ -3789,13 +3757,13 @@
                 "Site_Address": "1828 165th St, Hammond 46320",
                 "Site_County": "Lake",
                 "Site_Location_Info": null,
-                "Site_Name": "NORTHSHORE HC HMND 165TH ST VAX",
+                "Site_Name": "NorthShore Health Ctr – Hammond",
                 "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FQHC",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Special_Inst": "Call 219-763-8112 for hours, vaccine type or to make an appointment. Walk-ins welcome. ",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
+                "Vaccine_Type": "FRPP",
                 "layer_id": 0,
                 "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
             },
@@ -14270,38 +14238,6 @@
                 },
                 "x": -85.00474266158453,
                 "y": 39.42958248838819
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "c5e67c77-2c22-4487-afa4-09ab91961e49",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Comm Action of Southern IN VAX",
-                "OBJECTID": 664,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "201 E 15th St, Jeffersonville, IN 47130",
-                "Site_County": "Clark",
-                "Site_Location_Info": null,
-                "Site_Name": "Comm Action of Southern IN VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "FEMA",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.74684364470055,
-                "y": 38.28593676690987
             }
         },
         {
