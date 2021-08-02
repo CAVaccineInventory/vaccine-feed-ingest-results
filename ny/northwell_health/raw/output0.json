@@ -1,5 +1,139 @@
 [
     {
+        "id": 83,
+        "name": "Nassau - NYS Dept of Labor (303 W. Old Country Rd) -- J&J",
+        "address": "303 West Old Country Road",
+        "suite": "",
+        "city": "Hicksville",
+        "state": "NY",
+        "zip": "11801",
+        "county": "Nassau",
+        "latitude": "40.7596",
+        "longitude": "-73.5352",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TscYEAS",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "8:30am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "8:30am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
+        "id": 82,
+        "name": "Suffolk - Perry B Duryea State Office (250 Veterans Memorial Hwy) -- J&J",
+        "address": "250 Veterans Memorial Highway",
+        "suite": "",
+        "city": "Hauppauge",
+        "state": "NY",
+        "zip": "11788",
+        "county": "Suffolk",
+        "latitude": "40.8204",
+        "longitude": "-73.2196",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "8:30am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "thursday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "8:30am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "friday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
         "id": 80,
         "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Pfizer",
         "address": "284 Pulaski Road",
@@ -77,16 +211,16 @@
         "county": "Suffolk",
         "latitude": "40.7648",
         "longitude": "-73.0926",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TfOLEA0",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Pfizer",
         "is_walk_in": false,
         "hours": [
             {
                 "day": "monday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:00am",
-                "time_closed": "7:45pm"
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "tuesday",
@@ -104,10 +238,10 @@
             },
             {
                 "day": "thursday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "3:00pm",
-                "time_closed": "8:15pm"
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "friday",
@@ -144,7 +278,7 @@
         "county": "Suffolk",
         "latitude": "40.9188",
         "longitude": "-72.664",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TT2OEAW",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Pfizer",
         "is_walk_in": false,
         "hours": [
@@ -171,77 +305,10 @@
             },
             {
                 "day": "thursday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "3:00pm",
-                "time_closed": "8:15pm"
-            },
-            {
-                "day": "friday",
-                "general_status": "open",
-                "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "3:45pm"
-            },
-            {
-                "day": "saturday",
-                "general_status": "open",
-                "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "3:45pm"
-            },
-            {
-                "day": "sunday",
                 "general_status": "closed",
                 "current_status": "closed",
                 "time_open": null,
                 "time_closed": null
-            }
-        ],
-        "distance": null
-    },
-    {
-        "id": 54,
-        "name": "Westchester - Pier 1 (792 North Bedford Road) -- Pfizer",
-        "address": "792 North Bedford Road",
-        "suite": "",
-        "city": "Bedford Hills",
-        "state": "NY",
-        "zip": "10507",
-        "county": "Westchester",
-        "latitude": "41.2216",
-        "longitude": "-73.7158",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk59EAC",
-        "vaccine_manufacturer": "Pfizer",
-        "is_walk_in": false,
-        "hours": [
-            {
-                "day": "monday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "tuesday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "12:00pm",
-                "time_closed": "6:45pm"
-            },
-            {
-                "day": "wednesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "thursday",
-                "general_status": "open",
-                "current_status": "closed",
-                "time_open": "8:00am",
-                "time_closed": "2:45pm"
             },
             {
                 "day": "friday",
@@ -252,10 +319,10 @@
             },
             {
                 "day": "saturday",
-                "general_status": "closed",
+                "general_status": "open",
                 "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
             },
             {
                 "day": "sunday",
@@ -272,13 +339,13 @@
         "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Pfizer",
         "address": "1 Marcus Avenue",
         "suite": "",
-        "city": "New Hyde Park",
+        "city": "Lake Success",
         "state": "NY",
         "zip": "11040",
         "county": "Nassau",
         "latitude": "40.7577",
         "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4kEAC",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Pfizer",
         "is_walk_in": false,
         "hours": [
@@ -367,7 +434,7 @@
                 "day": "wednesday",
                 "general_status": "open",
                 "current_status": "closed",
-                "time_open": "9:45am",
+                "time_open": "9:30am",
                 "time_closed": "3:30pm"
             },
             {
@@ -412,7 +479,7 @@
         "county": "Nassau",
         "latitude": "40.6991",
         "longitude": "-73.6129",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TgNEEA0",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Pfizer",
         "is_walk_in": false,
         "hours": [
@@ -469,84 +536,17 @@
         "distance": null
     },
     {
-        "id": 41,
-        "name": "Suffolk - Bohemia Babies R Us (5181 Sunrise Hwy) -- Moderna",
-        "address": "5181 Sunrise Highway",
-        "suite": "",
-        "city": "Bohemia",
-        "state": "NY",
-        "zip": "11716",
-        "county": "Suffolk",
-        "latitude": "40.7648",
-        "longitude": "-73.0926",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
-        "vaccine_manufacturer": "Moderna",
-        "is_walk_in": false,
-        "hours": [
-            {
-                "day": "monday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:00am",
-                "time_closed": "7:45pm"
-            },
-            {
-                "day": "tuesday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "wednesday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "9:00am",
-                "time_closed": "7:45pm"
-            },
-            {
-                "day": "thursday",
-                "general_status": "open",
-                "current_status": "open",
-                "time_open": "3:00pm",
-                "time_closed": "8:15pm"
-            },
-            {
-                "day": "friday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            },
-            {
-                "day": "saturday",
-                "general_status": "open",
-                "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "3:45pm"
-            },
-            {
-                "day": "sunday",
-                "general_status": "closed",
-                "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
-            }
-        ],
-        "distance": null
-    },
-    {
         "id": 35,
         "name": "Nassau - New Hyde Park (1 Marcus Ave) -- Moderna",
         "address": "1 Marcus Avenue",
         "suite": "",
-        "city": "New Hyde Park",
+        "city": "Lake Success",
         "state": "NY",
         "zip": "11040",
         "county": "Nassau",
         "latitude": "40.7577",
         "longitude": "-73.7087",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007Tk4kEAC",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
         "vaccine_manufacturer": "Moderna",
         "is_walk_in": false,
         "hours": [

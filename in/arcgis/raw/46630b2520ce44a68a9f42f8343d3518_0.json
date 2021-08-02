@@ -2915,38 +2915,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "872a9557-ce97-493d-94c7-347c3cbe982c",
-                "ID": "ISDH1115",
-                "IsView": 1,
-                "Name": "Marion County Local Health Department",
-                "OBJECTID": 218,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "3685 Commercial Drive Indianapolis, IN 46222",
-                "Site_County": "Marion",
-                "Site_Location_Info": null,
-                "Site_Name": "MARION CO HD COVID VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Pfizer",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -86.22725847826104,
-                "y": 39.82137518155908
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "ab38efbb-6f53-4813-8729-41c8e0221f36",
                 "ID": null,
                 "IsView": 1,
@@ -17118,38 +17086,6 @@
                 },
                 "x": -86.78117627471687,
                 "y": 39.28854016314291
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "a401a587-57f3-4364-b667-34905daacb18",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Clark Co St. Stephen VAX",
-                "OBJECTID": 777,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "2701 Veterans Pkwy, Jeffersonville, IN 47130",
-                "Site_County": "Clark",
-                "Site_Location_Info": "St. Stephen Baptist Church",
-                "Site_Name": "Clark Co St. Stephen VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Mass",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.7298066498529,
-                "y": 38.33393663963358
             }
         },
         {
@@ -32812,7 +32748,7 @@
                 "Promote_Site": null,
                 "Site_Address": "2090 N State Road 9, Albion, IN 46701",
                 "Site_County": "Noble",
-                "Site_Location_Info": "This site has Moderna, Pfizer and Johnson & Johnson",
+                "Site_Location_Info": "This site has Moderna and Pfizer.",
                 "Site_Name": "NOBLE CO HD COVID VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": "Walk-in appointments are available.",
@@ -33004,12 +32940,12 @@
                 "Promote_Site": "Y",
                 "Site_Address": "1202 E. 38th St, Indianapolis, IN 46205",
                 "Site_County": "Marion",
-                "Site_Location_Info": "Hoosier Lottery Expo Hall. Walk-in clinic July 30 – Aug. 22.  HOURS: Fri., Sat., & Sun.: 9am – 8pm. Wed. & Thur.: 4 – 8pm. (The state fair is closed Mon. & Tues.)",
-                "Site_Name": "Indiana State Fair VAX",
+                "Site_Location_Info": "Hoosier Lottery Expo Hall. Walk-in clinic July 30 – Aug. 22.  HOURS: Fri., Sat., & Sun.: 10am – 8pm. Wed. & Thur.: 4 – 8pm. (The state fair is closed Mon. & Tues.)",
+                "Site_Name": "Indiana State Fair",
                 "Site_Phone": null,
                 "Site_Special_Inst": "This clinic operated by IU Health will offer Pfizer and Johnson & Johnson. (NOTE: The Indiana Dept. of Health will also be offering catch-up immunizations for school children on these dates.) The vaccine is free but patrons will need to purchase a ticket to enter the fair.",
-                "Site_Type": "Mobile",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Site_Type": "Pharmacy",
+                "Site_Zotec_Link": null,
                 "Symbology": "Regular",
                 "Vaccine_Type": "Multi",
                 "layer_id": 0,
@@ -33182,6 +33118,102 @@
                 },
                 "x": -86.17161608464481,
                 "y": 39.80156371295638
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "c13b132e-4bf9-43e2-b3c4-88d484e2dede",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Marion Co. South District VAX",
+                "OBJECTID": 1355,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "7551 S. Shelby St, Indianapolis, IN  46227",
+                "Site_County": "Marion",
+                "Site_Location_Info": "Mon. 3 – 7pm.  Fri. 8am – noon.  Every 3rd Saturday: 8am – noon. (CLOSED 9/4 & 9/6 for Labor Day weekend.)  This clinic has Johnson & Johnson and Pfizer.  Walk-ins accepted.",
+                "Site_Name": "Marion Co. South District VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.13886586822687,
+                "y": 39.65601096509995
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "d2e02887-d521-49ed-865a-dd73916d25ca",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Marion Co Eagledale Plaza VAX",
+                "OBJECTID": 1356,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "2802 Lafayette Rd., Ste. 13, Indianapolis, IN 46222",
+                "Site_County": "Marion",
+                "Site_Location_Info": "Tuesdays in Aug. & Sept., 8am – noon. This clinic has Johnson & Johnson and Pfizer. Walk-ins accepted.",
+                "Site_Name": "Marion Co Eagledale Plaza VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.21908655841274,
+                "y": 39.80604265224411
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "95c4ade4-850b-4845-88e4-76c80077d2a2",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Marion Co Northwest District VAX",
+                "OBJECTID": 1357,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "6940 N. Michigan Rd, Indianapolis, IN 46268",
+                "Site_County": "Marion",
+                "Site_Location_Info": "Thursdays in Aug. & Sept., 3 – 7pm. ALSO: Sat. 8/28, 8am – noon & Sat. 9/18, 8am – noon. This clinic has Johnson & Johnson and Pfizer. Walk-ins accepted.",
+                "Site_Name": "Marion Co Northwest District VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": null,
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.21166104308632,
+                "y": 39.88188185116202
             }
         }
     ],
