@@ -2366,7 +2366,7 @@
                 "transportation_access": "walk_through",
                 "tues_hrs": "8:00AM-7:00PM",
                 "tues_open": "Yes",
-                "vaccine_manufacturer": "Moderna",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "wed_hrs": "8:00AM-7:00PM",
                 "wed_open": "Yes",
                 "zip": "85255"
@@ -20114,7 +20114,7 @@
                 "transportation_access": "drive_through",
                 "tues_hrs": "8:00AM-7:00PM",
                 "tues_open": "Yes",
-                "vaccine_manufacturer": "J_J,Moderna,​​​​Pfizer_BioNTech",
+                "vaccine_manufacturer": "Moderna,​​​​Pfizer_BioNTech",
                 "wed_hrs": "8:00AM-7:00PM",
                 "wed_open": "Yes",
                 "zip": "85032"
@@ -41670,7 +41670,7 @@
                 "transportation_access": "drive_through",
                 "tues_hrs": null,
                 "tues_open": "No",
-                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
                 "wed_hrs": null,
                 "wed_open": "No",
                 "zip": "85086"
@@ -41874,7 +41874,7 @@
                 "transportation_access": "walk_through",
                 "tues_hrs": null,
                 "tues_open": "No",
-                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "vaccine_manufacturer": "​​​​Pfizer_BioNTech",
                 "wed_hrs": null,
                 "wed_open": "No",
                 "zip": "85250"
@@ -42146,7 +42146,7 @@
                 "transportation_access": "drive_through",
                 "tues_hrs": null,
                 "tues_open": "No",
-                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "wed_hrs": null,
                 "wed_open": "No",
                 "zip": "85249"
@@ -42350,7 +42350,7 @@
                 "transportation_access": "drive_through",
                 "tues_hrs": null,
                 "tues_open": "No",
-                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "wed_hrs": null,
                 "wed_open": "No",
                 "zip": "85207"
@@ -42418,7 +42418,7 @@
                 "transportation_access": "drive_through",
                 "tues_hrs": null,
                 "tues_open": "No",
-                "vaccine_manufacturer": "J_J,​​​​Pfizer_BioNTech",
+                "vaccine_manufacturer": "Pfizer_BioNTech",
                 "wed_hrs": null,
                 "wed_open": "No",
                 "zip": "85257"

@@ -3,11 +3,11 @@
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627932988535,
-                "GlobalID": "ffa3f455-56b7-4adb-834d-f73707a29228",
+                "EditDate": 1627992394364,
+                "GlobalID": "c6c919c1-c2e7-4012-b450-cd88513f4e56",
                 "Instructions": null,
                 "Notes": "covid19vaccine@rchsd.org",
-                "OBJECTID": 44850,
+                "OBJECTID": 45399,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Rady's",
                 "fulladdr": "8001 Frost Street, San Diego, CA 92123",
@@ -31,18 +31,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.15163671201105,
-                "y": 32.80229208926341
+                "x": -117.15164860512762,
+                "y": 32.80229686189185
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627932990357,
-                "GlobalID": "e496eaf3-eae3-4f62-a86a-2a0ecce72f36",
+                "EditDate": 1627992397950,
+                "GlobalID": "4e72396e-c9a1-495e-ac81-7a0599046e3e",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44857,
+                "OBJECTID": 45413,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "690 Oxford St, Chula Vista, CA 91911",
@@ -66,18 +66,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.08582401918554,
-                "y": 32.60667942208964
+                "x": -117.08583587996708,
+                "y": 32.60668417128782
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627932991370,
-                "GlobalID": "76c5a372-654b-46b8-9491-c9c51de76e32",
+                "EditDate": 1627992399009,
+                "GlobalID": "1398b3e7-35a7-4a21-82f5-ac016d56e0dc",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44859,
+                "OBJECTID": 45417,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "367 N. Magnolia Ave, El Cajon, CA 92020",
@@ -101,53 +101,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -116.96201731683445,
-                "y": 32.798671812618124
+                "x": -116.96202917237319,
+                "y": 32.798676591035715
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627932995670,
-                "GlobalID": "2b53f272-405c-4d45-ba20-4f8926168ab4",
+                "EditDate": 1627992403759,
+                "GlobalID": "c394b243-03ef-4c65-b7d1-62aafb39bead",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44867,
-                "agencytype": "Walk-Thru",
-                "county_partner_type": "Operation Collaboration",
-                "fulladdr": "1401 Hanson Ln, Ramona, CA 92065",
-                "instructions_spanish": null,
-                "layer_id": 0,
-                "municipality": "Ramona",
-                "name": "Operation Collaboration - Ramona High School",
-                "name_spanish": "Sitios del consorcio Operation Collaboration - Escuela Preparatoria de Ramona",
-                "operhours": "Monday 08/02: 9 AM - 4 PM",
-                "operhours_spanish": "lunes 08/02: 9 AM - 4 PM",
-                "partnership_desc": "Operation Collaboration",
-                "phone": null,
-                "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
-                "url_scheduling": "https://myturn.ca.gov/",
-                "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
-                "zip": "92065"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -116.86868540585789,
-                "y": 33.027788385059644
-            }
-        },
-        {
-            "attributes": {
-                "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627932995923,
-                "GlobalID": "12a87c9e-0feb-40e9-b34c-49bea2693065",
-                "Instructions": null,
-                "Notes": null,
-                "OBJECTID": 44868,
+                "OBJECTID": 45435,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "14545 Lyons Valley Rd, Jamul, CA 91935",
@@ -171,18 +136,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -116.85452324742641,
-                "y": 32.728383692851544
+                "x": -116.85453504917888,
+                "y": 32.728388468248156
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627932997812,
-                "GlobalID": "99e3fee0-3941-46b3-9d28-2bd8bff66bce",
+                "EditDate": 1627992407146,
+                "GlobalID": "8d53e2bd-d867-49e0-8e04-ed61ff746b28",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44874,
+                "OBJECTID": 45447,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "600 North Santa Fe Ave, Vista, CA 92084",
@@ -206,18 +171,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.24568493778585,
-                "y": 33.20839036369057
+                "x": -117.2456968519683,
+                "y": 33.208395174343046
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933003118,
-                "GlobalID": "94bbc115-4d99-48de-ae6d-93be2c32e1f4",
+                "EditDate": 1627992418191,
+                "GlobalID": "8d68e412-d81b-4c6d-8c1e-6bfc15cb3f6c",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44888,
+                "OBJECTID": 45475,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "1701 Mission Ave, Oceanside, CA 92058",
@@ -241,18 +206,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.36645801643287,
-                "y": 33.20283932486039
+                "x": -117.36646997205736,
+                "y": 33.202844138019344
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933004459,
-                "GlobalID": "ebe55cd4-dbb4-42a3-bf1c-cd8b22ea1615",
+                "EditDate": 1627992422046,
+                "GlobalID": "6a5f6b0b-7a4f-47e8-8881-c4da9240c8e9",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44892,
+                "OBJECTID": 45483,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "4343 Ocean View Blvd, San Diego, CA 92113",
@@ -276,18 +241,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.1027197315043,
-                "y": 32.699897521937245
+                "x": -117.10273158986323,
+                "y": 32.699902282263004
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933010206,
-                "GlobalID": "f5b6f151-eba2-44d5-ad4b-b191b3f4b113",
+                "EditDate": 1627992434896,
+                "GlobalID": "46e38f3c-5983-425d-90d1-fc0fa94462da",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44905,
+                "OBJECTID": 45521,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "404 Euclid Ave, San Diego, 92114",
@@ -301,7 +266,7 @@
                 "partnership_desc": "County Hosted",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92114"
@@ -311,18 +276,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.08773578328275,
-                "y": 32.709073181400804
+                "x": -117.08774768793565,
+                "y": 32.70907794375893
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933020235,
-                "GlobalID": "7dc94429-33c9-4b75-9c35-987968846560",
+                "EditDate": 1627992456834,
+                "GlobalID": "db5f5f73-17a6-4063-829f-29792f8c82f9",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44936,
+                "OBJECTID": 45587,
                 "agencytype": "Walk-Up",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "5211 5th St, Rainbow, CA 92028",
@@ -336,7 +301,7 @@
                 "partnership_desc": "County Hosted",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92028"
@@ -346,18 +311,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.14909340122304,
-                "y": 33.41356948073797
+                "x": -117.14910535010969,
+                "y": 33.41357432387083
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933022918,
-                "GlobalID": "2a575fb5-5add-441f-8c0c-0109b27822ff",
+                "EditDate": 1627992467075,
+                "GlobalID": "bdba877e-1636-49d9-ae6b-4f490bc3996b",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44945,
+                "OBJECTID": 45607,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "649 W. Mission Ave, Escondido, CA 92025",
@@ -371,7 +336,7 @@
                 "partnership_desc": "County Hosted",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92025"
@@ -381,18 +346,53 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.09467476752914,
-                "y": 33.12672608862781
+                "x": -117.09468671901871,
+                "y": 33.126730902617254
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933025730,
-                "GlobalID": "954ce9ab-8847-494a-94ec-fa1ab0eb5aee",
+                "EditDate": 1627992472812,
+                "GlobalID": "2df52edd-7eb3-4cd5-a836-bf0a561ec8ff",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 44954,
+                "OBJECTID": 45623,
+                "agencytype": "Walk-Thru",
+                "county_partner_type": "Operation Collaboration",
+                "fulladdr": "2129 Main St, Julian, CA 92036",
+                "instructions_spanish": null,
+                "layer_id": 0,
+                "municipality": "Julian",
+                "name": "Operation Collaboration - Julian Chamber of Commerce Town Hall",
+                "name_spanish": "Sitios de consorcio Operation Collaboration - Ayuntamiento de la Cámara de Comercio de Julian",
+                "operhours": "Monday 08/09: 9 AM - 4 PM",
+                "operhours_spanish": "lunes 08/09: 9 AM - 4 PM",
+                "partnership_desc": "Operation Collaboration",
+                "phone": null,
+                "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
+                "status": null,
+                "url_scheduling": "https://myturn.ca.gov/",
+                "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
+                "zip": "92036"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -116.60246392983568,
+                "y": 33.07857272291945
+            }
+        },
+        {
+            "attributes": {
+                "DISPLAY_PUBLIC": "YES",
+                "EditDate": 1627992473479,
+                "GlobalID": "e7d928ff-bcbb-4fa6-808d-395814a07c83",
+                "Instructions": null,
+                "Notes": null,
+                "OBJECTID": 45625,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "635 W Mission Ave, Escondido, CA 92025",
@@ -406,7 +406,7 @@
                 "partnership_desc": "Operation Collaboration",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92025"
@@ -416,18 +416,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.09455141847982,
-                "y": 33.1254478583884
+                "x": -117.09456331942424,
+                "y": 33.125452672733545
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933039654,
-                "GlobalID": "617396e3-7b06-4134-a27f-3c6a49a48abe",
+                "EditDate": 1627992506677,
+                "GlobalID": "bc619702-8d0a-4064-a264-49c592c7aa65",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 45000,
+                "OBJECTID": 45717,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Sharp",
                 "fulladdr": "8851 Center Drive, Suite 600 La Mesa, CA 91942",
@@ -441,7 +441,7 @@
                 "partnership_desc": "Clinic-Based",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "91942"
@@ -451,18 +451,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.00765657464284,
-                "y": 32.782363304071744
+                "x": -117.00766847955452,
+                "y": 32.782368076902486
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933039977,
-                "GlobalID": "e6befbba-7101-46be-a49c-184b9c0160b0",
+                "EditDate": 1627992507215,
+                "GlobalID": "cfdf4b7b-5ec0-4d20-8d5e-dd0e20a23525",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 45001,
+                "OBJECTID": 45719,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Sharp",
                 "fulladdr": "230 Prospect Place, Suite 110, Coronado, CA 92118",
@@ -476,7 +476,7 @@
                 "partnership_desc": "Clinic-Based",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92118"
@@ -486,18 +486,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.16809727364726,
-                "y": 32.69484614179261
+                "x": -117.16810920099567,
+                "y": 32.6948508980424
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933040496,
-                "GlobalID": "99d3acd1-1fcd-4b4c-ae4b-4b75bfaf62cd",
+                "EditDate": 1627992509443,
+                "GlobalID": "b175860b-4487-4dfa-abbe-e8824978e9cb",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 45003,
+                "OBJECTID": 45723,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County",
                 "fulladdr": "5560 Overland Ave, San Diego, CA 92123",
@@ -511,7 +511,7 @@
                 "partnership_desc": "County Hosted",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92123"
@@ -521,18 +521,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.13065441742327,
-                "y": 32.83489826179662
+                "x": -117.13066630419505,
+                "y": 32.834903036514085
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933042938,
-                "GlobalID": "3596fce5-67d9-4edc-b293-2653833c63c7",
+                "EditDate": 1627992513990,
+                "GlobalID": "5363f634-213c-4a45-95a8-7afd691adfb7",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 45010,
+                "OBJECTID": 45737,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "11915 Lakeside Ave, Lakeside, CA 92040",
@@ -546,7 +546,7 @@
                 "partnership_desc": "Operation Collaboration",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92040"
@@ -556,18 +556,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -116.93544013050402,
-                "y": 32.86695862282767
+                "x": -116.93545197247991,
+                "y": 32.86696341022495
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933044946,
-                "GlobalID": "4bef664a-c1ee-4524-94dd-0a16427f435d",
+                "EditDate": 1627992517666,
+                "GlobalID": "534827a2-71a7-409a-881a-61d9a510dc4f",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 45016,
+                "OBJECTID": 45751,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "County Partner - Sharp",
                 "fulladdr": "752 Medical Center Court, Suite 105, Chula Vista, CA 91911",
@@ -581,7 +581,7 @@
                 "partnership_desc": "Clinic-Based",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "91911"
@@ -591,18 +591,18 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -117.02393755996951,
-                "y": 32.61736464618161
+                "x": -117.02394947004183,
+                "y": 32.61736940642947
             }
         },
         {
             "attributes": {
                 "DISPLAY_PUBLIC": "YES",
-                "EditDate": 1627933045512,
-                "GlobalID": "61c68793-9168-41e4-a927-40373a1d6612",
+                "EditDate": 1627992518734,
+                "GlobalID": "1aa5ee84-7be7-4119-8a7b-c84d00a21397",
                 "Instructions": null,
                 "Notes": null,
-                "OBJECTID": 45018,
+                "OBJECTID": 45755,
                 "agencytype": "Walk-Thru",
                 "county_partner_type": "Operation Collaboration",
                 "fulladdr": "2300 Camino San Ignacio, Warner Springs, CA 92086",
@@ -616,7 +616,7 @@
                 "partnership_desc": "Operation Collaboration",
                 "phone": null,
                 "service_item_id": "bc664359dfcc45d3ba05d54c4a05d667",
-                "status": "Open",
+                "status": null,
                 "url_scheduling": "https://myturn.ca.gov/",
                 "vol_note": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/My%20Turn%20Appointment%20Instructions.pdf",
                 "zip": "92086"
@@ -626,8 +626,8 @@
                     "latestWkid": 4326,
                     "wkid": 4326
                 },
-                "x": -116.5600230734633,
-                "y": 33.2650011153782
+                "x": -116.56003493695205,
+                "y": 33.26500596745816
             }
         }
     ],
