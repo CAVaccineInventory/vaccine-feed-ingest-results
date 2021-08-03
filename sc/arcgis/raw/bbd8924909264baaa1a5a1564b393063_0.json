@@ -737,8 +737,8 @@
         },
         {
             "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Activated1": "No",
+                "Appointments": "No",
                 "Contact": "pcem@co.pickens.sc.us",
                 "GlobalID": "45ba6bf1-1617-4616-ba04-8e781db5b5fe",
                 "Loc_ID": 1018,
@@ -67413,7 +67413,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c628e159-c159-4cd4-a6a7-fe8122ebf465",
                 "Loc_ID": null,
@@ -81268,6 +81268,146 @@
                 },
                 "x": -81.00479928669284,
                 "y": 32.60635219188356
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "b6f298be-9bbc-4e55-a1e6-a8f32af95fe6",
+                "Loc_ID": null,
+                "OBJECTID": 44711,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3035 Sanders Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29414",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Charleston County Public Library Bees Ferry Branch",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.07514353143483,
+                "y": 32.81464040402477
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "0d17e7b7-0734-4ca2-af1b-884a621e53db",
+                "Loc_ID": null,
+                "OBJECTID": 44712,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3303 McCords Ferry Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Cameron",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29030",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Good Hope Picnic",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.57910045635839,
+                "y": 33.607439728314034
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "59f73f0e-65cb-4b98-8de6-6a773fa52fb1",
+                "Loc_ID": null,
+                "OBJECTID": 44713,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "5001 Coliseum Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29418",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ North Charleston Coliseum",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.02415400930698,
+                "y": 32.86515116712951
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "41ddc796-2432-45cf-a97c-2bbcecf0cabf",
+                "Loc_ID": null,
+                "OBJECTID": 44714,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2105 Cosgrove Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29405",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Tricounty Family Ministries",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "bbd8924909264baaa1a5a1564b393063",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.97670941985058,
+                "y": 32.85473684354719
             }
         }
     ],

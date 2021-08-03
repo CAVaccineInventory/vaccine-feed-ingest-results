@@ -1134,9 +1134,9 @@
                 "f4": "Walk-In",
                 "f5": "215 1st Ave NW, Fayette, AL 35555",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Fridays 1:00 pm until 2:30 pm",
+                "f7": "1:00pm",
+                "f8": "2:00pm",
+                "f9": "8/6/2021   8/13/2021  8/20/2021    8/27/2021. Call 205-932-5260 for more info.",
                 "layer_id": 0,
                 "objectId": 411,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1184,9 +1184,9 @@
                 "f4": "Walk-In",
                 "f5": "412 Morrow Ave, Eutaw, AL 35462",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Wednesdays 8:30 am until 12:00 pm",
+                "f7": "10:30am",
+                "f8": "11:30am",
+                "f9": "8/4/2021   8/11/2021   8/18/2021   8/25/2021. Call 205-372-9361 for more info.",
                 "layer_id": 0,
                 "objectId": 413,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1234,9 +1234,9 @@
                 "f4": "Walk-In",
                 "f5": "670 Hall St, Greensboro, AL 36744",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Tuesdays 8:30 am until 10:00 am",
+                "f7": "8:30am",
+                "f8": "9:30am",
+                "f9": "8/3/2021  8/10/2021    8/17/2021   8/24/2021   8/31/2021. Call 334-624-3018 for more info.",
                 "layer_id": 0,
                 "objectId": 415,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1259,9 +1259,9 @@
                 "f4": "Walk-In",
                 "f5": "1121 N Washington St, Livingston, AL 35470",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Thursdays 9:00 am until 10:30 am",
+                "f7": "9:00am",
+                "f8": "10:00am",
+                "f9": "8/5/2021  8/12/2021  8/19/2021   8/26/2021. Call 205-652-7972 for more info.",
                 "layer_id": 0,
                 "objectId": 416,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1284,9 +1284,9 @@
                 "f4": "Walk-In",
                 "f5": "300 Springfield Rd, Vernon, AL 35592",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Fridays 8:30 am until 10:00 am",
+                "f7": "10:00am",
+                "f8": "11:00am",
+                "f9": "8/6/2021 8/13/2021   8/20/2021   8/27/2021. Call 205-695-9195 for more info.",
                 "layer_id": 0,
                 "objectId": 417,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1309,9 +1309,9 @@
                 "f4": "Walk-In",
                 "f5": "281 Alexander Ave, Centreville, AL 35042",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Tuesdays 8:30 am until 10:00 am",
+                "f7": "11:00am",
+                "f8": "12:00pm",
+                "f9": "8/3/2021    8/10/2021  8/17/2021    8/24/2021   8/31/2021. Call 205-926-9702 for more info.",
                 "layer_id": 0,
                 "objectId": 418,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1334,9 +1334,9 @@
                 "f4": "Walk-In",
                 "f5": "1748 South, Washington St, Marion, AL 36756",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Mondays 1:00 pm until 2:30 pm",
+                "f7": "1:00pm",
+                "f8": "2:00pm",
+                "f9": "8/2/2021   8/9/2021  8/16/2021   8/23/2021  8/30/2021. Call 334-683-6153 for more info.",
                 "layer_id": 0,
                 "objectId": 419,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1359,9 +1359,9 @@
                 "f4": "Walk-In",
                 "f5": "2350 Hargrove Rd E, Tuscaloosa, AL 35405",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Mondays 8:00 am until 12:00 pm",
+                "f7": "8:00am",
+                "f8": "10:00am",
+                "f9": "8/2/2021  8/9/2021   8/16/2021   8/23/2021  8/30/2021. Call 205-562-6900 for more info.",
                 "layer_id": 0,
                 "objectId": 420,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1384,9 +1384,9 @@
                 "f4": "Walk-In",
                 "f5": "301 Health Center Dr, Clanton, AL 35045",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Thursdays 8:30 am until 12:30 pm",
+                "f7": "10:00am",
+                "f8": "12:00pm",
+                "f9": "8/5/2021   8/12/2021   8/19/2021  8/26/2021. Call 205-926-9702 for more info.",
                 "layer_id": 0,
                 "objectId": 421,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1409,9 +1409,9 @@
                 "f4": "Walk-In",
                 "f5": "705 20th Ave E, Jasper, AL 35501",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Tuesdays 8:30 am until 12:30 pm",
+                "f7": "8:30am",
+                "f8": "10:30am",
+                "f9": "8/3/2021  8/10/2021 8/17/2021   8/24/2021  8/31/2021. Call 205-221-9775 for more info.",
                 "layer_id": 0,
                 "objectId": 422,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1434,9 +1434,9 @@
                 "f4": "Walk-In",
                 "f5": "80 William, East St, Carrollton, AL 35447",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": "Wednesdays 1:00 pm until 2:30 pm",
+                "f7": "1:300pm",
+                "f8": "2:30pm",
+                "f9": "8/4/2021  8/11/2021   8/18/2021  8/25/2021. Call 205-367-8157 for more info.",
                 "layer_id": 0,
                 "objectId": 423,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1584,9 +1584,9 @@
                 "f4": "Walk-In",
                 "f5": "900 S Franklin Dr, Troy, AL 36081",
                 "f6": null,
-                "f7": null,
-                "f8": null,
-                "f9": null,
+                "f7": "8:00am",
+                "f8": "5:00pm",
+                "f9": "8/3/2021. Effective  8/9/2021, Monday - Friday. Appointment or Walk Ins. Call 334-566-2860 to verify nurse availability",
                 "layer_id": 0,
                 "objectId": 429,
                 "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
@@ -1698,6 +1698,56 @@
                 },
                 "x": -85.82337387877267,
                 "y": 31.060872178809692
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Jefferson",
+                "f2": "Jefferson",
+                "f3": null,
+                "f4": "Walk in",
+                "f5": "1400 6th Avenue South             Birmingham, AL 35233",
+                "f6": null,
+                "f7": "9:00am",
+                "f8": "5:00pm",
+                "f9": "7/6/2021 - 8/6/2021, Monday - Friday. Call 205-858-2221 for clinic dates and vaccination availability.  No appointment is necessary.  Individuals will be required to wear a mask when entering the facility.",
+                "layer_id": 0,
+                "objectId": 434,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.80817576036277,
+                "y": 33.50386316612652
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Mobile",
+                "f2": "Mobile",
+                "f3": null,
+                "f4": null,
+                "f5": "Newburn Health Clinic                                  248 Cox Street                                          Mobile, AL 36604",
+                "f6": null,
+                "f7": "9:00am",
+                "f8": "3:30pm",
+                "f9": "Monday - Friday. Call 251-410-6243 or visit www.MCHDCARES.com for more info.",
+                "layer_id": 0,
+                "objectId": 435,
+                "service_item_id": "8537322b652841b4a36b7ddb7bc3b204"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -88.07638394091104,
+                "y": 30.69849318585764
             }
         }
     ],

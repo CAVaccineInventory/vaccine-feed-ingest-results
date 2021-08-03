@@ -1,5 +1,72 @@
 [
     {
+        "id": 26,
+        "name": "Suffolk - Dolan (284 Pulaski Rd.) -- Moderna",
+        "address": "284 Pulaski Road",
+        "suite": "",
+        "city": "Greenlawn",
+        "state": "NY",
+        "zip": "11740",
+        "county": "Suffolk",
+        "latitude": "40.8584",
+        "longitude": "-73.3884",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "vaccine_manufacturer": "Moderna",
+        "is_walk_in": false,
+        "hours": [
+            {
+                "day": "monday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "tuesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "wednesday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "thursday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "friday",
+                "general_status": "open",
+                "current_status": "closed",
+                "time_open": "9:00am",
+                "time_closed": "3:45pm"
+            },
+            {
+                "day": "saturday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            },
+            {
+                "day": "sunday",
+                "general_status": "closed",
+                "current_status": "closed",
+                "time_open": null,
+                "time_closed": null
+            }
+        ],
+        "distance": null
+    },
+    {
         "id": 14,
         "name": "Manhattan - Lenox Health Greenwich Village (200 W. 13th) -- Pfizer",
         "address": "200 West 13th Street",

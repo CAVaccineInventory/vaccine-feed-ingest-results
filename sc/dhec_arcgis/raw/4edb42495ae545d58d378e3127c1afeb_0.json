@@ -214,41 +214,6 @@
             "attributes": {
                 "Activated1": "Yes",
                 "Appointments": "Yes",
-                "Contact": "pcem@co.pickens.sc.us",
-                "GlobalID": "45ba6bf1-1617-4616-ba04-8e781db5b5fe",
-                "Loc_ID": 1018,
-                "OBJECTID": 22,
-                "Phone_Sec": null,
-                "Region": "Upstate",
-                "SiteAddress": "216 C David Stone Road",
-                "SiteAddressDetail": null,
-                "SiteCity": "Pickens",
-                "SitePhone": "(864) 898-5339",
-                "SiteState": "SC",
-                "SiteZip": "29671",
-                "URL": "https://protect2.fireeye.com/v1/url?k=d1be0206-8e253b31-d1bed7f7-86ab8bdaf1e2-6d0abb8f76fde718&q=1&e=06d421b2-16c4-47e2-895f-cbc20e159c3a&u=https%3A%2F%2Fcms5.revize.com%2Frevize%2Fpickenscountysc%2Fdepartments%2Femergency_services%2Fcovid-19_vaccination_clinic.php",
-                "V_Manufacturer": null,
-                "layer_id": 0,
-                "loc_name": "Pickens County Emergency Services",
-                "loc_type1": "Public Safety - EMS / Fire / Law Enforcement",
-                "ref_ID": 975,
-                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
-                "vfc_text": "SCA939013",
-                "vtrcks_ID": 40225094
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -82.70572380648446,
-                "y": 34.880956388539175
-            }
-        },
-        {
-            "attributes": {
-                "Activated1": "Yes",
-                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "0eda9a9c-75df-4573-90cd-12e4a6080aef",
                 "Loc_ID": 1044,
@@ -42178,7 +42143,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "Yes",
+                "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "c628e159-c159-4cd4-a6a7-fe8122ebf465",
                 "Loc_ID": null,
@@ -54213,6 +54178,146 @@
                 },
                 "x": -81.00479928669284,
                 "y": 32.60635219188356
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "b6f298be-9bbc-4e55-a1e6-a8f32af95fe6",
+                "Loc_ID": null,
+                "OBJECTID": 44711,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3035 Sanders Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29414",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Charleston County Public Library Bees Ferry Branch",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.07514353143483,
+                "y": 32.81464040402477
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "0d17e7b7-0734-4ca2-af1b-884a621e53db",
+                "Loc_ID": null,
+                "OBJECTID": 44712,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "3303 McCords Ferry Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Cameron",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29030",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Good Hope Picnic",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.57910045635839,
+                "y": 33.607439728314034
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "59f73f0e-65cb-4b98-8de6-6a773fa52fb1",
+                "Loc_ID": null,
+                "OBJECTID": 44713,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "5001 Coliseum Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29418",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ North Charleston Coliseum",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.02415400930698,
+                "y": 32.86515116712951
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "41ddc796-2432-45cf-a97c-2bbcecf0cabf",
+                "Loc_ID": null,
+                "OBJECTID": 44714,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "2105 Cosgrove Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "North Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29405",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Tricounty Family Ministries",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.97670941985058,
+                "y": 32.85473684354719
             }
         }
     ],
