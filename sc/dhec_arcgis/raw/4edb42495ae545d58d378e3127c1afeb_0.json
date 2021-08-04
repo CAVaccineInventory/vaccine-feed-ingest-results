@@ -24503,6 +24503,41 @@
         {
             "attributes": {
                 "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "leslietodd@sccoast.net",
+                "GlobalID": "42827f64-83e8-4609-b475-372d183046d5",
+                "Loc_ID": 1449,
+                "OBJECTID": 3331,
+                "Phone_Sec": null,
+                "Region": "Pee Dee",
+                "SiteAddress": "2000 MAIN STREET",
+                "SiteAddressDetail": null,
+                "SiteCity": "CONWAY",
+                "SitePhone": "843-488-4400",
+                "SiteState": "SC",
+                "SiteZip": "29526",
+                "URL": null,
+                "V_Manufacturer": "PZR, MOD, JJ",
+                "layer_id": 0,
+                "loc_name": "RIVERTOWN PHARMACY INC",
+                "loc_type1": "Pharmacy – independent",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": "SCA926049",
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.05664333899966,
+                "y": 33.854640757000595
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
                 "Appointments": "No",
                 "Contact": null,
                 "GlobalID": "1dbb1475-ae62-4aef-8e84-f5356cb1a120",
@@ -53833,7 +53868,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "7790aabe-2d30-4630-9e16-f9e7ec263318",
                 "Loc_ID": null,
@@ -53938,7 +53973,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "597147a1-11a3-4e73-9378-c97963fb4caa",
                 "Loc_ID": null,
@@ -54008,7 +54043,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "72b10182-2114-4f62-83f2-b67142367cef",
                 "Loc_ID": null,
@@ -54043,7 +54078,7 @@
         {
             "attributes": {
                 "Activated1": "Yes",
-                "Appointments": "No",
+                "Appointments": "Yes",
                 "Contact": null,
                 "GlobalID": "8c67d3d9-4bf6-47ea-bc6c-b838a25aa9f4",
                 "Loc_ID": null,
@@ -54318,6 +54353,76 @@
                 },
                 "x": -79.97670941985058,
                 "y": 32.85473684354719
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "No",
+                "Contact": null,
+                "GlobalID": "9acc15a4-0e1f-4b5f-8113-67e328bbbd4a",
+                "Loc_ID": null,
+                "OBJECTID": 45111,
+                "Phone_Sec": null,
+                "Region": "LOWCOUNTRY",
+                "SiteAddress": "265 Fishburne St",
+                "SiteAddressDetail": null,
+                "SiteCity": "Charleston",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29403",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR, JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Arthur Christopher Community Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.95462042277421,
+                "y": 32.79194109446439
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "9a1067cc-6e79-495c-b1c4-c452e3accab8",
+                "Loc_ID": null,
+                "OBJECTID": 45112,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "1050 Cavalier Way",
+                "SiteAddressDetail": null,
+                "SiteCity": "Roebuck",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29376",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Dorman High School",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.97521640079634,
+                "y": 34.857111300032045
             }
         }
     ],

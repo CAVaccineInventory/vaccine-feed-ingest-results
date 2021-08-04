@@ -556,8 +556,8 @@ var unfiltered = [
     "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=34.55675134461816%2C-118.060284412387&z=18",
     "notes": "Run by Curative & DPH",
     "notesSpn": "Dirigido por Curative y DPH",
-    "alt": "Daily, 11am-7pm",
-    "altSpn": "Diariamente de 11am-7pm",
+    "alt": "Daily, 12pm-7pm",
+    "altSpn": "Diariamente de 12pm-7pm",
     "sweepstakes": 1,
     "date": "",
     "time": "",
@@ -39097,7 +39097,7 @@ var unfiltered = [
   },
   {
     "id": 1800,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -39529,7 +39529,7 @@ var unfiltered = [
   },
   {
     "id": 1823,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -39889,7 +39889,7 @@ var unfiltered = [
   },
   {
     "id": 1834,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -40033,7 +40033,7 @@ var unfiltered = [
   },
   {
     "id": 1838,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -40249,7 +40249,7 @@ var unfiltered = [
   },
   {
     "id": 1855,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -40753,7 +40753,7 @@ var unfiltered = [
   },
   {
     "id": 1880,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -42949,7 +42949,7 @@ var unfiltered = [
   },
   {
     "id": 1942,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -44101,7 +44101,7 @@ var unfiltered = [
   },
   {
     "id": 1987,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -44605,7 +44605,7 @@ var unfiltered = [
   },
   {
     "id": 2024,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -44965,7 +44965,7 @@ var unfiltered = [
   },
   {
     "id": 2034,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -45037,7 +45037,7 @@ var unfiltered = [
   },
   {
     "id": 2038,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -45253,7 +45253,7 @@ var unfiltered = [
   },
   {
     "id": 2064,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -45577,7 +45577,7 @@ var unfiltered = [
   },
   {
     "id": 2077,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -45757,7 +45757,7 @@ var unfiltered = [
   },
   {
     "id": 2093,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",
@@ -46081,7 +46081,7 @@ var unfiltered = [
   },
   {
     "id": 2142,
-    "xParent": "",
+    "xParent": 3,
     "NumChildren": 0,
     "inactive": "",
     "organization": "",

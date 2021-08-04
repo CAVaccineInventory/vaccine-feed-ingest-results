@@ -77,7 +77,7 @@
         "county": "Suffolk",
         "latitude": "40.8204",
         "longitude": "-73.2196",
-        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TWHNEA4",
+        "program_url": "https://northwellvaccine.force.com/s/?id=a1T4x000007TsejEAC",
         "vaccine_manufacturer": "Johnson & Johnson (Janssen)",
         "is_walk_in": false,
         "hours": [
@@ -299,7 +299,7 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -359,7 +359,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "5:45pm"
             },
@@ -426,7 +426,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -447,7 +447,7 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
@@ -567,14 +567,14 @@
             {
                 "day": "wednesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
             {
                 "day": "thursday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -627,7 +627,7 @@
             {
                 "day": "tuesday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "9:00am",
                 "time_closed": "7:45pm"
             },
@@ -648,7 +648,7 @@
             {
                 "day": "friday",
                 "general_status": "open",
-                "current_status": "open",
+                "current_status": "closed",
                 "time_open": "12:00pm",
                 "time_closed": "6:45pm"
             },
