@@ -23,10 +23,10 @@
             },
             {
                 "day": "tuesday",
-                "general_status": "closed",
+                "general_status": "open",
                 "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
+                "time_open": "8:30am",
+                "time_closed": "3:45pm"
             },
             {
                 "day": "wednesday",
@@ -90,10 +90,10 @@
             },
             {
                 "day": "tuesday",
-                "general_status": "closed",
+                "general_status": "open",
                 "current_status": "closed",
-                "time_open": null,
-                "time_closed": null
+                "time_open": "8:30am",
+                "time_closed": "3:45pm"
             },
             {
                 "day": "wednesday",
@@ -358,10 +358,10 @@
             },
             {
                 "day": "tuesday",
-                "general_status": "open",
+                "general_status": "closed",
                 "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "5:45pm"
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "wednesday",
@@ -425,10 +425,10 @@
             },
             {
                 "day": "tuesday",
-                "general_status": "open",
+                "general_status": "closed",
                 "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "7:45pm"
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "wednesday",
@@ -626,10 +626,10 @@
             },
             {
                 "day": "tuesday",
-                "general_status": "open",
+                "general_status": "closed",
                 "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "7:45pm"
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "wednesday",
