@@ -1539,38 +1539,6 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
-                "GlobalID": "8234cbe0-666f-4a5c-97f1-35cc276b2d28",
-                "ID": "ISDH1087",
-                "IsView": 1,
-                "Name": "Clay County Local Health Department",
-                "OBJECTID": 156,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "6656 N SR 59, Brazil, IN 47834",
-                "Site_County": "Clay",
-                "Site_Location_Info": "This vaccine site has Moderna and Pfizer.",
-                "Site_Name": "CLAY CO FAIRGROUNDS COVID VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments are now available.",
-                "Site_Type": "Local Health Department",
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -87.12490033000988,
-                "y": 39.48544775611784
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
                 "GlobalID": "79f7af2b-0c40-4289-9097-9ef99d642738",
                 "ID": "ISDH1139",
                 "IsView": 1,
@@ -3006,6 +2974,38 @@
                 },
                 "x": -87.33504910760126,
                 "y": 41.43022366736595
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "b9ed846f-6124-40f3-bdd5-ee3b53024969",
+                "ID": "ISDH1150",
+                "IsView": 1,
+                "Name": "Pulaski Memorial Hospital",
+                "OBJECTID": 225,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "616 East 13th St,  Winamac, IN 46996",
+                "Site_County": "Pulaski",
+                "Site_Location_Info": "This is a one-day clinic on August 10. (2nd dose Aug. 31.) TIME: 4 – 7pm EDT.  Walk-ins accepted.",
+                "Site_Name": "Pulaski Memorial Hospital VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.59613299902762,
+                "y": 41.05683184161313
             }
         },
         {
@@ -32350,38 +32350,6 @@
                 },
                 "x": -85.59532096681846,
                 "y": 41.46137003234008
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "1fb526c5-0fad-4cf0-9154-aea3ee15abc2",
-                "ID": null,
-                "IsView": 1,
-                "Name": "AirBioLab VAX",
-                "OBJECTID": 1310,
-                "Promote_Name": null,
-                "Promote_Site": null,
-                "Site_Address": "7000 Airport Dr., Ste. 100  Sellersburg, IN 47172",
-                "Site_County": "Clark",
-                "Site_Location_Info": null,
-                "Site_Name": "AirBioLab VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Moderna",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.74547274401151,
-                "y": 38.36558068359153
             }
         },
         {
