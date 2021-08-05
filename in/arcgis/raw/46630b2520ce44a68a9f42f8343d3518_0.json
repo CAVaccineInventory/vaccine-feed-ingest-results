@@ -2988,7 +2988,7 @@
                 "Promote_Site": null,
                 "Site_Address": "616 East 13th St,  Winamac, IN 46996",
                 "Site_County": "Pulaski",
-                "Site_Location_Info": "This is a one-day clinic on August 10. (2nd dose Aug. 31.) TIME: 4 – 7pm EDT.  Walk-ins accepted.",
+                "Site_Location_Info": "This is a one-day clinic on August 10. (2nd dose Aug. 31.) TIME: 4 – 7pm EDT.  Walk-ins accepted. Enter Door #1 by the Emergency Dept.",
                 "Site_Name": "Pulaski Memorial Hospital VAX",
                 "Site_Phone": null,
                 "Site_Special_Inst": null,
@@ -19683,6 +19683,70 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "f6b29ff4-7790-4ab2-b02f-61ef681b8a75",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Reid Health UC Connersville VAX",
+                "OBJECTID": 868,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1475 E State Road 44, Connersville, IN 47331",
+                "Site_County": "Fayette",
+                "Site_Location_Info": null,
+                "Site_Name": "Reid Health Urgent Care VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -85.11098704312444,
+                "y": 39.63843260179912
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "a0d49309-d826-4900-a850-550050667a73",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Reid Health UC Richmond VAX",
+                "OBJECTID": 869,
+                "Promote_Name": null,
+                "Promote_Site": null,
+                "Site_Address": "1501 Chester Blvd, Richmond, IN 47374",
+                "Site_County": "Wayne",
+                "Site_Location_Info": null,
+                "Site_Name": "Reid Health Urgent Care VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Hospital",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Pfizer",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -84.8884250283326,
+                "y": 39.848574351836746
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "8510581a-34a2-4572-a099-7a8d1bf520fe",
                 "ID": null,
                 "IsView": 1,
@@ -33182,6 +33246,38 @@
                 },
                 "x": -86.21166104308632,
                 "y": 39.88188185116202
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
+                "GlobalID": "880b254b-fa2f-4e25-bc58-671beaa6ec9d",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Old Settlers Fair Vax",
+                "OBJECTID": 1358,
+                "Promote_Name": "Old Settlers Fair Vax - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46158</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "1101 Indianapolis Rd, Mooresville, IN 46158",
+                "Site_County": "Morgan",
+                "Site_Location_Info": "Pioneer Park. This is a one-day clinic on Aug. 8, 2 – 8 p.m. This clinic has Johnson & Johnson and Pfizer and takes walk-ins.",
+                "Site_Name": "Old Settlers Fair Vax",
+                "Site_Phone": null,
+                "Site_Special_Inst": null,
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.3635396462704,
+                "y": 39.627026456119765
             }
         }
     ],
