@@ -97,10 +97,10 @@
             },
             {
                 "day": "wednesday",
-                "general_status": "open",
+                "general_status": "closed",
                 "current_status": "closed",
-                "time_open": "9:00am",
-                "time_closed": "3:45pm"
+                "time_open": null,
+                "time_closed": null
             },
             {
                 "day": "thursday",
