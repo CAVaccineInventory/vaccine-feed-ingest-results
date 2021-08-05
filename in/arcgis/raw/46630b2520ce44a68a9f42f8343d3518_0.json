@@ -31811,6 +31811,38 @@
         {
             "attributes": {
                 "FQHC_Registry_Stat": null,
+                "GlobalID": "12108986-d1de-43f1-a5cf-2099a1d10883",
+                "ID": null,
+                "IsView": 1,
+                "Name": "Mooresville High School",
+                "OBJECTID": 1266,
+                "Promote_Name": "Mooresville High School VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46158</a>",
+                "Promote_Site": "Y",
+                "Site_Address": "550 N Indiana St, Mooresville, IN 46158",
+                "Site_County": "Morgan",
+                "Site_Location_Info": "This is a mobile clinic on Aug. 20, 2:30 – 4:30 pm then 6 – 8:30 pm AND Sept. 3, 10 am – 2:30 pm. This clinic has Johnson & Johnson and Pfizer.",
+                "Site_Name": "Mooresville High School VAX",
+                "Site_Phone": null,
+                "Site_Special_Inst": "Walk-in appointments are available.",
+                "Site_Type": "Mobile",
+                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
+                "Symbology": "Regular",
+                "Vaccine_Type": "Multi",
+                "layer_id": 0,
+                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -86.37659795909013,
+                "y": 39.61885115786185
+            }
+        },
+        {
+            "attributes": {
+                "FQHC_Registry_Stat": null,
                 "GlobalID": "7ee33472-c06d-44c1-9abf-fa2720e59308",
                 "ID": null,
                 "IsView": 1,
@@ -32702,38 +32734,6 @@
                 },
                 "x": -85.72246192745357,
                 "y": 40.27034677715231
-            }
-        },
-        {
-            "attributes": {
-                "FQHC_Registry_Stat": null,
-                "GlobalID": "5bb71344-38e6-42b6-9f51-64482957beba",
-                "ID": null,
-                "IsView": 1,
-                "Name": "Shipshewana VAX",
-                "OBJECTID": 1331,
-                "Promote_Name": "Shipshewana VAX - <a href=\"https://vaccine.coronavirus.in.gov\" target=\"_blank\">Search Zip Code 46565</a>",
-                "Promote_Site": "Y",
-                "Site_Address": "270 N. Morton St, Shipshewana, IN 46565",
-                "Site_County": "LaGrange",
-                "Site_Location_Info": "This is a mobile clinic July 13 & 14, and August 3 & 4, 9am – 5pm. This clinic has Johnson & Johnson and Pfizer",
-                "Site_Name": "Shipshewana VAX",
-                "Site_Phone": null,
-                "Site_Special_Inst": "Walk-in appointments available.",
-                "Site_Type": null,
-                "Site_Zotec_Link": "https://vaccine.coronavirus.in.gov",
-                "Symbology": "Regular",
-                "Vaccine_Type": "Multi",
-                "layer_id": 0,
-                "service_item_id": "46630b2520ce44a68a9f42f8343d3518"
-            },
-            "geometry": {
-                "spatialReference": {
-                    "latestWkid": 4326,
-                    "wkid": 4326
-                },
-                "x": -85.57802030542842,
-                "y": 41.67794833988007
             }
         },
         {
