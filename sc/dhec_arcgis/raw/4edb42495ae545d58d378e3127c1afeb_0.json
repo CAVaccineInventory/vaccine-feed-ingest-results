@@ -50303,7 +50303,7 @@
                 "GlobalID": "37c44852-36ab-4104-a403-7a41470511a1",
                 "Loc_ID": null,
                 "OBJECTID": 34711,
-                "Phone_Sec": null,
+                "Phone_Sec": "8/15 & 9/5",
                 "Region": "LOWCOUNTRY",
                 "SiteAddress": "1316 Remount Rd",
                 "SiteAddressDetail": null,
@@ -50312,7 +50312,7 @@
                 "SiteState": "SC",
                 "SiteZip": "29406",
                 "URL": null,
-                "V_Manufacturer": "JJ",
+                "V_Manufacturer": "PFR, JJ",
                 "layer_id": 0,
                 "loc_name": "Palmetto Palace @ Remount Plaza",
                 "loc_type1": null,
@@ -54423,6 +54423,391 @@
                 },
                 "x": -81.97521640079634,
                 "y": 34.857111300032045
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "8504c460-e980-437a-8449-7e3f2cabb95d",
+                "Loc_ID": null,
+                "OBJECTID": 45511,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "603 Green Street",
+                "SiteAddressDetail": null,
+                "SiteCity": "Marion",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29571",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Grices Recreation Center",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.3892268467024,
+                "y": 34.17109471585928
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "e51e6bee-508d-4ec0-ae52-6a8462ca7973",
+                "Loc_ID": null,
+                "OBJECTID": 45512,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "1713 Haymount Road",
+                "SiteAddressDetail": null,
+                "SiteCity": "Floyd Dale",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29536",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Mt. Andrews United Methodist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.33594927985371,
+                "y": 34.32557636420563
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "43e3b052-ac76-495e-b3bb-0a70f8149fb2",
+                "Loc_ID": null,
+                "OBJECTID": 45513,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "501 Pine Avenue",
+                "SiteAddressDetail": null,
+                "SiteCity": "Garden City Beach",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29576",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Garden City Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.00520509993902,
+                "y": 33.58622793897075
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "58091b16-3f6e-4612-8ef2-8f15cafec0c8",
+                "Loc_ID": null,
+                "OBJECTID": 45514,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "3610 Highway 171",
+                "SiteAddressDetail": null,
+                "SiteCity": "Wallace",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29596",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "JJ",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Wallace Church of Nazarene",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.8239822714437,
+                "y": 34.72977603381264
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "c48d8a03-66c6-4c4c-b431-00a6a8b0b12a",
+                "Loc_ID": null,
+                "OBJECTID": 45515,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "3690 Socastee Blvd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Myrtle Beach",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29588",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ Socastee Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -78.96611844141319,
+                "y": 33.68598393660318
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "9f570cd8-9c31-4fe4-82b8-67f77b16097a",
+                "Loc_ID": null,
+                "OBJECTID": 45516,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "702 South 16th Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Dillon",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29536",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ East Dillon Baptist Church",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.36823257834135,
+                "y": 34.40784471669258
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "cedfe663-a0c0-4eac-8092-e7aa4669f85b",
+                "Loc_ID": null,
+                "OBJECTID": 45517,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "214 State Road 13-192",
+                "SiteAddressDetail": null,
+                "SiteCity": "McBee",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29101",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ McBee Baptist Church and Pastorium",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.25961768550894,
+                "y": 34.44874255205855
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "520f8545-5514-4c7d-87de-0a986acbe6aa",
+                "Loc_ID": null,
+                "OBJECTID": 45518,
+                "Phone_Sec": null,
+                "Region": "PEE DEE",
+                "SiteAddress": "2000 Mash Ave",
+                "SiteAddressDetail": null,
+                "SiteCity": "Florence",
+                "SitePhone": "(866) 365-8110",
+                "SiteState": "SC",
+                "SiteZip": "29505",
+                "URL": "https://cvas.dhec.sc.gov/",
+                "V_Manufacturer": "MOD",
+                "layer_id": 0,
+                "loc_name": "DHEC Mobile Clinic @ John Calvin Presbyterian",
+                "loc_type1": "State Agency",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -79.7943994357729,
+                "y": 34.15601221560098
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "Friday Aug 6th 2021",
+                "GlobalID": "bb0147ec-35a5-4fe2-80e4-c683dd7ce6d3",
+                "Loc_ID": null,
+                "OBJECTID": 45519,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "650 Knox Abbott Dr",
+                "SiteAddressDetail": null,
+                "SiteCity": "Cayce",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29033",
+                "URL": "Drive-Thru No Appointments Required",
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "Prisma @ ABCCAA",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.05999312412922,
+                "y": 33.98368201785888
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": "Drive-Thru No Appointments Needed",
+                "GlobalID": "1d72be91-3126-487c-9b89-dfd8743047b0",
+                "Loc_ID": null,
+                "OBJECTID": 45520,
+                "Phone_Sec": null,
+                "Region": "MIDLANDS",
+                "SiteAddress": "1916 Pineview Rd",
+                "SiteAddressDetail": null,
+                "SiteCity": "Columbia",
+                "SitePhone": null,
+                "SiteState": "SC",
+                "SiteZip": "29209",
+                "URL": null,
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "Prisma @ GLEAMNS Human Resources Commission",
+                "loc_type1": "Hospital - popup",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -80.92711888362874,
+                "y": 33.95243649523292
+            }
+        },
+        {
+            "attributes": {
+                "Activated1": "Yes",
+                "Appointments": "Yes",
+                "Contact": null,
+                "GlobalID": "ae9a82f7-f29b-494f-9e20-552a8163b039",
+                "Loc_ID": null,
+                "OBJECTID": 45521,
+                "Phone_Sec": null,
+                "Region": "UPSTATE",
+                "SiteAddress": "1000 Powell Mill Rd.",
+                "SiteAddressDetail": null,
+                "SiteCity": "Spartanburg",
+                "SitePhone": "(609) 284-7702",
+                "SiteState": "SC",
+                "SiteZip": "29301",
+                "URL": null,
+                "V_Manufacturer": "PFR",
+                "layer_id": 0,
+                "loc_name": "LTS @ Spartanburg Methodist College",
+                "loc_type1": "Other",
+                "ref_ID": null,
+                "service_item_id": "4edb42495ae545d58d378e3127c1afeb",
+                "vfc_text": null,
+                "vtrcks_ID": null
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 4326,
+                    "wkid": 4326
+                },
+                "x": -81.97016580122073,
+                "y": 34.95426443205014
             }
         }
     ],
